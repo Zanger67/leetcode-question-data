@@ -8,7 +8,7 @@ from os.path import join
 import pickle
 import pandas as pd
 
-DATA_PATH = 'scripts/'
+DATA_PATH = 'data/'
 
 JSON_FILE = join(DATA_PATH, 'leetcode.json')
 PICKLE_FILE = join(DATA_PATH, 'leetcode.pkl')
