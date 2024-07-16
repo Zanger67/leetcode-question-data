@@ -1,10 +1,8 @@
-from typing import Tuple
-
 import requests
 import json
 
 from os import mkdir
-from os.path import join, listdir, isfile, isdir
+from os.path import join, isdir
 
 import pickle
 import pandas as pd
