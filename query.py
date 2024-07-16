@@ -3,7 +3,8 @@ from typing import Tuple
 import requests
 import json
 
-from os.path import join
+from os import mkdir
+from os.path import join, listdir, isfile, isdir
 
 import pickle
 import pandas as pd
@@ -64,6 +65,9 @@ def query() -> dict:
 
 
 def main() -> None :
+    if not isdir(DATA_PATH):
+        mkdir(DATA_PATH)
+    
     question_data = query()
     generate_pickle(question_data)
 
