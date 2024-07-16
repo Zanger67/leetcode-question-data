@@ -1,4 +1,4 @@
-name: '[Updating markdown files]'
+name: '[Updating data files]'
 
 on:
     # Change to 0 UTC Sunday for weekly updates later 
