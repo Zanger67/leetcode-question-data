@@ -10,7 +10,7 @@ import pandas as pd
 DATA_PATH = 'data/'
 
 JSON_FILE = join(DATA_PATH, 'leetcode.json')
-JSON_FILE_ONELINER = join(DATA_PATH, 'leetcode_oneline.json')
+JSON_FILE_ONELINER = join(DATA_PATH, 'leetcode_s.json')
 PICKLE_FILE = join(DATA_PATH, 'leetcode.pkl')
 
 # Edit readme updater to take from a single pickle and remove this later
