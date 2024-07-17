@@ -3,7 +3,8 @@ name: '[Updating data files]'
 on:
     # Change to 0 UTC Sunday for weekly updates later 
     schedule:
-    - cron: "0 0 * * *"    # runs at 0 UTC each day
+    - cron: "0 5 * * 0"    # runs at 5AM UTC each day to occur
+                           # slightly after the weekly contest finishes
 
     # Allows for manual runs
     workflow_dispatch:
