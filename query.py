@@ -31,28 +31,86 @@ def query() -> dict:
     '''
     url = 'https://leetcode.com/graphql/'
 
-    questionCount = {"query":"query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {\n  problemsetQuestionList: questionList(\n    categorySlug: $categorySlug\n    limit: $limit\n    skip: $skip\n    filters: $filters\n  ) {\n    total: totalNum\n    }\n}\n    ",
-                     "variables":{"categorySlug":"all-code-essentials",
-                                  "skip":0,
-                                  "limit":1,
-                                  "filters":{}
-                                 },
-                     "operationName":"problemsetQuestionList"
-                     }
+    questionCount = {
+        "query":
+            """query problemsetQuestionList(
+                    $categorySlug: String, 
+                    $limit: Int, 
+                    $skip: Int, 
+                    $filters: QuestionListFilterInput
+                    ) {
+                        problemsetQuestionList: questionList(
+                            categorySlug: $categorySlug
+                            limit: $limit
+                            skip: $skip
+                            filters: $filters
+                            ) {
+                                total: totalNum
+                            }
+                    }
+            """,
+        "variables":{
+            "categorySlug":"all-code-essentials",
+            "skip":0,
+            "limit":1,
+            "filters":{}
+        },
+        "operationName":"problemsetQuestionList"
+    }
 
     questionCount = requests.post(url=url, json=questionCount).json()
     questionCount = questionCount['data']['problemsetQuestionList']['total']
 
     print(f'Total number of questions: {questionCount}')
 
-    body = {"query":"query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {\n  problemsetQuestionList: questionList(\n    categorySlug: $categorySlug\n    limit: $limit\n    skip: $skip\n    filters: $filters\n  ) {\n    total: totalNum\n    questions: data {\n      acRate\n      difficulty\n      freqBar\n      frontendQuestionId: questionFrontendId\n      isFavor\n      paidOnly: isPaidOnly\n      status\n      title\n      titleSlug\n      topicTags {\n        name\n        id\n        slug\n      }\n      hasSolution\n      hasVideoSolution\n    }\n  }\n}\n    ",
-            "variables":{"categorySlug":"all-code-essentials",
-                         "skip":0,
-                         "limit":questionCount,
-                         "filters":{}
-                         },
-            "operationName":"problemsetQuestionList"
-            }
+
+
+    body = {
+        "query":
+            """
+            query problemsetQuestionList(
+                $categorySlug: String, 
+                $limit: Int, 
+                $skip: Int, 
+                $filters: QuestionListFilterInput
+                ) {
+                    problemsetQuestionList: questionList(
+                        categorySlug: $categorySlug
+                        limit: $limit
+                        skip: $skip
+                        filters: $filters
+                        ) {
+                            total: totalNum
+                            questions: data 
+                            {
+                                acRate
+                                difficulty
+                                freqBar
+                                frontendQuestionId: questionFrontendId
+                                isFavor
+                                paidOnly: isPaidOnly
+                                status
+                                title
+                                titleSlug
+                                topicTags {
+                                    name
+                                    id
+                                    slug
+                                }
+                                hasSolution
+                                hasVideoSolution
+                            }
+                        }
+                }
+            """,
+        "variables":{
+            "categorySlug":"all-code-essentials",
+            "skip":0,
+            "limit":questionCount,
+            "filters":{}
+        },
+        "operationName":"problemsetQuestionList"
+    }
 
     responseDict = requests.post(url=url, json=body).json()
     
