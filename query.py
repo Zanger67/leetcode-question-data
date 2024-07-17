@@ -19,18 +19,26 @@ PICKLE_FILE_QUESTIONS = join(DATA_PATH, 'leetcode_questions.pkl')
 
 CSV_FILE = join(DATA_PATH, 'leetcode.csv')
 
+
 def generate_pickle(data: dict) -> None:
+    '''Writes the JSON data into a pickled dictionary file for Python users'''
+    
     with open(PICKLE_FILE, 'wb') as f:
         pickle.dump(data, f)
 
 def query() -> dict:
     '''
     ### Returns:
+    Queries leetcode.com/graphql for all questions and their details, writing the JSON to
+    `leetcode.json` and `leetcode_oneline.json` files.
+     
     - `responseDict`: dict
         - Dictionary containing the json data
     '''
+    
     url = 'https://leetcode.com/graphql/'
 
+    # Query to retrieve the number of questions present on LeetCode
     questionCount = {
         "query":
             """query problemsetQuestionList(
@@ -64,7 +72,7 @@ def query() -> dict:
     print(f'Total number of questions: {questionCount}')
 
 
-
+    # Query to retrieve all questions and their details based on the question count above
     body = {
         "query":
             """
@@ -114,11 +122,11 @@ def query() -> dict:
 
     responseDict = requests.post(url=url, json=body).json()
     
-    # For a JSON that has no indentation or new lines
+    # Outputs a JSON that has no indentation or new lines
     with open(JSON_FILE_ONELINER, 'w') as f:
         json.dump(responseDict, f)
     
-    # For a JSON that's aesthentically readable
+    # Outputs a JSON that's aesthentically readable using indents
     response = json.dumps(responseDict, indent=4)
     with open(JSON_FILE, 'w') as f:
         f.write(response)
@@ -126,12 +134,20 @@ def query() -> dict:
     return responseDict
 
 
+
+
 def main() -> None :
     if not isdir(DATA_PATH):
         mkdir(DATA_PATH)
     
+    print('Querying LeetCode...')
     question_data = query()
+    
+    print('Pickling dictionary...')
     generate_pickle(question_data)
+
+    print('Complete. Exiting...')
+
 
 if __name__ == '__main__':
     main()
