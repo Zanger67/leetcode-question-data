@@ -10,6 +10,7 @@ import pandas as pd
 DATA_PATH = 'data/'
 
 JSON_FILE = join(DATA_PATH, 'leetcode.json')
+JSON_FILE_ONELINER = join(DATA_PATH, 'leetcode_oneline.json')
 PICKLE_FILE = join(DATA_PATH, 'leetcode.pkl')
 
 # Edit readme updater to take from a single pickle and remove this later
@@ -54,8 +55,13 @@ def query() -> dict:
             }
 
     responseDict = requests.post(url=url, json=body).json()
+    
+    # For a JSON that has no indentation or new lines
+    with open(JSON_FILE_ONELINER, 'w') as f:
+        json.dump(responseDict, f)
+    
+    # For a JSON that's aesthentically readable
     response = json.dumps(responseDict, indent=4)
-
     with open(JSON_FILE, 'w') as f:
         f.write(response)
         
