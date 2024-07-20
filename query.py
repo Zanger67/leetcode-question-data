@@ -19,12 +19,27 @@ PICKLE_FILE_QUESTIONS = join(DATA_PATH, 'leetcode_questions.pkl')
 
 CSV_FILE = join(DATA_PATH, 'leetcode.csv')
 
-
-def generate_pickle(data: dict) -> None:
+from questionDataclass import questionDataclass as Question
+def generate_pickle(questions: dict) -> None:
     '''Writes the JSON data into a pickled dictionary file for Python users'''
     
+    output = {}
+    for question in questions :
+        questionNo = int(question['frontendQuestionId'])
+        
+        output[questionNo] = Question(questionNo=questionNo,
+                                      acRate=question['acRate'],
+                                      difficulty=question['difficulty'],
+                                      isFavor=question['isFavor'],
+                                      paidOnly=question['paidOnly'],
+                                      title=question['title'],
+                                      slug=question['titleSlug'],
+                                      topics=[topic['name'] for topic in question['topicTags']],
+                                      hasSolution=question['hasSolution'],
+                                      hasVideoSolution=question['hasVideoSolution'])
+        
     with open(PICKLE_FILE, 'wb') as f:
-        pickle.dump(data, f)
+        pickle.dump(output, f)
 
 def query() -> dict:
     '''
@@ -144,7 +159,7 @@ def main() -> None :
     question_data = query()
     
     print('Pickling dictionary...')
-    generate_pickle(question_data)
+    generate_pickle(question_data['data']['problemsetQuestionList']['questions'])
 
     print('Complete. Exiting...')
 
