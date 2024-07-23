@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-two-string-arrays-are-equivalent/",
+                    "question": {
+                        "questionFrontendId": "1662",
+                        "title": "Check If Two String Arrays are Equivalent",
+                        "titleSlug": "check-if-two-string-arrays-are-equivalent"
+                    }
+                },
+                {
+                    "date": "2023-12-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-words-that-can-be-formed-by-characters/",
+                    "question": {
+                        "questionFrontendId": "1160",
+                        "title": "Find Words That Can Be Formed by Characters",
+                        "titleSlug": "find-words-that-can-be-formed-by-characters"
+                    }
+                },
+                {
+                    "date": "2023-12-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-time-visiting-all-points/",
+                    "question": {
+                        "questionFrontendId": "1266",
+                        "title": "Minimum Time Visiting All Points",
+                        "titleSlug": "minimum-time-visiting-all-points"
+                    }
+                },
+                {
+                    "date": "2023-12-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-3-same-digit-number-in-string/",
+                    "question": {
+                        "questionFrontendId": "2264",
+                        "title": "Largest 3-Same-Digit Number in String",
+                        "titleSlug": "largest-3-same-digit-number-in-string"
+                    }
+                },
+                {
+                    "date": "2023-12-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-of-matches-in-tournament/",
+                    "question": {
+                        "questionFrontendId": "1688",
+                        "title": "Count of Matches in Tournament",
+                        "titleSlug": "count-of-matches-in-tournament"
+                    }
+                },
+                {
+                    "date": "2023-12-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/calculate-money-in-leetcode-bank/",
+                    "question": {
+                        "questionFrontendId": "1716",
+                        "title": "Calculate Money in Leetcode Bank",
+                        "titleSlug": "calculate-money-in-leetcode-bank"
+                    }
+                },
+                {
+                    "date": "2023-12-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-odd-number-in-string/",
+                    "question": {
+                        "questionFrontendId": "1903",
+                        "title": "Largest Odd Number in String",
+                        "titleSlug": "largest-odd-number-in-string"
+                    }
+                },
+                {
+                    "date": "2023-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-string-from-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "606",
+                        "title": "Construct String from Binary Tree",
+                        "titleSlug": "construct-string-from-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-12-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-inorder-traversal/",
+                    "question": {
+                        "questionFrontendId": "94",
+                        "title": "Binary Tree Inorder Traversal",
+                        "titleSlug": "binary-tree-inorder-traversal"
+                    }
+                },
+                {
+                    "date": "2023-12-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/transpose-matrix/",
+                    "question": {
+                        "questionFrontendId": "867",
+                        "title": "Transpose Matrix",
+                        "titleSlug": "transpose-matrix"
+                    }
+                },
+                {
+                    "date": "2023-12-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/element-appearing-more-than-25-in-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "1287",
+                        "title": "Element Appearing More Than 25% In Sorted Array",
+                        "titleSlug": "element-appearing-more-than-25-in-sorted-array"
+                    }
+                },
+                {
+                    "date": "2023-12-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-product-of-two-elements-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "1464",
+                        "title": "Maximum Product of Two Elements in an Array",
+                        "titleSlug": "maximum-product-of-two-elements-in-an-array"
+                    }
+                },
+                {
+                    "date": "2023-12-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/special-positions-in-a-binary-matrix/",
+                    "question": {
+                        "questionFrontendId": "1582",
+                        "title": "Special Positions in a Binary Matrix",
+                        "titleSlug": "special-positions-in-a-binary-matrix"
+                    }
+                },
+                {
+                    "date": "2023-12-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/difference-between-ones-and-zeros-in-row-and-column/",
+                    "question": {
+                        "questionFrontendId": "2482",
+                        "title": "Difference Between Ones and Zeros in Row and Column",
+                        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column"
+                    }
+                },
+                {
+                    "date": "2023-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/destination-city/",
+                    "question": {
+                        "questionFrontendId": "1436",
+                        "title": "Destination City",
+                        "titleSlug": "destination-city"
+                    }
+                },
+                {
+                    "date": "2023-12-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-anagram/",
+                    "question": {
+                        "questionFrontendId": "242",
+                        "title": "Valid Anagram",
+                        "titleSlug": "valid-anagram"
+                    }
+                },
+                {
+                    "date": "2023-12-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-a-food-rating-system/",
+                    "question": {
+                        "questionFrontendId": "2353",
+                        "title": "Design a Food Rating System",
+                        "titleSlug": "design-a-food-rating-system"
+                    }
+                },
+                {
+                    "date": "2023-12-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-product-difference-between-two-pairs/",
+                    "question": {
+                        "questionFrontendId": "1913",
+                        "title": "Maximum Product Difference Between Two Pairs",
+                        "titleSlug": "maximum-product-difference-between-two-pairs"
+                    }
+                },
+                {
+                    "date": "2023-12-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/image-smoother/",
+                    "question": {
+                        "questionFrontendId": "661",
+                        "title": "Image Smoother",
+                        "titleSlug": "image-smoother"
+                    }
+                },
+                {
+                    "date": "2023-12-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/buy-two-chocolates/",
+                    "question": {
+                        "questionFrontendId": "2706",
+                        "title": "Buy Two Chocolates",
+                        "titleSlug": "buy-two-chocolates"
+                    }
+                },
+                {
+                    "date": "2023-12-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/widest-vertical-area-between-two-points-containing-no-points/",
+                    "question": {
+                        "questionFrontendId": "1637",
+                        "title": "Widest Vertical Area Between Two Points Containing No Points",
+                        "titleSlug": "widest-vertical-area-between-two-points-containing-no-points"
+                    }
+                },
+                {
+                    "date": "2023-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-score-after-splitting-a-string/",
+                    "question": {
+                        "questionFrontendId": "1422",
+                        "title": "Maximum Score After Splitting a String",
+                        "titleSlug": "maximum-score-after-splitting-a-string"
+                    }
+                },
+                {
+                    "date": "2023-12-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-crossing/",
+                    "question": {
+                        "questionFrontendId": "1496",
+                        "title": "Path Crossing",
+                        "titleSlug": "path-crossing"
+                    }
+                },
+                {
+                    "date": "2023-12-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-changes-to-make-alternating-binary-string/",
+                    "question": {
+                        "questionFrontendId": "1758",
+                        "title": "Minimum Changes To Make Alternating Binary String",
+                        "titleSlug": "minimum-changes-to-make-alternating-binary-string"
+                    }
+                },
+                {
+                    "date": "2023-12-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/decode-ways/",
+                    "question": {
+                        "questionFrontendId": "91",
+                        "title": "Decode Ways",
+                        "titleSlug": "decode-ways"
+                    }
+                },
+                {
+                    "date": "2023-12-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-dice-rolls-with-target-sum/",
+                    "question": {
+                        "questionFrontendId": "1155",
+                        "title": "Number of Dice Rolls With Target Sum",
+                        "titleSlug": "number-of-dice-rolls-with-target-sum"
+                    }
+                },
+                {
+                    "date": "2023-12-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-time-to-make-rope-colorful/",
+                    "question": {
+                        "questionFrontendId": "1578",
+                        "title": "Minimum Time to Make Rope Colorful",
+                        "titleSlug": "minimum-time-to-make-rope-colorful"
+                    }
+                },
+                {
+                    "date": "2023-12-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/string-compression-ii/",
+                    "question": {
+                        "questionFrontendId": "1531",
+                        "title": "String Compression II",
+                        "titleSlug": "string-compression-ii"
+                    }
+                },
+                {
+                    "date": "2023-12-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-difficulty-of-a-job-schedule/",
+                    "question": {
+                        "questionFrontendId": "1335",
+                        "title": "Minimum Difficulty of a Job Schedule",
+                        "titleSlug": "minimum-difficulty-of-a-job-schedule"
+                    }
+                },
+                {
+                    "date": "2023-12-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/redistribute-characters-to-make-all-strings-equal/",
+                    "question": {
+                        "questionFrontendId": "1897",
+                        "title": "Redistribute Characters to Make All Strings Equal",
+                        "titleSlug": "redistribute-characters-to-make-all-strings-equal"
+                    }
+                },
+                {
+                    "date": "2023-12-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-substring-between-two-equal-characters/",
+                    "question": {
+                        "questionFrontendId": "1624",
+                        "title": "Largest Substring Between Two Equal Characters",
+                        "titleSlug": "largest-substring-between-two-equal-characters"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-sum-less-than-k/",
+                    "question": {
+                        "questionFrontendId": "1099",
+                        "title": "Two Sum Less Than K",
+                        "titleSlug": "two-sum-less-than-k",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-average-subtree/",
+                    "question": {
+                        "questionFrontendId": "1120",
+                        "title": "Maximum Average Subtree",
+                        "titleSlug": "maximum-average-subtree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-meeting-point/",
+                    "question": {
+                        "questionFrontendId": "296",
+                        "title": "Best Meeting Point",
+                        "titleSlug": "best-meeting-point",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-with-at-most-two-distinct-characters/",
+                    "question": {
+                        "questionFrontendId": "159",
+                        "title": "Longest Substring with At Most Two Distinct Characters",
+                        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-12-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-palindrome-iii/",
+                    "question": {
+                        "questionFrontendId": "1216",
+                        "title": "Valid Palindrome III",
+                        "titleSlug": "valid-palindrome-iii",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

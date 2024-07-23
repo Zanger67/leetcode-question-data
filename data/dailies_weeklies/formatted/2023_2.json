@@ -1,0 +1,334 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/greatest-common-divisor-of-strings/",
+                    "question": {
+                        "questionFrontendId": "1071",
+                        "title": "Greatest Common Divisor of Strings",
+                        "titleSlug": "greatest-common-divisor-of-strings"
+                    }
+                },
+                {
+                    "date": "2023-02-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/verifying-an-alien-dictionary/",
+                    "question": {
+                        "questionFrontendId": "953",
+                        "title": "Verifying an Alien Dictionary",
+                        "titleSlug": "verifying-an-alien-dictionary"
+                    }
+                },
+                {
+                    "date": "2023-02-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/zigzag-conversion/",
+                    "question": {
+                        "questionFrontendId": "6",
+                        "title": "Zigzag Conversion",
+                        "titleSlug": "zigzag-conversion"
+                    }
+                },
+                {
+                    "date": "2023-02-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/permutation-in-string/",
+                    "question": {
+                        "questionFrontendId": "567",
+                        "title": "Permutation in String",
+                        "titleSlug": "permutation-in-string"
+                    }
+                },
+                {
+                    "date": "2023-02-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-anagrams-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "438",
+                        "title": "Find All Anagrams in a String",
+                        "titleSlug": "find-all-anagrams-in-a-string"
+                    }
+                },
+                {
+                    "date": "2023-02-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shuffle-the-array/",
+                    "question": {
+                        "questionFrontendId": "1470",
+                        "title": "Shuffle the Array",
+                        "titleSlug": "shuffle-the-array"
+                    }
+                },
+                {
+                    "date": "2023-02-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fruit-into-baskets/",
+                    "question": {
+                        "questionFrontendId": "904",
+                        "title": "Fruit Into Baskets",
+                        "titleSlug": "fruit-into-baskets"
+                    }
+                },
+                {
+                    "date": "2023-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/jump-game-ii/",
+                    "question": {
+                        "questionFrontendId": "45",
+                        "title": "Jump Game II",
+                        "titleSlug": "jump-game-ii"
+                    }
+                },
+                {
+                    "date": "2023-02-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/naming-a-company/",
+                    "question": {
+                        "questionFrontendId": "2306",
+                        "title": "Naming a Company",
+                        "titleSlug": "naming-a-company"
+                    }
+                },
+                {
+                    "date": "2023-02-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/as-far-from-land-as-possible/",
+                    "question": {
+                        "questionFrontendId": "1162",
+                        "title": "As Far from Land as Possible",
+                        "titleSlug": "as-far-from-land-as-possible"
+                    }
+                },
+                {
+                    "date": "2023-02-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-with-alternating-colors/",
+                    "question": {
+                        "questionFrontendId": "1129",
+                        "title": "Shortest Path with Alternating Colors",
+                        "titleSlug": "shortest-path-with-alternating-colors"
+                    }
+                },
+                {
+                    "date": "2023-02-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-fuel-cost-to-report-to-the-capital/",
+                    "question": {
+                        "questionFrontendId": "2477",
+                        "title": "Minimum Fuel Cost to Report to the Capital",
+                        "titleSlug": "minimum-fuel-cost-to-report-to-the-capital"
+                    }
+                },
+                {
+                    "date": "2023-02-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-odd-numbers-in-an-interval-range/",
+                    "question": {
+                        "questionFrontendId": "1523",
+                        "title": "Count Odd Numbers in an Interval Range",
+                        "titleSlug": "count-odd-numbers-in-an-interval-range"
+                    }
+                },
+                {
+                    "date": "2023-02-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-binary/",
+                    "question": {
+                        "questionFrontendId": "67",
+                        "title": "Add Binary",
+                        "titleSlug": "add-binary"
+                    }
+                },
+                {
+                    "date": "2023-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-to-array-form-of-integer/",
+                    "question": {
+                        "questionFrontendId": "989",
+                        "title": "Add to Array-Form of Integer",
+                        "titleSlug": "add-to-array-form-of-integer"
+                    }
+                },
+                {
+                    "date": "2023-02-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-depth-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "104",
+                        "title": "Maximum Depth of Binary Tree",
+                        "titleSlug": "maximum-depth-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-02-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-distance-between-bst-nodes/",
+                    "question": {
+                        "questionFrontendId": "783",
+                        "title": "Minimum Distance Between BST Nodes",
+                        "titleSlug": "minimum-distance-between-bst-nodes"
+                    }
+                },
+                {
+                    "date": "2023-02-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/invert-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "226",
+                        "title": "Invert Binary Tree",
+                        "titleSlug": "invert-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-02-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-zigzag-level-order-traversal/",
+                    "question": {
+                        "questionFrontendId": "103",
+                        "title": "Binary Tree Zigzag Level Order Traversal",
+                        "titleSlug": "binary-tree-zigzag-level-order-traversal"
+                    }
+                },
+                {
+                    "date": "2023-02-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/search-insert-position/",
+                    "question": {
+                        "questionFrontendId": "35",
+                        "title": "Search Insert Position",
+                        "titleSlug": "search-insert-position"
+                    }
+                },
+                {
+                    "date": "2023-02-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-element-in-a-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "540",
+                        "title": "Single Element in a Sorted Array",
+                        "titleSlug": "single-element-in-a-sorted-array"
+                    }
+                },
+                {
+                    "date": "2023-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/capacity-to-ship-packages-within-d-days/",
+                    "question": {
+                        "questionFrontendId": "1011",
+                        "title": "Capacity To Ship Packages Within D Days",
+                        "titleSlug": "capacity-to-ship-packages-within-d-days"
+                    }
+                },
+                {
+                    "date": "2023-02-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ipo/",
+                    "question": {
+                        "questionFrontendId": "502",
+                        "title": "IPO",
+                        "titleSlug": "ipo"
+                    }
+                },
+                {
+                    "date": "2023-02-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-deviation-in-array/",
+                    "question": {
+                        "questionFrontendId": "1675",
+                        "title": "Minimize Deviation in Array",
+                        "titleSlug": "minimize-deviation-in-array"
+                    }
+                },
+                {
+                    "date": "2023-02-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock/",
+                    "question": {
+                        "questionFrontendId": "121",
+                        "title": "Best Time to Buy and Sell Stock",
+                        "titleSlug": "best-time-to-buy-and-sell-stock"
+                    }
+                },
+                {
+                    "date": "2023-02-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/edit-distance/",
+                    "question": {
+                        "questionFrontendId": "72",
+                        "title": "Edit Distance",
+                        "titleSlug": "edit-distance"
+                    }
+                },
+                {
+                    "date": "2023-02-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-quad-tree/",
+                    "question": {
+                        "questionFrontendId": "427",
+                        "title": "Construct Quad Tree",
+                        "titleSlug": "construct-quad-tree"
+                    }
+                },
+                {
+                    "date": "2023-02-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-duplicate-subtrees/",
+                    "question": {
+                        "questionFrontendId": "652",
+                        "title": "Find Duplicate Subtrees",
+                        "titleSlug": "find-duplicate-subtrees"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sentence-similarity/",
+                    "question": {
+                        "questionFrontendId": "734",
+                        "title": "Sentence Similarity",
+                        "titleSlug": "sentence-similarity",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/wiggle-sort/",
+                    "question": {
+                        "questionFrontendId": "280",
+                        "title": "Wiggle Sort",
+                        "titleSlug": "wiggle-sort",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-islands-ii/",
+                    "question": {
+                        "questionFrontendId": "305",
+                        "title": "Number of Islands II",
+                        "titleSlug": "number-of-islands-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/handshakes-that-dont-cross/",
+                    "question": {
+                        "questionFrontendId": "1259",
+                        "title": "Handshakes That Don't Cross",
+                        "titleSlug": "handshakes-that-dont-cross",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+                    "question": {
+                        "questionFrontendId": "1491",
+                        "title": "Average Salary Excluding the Minimum and Maximum Salary",
+                        "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary"
+                    }
+                },
+                {
+                    "date": "2023-05-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sign-of-the-product-of-an-array/",
+                    "question": {
+                        "questionFrontendId": "1822",
+                        "title": "Sign of the Product of an Array",
+                        "titleSlug": "sign-of-the-product-of-an-array"
+                    }
+                },
+                {
+                    "date": "2023-05-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-difference-of-two-arrays/",
+                    "question": {
+                        "questionFrontendId": "2215",
+                        "title": "Find the Difference of Two Arrays",
+                        "titleSlug": "find-the-difference-of-two-arrays"
+                    }
+                },
+                {
+                    "date": "2023-05-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/dota2-senate/",
+                    "question": {
+                        "questionFrontendId": "649",
+                        "title": "Dota2 Senate",
+                        "titleSlug": "dota2-senate"
+                    }
+                },
+                {
+                    "date": "2023-05-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+                    "question": {
+                        "questionFrontendId": "1456",
+                        "title": "Maximum Number of Vowels in a Substring of Given Length",
+                        "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+                    }
+                },
+                {
+                    "date": "2023-05-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/",
+                    "question": {
+                        "questionFrontendId": "1498",
+                        "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+                        "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition"
+                    }
+                },
+                {
+                    "date": "2023-05-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+                    "question": {
+                        "questionFrontendId": "1964",
+                        "title": "Find the Longest Valid Obstacle Course at Each Position",
+                        "titleSlug": "find-the-longest-valid-obstacle-course-at-each-position"
+                    }
+                },
+                {
+                    "date": "2023-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/matrix-diagonal-sum/",
+                    "question": {
+                        "questionFrontendId": "1572",
+                        "title": "Matrix Diagonal Sum",
+                        "titleSlug": "matrix-diagonal-sum"
+                    }
+                },
+                {
+                    "date": "2023-05-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/spiral-matrix/",
+                    "question": {
+                        "questionFrontendId": "54",
+                        "title": "Spiral Matrix",
+                        "titleSlug": "spiral-matrix"
+                    }
+                },
+                {
+                    "date": "2023-05-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/spiral-matrix-ii/",
+                    "question": {
+                        "questionFrontendId": "59",
+                        "title": "Spiral Matrix II",
+                        "titleSlug": "spiral-matrix-ii"
+                    }
+                },
+                {
+                    "date": "2023-05-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/uncrossed-lines/",
+                    "question": {
+                        "questionFrontendId": "1035",
+                        "title": "Uncrossed Lines",
+                        "titleSlug": "uncrossed-lines"
+                    }
+                },
+                {
+                    "date": "2023-05-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/solving-questions-with-brainpower/",
+                    "question": {
+                        "questionFrontendId": "2140",
+                        "title": "Solving Questions With Brainpower",
+                        "titleSlug": "solving-questions-with-brainpower"
+                    }
+                },
+                {
+                    "date": "2023-05-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-ways-to-build-good-strings/",
+                    "question": {
+                        "questionFrontendId": "2466",
+                        "title": "Count Ways To Build Good Strings",
+                        "titleSlug": "count-ways-to-build-good-strings"
+                    }
+                },
+                {
+                    "date": "2023-05-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-score-after-n-operations/",
+                    "question": {
+                        "questionFrontendId": "1799",
+                        "title": "Maximize Score After N Operations",
+                        "titleSlug": "maximize-score-after-n-operations"
+                    }
+                },
+                {
+                    "date": "2023-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/swapping-nodes-in-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "1721",
+                        "title": "Swapping Nodes in a Linked List",
+                        "titleSlug": "swapping-nodes-in-a-linked-list"
+                    }
+                },
+                {
+                    "date": "2023-05-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/swap-nodes-in-pairs/",
+                    "question": {
+                        "questionFrontendId": "24",
+                        "title": "Swap Nodes in Pairs",
+                        "titleSlug": "swap-nodes-in-pairs"
+                    }
+                },
+                {
+                    "date": "2023-05-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-twin-sum-of-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "2130",
+                        "title": "Maximum Twin Sum of a Linked List",
+                        "titleSlug": "maximum-twin-sum-of-a-linked-list"
+                    }
+                },
+                {
+                    "date": "2023-05-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-vertices-to-reach-all-nodes/",
+                    "question": {
+                        "questionFrontendId": "1557",
+                        "title": "Minimum Number of Vertices to Reach All Nodes",
+                        "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes"
+                    }
+                },
+                {
+                    "date": "2023-05-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/is-graph-bipartite/",
+                    "question": {
+                        "questionFrontendId": "785",
+                        "title": "Is Graph Bipartite?",
+                        "titleSlug": "is-graph-bipartite"
+                    }
+                },
+                {
+                    "date": "2023-05-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/evaluate-division/",
+                    "question": {
+                        "questionFrontendId": "399",
+                        "title": "Evaluate Division",
+                        "titleSlug": "evaluate-division"
+                    }
+                },
+                {
+                    "date": "2023-05-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-bridge/",
+                    "question": {
+                        "questionFrontendId": "934",
+                        "title": "Shortest Bridge",
+                        "titleSlug": "shortest-bridge"
+                    }
+                },
+                {
+                    "date": "2023-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/top-k-frequent-elements/",
+                    "question": {
+                        "questionFrontendId": "347",
+                        "title": "Top K Frequent Elements",
+                        "titleSlug": "top-k-frequent-elements"
+                    }
+                },
+                {
+                    "date": "2023-05-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kth-largest-element-in-a-stream/",
+                    "question": {
+                        "questionFrontendId": "703",
+                        "title": "Kth Largest Element in a Stream",
+                        "titleSlug": "kth-largest-element-in-a-stream"
+                    }
+                },
+                {
+                    "date": "2023-05-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-subsequence-score/",
+                    "question": {
+                        "questionFrontendId": "2542",
+                        "title": "Maximum Subsequence Score",
+                        "titleSlug": "maximum-subsequence-score"
+                    }
+                },
+                {
+                    "date": "2023-05-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/new-21-game/",
+                    "question": {
+                        "questionFrontendId": "837",
+                        "title": "New 21 Game",
+                        "titleSlug": "new-21-game"
+                    }
+                },
+                {
+                    "date": "2023-05-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-ii/",
+                    "question": {
+                        "questionFrontendId": "1140",
+                        "title": "Stone Game II",
+                        "titleSlug": "stone-game-ii"
+                    }
+                },
+                {
+                    "date": "2023-05-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-iii/",
+                    "question": {
+                        "questionFrontendId": "1406",
+                        "title": "Stone Game III",
+                        "titleSlug": "stone-game-iii"
+                    }
+                },
+                {
+                    "date": "2023-05-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-cut-a-stick/",
+                    "question": {
+                        "questionFrontendId": "1547",
+                        "title": "Minimum Cost to Cut a Stick",
+                        "titleSlug": "minimum-cost-to-cut-a-stick"
+                    }
+                },
+                {
+                    "date": "2023-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-parking-system/",
+                    "question": {
+                        "questionFrontendId": "1603",
+                        "title": "Design Parking System",
+                        "titleSlug": "design-parking-system"
+                    }
+                },
+                {
+                    "date": "2023-05-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-hashset/",
+                    "question": {
+                        "questionFrontendId": "705",
+                        "title": "Design HashSet",
+                        "titleSlug": "design-hashset"
+                    }
+                },
+                {
+                    "date": "2023-05-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-underground-system/",
+                    "question": {
+                        "questionFrontendId": "1396",
+                        "title": "Design Underground System",
+                        "titleSlug": "design-underground-system"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/index-pairs-of-a-string/",
+                    "question": {
+                        "questionFrontendId": "1065",
+                        "title": "Index Pairs of a String",
+                        "titleSlug": "index-pairs-of-a-string",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sparse-matrix-multiplication/",
+                    "question": {
+                        "questionFrontendId": "311",
+                        "title": "Sparse Matrix Multiplication",
+                        "titleSlug": "sparse-matrix-multiplication",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/paint-house-ii/",
+                    "question": {
+                        "questionFrontendId": "265",
+                        "title": "Paint House II",
+                        "titleSlug": "paint-house-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/meeting-rooms-ii/",
+                    "question": {
+                        "questionFrontendId": "253",
+                        "title": "Meeting Rooms II",
+                        "titleSlug": "meeting-rooms-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-tic-tac-toe/",
+                    "question": {
+                        "questionFrontendId": "348",
+                        "title": "Design Tic-Tac-Toe",
+                        "titleSlug": "design-tic-tac-toe",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

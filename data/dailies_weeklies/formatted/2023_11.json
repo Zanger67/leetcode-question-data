@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-11-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-mode-in-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "501",
+                        "title": "Find Mode in Binary Search Tree",
+                        "titleSlug": "find-mode-in-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2023-11-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-nodes-equal-to-average-of-subtree/",
+                    "question": {
+                        "questionFrontendId": "2265",
+                        "title": "Count Nodes Equal to Average of Subtree",
+                        "titleSlug": "count-nodes-equal-to-average-of-subtree"
+                    }
+                },
+                {
+                    "date": "2023-11-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/build-an-array-with-stack-operations/",
+                    "question": {
+                        "questionFrontendId": "1441",
+                        "title": "Build an Array With Stack Operations",
+                        "titleSlug": "build-an-array-with-stack-operations"
+                    }
+                },
+                {
+                    "date": "2023-11-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/last-moment-before-all-ants-fall-out-of-a-plank/",
+                    "question": {
+                        "questionFrontendId": "1503",
+                        "title": "Last Moment Before All Ants Fall Out of a Plank",
+                        "titleSlug": "last-moment-before-all-ants-fall-out-of-a-plank"
+                    }
+                },
+                {
+                    "date": "2023-11-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-winner-of-an-array-game/",
+                    "question": {
+                        "questionFrontendId": "1535",
+                        "title": "Find the Winner of an Array Game",
+                        "titleSlug": "find-the-winner-of-an-array-game"
+                    }
+                },
+                {
+                    "date": "2023-11-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/seat-reservation-manager/",
+                    "question": {
+                        "questionFrontendId": "1845",
+                        "title": "Seat Reservation Manager",
+                        "titleSlug": "seat-reservation-manager"
+                    }
+                },
+                {
+                    "date": "2023-11-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/eliminate-maximum-number-of-monsters/",
+                    "question": {
+                        "questionFrontendId": "1921",
+                        "title": "Eliminate Maximum Number of Monsters",
+                        "titleSlug": "eliminate-maximum-number-of-monsters"
+                    }
+                },
+                {
+                    "date": "2023-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-if-a-cell-is-reachable-at-a-given-time/",
+                    "question": {
+                        "questionFrontendId": "2849",
+                        "title": "Determine if a Cell Is Reachable at a Given Time",
+                        "titleSlug": "determine-if-a-cell-is-reachable-at-a-given-time"
+                    }
+                },
+                {
+                    "date": "2023-11-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-number-of-homogenous-substrings/",
+                    "question": {
+                        "questionFrontendId": "1759",
+                        "title": "Count Number of Homogenous Substrings",
+                        "titleSlug": "count-number-of-homogenous-substrings"
+                    }
+                },
+                {
+                    "date": "2023-11-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/restore-the-array-from-adjacent-pairs/",
+                    "question": {
+                        "questionFrontendId": "1743",
+                        "title": "Restore the Array From Adjacent Pairs",
+                        "titleSlug": "restore-the-array-from-adjacent-pairs"
+                    }
+                },
+                {
+                    "date": "2023-11-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-graph-with-shortest-path-calculator/",
+                    "question": {
+                        "questionFrontendId": "2642",
+                        "title": "Design Graph With Shortest Path Calculator",
+                        "titleSlug": "design-graph-with-shortest-path-calculator"
+                    }
+                },
+                {
+                    "date": "2023-11-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bus-routes/",
+                    "question": {
+                        "questionFrontendId": "815",
+                        "title": "Bus Routes",
+                        "titleSlug": "bus-routes"
+                    }
+                },
+                {
+                    "date": "2023-11-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-vowels-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "2785",
+                        "title": "Sort Vowels in a String",
+                        "titleSlug": "sort-vowels-in-a-string"
+                    }
+                },
+                {
+                    "date": "2023-11-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-length-3-palindromic-subsequences/",
+                    "question": {
+                        "questionFrontendId": "1930",
+                        "title": "Unique Length-3 Palindromic Subsequences",
+                        "titleSlug": "unique-length-3-palindromic-subsequences"
+                    }
+                },
+                {
+                    "date": "2023-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-element-after-decreasing-and-rearranging/",
+                    "question": {
+                        "questionFrontendId": "1846",
+                        "title": "Maximum Element After Decreasing and Rearranging",
+                        "titleSlug": "maximum-element-after-decreasing-and-rearranging"
+                    }
+                },
+                {
+                    "date": "2023-11-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-unique-binary-string/",
+                    "question": {
+                        "questionFrontendId": "1980",
+                        "title": "Find Unique Binary String",
+                        "titleSlug": "find-unique-binary-string"
+                    }
+                },
+                {
+                    "date": "2023-11-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-maximum-pair-sum-in-array/",
+                    "question": {
+                        "questionFrontendId": "1877",
+                        "title": "Minimize Maximum Pair Sum in Array",
+                        "titleSlug": "minimize-maximum-pair-sum-in-array"
+                    }
+                },
+                {
+                    "date": "2023-11-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/frequency-of-the-most-frequent-element/",
+                    "question": {
+                        "questionFrontendId": "1838",
+                        "title": "Frequency of the Most Frequent Element",
+                        "titleSlug": "frequency-of-the-most-frequent-element"
+                    }
+                },
+                {
+                    "date": "2023-11-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reduction-operations-to-make-the-array-elements-equal/",
+                    "question": {
+                        "questionFrontendId": "1887",
+                        "title": "Reduction Operations to Make the Array Elements Equal",
+                        "titleSlug": "reduction-operations-to-make-the-array-elements-equal"
+                    }
+                },
+                {
+                    "date": "2023-11-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-amount-of-time-to-collect-garbage/",
+                    "question": {
+                        "questionFrontendId": "2391",
+                        "title": "Minimum Amount of Time to Collect Garbage",
+                        "titleSlug": "minimum-amount-of-time-to-collect-garbage"
+                    }
+                },
+                {
+                    "date": "2023-11-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-nice-pairs-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "1814",
+                        "title": "Count Nice Pairs in an Array",
+                        "titleSlug": "count-nice-pairs-in-an-array"
+                    }
+                },
+                {
+                    "date": "2023-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/diagonal-traverse-ii/",
+                    "question": {
+                        "questionFrontendId": "1424",
+                        "title": "Diagonal Traverse II",
+                        "titleSlug": "diagonal-traverse-ii"
+                    }
+                },
+                {
+                    "date": "2023-11-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/arithmetic-subarrays/",
+                    "question": {
+                        "questionFrontendId": "1630",
+                        "title": "Arithmetic Subarrays",
+                        "titleSlug": "arithmetic-subarrays"
+                    }
+                },
+                {
+                    "date": "2023-11-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-coins-you-can-get/",
+                    "question": {
+                        "questionFrontendId": "1561",
+                        "title": "Maximum Number of Coins You Can Get",
+                        "titleSlug": "maximum-number-of-coins-you-can-get"
+                    }
+                },
+                {
+                    "date": "2023-11-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-absolute-differences-in-a-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "1685",
+                        "title": "Sum of Absolute Differences in a Sorted Array",
+                        "titleSlug": "sum-of-absolute-differences-in-a-sorted-array"
+                    }
+                },
+                {
+                    "date": "2023-11-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-submatrix-with-rearrangements/",
+                    "question": {
+                        "questionFrontendId": "1727",
+                        "title": "Largest Submatrix With Rearrangements",
+                        "titleSlug": "largest-submatrix-with-rearrangements"
+                    }
+                },
+                {
+                    "date": "2023-11-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/knight-dialer/",
+                    "question": {
+                        "questionFrontendId": "935",
+                        "title": "Knight Dialer",
+                        "titleSlug": "knight-dialer"
+                    }
+                },
+                {
+                    "date": "2023-11-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-divide-a-long-corridor/",
+                    "question": {
+                        "questionFrontendId": "2147",
+                        "title": "Number of Ways to Divide a Long Corridor",
+                        "titleSlug": "number-of-ways-to-divide-a-long-corridor"
+                    }
+                },
+                {
+                    "date": "2023-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-1-bits/",
+                    "question": {
+                        "questionFrontendId": "191",
+                        "title": "Number of 1 Bits",
+                        "titleSlug": "number-of-1-bits"
+                    }
+                },
+                {
+                    "date": "2023-11-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/",
+                    "question": {
+                        "questionFrontendId": "1611",
+                        "title": "Minimum One Bit Operations to Make Integers Zero",
+                        "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-11-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/campus-bikes/",
+                    "question": {
+                        "questionFrontendId": "1057",
+                        "title": "Campus Bikes",
+                        "titleSlug": "campus-bikes",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/squirrel-simulation/",
+                    "question": {
+                        "questionFrontendId": "573",
+                        "title": "Squirrel Simulation",
+                        "titleSlug": "squirrel-simulation",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/moving-average-from-data-stream/",
+                    "question": {
+                        "questionFrontendId": "346",
+                        "title": "Moving Average from Data Stream",
+                        "titleSlug": "moving-average-from-data-stream",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-distance-in-arrays/",
+                    "question": {
+                        "questionFrontendId": "624",
+                        "title": "Maximum Distance in Arrays",
+                        "titleSlug": "maximum-distance-in-arrays",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-consecutive-ones-ii/",
+                    "question": {
+                        "questionFrontendId": "487",
+                        "title": "Max Consecutive Ones II",
+                        "titleSlug": "max-consecutive-ones-ii",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

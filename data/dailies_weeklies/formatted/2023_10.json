@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-10-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-words-in-a-string-iii/",
+                    "question": {
+                        "questionFrontendId": "557",
+                        "title": "Reverse Words in a String III",
+                        "titleSlug": "reverse-words-in-a-string-iii"
+                    }
+                },
+                {
+                    "date": "2023-10-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+                    "question": {
+                        "questionFrontendId": "2038",
+                        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+                        "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color"
+                    }
+                },
+                {
+                    "date": "2023-10-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-good-pairs/",
+                    "question": {
+                        "questionFrontendId": "1512",
+                        "title": "Number of Good Pairs",
+                        "titleSlug": "number-of-good-pairs"
+                    }
+                },
+                {
+                    "date": "2023-10-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-hashmap/",
+                    "question": {
+                        "questionFrontendId": "706",
+                        "title": "Design HashMap",
+                        "titleSlug": "design-hashmap"
+                    }
+                },
+                {
+                    "date": "2023-10-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/majority-element-ii/",
+                    "question": {
+                        "questionFrontendId": "229",
+                        "title": "Majority Element II",
+                        "titleSlug": "majority-element-ii"
+                    }
+                },
+                {
+                    "date": "2023-10-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/integer-break/",
+                    "question": {
+                        "questionFrontendId": "343",
+                        "title": "Integer Break",
+                        "titleSlug": "integer-break"
+                    }
+                },
+                {
+                    "date": "2023-10-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/",
+                    "question": {
+                        "questionFrontendId": "1420",
+                        "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+                        "titleSlug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+                    }
+                },
+                {
+                    "date": "2023-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-dot-product-of-two-subsequences/",
+                    "question": {
+                        "questionFrontendId": "1458",
+                        "title": "Max Dot Product of Two Subsequences",
+                        "titleSlug": "max-dot-product-of-two-subsequences"
+                    }
+                },
+                {
+                    "date": "2023-10-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-first-and-last-position-of-element-in-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "34",
+                        "title": "Find First and Last Position of Element in Sorted Array",
+                        "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
+                    }
+                },
+                {
+                    "date": "2023-10-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-operations-to-make-array-continuous/",
+                    "question": {
+                        "questionFrontendId": "2009",
+                        "title": "Minimum Number of Operations to Make Array Continuous",
+                        "titleSlug": "minimum-number-of-operations-to-make-array-continuous"
+                    }
+                },
+                {
+                    "date": "2023-10-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-flowers-in-full-bloom/",
+                    "question": {
+                        "questionFrontendId": "2251",
+                        "title": "Number of Flowers in Full Bloom",
+                        "titleSlug": "number-of-flowers-in-full-bloom"
+                    }
+                },
+                {
+                    "date": "2023-10-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-in-mountain-array/",
+                    "question": {
+                        "questionFrontendId": "1095",
+                        "title": "Find in Mountain Array",
+                        "titleSlug": "find-in-mountain-array"
+                    }
+                },
+                {
+                    "date": "2023-10-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/min-cost-climbing-stairs/",
+                    "question": {
+                        "questionFrontendId": "746",
+                        "title": "Min Cost Climbing Stairs",
+                        "titleSlug": "min-cost-climbing-stairs"
+                    }
+                },
+                {
+                    "date": "2023-10-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/painting-the-walls/",
+                    "question": {
+                        "questionFrontendId": "2742",
+                        "title": "Painting the Walls",
+                        "titleSlug": "painting-the-walls"
+                    }
+                },
+                {
+                    "date": "2023-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/",
+                    "question": {
+                        "questionFrontendId": "1269",
+                        "title": "Number of Ways to Stay in the Same Place After Some Steps",
+                        "titleSlug": "number-of-ways-to-stay-in-the-same-place-after-some-steps"
+                    }
+                },
+                {
+                    "date": "2023-10-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pascals-triangle-ii/",
+                    "question": {
+                        "questionFrontendId": "119",
+                        "title": "Pascal's Triangle II",
+                        "titleSlug": "pascals-triangle-ii"
+                    }
+                },
+                {
+                    "date": "2023-10-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/validate-binary-tree-nodes/",
+                    "question": {
+                        "questionFrontendId": "1361",
+                        "title": "Validate Binary Tree Nodes",
+                        "titleSlug": "validate-binary-tree-nodes"
+                    }
+                },
+                {
+                    "date": "2023-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/parallel-courses-iii/",
+                    "question": {
+                        "questionFrontendId": "2050",
+                        "title": "Parallel Courses III",
+                        "titleSlug": "parallel-courses-iii"
+                    }
+                },
+                {
+                    "date": "2023-10-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/backspace-string-compare/",
+                    "question": {
+                        "questionFrontendId": "844",
+                        "title": "Backspace String Compare",
+                        "titleSlug": "backspace-string-compare"
+                    }
+                },
+                {
+                    "date": "2023-10-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/flatten-nested-list-iterator/",
+                    "question": {
+                        "questionFrontendId": "341",
+                        "title": "Flatten Nested List Iterator",
+                        "titleSlug": "flatten-nested-list-iterator"
+                    }
+                },
+                {
+                    "date": "2023-10-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/constrained-subsequence-sum/",
+                    "question": {
+                        "questionFrontendId": "1425",
+                        "title": "Constrained Subsequence Sum",
+                        "titleSlug": "constrained-subsequence-sum"
+                    }
+                },
+                {
+                    "date": "2023-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-score-of-a-good-subarray/",
+                    "question": {
+                        "questionFrontendId": "1793",
+                        "title": "Maximum Score of a Good Subarray",
+                        "titleSlug": "maximum-score-of-a-good-subarray"
+                    }
+                },
+                {
+                    "date": "2023-10-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-four/",
+                    "question": {
+                        "questionFrontendId": "342",
+                        "title": "Power of Four",
+                        "titleSlug": "power-of-four"
+                    }
+                },
+                {
+                    "date": "2023-10-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-largest-value-in-each-tree-row/",
+                    "question": {
+                        "questionFrontendId": "515",
+                        "title": "Find Largest Value in Each Tree Row",
+                        "titleSlug": "find-largest-value-in-each-tree-row"
+                    }
+                },
+                {
+                    "date": "2023-10-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-th-symbol-in-grammar/",
+                    "question": {
+                        "questionFrontendId": "779",
+                        "title": "K-th Symbol in Grammar",
+                        "titleSlug": "k-th-symbol-in-grammar"
+                    }
+                },
+                {
+                    "date": "2023-10-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-trees-with-factors/",
+                    "question": {
+                        "questionFrontendId": "823",
+                        "title": "Binary Trees With Factors",
+                        "titleSlug": "binary-trees-with-factors"
+                    }
+                },
+                {
+                    "date": "2023-10-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-palindromic-substring/",
+                    "question": {
+                        "questionFrontendId": "5",
+                        "title": "Longest Palindromic Substring",
+                        "titleSlug": "longest-palindromic-substring"
+                    }
+                },
+                {
+                    "date": "2023-10-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-vowels-permutation/",
+                    "question": {
+                        "questionFrontendId": "1220",
+                        "title": "Count Vowels Permutation",
+                        "titleSlug": "count-vowels-permutation"
+                    }
+                },
+                {
+                    "date": "2023-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/poor-pigs/",
+                    "question": {
+                        "questionFrontendId": "458",
+                        "title": "Poor Pigs",
+                        "titleSlug": "poor-pigs"
+                    }
+                },
+                {
+                    "date": "2023-10-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-integers-by-the-number-of-1-bits/",
+                    "question": {
+                        "questionFrontendId": "1356",
+                        "title": "Sort Integers by The Number of 1 Bits",
+                        "titleSlug": "sort-integers-by-the-number-of-1-bits"
+                    }
+                },
+                {
+                    "date": "2023-10-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-original-array-of-prefix-xor/",
+                    "question": {
+                        "questionFrontendId": "2433",
+                        "title": "Find The Original Array of Prefix Xor",
+                        "titleSlug": "find-the-original-array-of-prefix-xor"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-10-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-trie-ii-prefix-tree/",
+                    "question": {
+                        "questionFrontendId": "1804",
+                        "title": "Implement Trie II (Prefix Tree)",
+                        "titleSlug": "implement-trie-ii-prefix-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-maze-ii/",
+                    "question": {
+                        "questionFrontendId": "505",
+                        "title": "The Maze II",
+                        "titleSlug": "the-maze-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-books-you-can-take/",
+                    "question": {
+                        "questionFrontendId": "2355",
+                        "title": "Maximum Number of Books You Can Take",
+                        "titleSlug": "maximum-number-of-books-you-can-take",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/correct-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1660",
+                        "title": "Correct a Binary Tree",
+                        "titleSlug": "correct-a-binary-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-knight-moves/",
+                    "question": {
+                        "questionFrontendId": "1197",
+                        "title": "Minimum Knight Moves",
+                        "titleSlug": "minimum-knight-moves",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

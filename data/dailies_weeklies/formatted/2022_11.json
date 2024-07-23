@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-11-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/where-will-the-ball-fall/",
+                    "question": {
+                        "questionFrontendId": "1706",
+                        "title": "Where Will the Ball Fall",
+                        "titleSlug": "where-will-the-ball-fall"
+                    }
+                },
+                {
+                    "date": "2022-11-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-genetic-mutation/",
+                    "question": {
+                        "questionFrontendId": "433",
+                        "title": "Minimum Genetic Mutation",
+                        "titleSlug": "minimum-genetic-mutation"
+                    }
+                },
+                {
+                    "date": "2022-11-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-palindrome-by-concatenating-two-letter-words/",
+                    "question": {
+                        "questionFrontendId": "2131",
+                        "title": "Longest Palindrome by Concatenating Two Letter Words",
+                        "titleSlug": "longest-palindrome-by-concatenating-two-letter-words"
+                    }
+                },
+                {
+                    "date": "2022-11-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-vowels-of-a-string/",
+                    "question": {
+                        "questionFrontendId": "345",
+                        "title": "Reverse Vowels of a String",
+                        "titleSlug": "reverse-vowels-of-a-string"
+                    }
+                },
+                {
+                    "date": "2022-11-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search-ii/",
+                    "question": {
+                        "questionFrontendId": "212",
+                        "title": "Word Search II",
+                        "titleSlug": "word-search-ii"
+                    }
+                },
+                {
+                    "date": "2022-11-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/orderly-queue/",
+                    "question": {
+                        "questionFrontendId": "899",
+                        "title": "Orderly Queue",
+                        "titleSlug": "orderly-queue"
+                    }
+                },
+                {
+                    "date": "2022-11-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-69-number/",
+                    "question": {
+                        "questionFrontendId": "1323",
+                        "title": "Maximum 69 Number",
+                        "titleSlug": "maximum-69-number"
+                    }
+                },
+                {
+                    "date": "2022-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/make-the-string-great/",
+                    "question": {
+                        "questionFrontendId": "1544",
+                        "title": "Make The String Great",
+                        "titleSlug": "make-the-string-great"
+                    }
+                },
+                {
+                    "date": "2022-11-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/online-stock-span/",
+                    "question": {
+                        "questionFrontendId": "901",
+                        "title": "Online Stock Span",
+                        "titleSlug": "online-stock-span"
+                    }
+                },
+                {
+                    "date": "2022-11-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-all-adjacent-duplicates-in-string/",
+                    "question": {
+                        "questionFrontendId": "1047",
+                        "title": "Remove All Adjacent Duplicates In String",
+                        "titleSlug": "remove-all-adjacent-duplicates-in-string"
+                    }
+                },
+                {
+                    "date": "2022-11-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-duplicates-from-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "26",
+                        "title": "Remove Duplicates from Sorted Array",
+                        "titleSlug": "remove-duplicates-from-sorted-array"
+                    }
+                },
+                {
+                    "date": "2022-11-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-median-from-data-stream/",
+                    "question": {
+                        "questionFrontendId": "295",
+                        "title": "Find Median from Data Stream",
+                        "titleSlug": "find-median-from-data-stream"
+                    }
+                },
+                {
+                    "date": "2022-11-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-words-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "151",
+                        "title": "Reverse Words in a String",
+                        "titleSlug": "reverse-words-in-a-string"
+                    }
+                },
+                {
+                    "date": "2022-11-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/most-stones-removed-with-same-row-or-column/",
+                    "question": {
+                        "questionFrontendId": "947",
+                        "title": "Most Stones Removed with Same Row or Column",
+                        "titleSlug": "most-stones-removed-with-same-row-or-column"
+                    }
+                },
+                {
+                    "date": "2022-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-complete-tree-nodes/",
+                    "question": {
+                        "questionFrontendId": "222",
+                        "title": "Count Complete Tree Nodes",
+                        "titleSlug": "count-complete-tree-nodes"
+                    }
+                },
+                {
+                    "date": "2022-11-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/guess-number-higher-or-lower/",
+                    "question": {
+                        "questionFrontendId": "374",
+                        "title": "Guess Number Higher or Lower",
+                        "titleSlug": "guess-number-higher-or-lower"
+                    }
+                },
+                {
+                    "date": "2022-11-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rectangle-area/",
+                    "question": {
+                        "questionFrontendId": "223",
+                        "title": "Rectangle Area",
+                        "titleSlug": "rectangle-area"
+                    }
+                },
+                {
+                    "date": "2022-11-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ugly-number/",
+                    "question": {
+                        "questionFrontendId": "263",
+                        "title": "Ugly Number",
+                        "titleSlug": "ugly-number"
+                    }
+                },
+                {
+                    "date": "2022-11-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/erect-the-fence/",
+                    "question": {
+                        "questionFrontendId": "587",
+                        "title": "Erect the Fence",
+                        "titleSlug": "erect-the-fence"
+                    }
+                },
+                {
+                    "date": "2022-11-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/basic-calculator/",
+                    "question": {
+                        "questionFrontendId": "224",
+                        "title": "Basic Calculator",
+                        "titleSlug": "basic-calculator"
+                    }
+                },
+                {
+                    "date": "2022-11-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/nearest-exit-from-entrance-in-maze/",
+                    "question": {
+                        "questionFrontendId": "1926",
+                        "title": "Nearest Exit from Entrance in Maze",
+                        "titleSlug": "nearest-exit-from-entrance-in-maze"
+                    }
+                },
+                {
+                    "date": "2022-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/perfect-squares/",
+                    "question": {
+                        "questionFrontendId": "279",
+                        "title": "Perfect Squares",
+                        "titleSlug": "perfect-squares"
+                    }
+                },
+                {
+                    "date": "2022-11-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-sudoku/",
+                    "question": {
+                        "questionFrontendId": "36",
+                        "title": "Valid Sudoku",
+                        "titleSlug": "valid-sudoku"
+                    }
+                },
+                {
+                    "date": "2022-11-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search/",
+                    "question": {
+                        "questionFrontendId": "79",
+                        "title": "Word Search",
+                        "titleSlug": "word-search"
+                    }
+                },
+                {
+                    "date": "2022-11-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-subarray-minimums/",
+                    "question": {
+                        "questionFrontendId": "907",
+                        "title": "Sum of Subarray Minimums",
+                        "titleSlug": "sum-of-subarray-minimums"
+                    }
+                },
+                {
+                    "date": "2022-11-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-profit-in-job-scheduling/",
+                    "question": {
+                        "questionFrontendId": "1235",
+                        "title": "Maximum Profit in Job Scheduling",
+                        "titleSlug": "maximum-profit-in-job-scheduling"
+                    }
+                },
+                {
+                    "date": "2022-11-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/arithmetic-slices-ii-subsequence/",
+                    "question": {
+                        "questionFrontendId": "446",
+                        "title": "Arithmetic Slices II - Subsequence",
+                        "titleSlug": "arithmetic-slices-ii-subsequence"
+                    }
+                },
+                {
+                    "date": "2022-11-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-players-with-zero-or-one-losses/",
+                    "question": {
+                        "questionFrontendId": "2225",
+                        "title": "Find Players With Zero or One Losses",
+                        "titleSlug": "find-players-with-zero-or-one-losses"
+                    }
+                },
+                {
+                    "date": "2022-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/insert-delete-getrandom-o1/",
+                    "question": {
+                        "questionFrontendId": "380",
+                        "title": "Insert Delete GetRandom O(1)",
+                        "titleSlug": "insert-delete-getrandom-o1"
+                    }
+                },
+                {
+                    "date": "2022-11-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-number-of-occurrences/",
+                    "question": {
+                        "questionFrontendId": "1207",
+                        "title": "Unique Number of Occurrences",
+                        "titleSlug": "unique-number-of-occurrences"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-11-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-smallest-common-element-in-all-rows/",
+                    "question": {
+                        "questionFrontendId": "1198",
+                        "title": "Find Smallest Common Element in All Rows",
+                        "titleSlug": "find-smallest-common-element-in-all-rows",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/nested-list-weight-sum/",
+                    "question": {
+                        "questionFrontendId": "339",
+                        "title": "Nested List Weight Sum",
+                        "titleSlug": "nested-list-weight-sum",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-sum-less-than-k/",
+                    "question": {
+                        "questionFrontendId": "1099",
+                        "title": "Two Sum Less Than K",
+                        "titleSlug": "two-sum-less-than-k",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/strobogrammatic-number/",
+                    "question": {
+                        "questionFrontendId": "246",
+                        "title": "Strobogrammatic Number",
+                        "titleSlug": "strobogrammatic-number",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-palindrome-iii/",
+                    "question": {
+                        "questionFrontendId": "1216",
+                        "title": "Valid Palindrome III",
+                        "titleSlug": "valid-palindrome-iii",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

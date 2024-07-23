@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-04-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-search/",
+                    "question": {
+                        "questionFrontendId": "704",
+                        "title": "Binary Search",
+                        "titleSlug": "binary-search"
+                    }
+                },
+                {
+                    "date": "2023-04-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/successful-pairs-of-spells-and-potions/",
+                    "question": {
+                        "questionFrontendId": "2300",
+                        "title": "Successful Pairs of Spells and Potions",
+                        "titleSlug": "successful-pairs-of-spells-and-potions"
+                    }
+                },
+                {
+                    "date": "2023-04-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/boats-to-save-people/",
+                    "question": {
+                        "questionFrontendId": "881",
+                        "title": "Boats to Save People",
+                        "titleSlug": "boats-to-save-people"
+                    }
+                },
+                {
+                    "date": "2023-04-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/optimal-partition-of-string/",
+                    "question": {
+                        "questionFrontendId": "2405",
+                        "title": "Optimal Partition of String",
+                        "titleSlug": "optimal-partition-of-string"
+                    }
+                },
+                {
+                    "date": "2023-04-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-maximum-of-array/",
+                    "question": {
+                        "questionFrontendId": "2439",
+                        "title": "Minimize Maximum of Array",
+                        "titleSlug": "minimize-maximum-of-array"
+                    }
+                },
+                {
+                    "date": "2023-04-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-closed-islands/",
+                    "question": {
+                        "questionFrontendId": "1254",
+                        "title": "Number of Closed Islands",
+                        "titleSlug": "number-of-closed-islands"
+                    }
+                },
+                {
+                    "date": "2023-04-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-enclaves/",
+                    "question": {
+                        "questionFrontendId": "1020",
+                        "title": "Number of Enclaves",
+                        "titleSlug": "number-of-enclaves"
+                    }
+                },
+                {
+                    "date": "2023-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/clone-graph/",
+                    "question": {
+                        "questionFrontendId": "133",
+                        "title": "Clone Graph",
+                        "titleSlug": "clone-graph"
+                    }
+                },
+                {
+                    "date": "2023-04-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-color-value-in-a-directed-graph/",
+                    "question": {
+                        "questionFrontendId": "1857",
+                        "title": "Largest Color Value in a Directed Graph",
+                        "titleSlug": "largest-color-value-in-a-directed-graph"
+                    }
+                },
+                {
+                    "date": "2023-04-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-parentheses/",
+                    "question": {
+                        "questionFrontendId": "20",
+                        "title": "Valid Parentheses",
+                        "titleSlug": "valid-parentheses"
+                    }
+                },
+                {
+                    "date": "2023-04-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/removing-stars-from-a-string/",
+                    "question": {
+                        "questionFrontendId": "2390",
+                        "title": "Removing Stars From a String",
+                        "titleSlug": "removing-stars-from-a-string"
+                    }
+                },
+                {
+                    "date": "2023-04-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/simplify-path/",
+                    "question": {
+                        "questionFrontendId": "71",
+                        "title": "Simplify Path",
+                        "titleSlug": "simplify-path"
+                    }
+                },
+                {
+                    "date": "2023-04-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/validate-stack-sequences/",
+                    "question": {
+                        "questionFrontendId": "946",
+                        "title": "Validate Stack Sequences",
+                        "titleSlug": "validate-stack-sequences"
+                    }
+                },
+                {
+                    "date": "2023-04-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-palindromic-subsequence/",
+                    "question": {
+                        "questionFrontendId": "516",
+                        "title": "Longest Palindromic Subsequence",
+                        "titleSlug": "longest-palindromic-subsequence"
+                    }
+                },
+                {
+                    "date": "2023-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-value-of-k-coins-from-piles/",
+                    "question": {
+                        "questionFrontendId": "2218",
+                        "title": "Maximum Value of K Coins From Piles",
+                        "titleSlug": "maximum-value-of-k-coins-from-piles"
+                    }
+                },
+                {
+                    "date": "2023-04-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/",
+                    "question": {
+                        "questionFrontendId": "1639",
+                        "title": "Number of Ways to Form a Target String Given a Dictionary",
+                        "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+                    }
+                },
+                {
+                    "date": "2023-04-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kids-with-the-greatest-number-of-candies/",
+                    "question": {
+                        "questionFrontendId": "1431",
+                        "title": "Kids With the Greatest Number of Candies",
+                        "titleSlug": "kids-with-the-greatest-number-of-candies"
+                    }
+                },
+                {
+                    "date": "2023-04-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/merge-strings-alternately/",
+                    "question": {
+                        "questionFrontendId": "1768",
+                        "title": "Merge Strings Alternately",
+                        "titleSlug": "merge-strings-alternately"
+                    }
+                },
+                {
+                    "date": "2023-04-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-zigzag-path-in-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1372",
+                        "title": "Longest ZigZag Path in a Binary Tree",
+                        "titleSlug": "longest-zigzag-path-in-a-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-04-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-width-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "662",
+                        "title": "Maximum Width of Binary Tree",
+                        "titleSlug": "maximum-width-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-04-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/profitable-schemes/",
+                    "question": {
+                        "questionFrontendId": "879",
+                        "title": "Profitable Schemes",
+                        "titleSlug": "profitable-schemes"
+                    }
+                },
+                {
+                    "date": "2023-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+                    "question": {
+                        "questionFrontendId": "1312",
+                        "title": "Minimum Insertion Steps to Make a String Palindrome",
+                        "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome"
+                    }
+                },
+                {
+                    "date": "2023-04-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/restore-the-array/",
+                    "question": {
+                        "questionFrontendId": "1416",
+                        "title": "Restore The Array",
+                        "titleSlug": "restore-the-array"
+                    }
+                },
+                {
+                    "date": "2023-04-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/last-stone-weight/",
+                    "question": {
+                        "questionFrontendId": "1046",
+                        "title": "Last Stone Weight",
+                        "titleSlug": "last-stone-weight"
+                    }
+                },
+                {
+                    "date": "2023-04-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-number-in-infinite-set/",
+                    "question": {
+                        "questionFrontendId": "2336",
+                        "title": "Smallest Number in Infinite Set",
+                        "titleSlug": "smallest-number-in-infinite-set"
+                    }
+                },
+                {
+                    "date": "2023-04-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-digits/",
+                    "question": {
+                        "questionFrontendId": "258",
+                        "title": "Add Digits",
+                        "titleSlug": "add-digits"
+                    }
+                },
+                {
+                    "date": "2023-04-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bulb-switcher/",
+                    "question": {
+                        "questionFrontendId": "319",
+                        "title": "Bulb Switcher",
+                        "titleSlug": "bulb-switcher"
+                    }
+                },
+                {
+                    "date": "2023-04-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/similar-string-groups/",
+                    "question": {
+                        "questionFrontendId": "839",
+                        "title": "Similar String Groups",
+                        "titleSlug": "similar-string-groups"
+                    }
+                },
+                {
+                    "date": "2023-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/checking-existence-of-edge-length-limited-paths/",
+                    "question": {
+                        "questionFrontendId": "1697",
+                        "title": "Checking Existence of Edge Length Limited Paths",
+                        "titleSlug": "checking-existence-of-edge-length-limited-paths"
+                    }
+                },
+                {
+                    "date": "2023-04-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/",
+                    "question": {
+                        "questionFrontendId": "1579",
+                        "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+                        "titleSlug": "remove-max-number-of-edges-to-keep-graph-fully-traversable"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-04-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-word-distance-iii/",
+                    "question": {
+                        "questionFrontendId": "245",
+                        "title": "Shortest Word Distance III",
+                        "titleSlug": "shortest-word-distance-iii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-anagram-mappings/",
+                    "question": {
+                        "questionFrontendId": "760",
+                        "title": "Find Anagram Mappings",
+                        "titleSlug": "find-anagram-mappings",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-most-similar-path-in-a-graph/",
+                    "question": {
+                        "questionFrontendId": "1548",
+                        "title": "The Most Similar Path in a Graph",
+                        "titleSlug": "the-most-similar-path-in-a-graph",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-window-subsequence/",
+                    "question": {
+                        "questionFrontendId": "727",
+                        "title": "Minimum Window Subsequence",
+                        "titleSlug": "minimum-window-subsequence",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/guess-the-majority-in-a-hidden-array/",
+                    "question": {
+                        "questionFrontendId": "1538",
+                        "title": "Guess the Majority in a Hidden Array",
+                        "titleSlug": "guess-the-majority-in-a-hidden-array",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

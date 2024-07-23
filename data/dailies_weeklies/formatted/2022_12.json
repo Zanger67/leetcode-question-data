@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-if-string-halves-are-alike/",
+                    "question": {
+                        "questionFrontendId": "1704",
+                        "title": "Determine if String Halves Are Alike",
+                        "titleSlug": "determine-if-string-halves-are-alike"
+                    }
+                },
+                {
+                    "date": "2022-12-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-if-two-strings-are-close/",
+                    "question": {
+                        "questionFrontendId": "1657",
+                        "title": "Determine if Two Strings Are Close",
+                        "titleSlug": "determine-if-two-strings-are-close"
+                    }
+                },
+                {
+                    "date": "2022-12-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-characters-by-frequency/",
+                    "question": {
+                        "questionFrontendId": "451",
+                        "title": "Sort Characters By Frequency",
+                        "titleSlug": "sort-characters-by-frequency"
+                    }
+                },
+                {
+                    "date": "2022-12-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-average-difference/",
+                    "question": {
+                        "questionFrontendId": "2256",
+                        "title": "Minimum Average Difference",
+                        "titleSlug": "minimum-average-difference"
+                    }
+                },
+                {
+                    "date": "2022-12-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/middle-of-the-linked-list/",
+                    "question": {
+                        "questionFrontendId": "876",
+                        "title": "Middle of the Linked List",
+                        "titleSlug": "middle-of-the-linked-list"
+                    }
+                },
+                {
+                    "date": "2022-12-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/odd-even-linked-list/",
+                    "question": {
+                        "questionFrontendId": "328",
+                        "title": "Odd Even Linked List",
+                        "titleSlug": "odd-even-linked-list"
+                    }
+                },
+                {
+                    "date": "2022-12-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/range-sum-of-bst/",
+                    "question": {
+                        "questionFrontendId": "938",
+                        "title": "Range Sum of BST",
+                        "titleSlug": "range-sum-of-bst"
+                    }
+                },
+                {
+                    "date": "2022-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/leaf-similar-trees/",
+                    "question": {
+                        "questionFrontendId": "872",
+                        "title": "Leaf-Similar Trees",
+                        "titleSlug": "leaf-similar-trees"
+                    }
+                },
+                {
+                    "date": "2022-12-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-difference-between-node-and-ancestor/",
+                    "question": {
+                        "questionFrontendId": "1026",
+                        "title": "Maximum Difference Between Node and Ancestor",
+                        "titleSlug": "maximum-difference-between-node-and-ancestor"
+                    }
+                },
+                {
+                    "date": "2022-12-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-product-of-splitted-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1339",
+                        "title": "Maximum Product of Splitted Binary Tree",
+                        "titleSlug": "maximum-product-of-splitted-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-12-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-maximum-path-sum/",
+                    "question": {
+                        "questionFrontendId": "124",
+                        "title": "Binary Tree Maximum Path Sum",
+                        "titleSlug": "binary-tree-maximum-path-sum"
+                    }
+                },
+                {
+                    "date": "2022-12-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/climbing-stairs/",
+                    "question": {
+                        "questionFrontendId": "70",
+                        "title": "Climbing Stairs",
+                        "titleSlug": "climbing-stairs"
+                    }
+                },
+                {
+                    "date": "2022-12-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-falling-path-sum/",
+                    "question": {
+                        "questionFrontendId": "931",
+                        "title": "Minimum Falling Path Sum",
+                        "titleSlug": "minimum-falling-path-sum"
+                    }
+                },
+                {
+                    "date": "2022-12-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/house-robber/",
+                    "question": {
+                        "questionFrontendId": "198",
+                        "title": "House Robber",
+                        "titleSlug": "house-robber"
+                    }
+                },
+                {
+                    "date": "2022-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-common-subsequence/",
+                    "question": {
+                        "questionFrontendId": "1143",
+                        "title": "Longest Common Subsequence",
+                        "titleSlug": "longest-common-subsequence"
+                    }
+                },
+                {
+                    "date": "2022-12-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-queue-using-stacks/",
+                    "question": {
+                        "questionFrontendId": "232",
+                        "title": "Implement Queue using Stacks",
+                        "titleSlug": "implement-queue-using-stacks"
+                    }
+                },
+                {
+                    "date": "2022-12-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/evaluate-reverse-polish-notation/",
+                    "question": {
+                        "questionFrontendId": "150",
+                        "title": "Evaluate Reverse Polish Notation",
+                        "titleSlug": "evaluate-reverse-polish-notation"
+                    }
+                },
+                {
+                    "date": "2022-12-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/daily-temperatures/",
+                    "question": {
+                        "questionFrontendId": "739",
+                        "title": "Daily Temperatures",
+                        "titleSlug": "daily-temperatures"
+                    }
+                },
+                {
+                    "date": "2022-12-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-if-path-exists-in-graph/",
+                    "question": {
+                        "questionFrontendId": "1971",
+                        "title": "Find if Path Exists in Graph",
+                        "titleSlug": "find-if-path-exists-in-graph"
+                    }
+                },
+                {
+                    "date": "2022-12-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/keys-and-rooms/",
+                    "question": {
+                        "questionFrontendId": "841",
+                        "title": "Keys and Rooms",
+                        "titleSlug": "keys-and-rooms"
+                    }
+                },
+                {
+                    "date": "2022-12-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/possible-bipartition/",
+                    "question": {
+                        "questionFrontendId": "886",
+                        "title": "Possible Bipartition",
+                        "titleSlug": "possible-bipartition"
+                    }
+                },
+                {
+                    "date": "2022-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-distances-in-tree/",
+                    "question": {
+                        "questionFrontendId": "834",
+                        "title": "Sum of Distances in Tree",
+                        "titleSlug": "sum-of-distances-in-tree"
+                    }
+                },
+                {
+                    "date": "2022-12-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+                    "question": {
+                        "questionFrontendId": "309",
+                        "title": "Best Time to Buy and Sell Stock with Cooldown",
+                        "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown"
+                    }
+                },
+                {
+                    "date": "2022-12-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/domino-and-tromino-tiling/",
+                    "question": {
+                        "questionFrontendId": "790",
+                        "title": "Domino and Tromino Tiling",
+                        "titleSlug": "domino-and-tromino-tiling"
+                    }
+                },
+                {
+                    "date": "2022-12-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-subsequence-with-limited-sum/",
+                    "question": {
+                        "questionFrontendId": "2389",
+                        "title": "Longest Subsequence With Limited Sum",
+                        "titleSlug": "longest-subsequence-with-limited-sum"
+                    }
+                },
+                {
+                    "date": "2022-12-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/jump-game/",
+                    "question": {
+                        "questionFrontendId": "55",
+                        "title": "Jump Game",
+                        "titleSlug": "jump-game"
+                    }
+                },
+                {
+                    "date": "2022-12-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-bags-with-full-capacity-of-rocks/",
+                    "question": {
+                        "questionFrontendId": "2279",
+                        "title": "Maximum Bags With Full Capacity of Rocks",
+                        "titleSlug": "maximum-bags-with-full-capacity-of-rocks"
+                    }
+                },
+                {
+                    "date": "2022-12-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-stones-to-minimize-the-total/",
+                    "question": {
+                        "questionFrontendId": "1962",
+                        "title": "Remove Stones to Minimize the Total",
+                        "titleSlug": "remove-stones-to-minimize-the-total"
+                    }
+                },
+                {
+                    "date": "2022-12-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-threaded-cpu/",
+                    "question": {
+                        "questionFrontendId": "1834",
+                        "title": "Single-Threaded CPU",
+                        "titleSlug": "single-threaded-cpu"
+                    }
+                },
+                {
+                    "date": "2022-12-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/all-paths-from-source-to-target/",
+                    "question": {
+                        "questionFrontendId": "797",
+                        "title": "All Paths From Source to Target",
+                        "titleSlug": "all-paths-from-source-to-target"
+                    }
+                },
+                {
+                    "date": "2022-12-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-paths-iii/",
+                    "question": {
+                        "questionFrontendId": "980",
+                        "title": "Unique Paths III",
+                        "titleSlug": "unique-paths-iii"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-row-keyboard/",
+                    "question": {
+                        "questionFrontendId": "1165",
+                        "title": "Single-Row Keyboard",
+                        "titleSlug": "single-row-keyboard",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+                    "question": {
+                        "questionFrontendId": "323",
+                        "title": "Number of Connected Components in an Undirected Graph",
+                        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/campus-bikes-ii/",
+                    "question": {
+                        "questionFrontendId": "1066",
+                        "title": "Campus Bikes II",
+                        "titleSlug": "campus-bikes-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-connect-sticks/",
+                    "question": {
+                        "questionFrontendId": "1167",
+                        "title": "Minimum Cost to Connect Sticks",
+                        "titleSlug": "minimum-cost-to-connect-sticks",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-12-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/leftmost-column-with-at-least-a-one/",
+                    "question": {
+                        "questionFrontendId": "1428",
+                        "title": "Leftmost Column with at Least a One",
+                        "titleSlug": "leftmost-column-with-at-least-a-one",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

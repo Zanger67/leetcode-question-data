@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-good-nodes-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1448",
+                        "title": "Count Good Nodes in Binary Tree",
+                        "titleSlug": "count-good-nodes-in-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-09-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/average-of-levels-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "637",
+                        "title": "Average of Levels in Binary Tree",
+                        "titleSlug": "average-of-levels-in-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-09-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/numbers-with-same-consecutive-differences/",
+                    "question": {
+                        "questionFrontendId": "967",
+                        "title": "Numbers With Same Consecutive Differences",
+                        "titleSlug": "numbers-with-same-consecutive-differences"
+                    }
+                },
+                {
+                    "date": "2022-09-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/vertical-order-traversal-of-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "987",
+                        "title": "Vertical Order Traversal of a Binary Tree",
+                        "titleSlug": "vertical-order-traversal-of-a-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-09-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/n-ary-tree-level-order-traversal/",
+                    "question": {
+                        "questionFrontendId": "429",
+                        "title": "N-ary Tree Level Order Traversal",
+                        "titleSlug": "n-ary-tree-level-order-traversal"
+                    }
+                },
+                {
+                    "date": "2022-09-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-pruning/",
+                    "question": {
+                        "questionFrontendId": "814",
+                        "title": "Binary Tree Pruning",
+                        "titleSlug": "binary-tree-pruning"
+                    }
+                },
+                {
+                    "date": "2022-09-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-string-from-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "606",
+                        "title": "Construct String from Binary Tree",
+                        "titleSlug": "construct-string-from-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-inorder-traversal/",
+                    "question": {
+                        "questionFrontendId": "94",
+                        "title": "Binary Tree Inorder Traversal",
+                        "titleSlug": "binary-tree-inorder-traversal"
+                    }
+                },
+                {
+                    "date": "2022-09-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-number-of-weak-characters-in-the-game/",
+                    "question": {
+                        "questionFrontendId": "1996",
+                        "title": "The Number of Weak Characters in the Game",
+                        "titleSlug": "the-number-of-weak-characters-in-the-game"
+                    }
+                },
+                {
+                    "date": "2022-09-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock-iv/",
+                    "question": {
+                        "questionFrontendId": "188",
+                        "title": "Best Time to Buy and Sell Stock IV",
+                        "titleSlug": "best-time-to-buy-and-sell-stock-iv"
+                    }
+                },
+                {
+                    "date": "2022-09-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-performance-of-a-team/",
+                    "question": {
+                        "questionFrontendId": "1383",
+                        "title": "Maximum Performance of a Team",
+                        "titleSlug": "maximum-performance-of-a-team"
+                    }
+                },
+                {
+                    "date": "2022-09-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bag-of-tokens/",
+                    "question": {
+                        "questionFrontendId": "948",
+                        "title": "Bag of Tokens",
+                        "titleSlug": "bag-of-tokens"
+                    }
+                },
+                {
+                    "date": "2022-09-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/utf-8-validation/",
+                    "question": {
+                        "questionFrontendId": "393",
+                        "title": "UTF-8 Validation",
+                        "titleSlug": "utf-8-validation"
+                    }
+                },
+                {
+                    "date": "2022-09-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pseudo-palindromic-paths-in-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1457",
+                        "title": "Pseudo-Palindromic Paths in a Binary Tree",
+                        "titleSlug": "pseudo-palindromic-paths-in-a-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-original-array-from-doubled-array/",
+                    "question": {
+                        "questionFrontendId": "2007",
+                        "title": "Find Original Array From Doubled Array",
+                        "titleSlug": "find-original-array-from-doubled-array"
+                    }
+                },
+                {
+                    "date": "2022-09-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-score-from-performing-multiplication-operations/",
+                    "question": {
+                        "questionFrontendId": "1770",
+                        "title": "Maximum Score from Performing Multiplication Operations",
+                        "titleSlug": "maximum-score-from-performing-multiplication-operations"
+                    }
+                },
+                {
+                    "date": "2022-09-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindrome-pairs/",
+                    "question": {
+                        "questionFrontendId": "336",
+                        "title": "Palindrome Pairs",
+                        "titleSlug": "palindrome-pairs"
+                    }
+                },
+                {
+                    "date": "2022-09-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/trapping-rain-water/",
+                    "question": {
+                        "questionFrontendId": "42",
+                        "title": "Trapping Rain Water",
+                        "titleSlug": "trapping-rain-water"
+                    }
+                },
+                {
+                    "date": "2022-09-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-duplicate-file-in-system/",
+                    "question": {
+                        "questionFrontendId": "609",
+                        "title": "Find Duplicate File in System",
+                        "titleSlug": "find-duplicate-file-in-system"
+                    }
+                },
+                {
+                    "date": "2022-09-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-length-of-repeated-subarray/",
+                    "question": {
+                        "questionFrontendId": "718",
+                        "title": "Maximum Length of Repeated Subarray",
+                        "titleSlug": "maximum-length-of-repeated-subarray"
+                    }
+                },
+                {
+                    "date": "2022-09-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-even-numbers-after-queries/",
+                    "question": {
+                        "questionFrontendId": "985",
+                        "title": "Sum of Even Numbers After Queries",
+                        "titleSlug": "sum-of-even-numbers-after-queries"
+                    }
+                },
+                {
+                    "date": "2022-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-words-in-a-string-iii/",
+                    "question": {
+                        "questionFrontendId": "557",
+                        "title": "Reverse Words in a String III",
+                        "titleSlug": "reverse-words-in-a-string-iii"
+                    }
+                },
+                {
+                    "date": "2022-09-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/concatenation-of-consecutive-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1680",
+                        "title": "Concatenation of Consecutive Binary Numbers",
+                        "titleSlug": "concatenation-of-consecutive-binary-numbers"
+                    }
+                },
+                {
+                    "date": "2022-09-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-sum-ii/",
+                    "question": {
+                        "questionFrontendId": "113",
+                        "title": "Path Sum II",
+                        "titleSlug": "path-sum-ii"
+                    }
+                },
+                {
+                    "date": "2022-09-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-circular-queue/",
+                    "question": {
+                        "questionFrontendId": "622",
+                        "title": "Design Circular Queue",
+                        "titleSlug": "design-circular-queue"
+                    }
+                },
+                {
+                    "date": "2022-09-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/satisfiability-of-equality-equations/",
+                    "question": {
+                        "questionFrontendId": "990",
+                        "title": "Satisfiability of Equality Equations",
+                        "titleSlug": "satisfiability-of-equality-equations"
+                    }
+                },
+                {
+                    "date": "2022-09-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/push-dominoes/",
+                    "question": {
+                        "questionFrontendId": "838",
+                        "title": "Push Dominoes",
+                        "titleSlug": "push-dominoes"
+                    }
+                },
+                {
+                    "date": "2022-09-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-nth-node-from-end-of-list/",
+                    "question": {
+                        "questionFrontendId": "19",
+                        "title": "Remove Nth Node From End of List",
+                        "titleSlug": "remove-nth-node-from-end-of-list"
+                    }
+                },
+                {
+                    "date": "2022-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-k-closest-elements/",
+                    "question": {
+                        "questionFrontendId": "658",
+                        "title": "Find K Closest Elements",
+                        "titleSlug": "find-k-closest-elements"
+                    }
+                },
+                {
+                    "date": "2022-09-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-skyline-problem/",
+                    "question": {
+                        "questionFrontendId": "218",
+                        "title": "The Skyline Problem",
+                        "titleSlug": "the-skyline-problem"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-longest-consecutive-sequence/",
+                    "question": {
+                        "questionFrontendId": "298",
+                        "title": "Binary Tree Longest Consecutive Sequence",
+                        "titleSlug": "binary-tree-longest-consecutive-sequence",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-hit-counter/",
+                    "question": {
+                        "questionFrontendId": "362",
+                        "title": "Design Hit Counter",
+                        "titleSlug": "design-hit-counter",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-with-at-most-two-distinct-characters/",
+                    "question": {
+                        "questionFrontendId": "159",
+                        "title": "Longest Substring with At Most Two Distinct Characters",
+                        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-interval/",
+                    "question": {
+                        "questionFrontendId": "1272",
+                        "title": "Remove Interval",
+                        "titleSlug": "remove-interval",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kill-process/",
+                    "question": {
+                        "questionFrontendId": "582",
+                        "title": "Kill Process",
+                        "titleSlug": "kill-process",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}
