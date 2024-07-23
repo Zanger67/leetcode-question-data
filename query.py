@@ -142,7 +142,7 @@ def query_dailies(*,
     weeklies = {}
     dailies = {}
     
-    while year <= currentDate.year or (month <= currentDate.month and year == currentDate.year) :  
+    while year < currentDate.year or (month <= currentDate.month and year == currentDate.year) :  
         curr_file = DW_FILE_FORMAT.format(year=year, month=month)
         curr_file_s = DW_FILE_FORMAT_ONELINER.format(year=year, month=month)
         ic(curr_file)
@@ -161,7 +161,6 @@ def query_dailies(*,
                 ic(f'd:{daily["date"]}')
                 dailies[daily['date']] = daily
             
-            ic(request['data']['dailyCodingChallengeV2']['weeklyChallenges'])
             for weekly in request['data']['dailyCodingChallengeV2']['weeklyChallenges'] :
                 ic(f'w:{weekly["date"]}')
                 weeklies[weekly['date']] = weekly
@@ -176,7 +175,6 @@ def query_dailies(*,
             month = 1
             year += 1
         
-    print(weeklies)
     if force_print or limit < 0 :
         with open(DW_CUMULATIVE_DAILIES_S, 'w') as f:
             json.dump(dailies, f)
@@ -313,6 +311,7 @@ def main() -> None :
 
     print('Querying LeetCode dailies...')
     # query_dailies(limit=4, force_print=True, reset=True)
+    # query_dailies(start_year=2024, start_month=6, reset=True)
     query_dailies()
 
     print('Complete. Exiting...')
