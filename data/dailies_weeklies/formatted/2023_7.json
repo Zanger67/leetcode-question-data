@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-07-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fair-distribution-of-cookies/",
+                    "question": {
+                        "questionFrontendId": "2305",
+                        "title": "Fair Distribution of Cookies",
+                        "titleSlug": "fair-distribution-of-cookies"
+                    }
+                },
+                {
+                    "date": "2023-07-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-achievable-transfer-requests/",
+                    "question": {
+                        "questionFrontendId": "1601",
+                        "title": "Maximum Number of Achievable Transfer Requests",
+                        "titleSlug": "maximum-number-of-achievable-transfer-requests"
+                    }
+                },
+                {
+                    "date": "2023-07-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/buddy-strings/",
+                    "question": {
+                        "questionFrontendId": "859",
+                        "title": "Buddy Strings",
+                        "titleSlug": "buddy-strings"
+                    }
+                },
+                {
+                    "date": "2023-07-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-number-ii/",
+                    "question": {
+                        "questionFrontendId": "137",
+                        "title": "Single Number II",
+                        "titleSlug": "single-number-ii"
+                    }
+                },
+                {
+                    "date": "2023-07-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/",
+                    "question": {
+                        "questionFrontendId": "1493",
+                        "title": "Longest Subarray of 1's After Deleting One Element",
+                        "titleSlug": "longest-subarray-of-1s-after-deleting-one-element"
+                    }
+                },
+                {
+                    "date": "2023-07-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-size-subarray-sum/",
+                    "question": {
+                        "questionFrontendId": "209",
+                        "title": "Minimum Size Subarray Sum",
+                        "titleSlug": "minimum-size-subarray-sum"
+                    }
+                },
+                {
+                    "date": "2023-07-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-the-confusion-of-an-exam/",
+                    "question": {
+                        "questionFrontendId": "2024",
+                        "title": "Maximize the Confusion of an Exam",
+                        "titleSlug": "maximize-the-confusion-of-an-exam"
+                    }
+                },
+                {
+                    "date": "2023-07-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/put-marbles-in-bags/",
+                    "question": {
+                        "questionFrontendId": "2551",
+                        "title": "Put Marbles in Bags",
+                        "titleSlug": "put-marbles-in-bags"
+                    }
+                },
+                {
+                    "date": "2023-07-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/substring-with-largest-variance/",
+                    "question": {
+                        "questionFrontendId": "2272",
+                        "title": "Substring With Largest Variance",
+                        "titleSlug": "substring-with-largest-variance"
+                    }
+                },
+                {
+                    "date": "2023-07-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-depth-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "111",
+                        "title": "Minimum Depth of Binary Tree",
+                        "titleSlug": "minimum-depth-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-07-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/all-nodes-distance-k-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "863",
+                        "title": "All Nodes Distance K in Binary Tree",
+                        "titleSlug": "all-nodes-distance-k-in-binary-tree"
+                    }
+                },
+                {
+                    "date": "2023-07-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-eventual-safe-states/",
+                    "question": {
+                        "questionFrontendId": "802",
+                        "title": "Find Eventual Safe States",
+                        "titleSlug": "find-eventual-safe-states"
+                    }
+                },
+                {
+                    "date": "2023-07-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/course-schedule/",
+                    "question": {
+                        "questionFrontendId": "207",
+                        "title": "Course Schedule",
+                        "titleSlug": "course-schedule"
+                    }
+                },
+                {
+                    "date": "2023-07-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-arithmetic-subsequence-of-given-difference/",
+                    "question": {
+                        "questionFrontendId": "1218",
+                        "title": "Longest Arithmetic Subsequence of Given Difference",
+                        "titleSlug": "longest-arithmetic-subsequence-of-given-difference"
+                    }
+                },
+                {
+                    "date": "2023-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/",
+                    "question": {
+                        "questionFrontendId": "1751",
+                        "title": "Maximum Number of Events That Can Be Attended II",
+                        "titleSlug": "maximum-number-of-events-that-can-be-attended-ii"
+                    }
+                },
+                {
+                    "date": "2023-07-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-sufficient-team/",
+                    "question": {
+                        "questionFrontendId": "1125",
+                        "title": "Smallest Sufficient Team",
+                        "titleSlug": "smallest-sufficient-team"
+                    }
+                },
+                {
+                    "date": "2023-07-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-two-numbers-ii/",
+                    "question": {
+                        "questionFrontendId": "445",
+                        "title": "Add Two Numbers II",
+                        "titleSlug": "add-two-numbers-ii"
+                    }
+                },
+                {
+                    "date": "2023-07-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lru-cache/",
+                    "question": {
+                        "questionFrontendId": "146",
+                        "title": "LRU Cache",
+                        "titleSlug": "lru-cache"
+                    }
+                },
+                {
+                    "date": "2023-07-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/non-overlapping-intervals/",
+                    "question": {
+                        "questionFrontendId": "435",
+                        "title": "Non-overlapping Intervals",
+                        "titleSlug": "non-overlapping-intervals"
+                    }
+                },
+                {
+                    "date": "2023-07-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/asteroid-collision/",
+                    "question": {
+                        "questionFrontendId": "735",
+                        "title": "Asteroid Collision",
+                        "titleSlug": "asteroid-collision"
+                    }
+                },
+                {
+                    "date": "2023-07-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-longest-increasing-subsequence/",
+                    "question": {
+                        "questionFrontendId": "673",
+                        "title": "Number of Longest Increasing Subsequence",
+                        "titleSlug": "number-of-longest-increasing-subsequence"
+                    }
+                },
+                {
+                    "date": "2023-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/knight-probability-in-chessboard/",
+                    "question": {
+                        "questionFrontendId": "688",
+                        "title": "Knight Probability in Chessboard",
+                        "titleSlug": "knight-probability-in-chessboard"
+                    }
+                },
+                {
+                    "date": "2023-07-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/all-possible-full-binary-trees/",
+                    "question": {
+                        "questionFrontendId": "894",
+                        "title": "All Possible Full Binary Trees",
+                        "titleSlug": "all-possible-full-binary-trees"
+                    }
+                },
+                {
+                    "date": "2023-07-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/powx-n/",
+                    "question": {
+                        "questionFrontendId": "50",
+                        "title": "Pow(x, n)",
+                        "titleSlug": "powx-n"
+                    }
+                },
+                {
+                    "date": "2023-07-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/peak-index-in-a-mountain-array/",
+                    "question": {
+                        "questionFrontendId": "852",
+                        "title": "Peak Index in a Mountain Array",
+                        "titleSlug": "peak-index-in-a-mountain-array"
+                    }
+                },
+                {
+                    "date": "2023-07-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-speed-to-arrive-on-time/",
+                    "question": {
+                        "questionFrontendId": "1870",
+                        "title": "Minimum Speed to Arrive on Time",
+                        "titleSlug": "minimum-speed-to-arrive-on-time"
+                    }
+                },
+                {
+                    "date": "2023-07-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-running-time-of-n-computers/",
+                    "question": {
+                        "questionFrontendId": "2141",
+                        "title": "Maximum Running Time of N Computers",
+                        "titleSlug": "maximum-running-time-of-n-computers"
+                    }
+                },
+                {
+                    "date": "2023-07-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/predict-the-winner/",
+                    "question": {
+                        "questionFrontendId": "486",
+                        "title": "Predict the Winner",
+                        "titleSlug": "predict-the-winner"
+                    }
+                },
+                {
+                    "date": "2023-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/soup-servings/",
+                    "question": {
+                        "questionFrontendId": "808",
+                        "title": "Soup Servings",
+                        "titleSlug": "soup-servings"
+                    }
+                },
+                {
+                    "date": "2023-07-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/strange-printer/",
+                    "question": {
+                        "questionFrontendId": "664",
+                        "title": "Strange Printer",
+                        "titleSlug": "strange-printer"
+                    }
+                },
+                {
+                    "date": "2023-07-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-ascii-delete-sum-for-two-strings/",
+                    "question": {
+                        "questionFrontendId": "712",
+                        "title": "Minimum ASCII Delete Sum for Two Strings",
+                        "titleSlug": "minimum-ascii-delete-sum-for-two-strings"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-07-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/optimal-account-balancing/",
+                    "question": {
+                        "questionFrontendId": "465",
+                        "title": "Optimal Account Balancing",
+                        "titleSlug": "optimal-account-balancing",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-07-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-with-at-most-k-distinct-characters/",
+                    "question": {
+                        "questionFrontendId": "340",
+                        "title": "Longest Substring with At Most K Distinct Characters",
+                        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+                    "question": {
+                        "questionFrontendId": "1644",
+                        "title": "Lowest Common Ancestor of a Binary Tree II",
+                        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ternary-expression-parser/",
+                    "question": {
+                        "questionFrontendId": "439",
+                        "title": "Ternary Expression Parser",
+                        "titleSlug": "ternary-expression-parser",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/missing-element-in-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "1060",
+                        "title": "Missing Element in Sorted Array",
+                        "titleSlug": "missing-element-in-sorted-array",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/backspace-string-compare/",
+                    "question": {
+                        "questionFrontendId": "844",
+                        "title": "Backspace String Compare",
+                        "titleSlug": "backspace-string-compare"
+                    }
+                },
+                {
+                    "date": "2022-05-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-array-by-parity/",
+                    "question": {
+                        "questionFrontendId": "905",
+                        "title": "Sort Array By Parity",
+                        "titleSlug": "sort-array-by-parity"
+                    }
+                },
+                {
+                    "date": "2022-05-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-unsorted-continuous-subarray/",
+                    "question": {
+                        "questionFrontendId": "581",
+                        "title": "Shortest Unsorted Continuous Subarray",
+                        "titleSlug": "shortest-unsorted-continuous-subarray"
+                    }
+                },
+                {
+                    "date": "2022-05-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-number-of-k-sum-pairs/",
+                    "question": {
+                        "questionFrontendId": "1679",
+                        "title": "Max Number of K-Sum Pairs",
+                        "titleSlug": "max-number-of-k-sum-pairs"
+                    }
+                },
+                {
+                    "date": "2022-05-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-stack-using-queues/",
+                    "question": {
+                        "questionFrontendId": "225",
+                        "title": "Implement Stack using Queues",
+                        "titleSlug": "implement-stack-using-queues"
+                    }
+                },
+                {
+                    "date": "2022-05-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-all-adjacent-duplicates-in-string-ii/",
+                    "question": {
+                        "questionFrontendId": "1209",
+                        "title": "Remove All Adjacent Duplicates in String II",
+                        "titleSlug": "remove-all-adjacent-duplicates-in-string-ii"
+                    }
+                },
+                {
+                    "date": "2022-05-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/132-pattern/",
+                    "question": {
+                        "questionFrontendId": "456",
+                        "title": "132 Pattern",
+                        "titleSlug": "132-pattern"
+                    }
+                },
+                {
+                    "date": "2022-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/flatten-nested-list-iterator/",
+                    "question": {
+                        "questionFrontendId": "341",
+                        "title": "Flatten Nested List Iterator",
+                        "titleSlug": "flatten-nested-list-iterator"
+                    }
+                },
+                {
+                    "date": "2022-05-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/letter-combinations-of-a-phone-number/",
+                    "question": {
+                        "questionFrontendId": "17",
+                        "title": "Letter Combinations of a Phone Number",
+                        "titleSlug": "letter-combinations-of-a-phone-number"
+                    }
+                },
+                {
+                    "date": "2022-05-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/combination-sum-iii/",
+                    "question": {
+                        "questionFrontendId": "216",
+                        "title": "Combination Sum III",
+                        "titleSlug": "combination-sum-iii"
+                    }
+                },
+                {
+                    "date": "2022-05-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-sorted-vowel-strings/",
+                    "question": {
+                        "questionFrontendId": "1641",
+                        "title": "Count Sorted Vowel Strings",
+                        "titleSlug": "count-sorted-vowel-strings"
+                    }
+                },
+                {
+                    "date": "2022-05-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/permutations-ii/",
+                    "question": {
+                        "questionFrontendId": "47",
+                        "title": "Permutations II",
+                        "titleSlug": "permutations-ii"
+                    }
+                },
+                {
+                    "date": "2022-05-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/populating-next-right-pointers-in-each-node-ii/",
+                    "question": {
+                        "questionFrontendId": "117",
+                        "title": "Populating Next Right Pointers in Each Node II",
+                        "titleSlug": "populating-next-right-pointers-in-each-node-ii"
+                    }
+                },
+                {
+                    "date": "2022-05-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/network-delay-time/",
+                    "question": {
+                        "questionFrontendId": "743",
+                        "title": "Network Delay Time",
+                        "titleSlug": "network-delay-time"
+                    }
+                },
+                {
+                    "date": "2022-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/deepest-leaves-sum/",
+                    "question": {
+                        "questionFrontendId": "1302",
+                        "title": "Deepest Leaves Sum",
+                        "titleSlug": "deepest-leaves-sum"
+                    }
+                },
+                {
+                    "date": "2022-05-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-in-binary-matrix/",
+                    "question": {
+                        "questionFrontendId": "1091",
+                        "title": "Shortest Path in Binary Matrix",
+                        "titleSlug": "shortest-path-in-binary-matrix"
+                    }
+                },
+                {
+                    "date": "2022-05-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+                    "question": {
+                        "questionFrontendId": "1379",
+                        "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+                        "titleSlug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree"
+                    }
+                },
+                {
+                    "date": "2022-05-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/critical-connections-in-a-network/",
+                    "question": {
+                        "questionFrontendId": "1192",
+                        "title": "Critical Connections in a Network",
+                        "titleSlug": "critical-connections-in-a-network"
+                    }
+                },
+                {
+                    "date": "2022-05-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-increasing-path-in-a-matrix/",
+                    "question": {
+                        "questionFrontendId": "329",
+                        "title": "Longest Increasing Path in a Matrix",
+                        "titleSlug": "longest-increasing-path-in-a-matrix"
+                    }
+                },
+                {
+                    "date": "2022-05-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-paths-ii/",
+                    "question": {
+                        "questionFrontendId": "63",
+                        "title": "Unique Paths II",
+                        "titleSlug": "unique-paths-ii"
+                    }
+                },
+                {
+                    "date": "2022-05-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/coin-change/",
+                    "question": {
+                        "questionFrontendId": "322",
+                        "title": "Coin Change",
+                        "titleSlug": "coin-change"
+                    }
+                },
+                {
+                    "date": "2022-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindromic-substrings/",
+                    "question": {
+                        "questionFrontendId": "647",
+                        "title": "Palindromic Substrings",
+                        "titleSlug": "palindromic-substrings"
+                    }
+                },
+                {
+                    "date": "2022-05-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ones-and-zeroes/",
+                    "question": {
+                        "questionFrontendId": "474",
+                        "title": "Ones and Zeroes",
+                        "titleSlug": "ones-and-zeroes"
+                    }
+                },
+                {
+                    "date": "2022-05-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-valid-parentheses/",
+                    "question": {
+                        "questionFrontendId": "32",
+                        "title": "Longest Valid Parentheses",
+                        "titleSlug": "longest-valid-parentheses"
+                    }
+                },
+                {
+                    "date": "2022-05-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/russian-doll-envelopes/",
+                    "question": {
+                        "questionFrontendId": "354",
+                        "title": "Russian Doll Envelopes",
+                        "titleSlug": "russian-doll-envelopes"
+                    }
+                },
+                {
+                    "date": "2022-05-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-1-bits/",
+                    "question": {
+                        "questionFrontendId": "191",
+                        "title": "Number of 1 Bits",
+                        "titleSlug": "number-of-1-bits"
+                    }
+                },
+                {
+                    "date": "2022-05-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-steps-to-reduce-a-number-to-zero/",
+                    "question": {
+                        "questionFrontendId": "1342",
+                        "title": "Number of Steps to Reduce a Number to Zero",
+                        "titleSlug": "number-of-steps-to-reduce-a-number-to-zero"
+                    }
+                },
+                {
+                    "date": "2022-05-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/missing-number/",
+                    "question": {
+                        "questionFrontendId": "268",
+                        "title": "Missing Number",
+                        "titleSlug": "missing-number"
+                    }
+                },
+                {
+                    "date": "2022-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-product-of-word-lengths/",
+                    "question": {
+                        "questionFrontendId": "318",
+                        "title": "Maximum Product of Word Lengths",
+                        "titleSlug": "maximum-product-of-word-lengths"
+                    }
+                },
+                {
+                    "date": "2022-05-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/divide-two-integers/",
+                    "question": {
+                        "questionFrontendId": "29",
+                        "title": "Divide Two Integers",
+                        "titleSlug": "divide-two-integers"
+                    }
+                },
+                {
+                    "date": "2022-05-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+                    "question": {
+                        "questionFrontendId": "1461",
+                        "title": "Check If a String Contains All Binary Codes of Size K",
+                        "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-permutation/",
+                    "question": {
+                        "questionFrontendId": "484",
+                        "title": "Find Permutation",
+                        "titleSlug": "find-permutation",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/robot-room-cleaner/",
+                    "question": {
+                        "questionFrontendId": "489",
+                        "title": "Robot Room Cleaner",
+                        "titleSlug": "robot-room-cleaner",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-distinct-islands/",
+                    "question": {
+                        "questionFrontendId": "694",
+                        "title": "Number of Distinct Islands",
+                        "titleSlug": "number-of-distinct-islands",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-celebrity/",
+                    "question": {
+                        "questionFrontendId": "277",
+                        "title": "Find the Celebrity",
+                        "titleSlug": "find-the-celebrity",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/parallel-courses/",
+                    "question": {
+                        "questionFrontendId": "1136",
+                        "title": "Parallel Courses",
+                        "titleSlug": "parallel-courses",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

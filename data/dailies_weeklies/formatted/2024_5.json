@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2024-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-prefix-of-word/",
+                    "question": {
+                        "questionFrontendId": "2000",
+                        "title": "Reverse Prefix of Word",
+                        "titleSlug": "reverse-prefix-of-word"
+                    }
+                },
+                {
+                    "date": "2024-05-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-positive-integer-that-exists-with-its-negative/",
+                    "question": {
+                        "questionFrontendId": "2441",
+                        "title": "Largest Positive Integer That Exists With Its Negative",
+                        "titleSlug": "largest-positive-integer-that-exists-with-its-negative"
+                    }
+                },
+                {
+                    "date": "2024-05-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/compare-version-numbers/",
+                    "question": {
+                        "questionFrontendId": "165",
+                        "title": "Compare Version Numbers",
+                        "titleSlug": "compare-version-numbers"
+                    }
+                },
+                {
+                    "date": "2024-05-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/boats-to-save-people/",
+                    "question": {
+                        "questionFrontendId": "881",
+                        "title": "Boats to Save People",
+                        "titleSlug": "boats-to-save-people"
+                    }
+                },
+                {
+                    "date": "2024-05-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-node-in-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "237",
+                        "title": "Delete Node in a Linked List",
+                        "titleSlug": "delete-node-in-a-linked-list"
+                    }
+                },
+                {
+                    "date": "2024-05-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-nodes-from-linked-list/",
+                    "question": {
+                        "questionFrontendId": "2487",
+                        "title": "Remove Nodes From Linked List",
+                        "titleSlug": "remove-nodes-from-linked-list"
+                    }
+                },
+                {
+                    "date": "2024-05-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/double-a-number-represented-as-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "2816",
+                        "title": "Double a Number Represented as a Linked List",
+                        "titleSlug": "double-a-number-represented-as-a-linked-list"
+                    }
+                },
+                {
+                    "date": "2024-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/relative-ranks/",
+                    "question": {
+                        "questionFrontendId": "506",
+                        "title": "Relative Ranks",
+                        "titleSlug": "relative-ranks"
+                    }
+                },
+                {
+                    "date": "2024-05-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-happiness-of-selected-children/",
+                    "question": {
+                        "questionFrontendId": "3075",
+                        "title": "Maximize Happiness of Selected Children",
+                        "titleSlug": "maximize-happiness-of-selected-children"
+                    }
+                },
+                {
+                    "date": "2024-05-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-th-smallest-prime-fraction/",
+                    "question": {
+                        "questionFrontendId": "786",
+                        "title": "K-th Smallest Prime Fraction",
+                        "titleSlug": "k-th-smallest-prime-fraction"
+                    }
+                },
+                {
+                    "date": "2024-05-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-hire-k-workers/",
+                    "question": {
+                        "questionFrontendId": "857",
+                        "title": "Minimum Cost to Hire K Workers",
+                        "titleSlug": "minimum-cost-to-hire-k-workers"
+                    }
+                },
+                {
+                    "date": "2024-05-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-local-values-in-a-matrix/",
+                    "question": {
+                        "questionFrontendId": "2373",
+                        "title": "Largest Local Values in a Matrix",
+                        "titleSlug": "largest-local-values-in-a-matrix"
+                    }
+                },
+                {
+                    "date": "2024-05-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/score-after-flipping-matrix/",
+                    "question": {
+                        "questionFrontendId": "861",
+                        "title": "Score After Flipping Matrix",
+                        "titleSlug": "score-after-flipping-matrix"
+                    }
+                },
+                {
+                    "date": "2024-05-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-with-maximum-gold/",
+                    "question": {
+                        "questionFrontendId": "1219",
+                        "title": "Path with Maximum Gold",
+                        "titleSlug": "path-with-maximum-gold"
+                    }
+                },
+                {
+                    "date": "2024-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-safest-path-in-a-grid/",
+                    "question": {
+                        "questionFrontendId": "2812",
+                        "title": "Find the Safest Path in a Grid",
+                        "titleSlug": "find-the-safest-path-in-a-grid"
+                    }
+                },
+                {
+                    "date": "2024-05-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/evaluate-boolean-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "2331",
+                        "title": "Evaluate Boolean Binary Tree",
+                        "titleSlug": "evaluate-boolean-binary-tree"
+                    }
+                },
+                {
+                    "date": "2024-05-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-leaves-with-a-given-value/",
+                    "question": {
+                        "questionFrontendId": "1325",
+                        "title": "Delete Leaves With a Given Value",
+                        "titleSlug": "delete-leaves-with-a-given-value"
+                    }
+                },
+                {
+                    "date": "2024-05-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/distribute-coins-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "979",
+                        "title": "Distribute Coins in Binary Tree",
+                        "titleSlug": "distribute-coins-in-binary-tree"
+                    }
+                },
+                {
+                    "date": "2024-05-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-maximum-sum-of-node-values/",
+                    "question": {
+                        "questionFrontendId": "3068",
+                        "title": "Find the Maximum Sum of Node Values",
+                        "titleSlug": "find-the-maximum-sum-of-node-values"
+                    }
+                },
+                {
+                    "date": "2024-05-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-all-subset-xor-totals/",
+                    "question": {
+                        "questionFrontendId": "1863",
+                        "title": "Sum of All Subset XOR Totals",
+                        "titleSlug": "sum-of-all-subset-xor-totals"
+                    }
+                },
+                {
+                    "date": "2024-05-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/subsets/",
+                    "question": {
+                        "questionFrontendId": "78",
+                        "title": "Subsets",
+                        "titleSlug": "subsets"
+                    }
+                },
+                {
+                    "date": "2024-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindrome-partitioning/",
+                    "question": {
+                        "questionFrontendId": "131",
+                        "title": "Palindrome Partitioning",
+                        "titleSlug": "palindrome-partitioning"
+                    }
+                },
+                {
+                    "date": "2024-05-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-number-of-beautiful-subsets/",
+                    "question": {
+                        "questionFrontendId": "2597",
+                        "title": "The Number of Beautiful Subsets",
+                        "titleSlug": "the-number-of-beautiful-subsets"
+                    }
+                },
+                {
+                    "date": "2024-05-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-score-words-formed-by-letters/",
+                    "question": {
+                        "questionFrontendId": "1255",
+                        "title": "Maximum Score Words Formed by Letters",
+                        "titleSlug": "maximum-score-words-formed-by-letters"
+                    }
+                },
+                {
+                    "date": "2024-05-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-break-ii/",
+                    "question": {
+                        "questionFrontendId": "140",
+                        "title": "Word Break II",
+                        "titleSlug": "word-break-ii"
+                    }
+                },
+                {
+                    "date": "2024-05-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/student-attendance-record-ii/",
+                    "question": {
+                        "questionFrontendId": "552",
+                        "title": "Student Attendance Record II",
+                        "titleSlug": "student-attendance-record-ii"
+                    }
+                },
+                {
+                    "date": "2024-05-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+                    "question": {
+                        "questionFrontendId": "1608",
+                        "title": "Special Array With X Elements Greater Than or Equal X",
+                        "titleSlug": "special-array-with-x-elements-greater-than-or-equal-x"
+                    }
+                },
+                {
+                    "date": "2024-05-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/get-equal-substrings-within-budget/",
+                    "question": {
+                        "questionFrontendId": "1208",
+                        "title": "Get Equal Substrings Within Budget",
+                        "titleSlug": "get-equal-substrings-within-budget"
+                    }
+                },
+                {
+                    "date": "2024-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+                    "question": {
+                        "questionFrontendId": "1404",
+                        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+                        "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+                    }
+                },
+                {
+                    "date": "2024-05-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/",
+                    "question": {
+                        "questionFrontendId": "1442",
+                        "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+                        "titleSlug": "count-triplets-that-can-form-two-arrays-of-equal-xor"
+                    }
+                },
+                {
+                    "date": "2024-05-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-number-iii/",
+                    "question": {
+                        "questionFrontendId": "260",
+                        "title": "Single Number III",
+                        "titleSlug": "single-number-iii"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2024-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-pairs-in-two-arrays/",
+                    "question": {
+                        "questionFrontendId": "1885",
+                        "title": "Count Pairs in Two Arrays",
+                        "titleSlug": "count-pairs-in-two-arrays",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-buy-apples/",
+                    "question": {
+                        "questionFrontendId": "2473",
+                        "title": "Minimum Cost to Buy Apples",
+                        "titleSlug": "minimum-cost-to-buy-apples",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-spaces-cleaning-robot-cleaned/",
+                    "question": {
+                        "questionFrontendId": "2061",
+                        "title": "Number of Spaces Cleaning Robot Cleaned",
+                        "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-pattern-ii/",
+                    "question": {
+                        "questionFrontendId": "291",
+                        "title": "Word Pattern II",
+                        "titleSlug": "word-pattern-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-k-th-lucky-number/",
+                    "question": {
+                        "questionFrontendId": "2802",
+                        "title": "Find The K-th Lucky Number",
+                        "titleSlug": "find-the-k-th-lucky-number",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

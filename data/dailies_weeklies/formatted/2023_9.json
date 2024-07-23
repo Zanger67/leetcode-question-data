@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2023-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/counting-bits/",
+                    "question": {
+                        "questionFrontendId": "338",
+                        "title": "Counting Bits",
+                        "titleSlug": "counting-bits"
+                    }
+                },
+                {
+                    "date": "2023-09-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/extra-characters-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "2707",
+                        "title": "Extra Characters in a String",
+                        "titleSlug": "extra-characters-in-a-string"
+                    }
+                },
+                {
+                    "date": "2023-09-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-paths/",
+                    "question": {
+                        "questionFrontendId": "62",
+                        "title": "Unique Paths",
+                        "titleSlug": "unique-paths"
+                    }
+                },
+                {
+                    "date": "2023-09-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/linked-list-cycle/",
+                    "question": {
+                        "questionFrontendId": "141",
+                        "title": "Linked List Cycle",
+                        "titleSlug": "linked-list-cycle"
+                    }
+                },
+                {
+                    "date": "2023-09-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/copy-list-with-random-pointer/",
+                    "question": {
+                        "questionFrontendId": "138",
+                        "title": "Copy List with Random Pointer",
+                        "titleSlug": "copy-list-with-random-pointer"
+                    }
+                },
+                {
+                    "date": "2023-09-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/split-linked-list-in-parts/",
+                    "question": {
+                        "questionFrontendId": "725",
+                        "title": "Split Linked List in Parts",
+                        "titleSlug": "split-linked-list-in-parts"
+                    }
+                },
+                {
+                    "date": "2023-09-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-linked-list-ii/",
+                    "question": {
+                        "questionFrontendId": "92",
+                        "title": "Reverse Linked List II",
+                        "titleSlug": "reverse-linked-list-ii"
+                    }
+                },
+                {
+                    "date": "2023-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pascals-triangle/",
+                    "question": {
+                        "questionFrontendId": "118",
+                        "title": "Pascal's Triangle",
+                        "titleSlug": "pascals-triangle"
+                    }
+                },
+                {
+                    "date": "2023-09-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/combination-sum-iv/",
+                    "question": {
+                        "questionFrontendId": "377",
+                        "title": "Combination Sum IV",
+                        "titleSlug": "combination-sum-iv"
+                    }
+                },
+                {
+                    "date": "2023-09-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-all-valid-pickup-and-delivery-options/",
+                    "question": {
+                        "questionFrontendId": "1359",
+                        "title": "Count All Valid Pickup and Delivery Options",
+                        "titleSlug": "count-all-valid-pickup-and-delivery-options"
+                    }
+                },
+                {
+                    "date": "2023-09-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/group-the-people-given-the-group-size-they-belong-to/",
+                    "question": {
+                        "questionFrontendId": "1282",
+                        "title": "Group the People Given the Group Size They Belong To",
+                        "titleSlug": "group-the-people-given-the-group-size-they-belong-to"
+                    }
+                },
+                {
+                    "date": "2023-09-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-deletions-to-make-character-frequencies-unique/",
+                    "question": {
+                        "questionFrontendId": "1647",
+                        "title": "Minimum Deletions to Make Character Frequencies Unique",
+                        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique"
+                    }
+                },
+                {
+                    "date": "2023-09-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/candy/",
+                    "question": {
+                        "questionFrontendId": "135",
+                        "title": "Candy",
+                        "titleSlug": "candy"
+                    }
+                },
+                {
+                    "date": "2023-09-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reconstruct-itinerary/",
+                    "question": {
+                        "questionFrontendId": "332",
+                        "title": "Reconstruct Itinerary",
+                        "titleSlug": "reconstruct-itinerary"
+                    }
+                },
+                {
+                    "date": "2023-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/min-cost-to-connect-all-points/",
+                    "question": {
+                        "questionFrontendId": "1584",
+                        "title": "Min Cost to Connect All Points",
+                        "titleSlug": "min-cost-to-connect-all-points"
+                    }
+                },
+                {
+                    "date": "2023-09-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-with-minimum-effort/",
+                    "question": {
+                        "questionFrontendId": "1631",
+                        "title": "Path With Minimum Effort",
+                        "titleSlug": "path-with-minimum-effort"
+                    }
+                },
+                {
+                    "date": "2023-09-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-visiting-all-nodes/",
+                    "question": {
+                        "questionFrontendId": "847",
+                        "title": "Shortest Path Visiting All Nodes",
+                        "titleSlug": "shortest-path-visiting-all-nodes"
+                    }
+                },
+                {
+                    "date": "2023-09-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-k-weakest-rows-in-a-matrix/",
+                    "question": {
+                        "questionFrontendId": "1337",
+                        "title": "The K Weakest Rows in a Matrix",
+                        "titleSlug": "the-k-weakest-rows-in-a-matrix"
+                    }
+                },
+                {
+                    "date": "2023-09-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-duplicate-number/",
+                    "question": {
+                        "questionFrontendId": "287",
+                        "title": "Find the Duplicate Number",
+                        "titleSlug": "find-the-duplicate-number"
+                    }
+                },
+                {
+                    "date": "2023-09-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-reduce-x-to-zero/",
+                    "question": {
+                        "questionFrontendId": "1658",
+                        "title": "Minimum Operations to Reduce X to Zero",
+                        "titleSlug": "minimum-operations-to-reduce-x-to-zero"
+                    }
+                },
+                {
+                    "date": "2023-09-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/median-of-two-sorted-arrays/",
+                    "question": {
+                        "questionFrontendId": "4",
+                        "title": "Median of Two Sorted Arrays",
+                        "titleSlug": "median-of-two-sorted-arrays"
+                    }
+                },
+                {
+                    "date": "2023-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/is-subsequence/",
+                    "question": {
+                        "questionFrontendId": "392",
+                        "title": "Is Subsequence",
+                        "titleSlug": "is-subsequence"
+                    }
+                },
+                {
+                    "date": "2023-09-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-string-chain/",
+                    "question": {
+                        "questionFrontendId": "1048",
+                        "title": "Longest String Chain",
+                        "titleSlug": "longest-string-chain"
+                    }
+                },
+                {
+                    "date": "2023-09-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/champagne-tower/",
+                    "question": {
+                        "questionFrontendId": "799",
+                        "title": "Champagne Tower",
+                        "titleSlug": "champagne-tower"
+                    }
+                },
+                {
+                    "date": "2023-09-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-difference/",
+                    "question": {
+                        "questionFrontendId": "389",
+                        "title": "Find the Difference",
+                        "titleSlug": "find-the-difference"
+                    }
+                },
+                {
+                    "date": "2023-09-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-duplicate-letters/",
+                    "question": {
+                        "questionFrontendId": "316",
+                        "title": "Remove Duplicate Letters",
+                        "titleSlug": "remove-duplicate-letters"
+                    }
+                },
+                {
+                    "date": "2023-09-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/decoded-string-at-index/",
+                    "question": {
+                        "questionFrontendId": "880",
+                        "title": "Decoded String at Index",
+                        "titleSlug": "decoded-string-at-index"
+                    }
+                },
+                {
+                    "date": "2023-09-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-array-by-parity/",
+                    "question": {
+                        "questionFrontendId": "905",
+                        "title": "Sort Array By Parity",
+                        "titleSlug": "sort-array-by-parity"
+                    }
+                },
+                {
+                    "date": "2023-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/monotonic-array/",
+                    "question": {
+                        "questionFrontendId": "896",
+                        "title": "Monotonic Array",
+                        "titleSlug": "monotonic-array"
+                    }
+                },
+                {
+                    "date": "2023-09-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/132-pattern/",
+                    "question": {
+                        "questionFrontendId": "456",
+                        "title": "132 Pattern",
+                        "titleSlug": "132-pattern"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2023-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-time-to-build-blocks/",
+                    "question": {
+                        "questionFrontendId": "1199",
+                        "title": "Minimum Time to Build Blocks",
+                        "titleSlug": "minimum-time-to-build-blocks",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rearrange-string-k-distance-apart/",
+                    "question": {
+                        "questionFrontendId": "358",
+                        "title": "Rearrange String k Distance Apart",
+                        "titleSlug": "rearrange-string-k-distance-apart",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/parallel-courses/",
+                    "question": {
+                        "questionFrontendId": "1136",
+                        "title": "Parallel Courses",
+                        "titleSlug": "parallel-courses",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-valid-subarrays/",
+                    "question": {
+                        "questionFrontendId": "1063",
+                        "title": "Number of Valid Subarrays",
+                        "titleSlug": "number-of-valid-subarrays",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2023-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-strictly-increasing-subarrays/",
+                    "question": {
+                        "questionFrontendId": "2393",
+                        "title": "Count Strictly Increasing Subarrays",
+                        "titleSlug": "count-strictly-increasing-subarrays",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

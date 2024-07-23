@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2024-01-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/assign-cookies/",
+                    "question": {
+                        "questionFrontendId": "455",
+                        "title": "Assign Cookies",
+                        "titleSlug": "assign-cookies"
+                    }
+                },
+                {
+                    "date": "2024-01-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/convert-an-array-into-a-2d-array-with-conditions/",
+                    "question": {
+                        "questionFrontendId": "2610",
+                        "title": "Convert an Array Into a 2D Array With Conditions",
+                        "titleSlug": "convert-an-array-into-a-2d-array-with-conditions"
+                    }
+                },
+                {
+                    "date": "2024-01-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-laser-beams-in-a-bank/",
+                    "question": {
+                        "questionFrontendId": "2125",
+                        "title": "Number of Laser Beams in a Bank",
+                        "titleSlug": "number-of-laser-beams-in-a-bank"
+                    }
+                },
+                {
+                    "date": "2024-01-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-operations-to-make-array-empty/",
+                    "question": {
+                        "questionFrontendId": "2870",
+                        "title": "Minimum Number of Operations to Make Array Empty",
+                        "titleSlug": "minimum-number-of-operations-to-make-array-empty"
+                    }
+                },
+                {
+                    "date": "2024-01-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-increasing-subsequence/",
+                    "question": {
+                        "questionFrontendId": "300",
+                        "title": "Longest Increasing Subsequence",
+                        "titleSlug": "longest-increasing-subsequence"
+                    }
+                },
+                {
+                    "date": "2024-01-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-profit-in-job-scheduling/",
+                    "question": {
+                        "questionFrontendId": "1235",
+                        "title": "Maximum Profit in Job Scheduling",
+                        "titleSlug": "maximum-profit-in-job-scheduling"
+                    }
+                },
+                {
+                    "date": "2024-01-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/arithmetic-slices-ii-subsequence/",
+                    "question": {
+                        "questionFrontendId": "446",
+                        "title": "Arithmetic Slices II - Subsequence",
+                        "titleSlug": "arithmetic-slices-ii-subsequence"
+                    }
+                },
+                {
+                    "date": "2024-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/range-sum-of-bst/",
+                    "question": {
+                        "questionFrontendId": "938",
+                        "title": "Range Sum of BST",
+                        "titleSlug": "range-sum-of-bst"
+                    }
+                },
+                {
+                    "date": "2024-01-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/leaf-similar-trees/",
+                    "question": {
+                        "questionFrontendId": "872",
+                        "title": "Leaf-Similar Trees",
+                        "titleSlug": "leaf-similar-trees"
+                    }
+                },
+                {
+                    "date": "2024-01-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/amount-of-time-for-binary-tree-to-be-infected/",
+                    "question": {
+                        "questionFrontendId": "2385",
+                        "title": "Amount of Time for Binary Tree to Be Infected",
+                        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected"
+                    }
+                },
+                {
+                    "date": "2024-01-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-difference-between-node-and-ancestor/",
+                    "question": {
+                        "questionFrontendId": "1026",
+                        "title": "Maximum Difference Between Node and Ancestor",
+                        "titleSlug": "maximum-difference-between-node-and-ancestor"
+                    }
+                },
+                {
+                    "date": "2024-01-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-if-string-halves-are-alike/",
+                    "question": {
+                        "questionFrontendId": "1704",
+                        "title": "Determine if String Halves Are Alike",
+                        "titleSlug": "determine-if-string-halves-are-alike"
+                    }
+                },
+                {
+                    "date": "2024-01-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-steps-to-make-two-strings-anagram/",
+                    "question": {
+                        "questionFrontendId": "1347",
+                        "title": "Minimum Number of Steps to Make Two Strings Anagram",
+                        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram"
+                    }
+                },
+                {
+                    "date": "2024-01-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-if-two-strings-are-close/",
+                    "question": {
+                        "questionFrontendId": "1657",
+                        "title": "Determine if Two Strings Are Close",
+                        "titleSlug": "determine-if-two-strings-are-close"
+                    }
+                },
+                {
+                    "date": "2024-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-players-with-zero-or-one-losses/",
+                    "question": {
+                        "questionFrontendId": "2225",
+                        "title": "Find Players With Zero or One Losses",
+                        "titleSlug": "find-players-with-zero-or-one-losses"
+                    }
+                },
+                {
+                    "date": "2024-01-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/insert-delete-getrandom-o1/",
+                    "question": {
+                        "questionFrontendId": "380",
+                        "title": "Insert Delete GetRandom O(1)",
+                        "titleSlug": "insert-delete-getrandom-o1"
+                    }
+                },
+                {
+                    "date": "2024-01-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-number-of-occurrences/",
+                    "question": {
+                        "questionFrontendId": "1207",
+                        "title": "Unique Number of Occurrences",
+                        "titleSlug": "unique-number-of-occurrences"
+                    }
+                },
+                {
+                    "date": "2024-01-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/climbing-stairs/",
+                    "question": {
+                        "questionFrontendId": "70",
+                        "title": "Climbing Stairs",
+                        "titleSlug": "climbing-stairs"
+                    }
+                },
+                {
+                    "date": "2024-01-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-falling-path-sum/",
+                    "question": {
+                        "questionFrontendId": "931",
+                        "title": "Minimum Falling Path Sum",
+                        "titleSlug": "minimum-falling-path-sum"
+                    }
+                },
+                {
+                    "date": "2024-01-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-subarray-minimums/",
+                    "question": {
+                        "questionFrontendId": "907",
+                        "title": "Sum of Subarray Minimums",
+                        "titleSlug": "sum-of-subarray-minimums"
+                    }
+                },
+                {
+                    "date": "2024-01-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/house-robber/",
+                    "question": {
+                        "questionFrontendId": "198",
+                        "title": "House Robber",
+                        "titleSlug": "house-robber"
+                    }
+                },
+                {
+                    "date": "2024-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/set-mismatch/",
+                    "question": {
+                        "questionFrontendId": "645",
+                        "title": "Set Mismatch",
+                        "titleSlug": "set-mismatch"
+                    }
+                },
+                {
+                    "date": "2024-01-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
+                    "question": {
+                        "questionFrontendId": "1239",
+                        "title": "Maximum Length of a Concatenated String with Unique Characters",
+                        "titleSlug": "maximum-length-of-a-concatenated-string-with-unique-characters"
+                    }
+                },
+                {
+                    "date": "2024-01-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pseudo-palindromic-paths-in-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1457",
+                        "title": "Pseudo-Palindromic Paths in a Binary Tree",
+                        "titleSlug": "pseudo-palindromic-paths-in-a-binary-tree"
+                    }
+                },
+                {
+                    "date": "2024-01-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-common-subsequence/",
+                    "question": {
+                        "questionFrontendId": "1143",
+                        "title": "Longest Common Subsequence",
+                        "titleSlug": "longest-common-subsequence"
+                    }
+                },
+                {
+                    "date": "2024-01-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/out-of-boundary-paths/",
+                    "question": {
+                        "questionFrontendId": "576",
+                        "title": "Out of Boundary Paths",
+                        "titleSlug": "out-of-boundary-paths"
+                    }
+                },
+                {
+                    "date": "2024-01-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-inverse-pairs-array/",
+                    "question": {
+                        "questionFrontendId": "629",
+                        "title": "K Inverse Pairs Array",
+                        "titleSlug": "k-inverse-pairs-array"
+                    }
+                },
+                {
+                    "date": "2024-01-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-submatrices-that-sum-to-target/",
+                    "question": {
+                        "questionFrontendId": "1074",
+                        "title": "Number of Submatrices That Sum to Target",
+                        "titleSlug": "number-of-submatrices-that-sum-to-target"
+                    }
+                },
+                {
+                    "date": "2024-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-queue-using-stacks/",
+                    "question": {
+                        "questionFrontendId": "232",
+                        "title": "Implement Queue using Stacks",
+                        "titleSlug": "implement-queue-using-stacks"
+                    }
+                },
+                {
+                    "date": "2024-01-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/evaluate-reverse-polish-notation/",
+                    "question": {
+                        "questionFrontendId": "150",
+                        "title": "Evaluate Reverse Polish Notation",
+                        "titleSlug": "evaluate-reverse-polish-notation"
+                    }
+                },
+                {
+                    "date": "2024-01-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/daily-temperatures/",
+                    "question": {
+                        "questionFrontendId": "739",
+                        "title": "Daily Temperatures",
+                        "titleSlug": "daily-temperatures"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2024-01-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/campus-bikes-ii/",
+                    "question": {
+                        "questionFrontendId": "1066",
+                        "title": "Campus Bikes II",
+                        "titleSlug": "campus-bikes-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/leftmost-column-with-at-least-a-one/",
+                    "question": {
+                        "questionFrontendId": "1428",
+                        "title": "Leftmost Column with at Least a One",
+                        "titleSlug": "leftmost-column-with-at-least-a-one",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-row-keyboard/",
+                    "question": {
+                        "questionFrontendId": "1165",
+                        "title": "Single-Row Keyboard",
+                        "titleSlug": "single-row-keyboard",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-connect-sticks/",
+                    "question": {
+                        "questionFrontendId": "1167",
+                        "title": "Minimum Cost to Connect Sticks",
+                        "titleSlug": "minimum-cost-to-connect-sticks",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/paint-house/",
+                    "question": {
+                        "questionFrontendId": "256",
+                        "title": "Paint House",
+                        "titleSlug": "paint-house",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

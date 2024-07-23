@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-08-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-paths/",
+                    "question": {
+                        "questionFrontendId": "62",
+                        "title": "Unique Paths",
+                        "titleSlug": "unique-paths"
+                    }
+                },
+                {
+                    "date": "2022-08-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kth-smallest-element-in-a-sorted-matrix/",
+                    "question": {
+                        "questionFrontendId": "378",
+                        "title": "Kth Smallest Element in a Sorted Matrix",
+                        "titleSlug": "kth-smallest-element-in-a-sorted-matrix"
+                    }
+                },
+                {
+                    "date": "2022-08-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/my-calendar-i/",
+                    "question": {
+                        "questionFrontendId": "729",
+                        "title": "My Calendar I",
+                        "titleSlug": "my-calendar-i"
+                    }
+                },
+                {
+                    "date": "2022-08-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/mirror-reflection/",
+                    "question": {
+                        "questionFrontendId": "858",
+                        "title": "Mirror Reflection",
+                        "titleSlug": "mirror-reflection"
+                    }
+                },
+                {
+                    "date": "2022-08-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/combination-sum-iv/",
+                    "question": {
+                        "questionFrontendId": "377",
+                        "title": "Combination Sum IV",
+                        "titleSlug": "combination-sum-iv"
+                    }
+                },
+                {
+                    "date": "2022-08-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/poor-pigs/",
+                    "question": {
+                        "questionFrontendId": "458",
+                        "title": "Poor Pigs",
+                        "titleSlug": "poor-pigs"
+                    }
+                },
+                {
+                    "date": "2022-08-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-vowels-permutation/",
+                    "question": {
+                        "questionFrontendId": "1220",
+                        "title": "Count Vowels Permutation",
+                        "titleSlug": "count-vowels-permutation"
+                    }
+                },
+                {
+                    "date": "2022-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-increasing-subsequence/",
+                    "question": {
+                        "questionFrontendId": "300",
+                        "title": "Longest Increasing Subsequence",
+                        "titleSlug": "longest-increasing-subsequence"
+                    }
+                },
+                {
+                    "date": "2022-08-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-trees-with-factors/",
+                    "question": {
+                        "questionFrontendId": "823",
+                        "title": "Binary Trees With Factors",
+                        "titleSlug": "binary-trees-with-factors"
+                    }
+                },
+                {
+                    "date": "2022-08-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/convert-sorted-array-to-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "108",
+                        "title": "Convert Sorted Array to Binary Search Tree",
+                        "titleSlug": "convert-sorted-array-to-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2022-08-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/validate-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "98",
+                        "title": "Validate Binary Search Tree",
+                        "titleSlug": "validate-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2022-08-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "235",
+                        "title": "Lowest Common Ancestor of a Binary Search Tree",
+                        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2022-08-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/substring-with-concatenation-of-all-words/",
+                    "question": {
+                        "questionFrontendId": "30",
+                        "title": "Substring with Concatenation of All Words",
+                        "titleSlug": "substring-with-concatenation-of-all-words"
+                    }
+                },
+                {
+                    "date": "2022-08-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-ladder-ii/",
+                    "question": {
+                        "questionFrontendId": "126",
+                        "title": "Word Ladder II",
+                        "titleSlug": "word-ladder-ii"
+                    }
+                },
+                {
+                    "date": "2022-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/roman-to-integer/",
+                    "question": {
+                        "questionFrontendId": "13",
+                        "title": "Roman to Integer",
+                        "titleSlug": "roman-to-integer"
+                    }
+                },
+                {
+                    "date": "2022-08-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/first-unique-character-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "387",
+                        "title": "First Unique Character in a String",
+                        "titleSlug": "first-unique-character-in-a-string"
+                    }
+                },
+                {
+                    "date": "2022-08-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-morse-code-words/",
+                    "question": {
+                        "questionFrontendId": "804",
+                        "title": "Unique Morse Code Words",
+                        "titleSlug": "unique-morse-code-words"
+                    }
+                },
+                {
+                    "date": "2022-08-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reduce-array-size-to-the-half/",
+                    "question": {
+                        "questionFrontendId": "1338",
+                        "title": "Reduce Array Size to The Half",
+                        "titleSlug": "reduce-array-size-to-the-half"
+                    }
+                },
+                {
+                    "date": "2022-08-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/split-array-into-consecutive-subsequences/",
+                    "question": {
+                        "questionFrontendId": "659",
+                        "title": "Split Array into Consecutive Subsequences",
+                        "titleSlug": "split-array-into-consecutive-subsequences"
+                    }
+                },
+                {
+                    "date": "2022-08-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-refueling-stops/",
+                    "question": {
+                        "questionFrontendId": "871",
+                        "title": "Minimum Number of Refueling Stops",
+                        "titleSlug": "minimum-number-of-refueling-stops"
+                    }
+                },
+                {
+                    "date": "2022-08-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stamping-the-sequence/",
+                    "question": {
+                        "questionFrontendId": "936",
+                        "title": "Stamping The Sequence",
+                        "titleSlug": "stamping-the-sequence"
+                    }
+                },
+                {
+                    "date": "2022-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-four/",
+                    "question": {
+                        "questionFrontendId": "342",
+                        "title": "Power of Four",
+                        "titleSlug": "power-of-four"
+                    }
+                },
+                {
+                    "date": "2022-08-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindrome-linked-list/",
+                    "question": {
+                        "questionFrontendId": "234",
+                        "title": "Palindrome Linked List",
+                        "titleSlug": "palindrome-linked-list"
+                    }
+                },
+                {
+                    "date": "2022-08-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-three/",
+                    "question": {
+                        "questionFrontendId": "326",
+                        "title": "Power of Three",
+                        "titleSlug": "power-of-three"
+                    }
+                },
+                {
+                    "date": "2022-08-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ransom-note/",
+                    "question": {
+                        "questionFrontendId": "383",
+                        "title": "Ransom Note",
+                        "titleSlug": "ransom-note"
+                    }
+                },
+                {
+                    "date": "2022-08-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reordered-power-of-2/",
+                    "question": {
+                        "questionFrontendId": "869",
+                        "title": "Reordered Power of 2",
+                        "titleSlug": "reordered-power-of-2"
+                    }
+                },
+                {
+                    "date": "2022-08-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-sum-of-rectangle-no-larger-than-k/",
+                    "question": {
+                        "questionFrontendId": "363",
+                        "title": "Max Sum of Rectangle No Larger Than K",
+                        "titleSlug": "max-sum-of-rectangle-no-larger-than-k"
+                    }
+                },
+                {
+                    "date": "2022-08-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-the-matrix-diagonally/",
+                    "question": {
+                        "questionFrontendId": "1329",
+                        "title": "Sort the Matrix Diagonally",
+                        "titleSlug": "sort-the-matrix-diagonally"
+                    }
+                },
+                {
+                    "date": "2022-08-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-islands/",
+                    "question": {
+                        "questionFrontendId": "200",
+                        "title": "Number of Islands",
+                        "titleSlug": "number-of-islands"
+                    }
+                },
+                {
+                    "date": "2022-08-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotate-image/",
+                    "question": {
+                        "questionFrontendId": "48",
+                        "title": "Rotate Image",
+                        "titleSlug": "rotate-image"
+                    }
+                },
+                {
+                    "date": "2022-08-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pacific-atlantic-water-flow/",
+                    "question": {
+                        "questionFrontendId": "417",
+                        "title": "Pacific Atlantic Water Flow",
+                        "titleSlug": "pacific-atlantic-water-flow"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-08-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-leaves-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "366",
+                        "title": "Find Leaves of Binary Tree",
+                        "titleSlug": "find-leaves-of-binary-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-vertical-order-traversal/",
+                    "question": {
+                        "questionFrontendId": "314",
+                        "title": "Binary Tree Vertical Order Traversal",
+                        "titleSlug": "binary-tree-vertical-order-traversal",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/dot-product-of-two-sparse-vectors/",
+                    "question": {
+                        "questionFrontendId": "1570",
+                        "title": "Dot Product of Two Sparse Vectors",
+                        "titleSlug": "dot-product-of-two-sparse-vectors",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-longest-consecutive-sequence-ii/",
+                    "question": {
+                        "questionFrontendId": "549",
+                        "title": "Binary Tree Longest Consecutive Sequence II",
+                        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-08-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-maze-ii/",
+                    "question": {
+                        "questionFrontendId": "505",
+                        "title": "The Maze II",
+                        "titleSlug": "the-maze-ii",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

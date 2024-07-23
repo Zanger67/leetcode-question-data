@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2024-04-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/length-of-last-word/",
+                    "question": {
+                        "questionFrontendId": "58",
+                        "title": "Length of Last Word",
+                        "titleSlug": "length-of-last-word"
+                    }
+                },
+                {
+                    "date": "2024-04-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/isomorphic-strings/",
+                    "question": {
+                        "questionFrontendId": "205",
+                        "title": "Isomorphic Strings",
+                        "titleSlug": "isomorphic-strings"
+                    }
+                },
+                {
+                    "date": "2024-04-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search/",
+                    "question": {
+                        "questionFrontendId": "79",
+                        "title": "Word Search",
+                        "titleSlug": "word-search"
+                    }
+                },
+                {
+                    "date": "2024-04-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-nesting-depth-of-the-parentheses/",
+                    "question": {
+                        "questionFrontendId": "1614",
+                        "title": "Maximum Nesting Depth of the Parentheses",
+                        "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+                    }
+                },
+                {
+                    "date": "2024-04-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/make-the-string-great/",
+                    "question": {
+                        "questionFrontendId": "1544",
+                        "title": "Make The String Great",
+                        "titleSlug": "make-the-string-great"
+                    }
+                },
+                {
+                    "date": "2024-04-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-remove-to-make-valid-parentheses/",
+                    "question": {
+                        "questionFrontendId": "1249",
+                        "title": "Minimum Remove to Make Valid Parentheses",
+                        "titleSlug": "minimum-remove-to-make-valid-parentheses"
+                    }
+                },
+                {
+                    "date": "2024-04-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-parenthesis-string/",
+                    "question": {
+                        "questionFrontendId": "678",
+                        "title": "Valid Parenthesis String",
+                        "titleSlug": "valid-parenthesis-string"
+                    }
+                },
+                {
+                    "date": "2024-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-students-unable-to-eat-lunch/",
+                    "question": {
+                        "questionFrontendId": "1700",
+                        "title": "Number of Students Unable to Eat Lunch",
+                        "titleSlug": "number-of-students-unable-to-eat-lunch"
+                    }
+                },
+                {
+                    "date": "2024-04-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/time-needed-to-buy-tickets/",
+                    "question": {
+                        "questionFrontendId": "2073",
+                        "title": "Time Needed to Buy Tickets",
+                        "titleSlug": "time-needed-to-buy-tickets"
+                    }
+                },
+                {
+                    "date": "2024-04-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reveal-cards-in-increasing-order/",
+                    "question": {
+                        "questionFrontendId": "950",
+                        "title": "Reveal Cards In Increasing Order",
+                        "titleSlug": "reveal-cards-in-increasing-order"
+                    }
+                },
+                {
+                    "date": "2024-04-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-k-digits/",
+                    "question": {
+                        "questionFrontendId": "402",
+                        "title": "Remove K Digits",
+                        "titleSlug": "remove-k-digits"
+                    }
+                },
+                {
+                    "date": "2024-04-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/trapping-rain-water/",
+                    "question": {
+                        "questionFrontendId": "42",
+                        "title": "Trapping Rain Water",
+                        "titleSlug": "trapping-rain-water"
+                    }
+                },
+                {
+                    "date": "2024-04-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximal-rectangle/",
+                    "question": {
+                        "questionFrontendId": "85",
+                        "title": "Maximal Rectangle",
+                        "titleSlug": "maximal-rectangle"
+                    }
+                },
+                {
+                    "date": "2024-04-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-left-leaves/",
+                    "question": {
+                        "questionFrontendId": "404",
+                        "title": "Sum of Left Leaves",
+                        "titleSlug": "sum-of-left-leaves"
+                    }
+                },
+                {
+                    "date": "2024-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-root-to-leaf-numbers/",
+                    "question": {
+                        "questionFrontendId": "129",
+                        "title": "Sum Root to Leaf Numbers",
+                        "titleSlug": "sum-root-to-leaf-numbers"
+                    }
+                },
+                {
+                    "date": "2024-04-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-one-row-to-tree/",
+                    "question": {
+                        "questionFrontendId": "623",
+                        "title": "Add One Row to Tree",
+                        "titleSlug": "add-one-row-to-tree"
+                    }
+                },
+                {
+                    "date": "2024-04-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-string-starting-from-leaf/",
+                    "question": {
+                        "questionFrontendId": "988",
+                        "title": "Smallest String Starting From Leaf",
+                        "titleSlug": "smallest-string-starting-from-leaf"
+                    }
+                },
+                {
+                    "date": "2024-04-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/island-perimeter/",
+                    "question": {
+                        "questionFrontendId": "463",
+                        "title": "Island Perimeter",
+                        "titleSlug": "island-perimeter"
+                    }
+                },
+                {
+                    "date": "2024-04-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-islands/",
+                    "question": {
+                        "questionFrontendId": "200",
+                        "title": "Number of Islands",
+                        "titleSlug": "number-of-islands"
+                    }
+                },
+                {
+                    "date": "2024-04-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-groups-of-farmland/",
+                    "question": {
+                        "questionFrontendId": "1992",
+                        "title": "Find All Groups of Farmland",
+                        "titleSlug": "find-all-groups-of-farmland"
+                    }
+                },
+                {
+                    "date": "2024-04-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-if-path-exists-in-graph/",
+                    "question": {
+                        "questionFrontendId": "1971",
+                        "title": "Find if Path Exists in Graph",
+                        "titleSlug": "find-if-path-exists-in-graph"
+                    }
+                },
+                {
+                    "date": "2024-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/open-the-lock/",
+                    "question": {
+                        "questionFrontendId": "752",
+                        "title": "Open the Lock",
+                        "titleSlug": "open-the-lock"
+                    }
+                },
+                {
+                    "date": "2024-04-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-height-trees/",
+                    "question": {
+                        "questionFrontendId": "310",
+                        "title": "Minimum Height Trees",
+                        "titleSlug": "minimum-height-trees"
+                    }
+                },
+                {
+                    "date": "2024-04-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/n-th-tribonacci-number/",
+                    "question": {
+                        "questionFrontendId": "1137",
+                        "title": "N-th Tribonacci Number",
+                        "titleSlug": "n-th-tribonacci-number"
+                    }
+                },
+                {
+                    "date": "2024-04-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-ideal-subsequence/",
+                    "question": {
+                        "questionFrontendId": "2370",
+                        "title": "Longest Ideal Subsequence",
+                        "titleSlug": "longest-ideal-subsequence"
+                    }
+                },
+                {
+                    "date": "2024-04-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-falling-path-sum-ii/",
+                    "question": {
+                        "questionFrontendId": "1289",
+                        "title": "Minimum Falling Path Sum II",
+                        "titleSlug": "minimum-falling-path-sum-ii"
+                    }
+                },
+                {
+                    "date": "2024-04-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/freedom-trail/",
+                    "question": {
+                        "questionFrontendId": "514",
+                        "title": "Freedom Trail",
+                        "titleSlug": "freedom-trail"
+                    }
+                },
+                {
+                    "date": "2024-04-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-distances-in-tree/",
+                    "question": {
+                        "questionFrontendId": "834",
+                        "title": "Sum of Distances in Tree",
+                        "titleSlug": "sum-of-distances-in-tree"
+                    }
+                },
+                {
+                    "date": "2024-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/",
+                    "question": {
+                        "questionFrontendId": "2997",
+                        "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+                        "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k"
+                    }
+                },
+                {
+                    "date": "2024-04-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-wonderful-substrings/",
+                    "question": {
+                        "questionFrontendId": "1915",
+                        "title": "Number of Wonderful Substrings",
+                        "titleSlug": "number-of-wonderful-substrings"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2024-04-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-with-at-most-two-distinct-characters/",
+                    "question": {
+                        "questionFrontendId": "159",
+                        "title": "Longest Substring with At Most Two Distinct Characters",
+                        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/verify-preorder-sequence-in-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "255",
+                        "title": "Verify Preorder Sequence in Binary Search Tree",
+                        "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-the-lonely-nodes/",
+                    "question": {
+                        "questionFrontendId": "1469",
+                        "title": "Find All The Lonely Nodes",
+                        "titleSlug": "find-all-the-lonely-nodes",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-islands-ii/",
+                    "question": {
+                        "questionFrontendId": "305",
+                        "title": "Number of Islands II",
+                        "titleSlug": "number-of-islands-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bitwise-or-of-all-subsequence-sums/",
+                    "question": {
+                        "questionFrontendId": "2505",
+                        "title": "Bitwise OR of All Subsequence Sums",
+                        "titleSlug": "bitwise-or-of-all-subsequence-sums",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

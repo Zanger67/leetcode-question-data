@@ -1,0 +1,365 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-06-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/running-sum-of-1d-array/",
+                    "question": {
+                        "questionFrontendId": "1480",
+                        "title": "Running Sum of 1d Array",
+                        "titleSlug": "running-sum-of-1d-array"
+                    }
+                },
+                {
+                    "date": "2022-06-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/transpose-matrix/",
+                    "question": {
+                        "questionFrontendId": "867",
+                        "title": "Transpose Matrix",
+                        "titleSlug": "transpose-matrix"
+                    }
+                },
+                {
+                    "date": "2022-06-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/range-sum-query-2d-immutable/",
+                    "question": {
+                        "questionFrontendId": "304",
+                        "title": "Range Sum Query 2D - Immutable",
+                        "titleSlug": "range-sum-query-2d-immutable"
+                    }
+                },
+                {
+                    "date": "2022-06-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/n-queens/",
+                    "question": {
+                        "questionFrontendId": "51",
+                        "title": "N-Queens",
+                        "titleSlug": "n-queens"
+                    }
+                },
+                {
+                    "date": "2022-06-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/n-queens-ii/",
+                    "question": {
+                        "questionFrontendId": "52",
+                        "title": "N-Queens II",
+                        "titleSlug": "n-queens-ii"
+                    }
+                },
+                {
+                    "date": "2022-06-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/intersection-of-two-linked-lists/",
+                    "question": {
+                        "questionFrontendId": "160",
+                        "title": "Intersection of Two Linked Lists",
+                        "titleSlug": "intersection-of-two-linked-lists"
+                    }
+                },
+                {
+                    "date": "2022-06-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/merge-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "88",
+                        "title": "Merge Sorted Array",
+                        "titleSlug": "merge-sorted-array"
+                    }
+                },
+                {
+                    "date": "2022-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-palindromic-subsequences/",
+                    "question": {
+                        "questionFrontendId": "1332",
+                        "title": "Remove Palindromic Subsequences",
+                        "titleSlug": "remove-palindromic-subsequences"
+                    }
+                },
+                {
+                    "date": "2022-06-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-sum-ii-input-array-is-sorted/",
+                    "question": {
+                        "questionFrontendId": "167",
+                        "title": "Two Sum II - Input Array Is Sorted",
+                        "titleSlug": "two-sum-ii-input-array-is-sorted"
+                    }
+                },
+                {
+                    "date": "2022-06-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-without-repeating-characters/",
+                    "question": {
+                        "questionFrontendId": "3",
+                        "title": "Longest Substring Without Repeating Characters",
+                        "titleSlug": "longest-substring-without-repeating-characters"
+                    }
+                },
+                {
+                    "date": "2022-06-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-reduce-x-to-zero/",
+                    "question": {
+                        "questionFrontendId": "1658",
+                        "title": "Minimum Operations to Reduce X to Zero",
+                        "titleSlug": "minimum-operations-to-reduce-x-to-zero"
+                    }
+                },
+                {
+                    "date": "2022-06-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-erasure-value/",
+                    "question": {
+                        "questionFrontendId": "1695",
+                        "title": "Maximum Erasure Value",
+                        "titleSlug": "maximum-erasure-value"
+                    }
+                },
+                {
+                    "date": "2022-06-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/triangle/",
+                    "question": {
+                        "questionFrontendId": "120",
+                        "title": "Triangle",
+                        "titleSlug": "triangle"
+                    }
+                },
+                {
+                    "date": "2022-06-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-operation-for-two-strings/",
+                    "question": {
+                        "questionFrontendId": "583",
+                        "title": "Delete Operation for Two Strings",
+                        "titleSlug": "delete-operation-for-two-strings"
+                    }
+                },
+                {
+                    "date": "2022-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-string-chain/",
+                    "question": {
+                        "questionFrontendId": "1048",
+                        "title": "Longest String Chain",
+                        "titleSlug": "longest-string-chain"
+                    }
+                },
+                {
+                    "date": "2022-06-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-palindromic-substring/",
+                    "question": {
+                        "questionFrontendId": "5",
+                        "title": "Longest Palindromic Substring",
+                        "titleSlug": "longest-palindromic-substring"
+                    }
+                },
+                {
+                    "date": "2022-06-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-cameras/",
+                    "question": {
+                        "questionFrontendId": "968",
+                        "title": "Binary Tree Cameras",
+                        "titleSlug": "binary-tree-cameras"
+                    }
+                },
+                {
+                    "date": "2022-06-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/prefix-and-suffix-search/",
+                    "question": {
+                        "questionFrontendId": "745",
+                        "title": "Prefix and Suffix Search",
+                        "titleSlug": "prefix-and-suffix-search"
+                    }
+                },
+                {
+                    "date": "2022-06-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/search-suggestions-system/",
+                    "question": {
+                        "questionFrontendId": "1268",
+                        "title": "Search Suggestions System",
+                        "titleSlug": "search-suggestions-system"
+                    }
+                },
+                {
+                    "date": "2022-06-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/short-encoding-of-words/",
+                    "question": {
+                        "questionFrontendId": "820",
+                        "title": "Short Encoding of Words",
+                        "titleSlug": "short-encoding-of-words"
+                    }
+                },
+                {
+                    "date": "2022-06-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/furthest-building-you-can-reach/",
+                    "question": {
+                        "questionFrontendId": "1642",
+                        "title": "Furthest Building You Can Reach",
+                        "titleSlug": "furthest-building-you-can-reach"
+                    }
+                },
+                {
+                    "date": "2022-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kth-largest-element-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "215",
+                        "title": "Kth Largest Element in an Array",
+                        "titleSlug": "kth-largest-element-in-an-array"
+                    }
+                },
+                {
+                    "date": "2022-06-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/course-schedule-iii/",
+                    "question": {
+                        "questionFrontendId": "630",
+                        "title": "Course Schedule III",
+                        "titleSlug": "course-schedule-iii"
+                    }
+                },
+                {
+                    "date": "2022-06-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-target-array-with-multiple-sums/",
+                    "question": {
+                        "questionFrontendId": "1354",
+                        "title": "Construct Target Array With Multiple Sums",
+                        "titleSlug": "construct-target-array-with-multiple-sums"
+                    }
+                },
+                {
+                    "date": "2022-06-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/non-decreasing-array/",
+                    "question": {
+                        "questionFrontendId": "665",
+                        "title": "Non-decreasing Array",
+                        "titleSlug": "non-decreasing-array"
+                    }
+                },
+                {
+                    "date": "2022-06-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-points-you-can-obtain-from-cards/",
+                    "question": {
+                        "questionFrontendId": "1423",
+                        "title": "Maximum Points You Can Obtain from Cards",
+                        "titleSlug": "maximum-points-you-can-obtain-from-cards"
+                    }
+                },
+                {
+                    "date": "2022-06-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1689",
+                        "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+                        "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers"
+                    }
+                },
+                {
+                    "date": "2022-06-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-deletions-to-make-character-frequencies-unique/",
+                    "question": {
+                        "questionFrontendId": "1647",
+                        "title": "Minimum Deletions to Make Character Frequencies Unique",
+                        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique"
+                    }
+                },
+                {
+                    "date": "2022-06-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/queue-reconstruction-by-height/",
+                    "question": {
+                        "questionFrontendId": "406",
+                        "title": "Queue Reconstruction by Height",
+                        "titleSlug": "queue-reconstruction-by-height"
+                    }
+                },
+                {
+                    "date": "2022-06-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-moves-to-equal-array-elements-ii/",
+                    "question": {
+                        "questionFrontendId": "462",
+                        "title": "Minimum Moves to Equal Array Elements II",
+                        "titleSlug": "minimum-moves-to-equal-array-elements-ii"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-06-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-knight-moves/",
+                    "question": {
+                        "questionFrontendId": "1197",
+                        "title": "Minimum Knight Moves",
+                        "titleSlug": "minimum-knight-moves",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-swaps-to-group-all-1s-together/",
+                    "question": {
+                        "questionFrontendId": "1151",
+                        "title": "Minimum Swaps to Group All 1's Together",
+                        "titleSlug": "minimum-swaps-to-group-all-1s-together",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-abbreviation/",
+                    "question": {
+                        "questionFrontendId": "527",
+                        "title": "Word Abbreviation",
+                        "titleSlug": "word-abbreviation",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/meeting-scheduler/",
+                    "question": {
+                        "questionFrontendId": "1229",
+                        "title": "Meeting Scheduler",
+                        "titleSlug": "meeting-scheduler",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-06-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/put-boxes-into-the-warehouse-i/",
+                    "question": {
+                        "questionFrontendId": "1564",
+                        "title": "Put Boxes Into the Warehouse I",
+                        "titleSlug": "put-boxes-into-the-warehouse-i",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}
