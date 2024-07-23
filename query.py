@@ -128,7 +128,6 @@ def query_dailies(*,
                   limit:int=-1,
                   force_print:bool=False) -> Tuple[dict, dict]:
     '''
-    
     ### Parameters:
     - `reset`: bool
         - If `True`, will reset the query and re-query all the data.
@@ -176,14 +175,14 @@ def query_dailies(*,
             year += 1
         
     if force_print or limit < 0 :
-        with open(DW_CUMULATIVE_DAILIES_S, 'w') as f:
-            json.dump(dailies, f)
         with open(DW_CUMULATIVE_DAILIES, 'w') as f:
             json.dump(dailies, f, indent=4)
+        with open(DW_CUMULATIVE_DAILIES_S, 'w') as f:
+            json.dump(dailies, f)
         with open(DW_CUMULATIVE_WEEKLIES, 'w') as f:
-            json.dump(weeklies, f)
-        with open(DW_CUMULATIVE_WEEKLIES_S, 'w') as f:
             json.dump(weeklies, f, indent=4)
+        with open(DW_CUMULATIVE_WEEKLIES_S, 'w') as f:
+            json.dump(weeklies, f)
         
     return (dailies, weeklies)
     
