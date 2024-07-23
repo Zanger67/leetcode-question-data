@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-01-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/burst-balloons/",
+                    "question": {
+                        "questionFrontendId": "312",
+                        "title": "Burst Balloons",
+                        "titleSlug": "burst-balloons"
+                    }
+                },
+                {
+                    "date": "2022-01-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pairs-of-songs-with-total-durations-divisible-by-60/",
+                    "question": {
+                        "questionFrontendId": "1010",
+                        "title": "Pairs of Songs With Total Durations Divisible by 60",
+                        "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60"
+                    }
+                },
+                {
+                    "date": "2022-01-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-town-judge/",
+                    "question": {
+                        "questionFrontendId": "997",
+                        "title": "Find the Town Judge",
+                        "titleSlug": "find-the-town-judge"
+                    }
+                },
+                {
+                    "date": "2022-01-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/complement-of-base-10-integer/",
+                    "question": {
+                        "questionFrontendId": "1009",
+                        "title": "Complement of Base 10 Integer",
+                        "titleSlug": "complement-of-base-10-integer"
+                    }
+                },
+                {
+                    "date": "2022-01-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindrome-partitioning/",
+                    "question": {
+                        "questionFrontendId": "131",
+                        "title": "Palindrome Partitioning",
+                        "titleSlug": "palindrome-partitioning"
+                    }
+                },
+                {
+                    "date": "2022-01-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/car-pooling/",
+                    "question": {
+                        "questionFrontendId": "1094",
+                        "title": "Car Pooling",
+                        "titleSlug": "car-pooling"
+                    }
+                },
+                {
+                    "date": "2022-01-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/linked-list-random-node/",
+                    "question": {
+                        "questionFrontendId": "382",
+                        "title": "Linked List Random Node",
+                        "titleSlug": "linked-list-random-node"
+                    }
+                },
+                {
+                    "date": "2022-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cherry-pickup-ii/",
+                    "question": {
+                        "questionFrontendId": "1463",
+                        "title": "Cherry Pickup II",
+                        "titleSlug": "cherry-pickup-ii"
+                    }
+                },
+                {
+                    "date": "2022-01-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/robot-bounded-in-circle/",
+                    "question": {
+                        "questionFrontendId": "1041",
+                        "title": "Robot Bounded In Circle",
+                        "titleSlug": "robot-bounded-in-circle"
+                    }
+                },
+                {
+                    "date": "2022-01-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-binary/",
+                    "question": {
+                        "questionFrontendId": "67",
+                        "title": "Add Binary",
+                        "titleSlug": "add-binary"
+                    }
+                },
+                {
+                    "date": "2022-01-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-root-to-leaf-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1022",
+                        "title": "Sum of Root To Leaf Binary Numbers",
+                        "titleSlug": "sum-of-root-to-leaf-binary-numbers"
+                    }
+                },
+                {
+                    "date": "2022-01-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/insert-into-a-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "701",
+                        "title": "Insert into a Binary Search Tree",
+                        "titleSlug": "insert-into-a-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2022-01-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-arrows-to-burst-balloons/",
+                    "question": {
+                        "questionFrontendId": "452",
+                        "title": "Minimum Number of Arrows to Burst Balloons",
+                        "titleSlug": "minimum-number-of-arrows-to-burst-balloons"
+                    }
+                },
+                {
+                    "date": "2022-01-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/string-to-integer-atoi/",
+                    "question": {
+                        "questionFrontendId": "8",
+                        "title": "String to Integer (atoi)",
+                        "titleSlug": "string-to-integer-atoi"
+                    }
+                },
+                {
+                    "date": "2022-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/jump-game-iv/",
+                    "question": {
+                        "questionFrontendId": "1345",
+                        "title": "Jump Game IV",
+                        "titleSlug": "jump-game-iv"
+                    }
+                },
+                {
+                    "date": "2022-01-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-distance-to-closest-person/",
+                    "question": {
+                        "questionFrontendId": "849",
+                        "title": "Maximize Distance to Closest Person",
+                        "titleSlug": "maximize-distance-to-closest-person"
+                    }
+                },
+                {
+                    "date": "2022-01-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-pattern/",
+                    "question": {
+                        "questionFrontendId": "290",
+                        "title": "Word Pattern",
+                        "titleSlug": "word-pattern"
+                    }
+                },
+                {
+                    "date": "2022-01-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/can-place-flowers/",
+                    "question": {
+                        "questionFrontendId": "605",
+                        "title": "Can Place Flowers",
+                        "titleSlug": "can-place-flowers"
+                    }
+                },
+                {
+                    "date": "2022-01-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/linked-list-cycle-ii/",
+                    "question": {
+                        "questionFrontendId": "142",
+                        "title": "Linked List Cycle II",
+                        "titleSlug": "linked-list-cycle-ii"
+                    }
+                },
+                {
+                    "date": "2022-01-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/koko-eating-bananas/",
+                    "question": {
+                        "questionFrontendId": "875",
+                        "title": "Koko Eating Bananas",
+                        "titleSlug": "koko-eating-bananas"
+                    }
+                },
+                {
+                    "date": "2022-01-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/gas-station/",
+                    "question": {
+                        "questionFrontendId": "134",
+                        "title": "Gas Station",
+                        "titleSlug": "gas-station"
+                    }
+                },
+                {
+                    "date": "2022-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-iv/",
+                    "question": {
+                        "questionFrontendId": "1510",
+                        "title": "Stone Game IV",
+                        "titleSlug": "stone-game-iv"
+                    }
+                },
+                {
+                    "date": "2022-01-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sequential-digits/",
+                    "question": {
+                        "questionFrontendId": "1291",
+                        "title": "Sequential Digits",
+                        "titleSlug": "sequential-digits"
+                    }
+                },
+                {
+                    "date": "2022-01-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/detect-capital/",
+                    "question": {
+                        "questionFrontendId": "520",
+                        "title": "Detect Capital",
+                        "titleSlug": "detect-capital"
+                    }
+                },
+                {
+                    "date": "2022-01-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-mountain-array/",
+                    "question": {
+                        "questionFrontendId": "941",
+                        "title": "Valid Mountain Array",
+                        "titleSlug": "valid-mountain-array"
+                    }
+                },
+                {
+                    "date": "2022-01-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/all-elements-in-two-binary-search-trees/",
+                    "question": {
+                        "questionFrontendId": "1305",
+                        "title": "All Elements in Two Binary Search Trees",
+                        "titleSlug": "all-elements-in-two-binary-search-trees"
+                    }
+                },
+                {
+                    "date": "2022-01-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-xor-of-two-numbers-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "421",
+                        "title": "Maximum XOR of Two Numbers in an Array",
+                        "titleSlug": "maximum-xor-of-two-numbers-in-an-array"
+                    }
+                },
+                {
+                    "date": "2022-01-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-add-and-search-words-data-structure/",
+                    "question": {
+                        "questionFrontendId": "211",
+                        "title": "Design Add and Search Words Data Structure",
+                        "titleSlug": "design-add-and-search-words-data-structure"
+                    }
+                },
+                {
+                    "date": "2022-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-rectangle-in-histogram/",
+                    "question": {
+                        "questionFrontendId": "84",
+                        "title": "Largest Rectangle in Histogram",
+                        "titleSlug": "largest-rectangle-in-histogram"
+                    }
+                },
+                {
+                    "date": "2022-01-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotate-array/",
+                    "question": {
+                        "questionFrontendId": "189",
+                        "title": "Rotate Array",
+                        "titleSlug": "rotate-array"
+                    }
+                },
+                {
+                    "date": "2022-01-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/richest-customer-wealth/",
+                    "question": {
+                        "questionFrontendId": "1672",
+                        "title": "Richest Customer Wealth",
+                        "titleSlug": "richest-customer-wealth"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-01-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-vacation-days/",
+                    "question": {
+                        "questionFrontendId": "568",
+                        "title": "Maximum Vacation Days",
+                        "titleSlug": "maximum-vacation-days",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-in-memory-file-system/",
+                    "question": {
+                        "questionFrontendId": "588",
+                        "title": "Design In-Memory File System",
+                        "titleSlug": "design-in-memory-file-system",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/meeting-rooms-ii/",
+                    "question": {
+                        "questionFrontendId": "253",
+                        "title": "Meeting Rooms II",
+                        "titleSlug": "meeting-rooms-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-nearest-right-node-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1602",
+                        "title": "Find Nearest Right Node in Binary Tree",
+                        "titleSlug": "find-nearest-right-node-in-binary-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/group-shifted-strings/",
+                    "question": {
+                        "questionFrontendId": "249",
+                        "title": "Group Shifted Strings",
+                        "titleSlug": "group-shifted-strings",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

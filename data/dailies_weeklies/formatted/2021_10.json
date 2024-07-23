@@ -1,0 +1,375 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2021-10-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-common-subsequence/",
+                    "question": {
+                        "questionFrontendId": "1143",
+                        "title": "Longest Common Subsequence",
+                        "titleSlug": "longest-common-subsequence"
+                    }
+                },
+                {
+                    "date": "2021-10-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/dungeon-game/",
+                    "question": {
+                        "questionFrontendId": "174",
+                        "title": "Dungeon Game",
+                        "titleSlug": "dungeon-game"
+                    }
+                },
+                {
+                    "date": "2021-10-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/jump-game/",
+                    "question": {
+                        "questionFrontendId": "55",
+                        "title": "Jump Game",
+                        "titleSlug": "jump-game"
+                    }
+                },
+                {
+                    "date": "2021-10-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/island-perimeter/",
+                    "question": {
+                        "questionFrontendId": "463",
+                        "title": "Island Perimeter",
+                        "titleSlug": "island-perimeter"
+                    }
+                },
+                {
+                    "date": "2021-10-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/climbing-stairs/",
+                    "question": {
+                        "questionFrontendId": "70",
+                        "title": "Climbing Stairs",
+                        "titleSlug": "climbing-stairs"
+                    }
+                },
+                {
+                    "date": "2021-10-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-duplicates-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "442",
+                        "title": "Find All Duplicates in an Array",
+                        "titleSlug": "find-all-duplicates-in-an-array"
+                    }
+                },
+                {
+                    "date": "2021-10-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search/",
+                    "question": {
+                        "questionFrontendId": "79",
+                        "title": "Word Search",
+                        "titleSlug": "word-search"
+                    }
+                },
+                {
+                    "date": "2021-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-trie-prefix-tree/",
+                    "question": {
+                        "questionFrontendId": "208",
+                        "title": "Implement Trie (Prefix Tree)",
+                        "titleSlug": "implement-trie-prefix-tree"
+                    }
+                },
+                {
+                    "date": "2021-10-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search-ii/",
+                    "question": {
+                        "questionFrontendId": "212",
+                        "title": "Word Search II",
+                        "titleSlug": "word-search-ii"
+                    }
+                },
+                {
+                    "date": "2021-10-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bitwise-and-of-numbers-range/",
+                    "question": {
+                        "questionFrontendId": "201",
+                        "title": "Bitwise AND of Numbers Range",
+                        "titleSlug": "bitwise-and-of-numbers-range"
+                    }
+                },
+                {
+                    "date": "2021-10-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/diameter-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "543",
+                        "title": "Diameter of Binary Tree",
+                        "titleSlug": "diameter-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2021-10-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/guess-number-higher-or-lower/",
+                    "question": {
+                        "questionFrontendId": "374",
+                        "title": "Guess Number Higher or Lower",
+                        "titleSlug": "guess-number-higher-or-lower"
+                    }
+                },
+                {
+                    "date": "2021-10-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-binary-search-tree-from-preorder-traversal/",
+                    "question": {
+                        "questionFrontendId": "1008",
+                        "title": "Construct Binary Search Tree from Preorder Traversal",
+                        "titleSlug": "construct-binary-search-tree-from-preorder-traversal"
+                    }
+                },
+                {
+                    "date": "2021-10-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/perfect-squares/",
+                    "question": {
+                        "questionFrontendId": "279",
+                        "title": "Perfect Squares",
+                        "titleSlug": "perfect-squares"
+                    }
+                },
+                {
+                    "date": "2021-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+                    "question": {
+                        "questionFrontendId": "309",
+                        "title": "Best Time to Buy and Sell Stock with Cooldown",
+                        "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown"
+                    }
+                },
+                {
+                    "date": "2021-10-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock-iii/",
+                    "question": {
+                        "questionFrontendId": "123",
+                        "title": "Best Time to Buy and Sell Stock III",
+                        "titleSlug": "best-time-to-buy-and-sell-stock-iii"
+                    }
+                },
+                {
+                    "date": "2021-10-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-sum-iii/",
+                    "question": {
+                        "questionFrontendId": "437",
+                        "title": "Path Sum III",
+                        "titleSlug": "path-sum-iii"
+                    }
+                },
+                {
+                    "date": "2021-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cousins-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "993",
+                        "title": "Cousins in Binary Tree",
+                        "titleSlug": "cousins-in-binary-tree"
+                    }
+                },
+                {
+                    "date": "2021-10-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/next-greater-element-i/",
+                    "question": {
+                        "questionFrontendId": "496",
+                        "title": "Next Greater Element I",
+                        "titleSlug": "next-greater-element-i"
+                    }
+                },
+                {
+                    "date": "2021-10-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-words-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "151",
+                        "title": "Reverse Words in a String",
+                        "titleSlug": "reverse-words-in-a-string"
+                    }
+                },
+                {
+                    "date": "2021-10-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/insert-delete-getrandom-o1/",
+                    "question": {
+                        "questionFrontendId": "380",
+                        "title": "Insert Delete GetRandom O(1)",
+                        "titleSlug": "insert-delete-getrandom-o1"
+                    }
+                },
+                {
+                    "date": "2021-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-characters-by-frequency/",
+                    "question": {
+                        "questionFrontendId": "451",
+                        "title": "Sort Characters By Frequency",
+                        "titleSlug": "sort-characters-by-frequency"
+                    }
+                },
+                {
+                    "date": "2021-10-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-minimum-in-rotated-sorted-array-ii/",
+                    "question": {
+                        "questionFrontendId": "154",
+                        "title": "Find Minimum in Rotated Sorted Array II",
+                        "titleSlug": "find-minimum-in-rotated-sorted-array-ii"
+                    }
+                },
+                {
+                    "date": "2021-10-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-complete-tree-nodes/",
+                    "question": {
+                        "questionFrontendId": "222",
+                        "title": "Count Complete Tree Nodes",
+                        "titleSlug": "count-complete-tree-nodes"
+                    }
+                },
+                {
+                    "date": "2021-10-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/min-stack/",
+                    "question": {
+                        "questionFrontendId": "155",
+                        "title": "Min Stack",
+                        "titleSlug": "min-stack"
+                    }
+                },
+                {
+                    "date": "2021-10-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/invert-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "226",
+                        "title": "Invert Binary Tree",
+                        "titleSlug": "invert-binary-tree"
+                    }
+                },
+                {
+                    "date": "2021-10-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-colors/",
+                    "question": {
+                        "questionFrontendId": "75",
+                        "title": "Sort Colors",
+                        "titleSlug": "sort-colors"
+                    }
+                },
+                {
+                    "date": "2021-10-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/3sum/",
+                    "question": {
+                        "questionFrontendId": "15",
+                        "title": "3Sum",
+                        "titleSlug": "3sum"
+                    }
+                },
+                {
+                    "date": "2021-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotting-oranges/",
+                    "question": {
+                        "questionFrontendId": "994",
+                        "title": "Rotting Oranges",
+                        "titleSlug": "rotting-oranges"
+                    }
+                },
+                {
+                    "date": "2021-10-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-duplicate-substring/",
+                    "question": {
+                        "questionFrontendId": "1044",
+                        "title": "Longest Duplicate Substring",
+                        "titleSlug": "longest-duplicate-substring"
+                    }
+                },
+                {
+                    "date": "2021-10-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/flatten-a-multilevel-doubly-linked-list/",
+                    "question": {
+                        "questionFrontendId": "430",
+                        "title": "Flatten a Multilevel Doubly Linked List",
+                        "titleSlug": "flatten-a-multilevel-doubly-linked-list"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2021-10-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/leftmost-column-with-at-least-a-one/",
+                    "question": {
+                        "questionFrontendId": "1428",
+                        "title": "Leftmost Column with at Least a One",
+                        "titleSlug": "leftmost-column-with-at-least-a-one",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2021-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-palindrome-iii/",
+                    "question": {
+                        "questionFrontendId": "1216",
+                        "title": "Valid Palindrome III",
+                        "titleSlug": "valid-palindrome-iii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2021-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+                    "question": {
+                        "questionFrontendId": "302",
+                        "title": "Smallest Rectangle Enclosing Black Pixels",
+                        "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2021-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/campus-bikes-ii/",
+                    "question": {
+                        "questionFrontendId": "1066",
+                        "title": "Campus Bikes II",
+                        "titleSlug": "campus-bikes-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2021-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/buildings-with-an-ocean-view/",
+                    "question": {
+                        "questionFrontendId": "1762",
+                        "title": "Buildings With an Ocean View",
+                        "titleSlug": "buildings-with-an-ocean-view",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

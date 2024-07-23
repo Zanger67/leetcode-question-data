@@ -1,0 +1,334 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2022-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-time-to-buy-and-sell-stock/",
+                    "question": {
+                        "questionFrontendId": "121",
+                        "title": "Best Time to Buy and Sell Stock",
+                        "titleSlug": "best-time-to-buy-and-sell-stock"
+                    }
+                },
+                {
+                    "date": "2022-02-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-anagrams-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "438",
+                        "title": "Find All Anagrams in a String",
+                        "titleSlug": "find-all-anagrams-in-a-string"
+                    }
+                },
+                {
+                    "date": "2022-02-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/4sum-ii/",
+                    "question": {
+                        "questionFrontendId": "454",
+                        "title": "4Sum II",
+                        "titleSlug": "4sum-ii"
+                    }
+                },
+                {
+                    "date": "2022-02-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/contiguous-array/",
+                    "question": {
+                        "questionFrontendId": "525",
+                        "title": "Contiguous Array",
+                        "titleSlug": "contiguous-array"
+                    }
+                },
+                {
+                    "date": "2022-02-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/merge-k-sorted-lists/",
+                    "question": {
+                        "questionFrontendId": "23",
+                        "title": "Merge k Sorted Lists",
+                        "titleSlug": "merge-k-sorted-lists"
+                    }
+                },
+                {
+                    "date": "2022-02-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-duplicates-from-sorted-array-ii/",
+                    "question": {
+                        "questionFrontendId": "80",
+                        "title": "Remove Duplicates from Sorted Array II",
+                        "titleSlug": "remove-duplicates-from-sorted-array-ii"
+                    }
+                },
+                {
+                    "date": "2022-02-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-difference/",
+                    "question": {
+                        "questionFrontendId": "389",
+                        "title": "Find the Difference",
+                        "titleSlug": "find-the-difference"
+                    }
+                },
+                {
+                    "date": "2022-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-digits/",
+                    "question": {
+                        "questionFrontendId": "258",
+                        "title": "Add Digits",
+                        "titleSlug": "add-digits"
+                    }
+                },
+                {
+                    "date": "2022-02-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-diff-pairs-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "532",
+                        "title": "K-diff Pairs in an Array",
+                        "titleSlug": "k-diff-pairs-in-an-array"
+                    }
+                },
+                {
+                    "date": "2022-02-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/subarray-sum-equals-k/",
+                    "question": {
+                        "questionFrontendId": "560",
+                        "title": "Subarray Sum Equals K",
+                        "titleSlug": "subarray-sum-equals-k"
+                    }
+                },
+                {
+                    "date": "2022-02-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/permutation-in-string/",
+                    "question": {
+                        "questionFrontendId": "567",
+                        "title": "Permutation in String",
+                        "titleSlug": "permutation-in-string"
+                    }
+                },
+                {
+                    "date": "2022-02-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-ladder/",
+                    "question": {
+                        "questionFrontendId": "127",
+                        "title": "Word Ladder",
+                        "titleSlug": "word-ladder"
+                    }
+                },
+                {
+                    "date": "2022-02-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/subsets/",
+                    "question": {
+                        "questionFrontendId": "78",
+                        "title": "Subsets",
+                        "titleSlug": "subsets"
+                    }
+                },
+                {
+                    "date": "2022-02-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-depth-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "104",
+                        "title": "Maximum Depth of Binary Tree",
+                        "titleSlug": "maximum-depth-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-number/",
+                    "question": {
+                        "questionFrontendId": "136",
+                        "title": "Single Number",
+                        "titleSlug": "single-number"
+                    }
+                },
+                {
+                    "date": "2022-02-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/swap-nodes-in-pairs/",
+                    "question": {
+                        "questionFrontendId": "24",
+                        "title": "Swap Nodes in Pairs",
+                        "titleSlug": "swap-nodes-in-pairs"
+                    }
+                },
+                {
+                    "date": "2022-02-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/combination-sum/",
+                    "question": {
+                        "questionFrontendId": "39",
+                        "title": "Combination Sum",
+                        "titleSlug": "combination-sum"
+                    }
+                },
+                {
+                    "date": "2022-02-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-k-digits/",
+                    "question": {
+                        "questionFrontendId": "402",
+                        "title": "Remove K Digits",
+                        "titleSlug": "remove-k-digits"
+                    }
+                },
+                {
+                    "date": "2022-02-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-deviation-in-array/",
+                    "question": {
+                        "questionFrontendId": "1675",
+                        "title": "Minimize Deviation in Array",
+                        "titleSlug": "minimize-deviation-in-array"
+                    }
+                },
+                {
+                    "date": "2022-02-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-covered-intervals/",
+                    "question": {
+                        "questionFrontendId": "1288",
+                        "title": "Remove Covered Intervals",
+                        "titleSlug": "remove-covered-intervals"
+                    }
+                },
+                {
+                    "date": "2022-02-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/majority-element/",
+                    "question": {
+                        "questionFrontendId": "169",
+                        "title": "Majority Element",
+                        "titleSlug": "majority-element"
+                    }
+                },
+                {
+                    "date": "2022-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/excel-sheet-column-number/",
+                    "question": {
+                        "questionFrontendId": "171",
+                        "title": "Excel Sheet Column Number",
+                        "titleSlug": "excel-sheet-column-number"
+                    }
+                },
+                {
+                    "date": "2022-02-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/clone-graph/",
+                    "question": {
+                        "questionFrontendId": "133",
+                        "title": "Clone Graph",
+                        "titleSlug": "clone-graph"
+                    }
+                },
+                {
+                    "date": "2022-02-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-list/",
+                    "question": {
+                        "questionFrontendId": "148",
+                        "title": "Sort List",
+                        "titleSlug": "sort-list"
+                    }
+                },
+                {
+                    "date": "2022-02-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/compare-version-numbers/",
+                    "question": {
+                        "questionFrontendId": "165",
+                        "title": "Compare Version Numbers",
+                        "titleSlug": "compare-version-numbers"
+                    }
+                },
+                {
+                    "date": "2022-02-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-visiting-all-nodes/",
+                    "question": {
+                        "questionFrontendId": "847",
+                        "title": "Shortest Path Visiting All Nodes",
+                        "titleSlug": "shortest-path-visiting-all-nodes"
+                    }
+                },
+                {
+                    "date": "2022-02-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-width-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "662",
+                        "title": "Maximum Width of Binary Tree",
+                        "titleSlug": "maximum-width-of-binary-tree"
+                    }
+                },
+                {
+                    "date": "2022-02-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/summary-ranges/",
+                    "question": {
+                        "questionFrontendId": "228",
+                        "title": "Summary Ranges",
+                        "titleSlug": "summary-ranges"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2022-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-earliest-moment-when-everyone-become-friends/",
+                    "question": {
+                        "questionFrontendId": "1101",
+                        "title": "The Earliest Moment When Everyone Become Friends",
+                        "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ships-in-a-rectangle/",
+                    "question": {
+                        "questionFrontendId": "1274",
+                        "title": "Number of Ships in a Rectangle",
+                        "titleSlug": "number-of-ships-in-a-rectangle",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-k-length-substrings-with-no-repeated-characters/",
+                    "question": {
+                        "questionFrontendId": "1100",
+                        "title": "Find K-Length Substrings With No Repeated Characters",
+                        "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2022-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fixed-point/",
+                    "question": {
+                        "questionFrontendId": "1064",
+                        "title": "Fixed Point",
+                        "titleSlug": "fixed-point",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

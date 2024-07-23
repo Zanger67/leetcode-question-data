@@ -1,0 +1,309 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2020-06-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/invert-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "226",
+                        "title": "Invert Binary Tree",
+                        "titleSlug": "invert-binary-tree"
+                    }
+                },
+                {
+                    "date": "2020-06-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-node-in-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "237",
+                        "title": "Delete Node in a Linked List",
+                        "titleSlug": "delete-node-in-a-linked-list"
+                    }
+                },
+                {
+                    "date": "2020-06-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-city-scheduling/",
+                    "question": {
+                        "questionFrontendId": "1029",
+                        "title": "Two City Scheduling",
+                        "titleSlug": "two-city-scheduling"
+                    }
+                },
+                {
+                    "date": "2020-06-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-string/",
+                    "question": {
+                        "questionFrontendId": "344",
+                        "title": "Reverse String",
+                        "titleSlug": "reverse-string"
+                    }
+                },
+                {
+                    "date": "2020-06-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/random-pick-with-weight/",
+                    "question": {
+                        "questionFrontendId": "528",
+                        "title": "Random Pick with Weight",
+                        "titleSlug": "random-pick-with-weight"
+                    }
+                },
+                {
+                    "date": "2020-06-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/queue-reconstruction-by-height/",
+                    "question": {
+                        "questionFrontendId": "406",
+                        "title": "Queue Reconstruction by Height",
+                        "titleSlug": "queue-reconstruction-by-height"
+                    }
+                },
+                {
+                    "date": "2020-06-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/coin-change-ii/",
+                    "question": {
+                        "questionFrontendId": "518",
+                        "title": "Coin Change II",
+                        "titleSlug": "coin-change-ii"
+                    }
+                },
+                {
+                    "date": "2020-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-two/",
+                    "question": {
+                        "questionFrontendId": "231",
+                        "title": "Power of Two",
+                        "titleSlug": "power-of-two"
+                    }
+                },
+                {
+                    "date": "2020-06-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/is-subsequence/",
+                    "question": {
+                        "questionFrontendId": "392",
+                        "title": "Is Subsequence",
+                        "titleSlug": "is-subsequence"
+                    }
+                },
+                {
+                    "date": "2020-06-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/search-insert-position/",
+                    "question": {
+                        "questionFrontendId": "35",
+                        "title": "Search Insert Position",
+                        "titleSlug": "search-insert-position"
+                    }
+                },
+                {
+                    "date": "2020-06-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-colors/",
+                    "question": {
+                        "questionFrontendId": "75",
+                        "title": "Sort Colors",
+                        "titleSlug": "sort-colors"
+                    }
+                },
+                {
+                    "date": "2020-06-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/insert-delete-getrandom-o1/",
+                    "question": {
+                        "questionFrontendId": "380",
+                        "title": "Insert Delete GetRandom O(1)",
+                        "titleSlug": "insert-delete-getrandom-o1"
+                    }
+                },
+                {
+                    "date": "2020-06-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-divisible-subset/",
+                    "question": {
+                        "questionFrontendId": "368",
+                        "title": "Largest Divisible Subset",
+                        "titleSlug": "largest-divisible-subset"
+                    }
+                },
+                {
+                    "date": "2020-06-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cheapest-flights-within-k-stops/",
+                    "question": {
+                        "questionFrontendId": "787",
+                        "title": "Cheapest Flights Within K Stops",
+                        "titleSlug": "cheapest-flights-within-k-stops"
+                    }
+                },
+                {
+                    "date": "2020-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/search-in-a-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "700",
+                        "title": "Search in a Binary Search Tree",
+                        "titleSlug": "search-in-a-binary-search-tree"
+                    }
+                },
+                {
+                    "date": "2020-06-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/validate-ip-address/",
+                    "question": {
+                        "questionFrontendId": "468",
+                        "title": "Validate IP Address",
+                        "titleSlug": "validate-ip-address"
+                    }
+                },
+                {
+                    "date": "2020-06-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/surrounded-regions/",
+                    "question": {
+                        "questionFrontendId": "130",
+                        "title": "Surrounded Regions",
+                        "titleSlug": "surrounded-regions"
+                    }
+                },
+                {
+                    "date": "2020-06-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/h-index-ii/",
+                    "question": {
+                        "questionFrontendId": "275",
+                        "title": "H-Index II",
+                        "titleSlug": "h-index-ii"
+                    }
+                },
+                {
+                    "date": "2020-06-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-duplicate-substring/",
+                    "question": {
+                        "questionFrontendId": "1044",
+                        "title": "Longest Duplicate Substring",
+                        "titleSlug": "longest-duplicate-substring"
+                    }
+                },
+                {
+                    "date": "2020-06-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/permutation-sequence/",
+                    "question": {
+                        "questionFrontendId": "60",
+                        "title": "Permutation Sequence",
+                        "titleSlug": "permutation-sequence"
+                    }
+                },
+                {
+                    "date": "2020-06-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/dungeon-game/",
+                    "question": {
+                        "questionFrontendId": "174",
+                        "title": "Dungeon Game",
+                        "titleSlug": "dungeon-game"
+                    }
+                },
+                {
+                    "date": "2020-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/single-number-ii/",
+                    "question": {
+                        "questionFrontendId": "137",
+                        "title": "Single Number II",
+                        "titleSlug": "single-number-ii"
+                    }
+                },
+                {
+                    "date": "2020-06-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-complete-tree-nodes/",
+                    "question": {
+                        "questionFrontendId": "222",
+                        "title": "Count Complete Tree Nodes",
+                        "titleSlug": "count-complete-tree-nodes"
+                    }
+                },
+                {
+                    "date": "2020-06-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-binary-search-trees/",
+                    "question": {
+                        "questionFrontendId": "96",
+                        "title": "Unique Binary Search Trees",
+                        "titleSlug": "unique-binary-search-trees"
+                    }
+                },
+                {
+                    "date": "2020-06-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-duplicate-number/",
+                    "question": {
+                        "questionFrontendId": "287",
+                        "title": "Find the Duplicate Number",
+                        "titleSlug": "find-the-duplicate-number"
+                    }
+                },
+                {
+                    "date": "2020-06-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-root-to-leaf-numbers/",
+                    "question": {
+                        "questionFrontendId": "129",
+                        "title": "Sum Root to Leaf Numbers",
+                        "titleSlug": "sum-root-to-leaf-numbers"
+                    }
+                },
+                {
+                    "date": "2020-06-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/perfect-squares/",
+                    "question": {
+                        "questionFrontendId": "279",
+                        "title": "Perfect Squares",
+                        "titleSlug": "perfect-squares"
+                    }
+                },
+                {
+                    "date": "2020-06-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reconstruct-itinerary/",
+                    "question": {
+                        "questionFrontendId": "332",
+                        "title": "Reconstruct Itinerary",
+                        "titleSlug": "reconstruct-itinerary"
+                    }
+                },
+                {
+                    "date": "2020-06-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-paths/",
+                    "question": {
+                        "questionFrontendId": "62",
+                        "title": "Unique Paths",
+                        "titleSlug": "unique-paths"
+                    }
+                },
+                {
+                    "date": "2020-06-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-search-ii/",
+                    "question": {
+                        "questionFrontendId": "212",
+                        "title": "Word Search II",
+                        "titleSlug": "word-search-ii"
+                    }
+                }
+            ],
+            "weeklyChallenges": []
+        }
+    }
+}
