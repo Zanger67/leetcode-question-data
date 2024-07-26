@@ -12,6 +12,11 @@ from icecream import ic
 import pickle
 import pandas as pd
 
+import argparse                                 # For command line arguments when calling py script with flags
+
+
+
+
 URL = 'https://leetcode.com/graphql/'
 DAILY_CHALLENGES_START = {'year': 2020, 'month': 4}
 
@@ -304,21 +309,23 @@ def query() -> dict:
 
 
 
-def main() -> None :
+def main(allQuestions: bool = True, dailies: bool = True) -> None :
     for x in DIRS :
         if not isdir(x) :
             mkdir(x)
     
-    print('Querying LeetCode...')
-    question_data = query()
-    
-    print('Pickling dictionary...')
-    generate_pickle(question_data['data']['problemsetQuestionList']['questions'])
+    if allQuestions :
+        print('Querying LeetCode...')
+        question_data = query()
+        
+        print('Pickling dictionary...')
+        generate_pickle(question_data['data']['problemsetQuestionList']['questions'])
 
-    print('Querying LeetCode dailies...')
-    # query_dailies(limit=4, force_print=True, reset=True)
-    # query_dailies(start_year=2024, start_month=6, reset=True)
-    query_dailies()
+    if dailies :
+        print('Querying LeetCode dailies...')
+        # query_dailies(limit=4, force_print=True, reset=True)
+        # query_dailies(start_year=2024, start_month=6, reset=True)
+        query_dailies()
 
     print('Complete. Exiting...')
 
@@ -326,4 +333,20 @@ def main() -> None :
 if __name__ == '__main__':
     ic.disable()
     
-    main()
+    parser = argparse.ArgumentParser()
+    
+    parser.add_argument("-d", 
+                        help="Query dailies", 
+                        required=False,
+                        default=False,
+                        action=argparse.BooleanOptionalAction)
+    parser.add_argument("-a",
+                        help="Query all questions and details",
+                        required=False,
+                        default=False,
+                        action=argparse.BooleanOptionalAction)
+    
+    dailies = parser.parse_args().d
+    query_all = parser.parse_args().a
+     
+    main(dailies=dailies, allQuestions=query_all)

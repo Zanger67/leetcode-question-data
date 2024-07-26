@@ -1,10 +1,10 @@
-name: '[Updating data files]'
+name: '[Daily - Updating daily question data files]'
 
 on:
     # Change to 0 UTC Sunday for weekly updates later 
     schedule:
-    - cron: "0 5 * * 0"    # runs at 5AM UTC each day to occur
-                           # slightly after the weekly contest finishes
+    - cron: "5 0 * * 0"    # runs at 0:05 UTC each day to occur
+                           # since dailies update at midnight UTC
 
     # Allows for manual runs
     workflow_dispatch:
@@ -19,8 +19,6 @@ jobs:
         steps:
             - name: Checkout the current repository content
               uses: actions/checkout@v2
-              with:
-                  token: ${{ secrets.PAT }}
 
             - name: Setup python 3.10
               uses: actions/setup-python@v4
@@ -37,7 +35,7 @@ jobs:
 
 
             - name: Execute the markdown generation python script
-              run: python 'query.py'
+              run: python query.py -d
 
             - name: Commit updated markdown files to repo
               run: |
