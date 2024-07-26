@@ -15748,5 +15748,35 @@
             "title": "Sort Array by Increasing Frequency",
             "titleSlug": "sort-array-by-increasing-frequency"
         }
+    },
+    "2024-07-24": {
+        "date": "2024-07-24",
+        "userStatus": "NotStart",
+        "link": "/problems/sort-the-jumbled-numbers/",
+        "question": {
+            "questionFrontendId": "2191",
+            "title": "Sort the Jumbled Numbers",
+            "titleSlug": "sort-the-jumbled-numbers"
+        }
+    },
+    "2024-07-25": {
+        "date": "2024-07-25",
+        "userStatus": "NotStart",
+        "link": "/problems/sort-an-array/",
+        "question": {
+            "questionFrontendId": "912",
+            "title": "Sort an Array",
+            "titleSlug": "sort-an-array"
+        }
+    },
+    "2024-07-26": {
+        "date": "2024-07-26",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+        "question": {
+            "questionFrontendId": "1334",
+            "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+            "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
+        }
     }
 }

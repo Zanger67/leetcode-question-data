@@ -146,7 +146,7 @@ def query_dailies(*,
         curr_file_s = DW_FILE_FORMAT_ONELINER.format(year=year, month=month)
         ic(curr_file)
         
-        if reset or not isfile(curr_file) :
+        if reset or (year == currentDate.year and month == currentDate.month) or not isfile(curr_file) :
             request = query_month_dailies(year, month)
             ic(json.dumps(request))
         
