@@ -167,6 +167,13 @@ def query_dailies(*,
             limit -= 1
             if limit == 0 :
                 break
+        elif isfile(curr_file) :
+            with open(curr_file, 'r') as f:
+                data = json.load(f)
+                for daily in data['data']['dailyCodingChallengeV2']['challenges'] :
+                    dailies[daily['date']] = daily
+                for weekly in data['data']['dailyCodingChallengeV2']['weeklyChallenges'] :
+                    weeklies[weekly['date']] = weekly
                 
         print(f'{year = }, {month = }')
         month += 1
