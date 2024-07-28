@@ -15778,5 +15778,25 @@
             "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
             "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
         }
+    },
+    "2024-07-27": {
+        "date": "2024-07-27",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-to-convert-string-i/",
+        "question": {
+            "questionFrontendId": "2976",
+            "title": "Minimum Cost to Convert String I",
+            "titleSlug": "minimum-cost-to-convert-string-i"
+        }
+    },
+    "2024-07-28": {
+        "date": "2024-07-28",
+        "userStatus": "NotStart",
+        "link": "/problems/second-minimum-time-to-reach-destination/",
+        "question": {
+            "questionFrontendId": "2045",
+            "title": "Second Minimum Time to Reach Destination",
+            "titleSlug": "second-minimum-time-to-reach-destination"
+        }
     }
 }
