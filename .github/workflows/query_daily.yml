@@ -42,5 +42,5 @@ jobs:
                   git config --global user.name "Zanger67/query-data"
                   git config --global user.email "Zanger67[bot]@Zanger67.github.io"
                   git add .
-                  git commit -m 'Updated question data' || exit 0
+                  git commit -m 'Updated DAILY-WEEKLY question data' || exit 0
                   git push

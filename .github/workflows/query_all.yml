@@ -3,7 +3,7 @@ name: '[Weekly - Updating question data files]'
 on:
     # Change to 0 UTC Sunday for weekly updates later 
     schedule:
-    - cron: "0 5 * * 0"    # runs at 5AM UTC ON SUNDAY to occur
+    - cron: "30 4 * * 0"    # runs at 4:30AM UTC ON SUNDAY to occur
                            # slightly after the weekly contest finishes
 
     # Allows for manual runs
@@ -42,5 +42,5 @@ jobs:
                   git config --global user.name "Zanger67/query-data"
                   git config --global user.email "Zanger67[bot]@Zanger67.github.io"
                   git add .
-                  git commit -m 'Updated question data' || exit 0
+                  git commit -m 'Updated ALL question data' || exit 0
                   git push
