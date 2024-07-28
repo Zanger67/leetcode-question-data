@@ -15788,5 +15788,15 @@
             "title": "Minimum Cost to Convert String I",
             "titleSlug": "minimum-cost-to-convert-string-i"
         }
+    },
+    "2024-07-28": {
+        "date": "2024-07-28",
+        "userStatus": "NotStart",
+        "link": "/problems/second-minimum-time-to-reach-destination/",
+        "question": {
+            "questionFrontendId": "2045",
+            "title": "Second Minimum Time to Reach Destination",
+            "titleSlug": "second-minimum-time-to-reach-destination"
+        }
     }
 }
