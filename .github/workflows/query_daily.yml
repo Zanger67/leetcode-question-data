@@ -3,7 +3,7 @@ name: '[Daily - Updating daily question data files]'
 on:
     # Change to 0 UTC Sunday for weekly updates later 
     schedule:
-    - cron: "5 0 * * 0"    # runs at 0:05 UTC each day to occur
+    - cron: "5 0 * * *"    # runs at 0:05 UTC each day to occur
                            # since dailies update at midnight UTC
 
     # Allows for manual runs
