@@ -2594,5 +2594,16 @@
             "titleSlug": "minimum-cost-to-reach-city-with-discounts",
             "isPaidOnly": true
         }
+    },
+    "2024-07-29": {
+        "date": "2024-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/toss-strange-coins/",
+        "question": {
+            "questionFrontendId": "1230",
+            "title": "Toss Strange Coins",
+            "titleSlug": "toss-strange-coins",
+            "isPaidOnly": true
+        }
     }
 }

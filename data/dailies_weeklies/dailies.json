@@ -15798,5 +15798,15 @@
             "title": "Second Minimum Time to Reach Destination",
             "titleSlug": "second-minimum-time-to-reach-destination"
         }
+    },
+    "2024-07-29": {
+        "date": "2024-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/count-number-of-teams/",
+        "question": {
+            "questionFrontendId": "1395",
+            "title": "Count Number of Teams",
+            "titleSlug": "count-number-of-teams"
+        }
     }
 }
