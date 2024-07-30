@@ -291,6 +291,16 @@
                         "title": "Count Number of Teams",
                         "titleSlug": "count-number-of-teams"
                     }
+                },
+                {
+                    "date": "2024-07-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-deletions-to-make-string-balanced/",
+                    "question": {
+                        "questionFrontendId": "1653",
+                        "title": "Minimum Deletions to Make String Balanced",
+                        "titleSlug": "minimum-deletions-to-make-string-balanced"
+                    }
                 }
             ],
             "weeklyChallenges": [
