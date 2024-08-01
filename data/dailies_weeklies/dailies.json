@@ -15828,5 +15828,15 @@
             "title": "Filling Bookcase Shelves",
             "titleSlug": "filling-bookcase-shelves"
         }
+    },
+    "2024-08-01": {
+        "date": "2024-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-senior-citizens/",
+        "question": {
+            "questionFrontendId": "2678",
+            "title": "Number of Senior Citizens",
+            "titleSlug": "number-of-senior-citizens"
+        }
     }
 }
