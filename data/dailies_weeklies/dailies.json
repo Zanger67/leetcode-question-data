@@ -15838,5 +15838,15 @@
             "title": "Number of Senior Citizens",
             "titleSlug": "number-of-senior-citizens"
         }
+    },
+    "2024-08-02": {
+        "date": "2024-08-02",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-swaps-to-group-all-1s-together-ii/",
+        "question": {
+            "questionFrontendId": "2134",
+            "title": "Minimum Swaps to Group All 1's Together II",
+            "titleSlug": "minimum-swaps-to-group-all-1s-together-ii"
+        }
     }
 }
