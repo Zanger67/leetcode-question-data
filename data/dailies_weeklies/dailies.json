@@ -15848,5 +15848,15 @@
             "title": "Minimum Swaps to Group All 1's Together II",
             "titleSlug": "minimum-swaps-to-group-all-1s-together-ii"
         }
+    },
+    "2024-08-03": {
+        "date": "2024-08-03",
+        "userStatus": "NotStart",
+        "link": "/problems/make-two-arrays-equal-by-reversing-subarrays/",
+        "question": {
+            "questionFrontendId": "1460",
+            "title": "Make Two Arrays Equal by Reversing Subarrays",
+            "titleSlug": "make-two-arrays-equal-by-reversing-subarrays"
+        }
     }
 }
