@@ -15868,5 +15868,15 @@
             "title": "Range Sum of Sorted Subarray Sums",
             "titleSlug": "range-sum-of-sorted-subarray-sums"
         }
+    },
+    "2024-08-05": {
+        "date": "2024-08-05",
+        "userStatus": "NotStart",
+        "link": "/problems/kth-distinct-string-in-an-array/",
+        "question": {
+            "questionFrontendId": "2053",
+            "title": "Kth Distinct String in an Array",
+            "titleSlug": "kth-distinct-string-in-an-array"
+        }
     }
 }
