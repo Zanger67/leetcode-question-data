@@ -15878,5 +15878,15 @@
             "title": "Kth Distinct String in an Array",
             "titleSlug": "kth-distinct-string-in-an-array"
         }
+    },
+    "2024-08-06": {
+        "date": "2024-08-06",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-pushes-to-type-word-ii/",
+        "question": {
+            "questionFrontendId": "3016",
+            "title": "Minimum Number of Pushes to Type Word II",
+            "titleSlug": "minimum-number-of-pushes-to-type-word-ii"
+        }
     }
 }
