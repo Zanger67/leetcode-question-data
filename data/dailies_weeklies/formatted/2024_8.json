@@ -61,6 +61,16 @@
                         "title": "Minimum Number of Pushes to Type Word II",
                         "titleSlug": "minimum-number-of-pushes-to-type-word-ii"
                     }
+                },
+                {
+                    "date": "2024-08-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/integer-to-english-words/",
+                    "question": {
+                        "questionFrontendId": "273",
+                        "title": "Integer to English Words",
+                        "titleSlug": "integer-to-english-words"
+                    }
                 }
             ],
             "weeklyChallenges": [
