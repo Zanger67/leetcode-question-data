@@ -71,6 +71,16 @@
                         "title": "Integer to English Words",
                         "titleSlug": "integer-to-english-words"
                     }
+                },
+                {
+                    "date": "2024-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/spiral-matrix-iii/",
+                    "question": {
+                        "questionFrontendId": "885",
+                        "title": "Spiral Matrix III",
+                        "titleSlug": "spiral-matrix-iii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1062",
                         "title": "Longest Repeating Substring",
                         "titleSlug": "longest-repeating-substring",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/android-unlock-patterns/",
+                    "question": {
+                        "questionFrontendId": "351",
+                        "title": "Android Unlock Patterns",
+                        "titleSlug": "android-unlock-patterns",
                         "isPaidOnly": true
                     }
                 }

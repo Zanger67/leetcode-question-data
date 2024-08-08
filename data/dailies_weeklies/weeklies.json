@@ -2616,5 +2616,16 @@
             "titleSlug": "longest-repeating-substring",
             "isPaidOnly": true
         }
+    },
+    "2024-08-08": {
+        "date": "2024-08-08",
+        "userStatus": "NotStart",
+        "link": "/problems/android-unlock-patterns/",
+        "question": {
+            "questionFrontendId": "351",
+            "title": "Android Unlock Patterns",
+            "titleSlug": "android-unlock-patterns",
+            "isPaidOnly": true
+        }
     }
 }
