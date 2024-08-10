@@ -91,6 +91,16 @@
                         "title": "Magic Squares In Grid",
                         "titleSlug": "magic-squares-in-grid"
                     }
+                },
+                {
+                    "date": "2024-08-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/regions-cut-by-slashes/",
+                    "question": {
+                        "questionFrontendId": "959",
+                        "title": "Regions Cut By Slashes",
+                        "titleSlug": "regions-cut-by-slashes"
+                    }
                 }
             ],
             "weeklyChallenges": [
