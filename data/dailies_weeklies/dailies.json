@@ -15928,5 +15928,15 @@
             "title": "Regions Cut By Slashes",
             "titleSlug": "regions-cut-by-slashes"
         }
+    },
+    "2024-08-11": {
+        "date": "2024-08-11",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-days-to-disconnect-island/",
+        "question": {
+            "questionFrontendId": "1568",
+            "title": "Minimum Number of Days to Disconnect Island",
+            "titleSlug": "minimum-number-of-days-to-disconnect-island"
+        }
     }
 }
