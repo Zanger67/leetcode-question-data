@@ -15938,5 +15938,15 @@
             "title": "Minimum Number of Days to Disconnect Island",
             "titleSlug": "minimum-number-of-days-to-disconnect-island"
         }
+    },
+    "2024-08-12": {
+        "date": "2024-08-12",
+        "userStatus": "NotStart",
+        "link": "/problems/kth-largest-element-in-a-stream/",
+        "question": {
+            "questionFrontendId": "703",
+            "title": "Kth Largest Element in a Stream",
+            "titleSlug": "kth-largest-element-in-a-stream"
+        }
     }
 }
