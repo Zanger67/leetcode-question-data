@@ -141,6 +141,16 @@
                         "title": "Find K-th Smallest Pair Distance",
                         "titleSlug": "find-k-th-smallest-pair-distance"
                     }
+                },
+                {
+                    "date": "2024-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lemonade-change/",
+                    "question": {
+                        "questionFrontendId": "860",
+                        "title": "Lemonade Change",
+                        "titleSlug": "lemonade-change"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "351",
                         "title": "Android Unlock Patterns",
                         "titleSlug": "android-unlock-patterns",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-moves-to-get-a-peaceful-board/",
+                    "question": {
+                        "questionFrontendId": "3189",
+                        "title": "Minimum Moves to Get a Peaceful Board",
+                        "titleSlug": "minimum-moves-to-get-a-peaceful-board",
                         "isPaidOnly": true
                     }
                 }

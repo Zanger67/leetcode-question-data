@@ -2627,5 +2627,16 @@
             "titleSlug": "android-unlock-patterns",
             "isPaidOnly": true
         }
+    },
+    "2024-08-15": {
+        "date": "2024-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-moves-to-get-a-peaceful-board/",
+        "question": {
+            "questionFrontendId": "3189",
+            "title": "Minimum Moves to Get a Peaceful Board",
+            "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+            "isPaidOnly": true
+        }
     }
 }
