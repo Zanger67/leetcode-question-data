@@ -15978,5 +15978,15 @@
             "title": "Lemonade Change",
             "titleSlug": "lemonade-change"
         }
+    },
+    "2024-08-16": {
+        "date": "2024-08-16",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-distance-in-arrays/",
+        "question": {
+            "questionFrontendId": "624",
+            "title": "Maximum Distance in Arrays",
+            "titleSlug": "maximum-distance-in-arrays"
+        }
     }
 }
