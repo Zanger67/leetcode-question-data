@@ -171,6 +171,16 @@
                         "title": "Maximum Number of Points with Cost",
                         "titleSlug": "maximum-number-of-points-with-cost"
                     }
+                },
+                {
+                    "date": "2024-08-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ugly-number-ii/",
+                    "question": {
+                        "questionFrontendId": "264",
+                        "title": "Ugly Number II",
+                        "titleSlug": "ugly-number-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
