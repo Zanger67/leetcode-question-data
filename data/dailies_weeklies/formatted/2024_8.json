@@ -181,6 +181,16 @@
                         "title": "Ugly Number II",
                         "titleSlug": "ugly-number-ii"
                     }
+                },
+                {
+                    "date": "2024-08-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/2-keys-keyboard/",
+                    "question": {
+                        "questionFrontendId": "650",
+                        "title": "2 Keys Keyboard",
+                        "titleSlug": "2-keys-keyboard"
+                    }
                 }
             ],
             "weeklyChallenges": [
