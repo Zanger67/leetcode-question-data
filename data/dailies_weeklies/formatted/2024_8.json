@@ -191,6 +191,16 @@
                         "title": "2 Keys Keyboard",
                         "titleSlug": "2-keys-keyboard"
                     }
+                },
+                {
+                    "date": "2024-08-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-ii/",
+                    "question": {
+                        "questionFrontendId": "1140",
+                        "title": "Stone Game II",
+                        "titleSlug": "stone-game-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
