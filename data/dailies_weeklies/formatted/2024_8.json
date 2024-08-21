@@ -201,6 +201,16 @@
                         "title": "Stone Game II",
                         "titleSlug": "stone-game-ii"
                     }
+                },
+                {
+                    "date": "2024-08-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/strange-printer/",
+                    "question": {
+                        "questionFrontendId": "664",
+                        "title": "Strange Printer",
+                        "titleSlug": "strange-printer"
+                    }
                 }
             ],
             "weeklyChallenges": [
