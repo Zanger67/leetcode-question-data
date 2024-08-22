@@ -2638,5 +2638,16 @@
             "titleSlug": "minimum-moves-to-get-a-peaceful-board",
             "isPaidOnly": true
         }
+    },
+    "2024-08-22": {
+        "date": "2024-08-22",
+        "userStatus": "NotStart",
+        "link": "/problems/generalized-abbreviation/",
+        "question": {
+            "questionFrontendId": "320",
+            "title": "Generalized Abbreviation",
+            "titleSlug": "generalized-abbreviation",
+            "isPaidOnly": true
+        }
     }
 }

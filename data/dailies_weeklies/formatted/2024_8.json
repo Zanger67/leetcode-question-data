@@ -211,6 +211,16 @@
                         "title": "Strange Printer",
                         "titleSlug": "strange-printer"
                     }
+                },
+                {
+                    "date": "2024-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-complement/",
+                    "question": {
+                        "questionFrontendId": "476",
+                        "title": "Number Complement",
+                        "titleSlug": "number-complement"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "3189",
                         "title": "Minimum Moves to Get a Peaceful Board",
                         "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/generalized-abbreviation/",
+                    "question": {
+                        "questionFrontendId": "320",
+                        "title": "Generalized Abbreviation",
+                        "titleSlug": "generalized-abbreviation",
                         "isPaidOnly": true
                     }
                 }
