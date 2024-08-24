@@ -231,6 +231,16 @@
                         "title": "Fraction Addition and Subtraction",
                         "titleSlug": "fraction-addition-and-subtraction"
                     }
+                },
+                {
+                    "date": "2024-08-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-closest-palindrome/",
+                    "question": {
+                        "questionFrontendId": "564",
+                        "title": "Find the Closest Palindrome",
+                        "titleSlug": "find-the-closest-palindrome"
+                    }
                 }
             ],
             "weeklyChallenges": [
