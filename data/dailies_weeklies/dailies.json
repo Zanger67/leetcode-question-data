@@ -16068,5 +16068,15 @@
             "title": "Find the Closest Palindrome",
             "titleSlug": "find-the-closest-palindrome"
         }
+    },
+    "2024-08-25": {
+        "date": "2024-08-25",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-postorder-traversal/",
+        "question": {
+            "questionFrontendId": "145",
+            "title": "Binary Tree Postorder Traversal",
+            "titleSlug": "binary-tree-postorder-traversal"
+        }
     }
 }
