@@ -16078,5 +16078,15 @@
             "title": "Binary Tree Postorder Traversal",
             "titleSlug": "binary-tree-postorder-traversal"
         }
+    },
+    "2024-08-26": {
+        "date": "2024-08-26",
+        "userStatus": "NotStart",
+        "link": "/problems/n-ary-tree-postorder-traversal/",
+        "question": {
+            "questionFrontendId": "590",
+            "title": "N-ary Tree Postorder Traversal",
+            "titleSlug": "n-ary-tree-postorder-traversal"
+        }
     }
 }
