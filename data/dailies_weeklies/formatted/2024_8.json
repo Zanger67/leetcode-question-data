@@ -261,6 +261,16 @@
                         "title": "N-ary Tree Postorder Traversal",
                         "titleSlug": "n-ary-tree-postorder-traversal"
                     }
+                },
+                {
+                    "date": "2024-08-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-with-maximum-probability/",
+                    "question": {
+                        "questionFrontendId": "1514",
+                        "title": "Path with Maximum Probability",
+                        "titleSlug": "path-with-maximum-probability"
+                    }
                 }
             ],
             "weeklyChallenges": [
