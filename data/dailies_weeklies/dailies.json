@@ -16108,5 +16108,15 @@
             "title": "Count Sub Islands",
             "titleSlug": "count-sub-islands"
         }
+    },
+    "2024-08-29": {
+        "date": "2024-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/most-stones-removed-with-same-row-or-column/",
+        "question": {
+            "questionFrontendId": "947",
+            "title": "Most Stones Removed with Same Row or Column",
+            "titleSlug": "most-stones-removed-with-same-row-or-column"
+        }
     }
 }

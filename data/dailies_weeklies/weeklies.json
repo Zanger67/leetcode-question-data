@@ -2649,5 +2649,16 @@
             "titleSlug": "generalized-abbreviation",
             "isPaidOnly": true
         }
+    },
+    "2024-08-29": {
+        "date": "2024-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/path-sum-iv/",
+        "question": {
+            "questionFrontendId": "666",
+            "title": "Path Sum IV",
+            "titleSlug": "path-sum-iv",
+            "isPaidOnly": true
+        }
     }
 }
