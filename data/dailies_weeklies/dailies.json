@@ -16118,5 +16118,15 @@
             "title": "Most Stones Removed with Same Row or Column",
             "titleSlug": "most-stones-removed-with-same-row-or-column"
         }
+    },
+    "2024-08-30": {
+        "date": "2024-08-30",
+        "userStatus": "NotStart",
+        "link": "/problems/modify-graph-edge-weights/",
+        "question": {
+            "questionFrontendId": "2699",
+            "title": "Modify Graph Edge Weights",
+            "titleSlug": "modify-graph-edge-weights"
+        }
     }
 }
