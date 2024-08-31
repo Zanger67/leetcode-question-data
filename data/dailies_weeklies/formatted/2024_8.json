@@ -301,6 +301,16 @@
                         "title": "Modify Graph Edge Weights",
                         "titleSlug": "modify-graph-edge-weights"
                     }
+                },
+                {
+                    "date": "2024-08-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-with-maximum-probability/",
+                    "question": {
+                        "questionFrontendId": "1514",
+                        "title": "Path with Maximum Probability",
+                        "titleSlug": "path-with-maximum-probability"
+                    }
                 }
             ],
             "weeklyChallenges": [
