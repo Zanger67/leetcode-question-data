@@ -16138,5 +16138,15 @@
             "title": "Path with Maximum Probability",
             "titleSlug": "path-with-maximum-probability"
         }
+    },
+    "2024-09-01": {
+        "date": "2024-09-01",
+        "userStatus": "NotStart",
+        "link": "/problems/convert-1d-array-into-2d-array/",
+        "question": {
+            "questionFrontendId": "2022",
+            "title": "Convert 1D Array Into 2D Array",
+            "titleSlug": "convert-1d-array-into-2d-array"
+        }
     }
 }
