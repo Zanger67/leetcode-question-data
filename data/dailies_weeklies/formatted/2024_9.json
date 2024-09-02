@@ -11,6 +11,16 @@
                         "title": "Convert 1D Array Into 2D Array",
                         "titleSlug": "convert-1d-array-into-2d-array"
                     }
+                },
+                {
+                    "date": "2024-09-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-student-that-will-replace-the-chalk/",
+                    "question": {
+                        "questionFrontendId": "1894",
+                        "title": "Find the Student that Will Replace the Chalk",
+                        "titleSlug": "find-the-student-that-will-replace-the-chalk"
+                    }
                 }
             ],
             "weeklyChallenges": [
