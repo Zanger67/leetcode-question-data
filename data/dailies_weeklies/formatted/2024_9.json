@@ -41,6 +41,16 @@
                         "title": "Walking Robot Simulation",
                         "titleSlug": "walking-robot-simulation"
                     }
+                },
+                {
+                    "date": "2024-09-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-missing-observations/",
+                    "question": {
+                        "questionFrontendId": "2028",
+                        "title": "Find Missing Observations",
+                        "titleSlug": "find-missing-observations"
+                    }
                 }
             ],
             "weeklyChallenges": [
