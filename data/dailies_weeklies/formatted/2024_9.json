@@ -51,6 +51,16 @@
                         "title": "Find Missing Observations",
                         "titleSlug": "find-missing-observations"
                     }
+                },
+                {
+                    "date": "2024-09-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-nodes-from-linked-list-present-in-array/",
+                    "question": {
+                        "questionFrontendId": "3217",
+                        "title": "Delete Nodes From Linked List Present in Array",
+                        "titleSlug": "delete-nodes-from-linked-list-present-in-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
