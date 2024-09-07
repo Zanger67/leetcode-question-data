@@ -61,6 +61,16 @@
                         "title": "Delete Nodes From Linked List Present in Array",
                         "titleSlug": "delete-nodes-from-linked-list-present-in-array"
                     }
+                },
+                {
+                    "date": "2024-09-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/linked-list-in-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1367",
+                        "title": "Linked List in Binary Tree",
+                        "titleSlug": "linked-list-in-binary-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
