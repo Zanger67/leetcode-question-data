@@ -16208,5 +16208,15 @@
             "title": "Linked List in Binary Tree",
             "titleSlug": "linked-list-in-binary-tree"
         }
+    },
+    "2024-09-08": {
+        "date": "2024-09-08",
+        "userStatus": "NotStart",
+        "link": "/problems/split-linked-list-in-parts/",
+        "question": {
+            "questionFrontendId": "725",
+            "title": "Split Linked List in Parts",
+            "titleSlug": "split-linked-list-in-parts"
+        }
     }
 }
