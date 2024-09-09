@@ -16218,5 +16218,15 @@
             "title": "Split Linked List in Parts",
             "titleSlug": "split-linked-list-in-parts"
         }
+    },
+    "2024-09-09": {
+        "date": "2024-09-09",
+        "userStatus": "NotStart",
+        "link": "/problems/spiral-matrix-iv/",
+        "question": {
+            "questionFrontendId": "2326",
+            "title": "Spiral Matrix IV",
+            "titleSlug": "spiral-matrix-iv"
+        }
     }
 }
