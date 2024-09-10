@@ -16228,5 +16228,15 @@
             "title": "Spiral Matrix IV",
             "titleSlug": "spiral-matrix-iv"
         }
+    },
+    "2024-09-10": {
+        "date": "2024-09-10",
+        "userStatus": "NotStart",
+        "link": "/problems/insert-greatest-common-divisors-in-linked-list/",
+        "question": {
+            "questionFrontendId": "2807",
+            "title": "Insert Greatest Common Divisors in Linked List",
+            "titleSlug": "insert-greatest-common-divisors-in-linked-list"
+        }
     }
 }
