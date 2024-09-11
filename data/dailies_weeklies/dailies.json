@@ -16238,5 +16238,15 @@
             "title": "Insert Greatest Common Divisors in Linked List",
             "titleSlug": "insert-greatest-common-divisors-in-linked-list"
         }
+    },
+    "2024-09-11": {
+        "date": "2024-09-11",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-bit-flips-to-convert-number/",
+        "question": {
+            "questionFrontendId": "2220",
+            "title": "Minimum Bit Flips to Convert Number",
+            "titleSlug": "minimum-bit-flips-to-convert-number"
+        }
     }
 }
