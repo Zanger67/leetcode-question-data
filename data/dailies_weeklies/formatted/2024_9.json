@@ -111,6 +111,16 @@
                         "title": "Minimum Bit Flips to Convert Number",
                         "titleSlug": "minimum-bit-flips-to-convert-number"
                     }
+                },
+                {
+                    "date": "2024-09-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-consistent-strings/",
+                    "question": {
+                        "questionFrontendId": "1684",
+                        "title": "Count the Number of Consistent Strings",
+                        "titleSlug": "count-the-number-of-consistent-strings"
+                    }
                 }
             ],
             "weeklyChallenges": [
