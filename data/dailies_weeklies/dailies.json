@@ -16258,5 +16258,15 @@
             "title": "Count the Number of Consistent Strings",
             "titleSlug": "count-the-number-of-consistent-strings"
         }
+    },
+    "2024-09-13": {
+        "date": "2024-09-13",
+        "userStatus": "NotStart",
+        "link": "/problems/xor-queries-of-a-subarray/",
+        "question": {
+            "questionFrontendId": "1310",
+            "title": "XOR Queries of a Subarray",
+            "titleSlug": "xor-queries-of-a-subarray"
+        }
     }
 }
