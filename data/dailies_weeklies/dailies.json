@@ -16268,5 +16268,15 @@
             "title": "XOR Queries of a Subarray",
             "titleSlug": "xor-queries-of-a-subarray"
         }
+    },
+    "2024-09-14": {
+        "date": "2024-09-14",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-subarray-with-maximum-bitwise-and/",
+        "question": {
+            "questionFrontendId": "2419",
+            "title": "Longest Subarray With Maximum Bitwise AND",
+            "titleSlug": "longest-subarray-with-maximum-bitwise-and"
+        }
     }
 }
