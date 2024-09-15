@@ -2682,5 +2682,16 @@
             "titleSlug": "meeting-scheduler",
             "isPaidOnly": true
         }
+    },
+    "2024-09-15": {
+        "date": "2024-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-common-region/",
+        "question": {
+            "questionFrontendId": "1257",
+            "title": "Smallest Common Region",
+            "titleSlug": "smallest-common-region",
+            "isPaidOnly": true
+        }
     }
 }

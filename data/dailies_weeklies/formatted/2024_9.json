@@ -141,6 +141,16 @@
                         "title": "Longest Subarray With Maximum Bitwise AND",
                         "titleSlug": "longest-subarray-with-maximum-bitwise-and"
                     }
+                },
+                {
+                    "date": "2024-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
+                    "question": {
+                        "questionFrontendId": "1371",
+                        "title": "Find the Longest Substring Containing Vowels in Even Counts",
+                        "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1229",
                         "title": "Meeting Scheduler",
                         "titleSlug": "meeting-scheduler",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-common-region/",
+                    "question": {
+                        "questionFrontendId": "1257",
+                        "title": "Smallest Common Region",
+                        "titleSlug": "smallest-common-region",
                         "isPaidOnly": true
                     }
                 }

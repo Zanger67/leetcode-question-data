@@ -16278,5 +16278,15 @@
             "title": "Longest Subarray With Maximum Bitwise AND",
             "titleSlug": "longest-subarray-with-maximum-bitwise-and"
         }
+    },
+    "2024-09-15": {
+        "date": "2024-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
+        "question": {
+            "questionFrontendId": "1371",
+            "title": "Find the Longest Substring Containing Vowels in Even Counts",
+            "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts"
+        }
     }
 }
