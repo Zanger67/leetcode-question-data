@@ -16288,5 +16288,15 @@
             "title": "Find the Longest Substring Containing Vowels in Even Counts",
             "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts"
         }
+    },
+    "2024-09-16": {
+        "date": "2024-09-16",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-time-difference/",
+        "question": {
+            "questionFrontendId": "539",
+            "title": "Minimum Time Difference",
+            "titleSlug": "minimum-time-difference"
+        }
     }
 }
