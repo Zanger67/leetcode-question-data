@@ -16318,5 +16318,15 @@
             "title": "Largest Number",
             "titleSlug": "largest-number"
         }
+    },
+    "2024-09-19": {
+        "date": "2024-09-19",
+        "userStatus": "NotStart",
+        "link": "/problems/different-ways-to-add-parentheses/",
+        "question": {
+            "questionFrontendId": "241",
+            "title": "Different Ways to Add Parentheses",
+            "titleSlug": "different-ways-to-add-parentheses"
+        }
     }
 }
