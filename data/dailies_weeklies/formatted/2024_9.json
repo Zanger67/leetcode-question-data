@@ -191,6 +191,16 @@
                         "title": "Different Ways to Add Parentheses",
                         "titleSlug": "different-ways-to-add-parentheses"
                     }
+                },
+                {
+                    "date": "2024-09-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-palindrome/",
+                    "question": {
+                        "questionFrontendId": "214",
+                        "title": "Shortest Palindrome",
+                        "titleSlug": "shortest-palindrome"
+                    }
                 }
             ],
             "weeklyChallenges": [
