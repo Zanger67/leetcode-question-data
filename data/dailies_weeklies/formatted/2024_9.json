@@ -201,6 +201,16 @@
                         "title": "Shortest Palindrome",
                         "titleSlug": "shortest-palindrome"
                     }
+                },
+                {
+                    "date": "2024-09-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lexicographical-numbers/",
+                    "question": {
+                        "questionFrontendId": "386",
+                        "title": "Lexicographical Numbers",
+                        "titleSlug": "lexicographical-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
