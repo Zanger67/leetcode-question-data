@@ -16348,5 +16348,15 @@
             "title": "Lexicographical Numbers",
             "titleSlug": "lexicographical-numbers"
         }
+    },
+    "2024-09-22": {
+        "date": "2024-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/k-th-smallest-in-lexicographical-order/",
+        "question": {
+            "questionFrontendId": "440",
+            "title": "K-th Smallest in Lexicographical Order",
+            "titleSlug": "k-th-smallest-in-lexicographical-order"
+        }
     }
 }

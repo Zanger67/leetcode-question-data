@@ -211,6 +211,16 @@
                         "title": "Lexicographical Numbers",
                         "titleSlug": "lexicographical-numbers"
                     }
+                },
+                {
+                    "date": "2024-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-th-smallest-in-lexicographical-order/",
+                    "question": {
+                        "questionFrontendId": "440",
+                        "title": "K-th Smallest in Lexicographical Order",
+                        "titleSlug": "k-th-smallest-in-lexicographical-order"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1257",
                         "title": "Smallest Common Region",
                         "titleSlug": "smallest-common-region",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-word-with-all-prefixes/",
+                    "question": {
+                        "questionFrontendId": "1858",
+                        "title": "Longest Word With All Prefixes",
+                        "titleSlug": "longest-word-with-all-prefixes",
                         "isPaidOnly": true
                     }
                 }

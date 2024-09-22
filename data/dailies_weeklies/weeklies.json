@@ -2693,5 +2693,16 @@
             "titleSlug": "smallest-common-region",
             "isPaidOnly": true
         }
+    },
+    "2024-09-22": {
+        "date": "2024-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-word-with-all-prefixes/",
+        "question": {
+            "questionFrontendId": "1858",
+            "title": "Longest Word With All Prefixes",
+            "titleSlug": "longest-word-with-all-prefixes",
+            "isPaidOnly": true
+        }
     }
 }
