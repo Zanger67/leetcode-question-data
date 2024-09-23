@@ -221,6 +221,16 @@
                         "title": "K-th Smallest in Lexicographical Order",
                         "titleSlug": "k-th-smallest-in-lexicographical-order"
                     }
+                },
+                {
+                    "date": "2024-09-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/extra-characters-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "2707",
+                        "title": "Extra Characters in a String",
+                        "titleSlug": "extra-characters-in-a-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
