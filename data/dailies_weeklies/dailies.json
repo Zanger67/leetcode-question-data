@@ -16368,5 +16368,15 @@
             "title": "Extra Characters in a String",
             "titleSlug": "extra-characters-in-a-string"
         }
+    },
+    "2024-09-24": {
+        "date": "2024-09-24",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-length-of-the-longest-common-prefix/",
+        "question": {
+            "questionFrontendId": "3043",
+            "title": "Find the Length of the Longest Common Prefix",
+            "titleSlug": "find-the-length-of-the-longest-common-prefix"
+        }
     }
 }
