@@ -16378,5 +16378,15 @@
             "title": "Find the Length of the Longest Common Prefix",
             "titleSlug": "find-the-length-of-the-longest-common-prefix"
         }
+    },
+    "2024-09-25": {
+        "date": "2024-09-25",
+        "userStatus": "NotStart",
+        "link": "/problems/sum-of-prefix-scores-of-strings/",
+        "question": {
+            "questionFrontendId": "2416",
+            "title": "Sum of Prefix Scores of Strings",
+            "titleSlug": "sum-of-prefix-scores-of-strings"
+        }
     }
 }
