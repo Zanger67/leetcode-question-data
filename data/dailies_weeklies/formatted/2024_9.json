@@ -251,6 +251,16 @@
                         "title": "Sum of Prefix Scores of Strings",
                         "titleSlug": "sum-of-prefix-scores-of-strings"
                     }
+                },
+                {
+                    "date": "2024-09-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/my-calendar-i/",
+                    "question": {
+                        "questionFrontendId": "729",
+                        "title": "My Calendar I",
+                        "titleSlug": "my-calendar-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
