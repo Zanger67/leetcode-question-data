@@ -16408,5 +16408,15 @@
             "title": "My Calendar II",
             "titleSlug": "my-calendar-ii"
         }
+    },
+    "2024-09-28": {
+        "date": "2024-09-28",
+        "userStatus": "NotStart",
+        "link": "/problems/design-circular-deque/",
+        "question": {
+            "questionFrontendId": "641",
+            "title": "Design Circular Deque",
+            "titleSlug": "design-circular-deque"
+        }
     }
 }
