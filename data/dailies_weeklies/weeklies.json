@@ -2704,5 +2704,16 @@
             "titleSlug": "longest-word-with-all-prefixes",
             "isPaidOnly": true
         }
+    },
+    "2024-09-29": {
+        "date": "2024-09-29",
+        "userStatus": "NotStart",
+        "link": "/problems/implement-trie-ii-prefix-tree/",
+        "question": {
+            "questionFrontendId": "1804",
+            "title": "Implement Trie II (Prefix Tree)",
+            "titleSlug": "implement-trie-ii-prefix-tree",
+            "isPaidOnly": true
+        }
     }
 }

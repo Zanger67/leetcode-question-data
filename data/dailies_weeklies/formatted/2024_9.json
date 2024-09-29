@@ -281,6 +281,16 @@
                         "title": "Design Circular Deque",
                         "titleSlug": "design-circular-deque"
                     }
+                },
+                {
+                    "date": "2024-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/all-oone-data-structure/",
+                    "question": {
+                        "questionFrontendId": "432",
+                        "title": "All O`one Data Structure",
+                        "titleSlug": "all-oone-data-structure"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "1858",
                         "title": "Longest Word With All Prefixes",
                         "titleSlug": "longest-word-with-all-prefixes",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/implement-trie-ii-prefix-tree/",
+                    "question": {
+                        "questionFrontendId": "1804",
+                        "title": "Implement Trie II (Prefix Tree)",
+                        "titleSlug": "implement-trie-ii-prefix-tree",
                         "isPaidOnly": true
                     }
                 }
