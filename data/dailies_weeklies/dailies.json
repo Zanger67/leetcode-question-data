@@ -16428,5 +16428,15 @@
             "title": "All O`one Data Structure",
             "titleSlug": "all-oone-data-structure"
         }
+    },
+    "2024-09-30": {
+        "date": "2024-09-30",
+        "userStatus": "NotStart",
+        "link": "/problems/design-a-stack-with-increment-operation/",
+        "question": {
+            "questionFrontendId": "1381",
+            "title": "Design a Stack With Increment Operation",
+            "titleSlug": "design-a-stack-with-increment-operation"
+        }
     }
 }
