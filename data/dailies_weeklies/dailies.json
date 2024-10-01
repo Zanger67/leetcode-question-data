@@ -16438,5 +16438,15 @@
             "title": "Design a Stack With Increment Operation",
             "titleSlug": "design-a-stack-with-increment-operation"
         }
+    },
+    "2024-10-01": {
+        "date": "2024-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-array-pairs-are-divisible-by-k/",
+        "question": {
+            "questionFrontendId": "1497",
+            "title": "Check If Array Pairs Are Divisible by k",
+            "titleSlug": "check-if-array-pairs-are-divisible-by-k"
+        }
     }
 }
