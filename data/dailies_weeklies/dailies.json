@@ -16448,5 +16448,15 @@
             "title": "Check If Array Pairs Are Divisible by k",
             "titleSlug": "check-if-array-pairs-are-divisible-by-k"
         }
+    },
+    "2024-10-02": {
+        "date": "2024-10-02",
+        "userStatus": "NotStart",
+        "link": "/problems/rank-transform-of-an-array/",
+        "question": {
+            "questionFrontendId": "1331",
+            "title": "Rank Transform of an Array",
+            "titleSlug": "rank-transform-of-an-array"
+        }
     }
 }
