@@ -16458,5 +16458,15 @@
             "title": "Rank Transform of an Array",
             "titleSlug": "rank-transform-of-an-array"
         }
+    },
+    "2024-10-03": {
+        "date": "2024-10-03",
+        "userStatus": "NotStart",
+        "link": "/problems/make-sum-divisible-by-p/",
+        "question": {
+            "questionFrontendId": "1590",
+            "title": "Make Sum Divisible by P",
+            "titleSlug": "make-sum-divisible-by-p"
+        }
     }
 }
