@@ -16468,5 +16468,15 @@
             "title": "Make Sum Divisible by P",
             "titleSlug": "make-sum-divisible-by-p"
         }
+    },
+    "2024-10-04": {
+        "date": "2024-10-04",
+        "userStatus": "NotStart",
+        "link": "/problems/divide-players-into-teams-of-equal-skill/",
+        "question": {
+            "questionFrontendId": "2491",
+            "title": "Divide Players Into Teams of Equal Skill",
+            "titleSlug": "divide-players-into-teams-of-equal-skill"
+        }
     }
 }
