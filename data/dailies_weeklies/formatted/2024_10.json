@@ -41,6 +41,16 @@
                         "title": "Divide Players Into Teams of Equal Skill",
                         "titleSlug": "divide-players-into-teams-of-equal-skill"
                     }
+                },
+                {
+                    "date": "2024-10-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/permutation-in-string/",
+                    "question": {
+                        "questionFrontendId": "567",
+                        "title": "Permutation in String",
+                        "titleSlug": "permutation-in-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
