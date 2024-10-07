@@ -61,6 +61,16 @@
                         "title": "Sentence Similarity III",
                         "titleSlug": "sentence-similarity-iii"
                     }
+                },
+                {
+                    "date": "2024-10-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-string-length-after-removing-substrings/",
+                    "question": {
+                        "questionFrontendId": "2696",
+                        "title": "Minimum String Length After Removing Substrings",
+                        "titleSlug": "minimum-string-length-after-removing-substrings"
+                    }
                 }
             ],
             "weeklyChallenges": [
