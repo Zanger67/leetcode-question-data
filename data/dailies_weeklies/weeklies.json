@@ -2726,5 +2726,16 @@
             "titleSlug": "largest-unique-number",
             "isPaidOnly": true
         }
+    },
+    "2024-10-08": {
+        "date": "2024-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-coins-heroes-can-collect/",
+        "question": {
+            "questionFrontendId": "2838",
+            "title": "Maximum Coins Heroes Can Collect",
+            "titleSlug": "maximum-coins-heroes-can-collect",
+            "isPaidOnly": true
+        }
     }
 }

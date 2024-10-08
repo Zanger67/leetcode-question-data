@@ -16508,5 +16508,15 @@
             "title": "Minimum String Length After Removing Substrings",
             "titleSlug": "minimum-string-length-after-removing-substrings"
         }
+    },
+    "2024-10-08": {
+        "date": "2024-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
+        "question": {
+            "questionFrontendId": "1963",
+            "title": "Minimum Number of Swaps to Make the String Balanced",
+            "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced"
+        }
     }
 }
