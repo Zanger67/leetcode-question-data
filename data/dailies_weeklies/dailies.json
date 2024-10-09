@@ -16518,5 +16518,15 @@
             "title": "Minimum Number of Swaps to Make the String Balanced",
             "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced"
         }
+    },
+    "2024-10-09": {
+        "date": "2024-10-09",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-add-to-make-parentheses-valid/",
+        "question": {
+            "questionFrontendId": "921",
+            "title": "Minimum Add to Make Parentheses Valid",
+            "titleSlug": "minimum-add-to-make-parentheses-valid"
+        }
     }
 }
