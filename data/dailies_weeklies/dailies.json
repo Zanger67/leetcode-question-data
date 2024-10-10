@@ -16528,5 +16528,15 @@
             "title": "Minimum Add to Make Parentheses Valid",
             "titleSlug": "minimum-add-to-make-parentheses-valid"
         }
+    },
+    "2024-10-10": {
+        "date": "2024-10-10",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-width-ramp/",
+        "question": {
+            "questionFrontendId": "962",
+            "title": "Maximum Width Ramp",
+            "titleSlug": "maximum-width-ramp"
+        }
     }
 }
