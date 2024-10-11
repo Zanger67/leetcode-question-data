@@ -16538,5 +16538,15 @@
             "title": "Maximum Width Ramp",
             "titleSlug": "maximum-width-ramp"
         }
+    },
+    "2024-10-11": {
+        "date": "2024-10-11",
+        "userStatus": "NotStart",
+        "link": "/problems/the-number-of-the-smallest-unoccupied-chair/",
+        "question": {
+            "questionFrontendId": "1942",
+            "title": "The Number of the Smallest Unoccupied Chair",
+            "titleSlug": "the-number-of-the-smallest-unoccupied-chair"
+        }
     }
 }
