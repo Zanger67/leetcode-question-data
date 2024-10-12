@@ -16548,5 +16548,15 @@
             "title": "The Number of the Smallest Unoccupied Chair",
             "titleSlug": "the-number-of-the-smallest-unoccupied-chair"
         }
+    },
+    "2024-10-12": {
+        "date": "2024-10-12",
+        "userStatus": "NotStart",
+        "link": "/problems/divide-intervals-into-minimum-number-of-groups/",
+        "question": {
+            "questionFrontendId": "2406",
+            "title": "Divide Intervals Into Minimum Number of Groups",
+            "titleSlug": "divide-intervals-into-minimum-number-of-groups"
+        }
     }
 }
