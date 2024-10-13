@@ -16558,5 +16558,15 @@
             "title": "Divide Intervals Into Minimum Number of Groups",
             "titleSlug": "divide-intervals-into-minimum-number-of-groups"
         }
+    },
+    "2024-10-13": {
+        "date": "2024-10-13",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-range-covering-elements-from-k-lists/",
+        "question": {
+            "questionFrontendId": "632",
+            "title": "Smallest Range Covering Elements from K Lists",
+            "titleSlug": "smallest-range-covering-elements-from-k-lists"
+        }
     }
 }
