@@ -131,6 +131,16 @@
                         "title": "Smallest Range Covering Elements from K Lists",
                         "titleSlug": "smallest-range-covering-elements-from-k-lists"
                     }
+                },
+                {
+                    "date": "2024-10-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximal-score-after-applying-k-operations/",
+                    "question": {
+                        "questionFrontendId": "2530",
+                        "title": "Maximal Score After Applying K Operations",
+                        "titleSlug": "maximal-score-after-applying-k-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
