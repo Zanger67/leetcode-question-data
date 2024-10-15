@@ -141,6 +141,16 @@
                         "title": "Maximal Score After Applying K Operations",
                         "titleSlug": "maximal-score-after-applying-k-operations"
                     }
+                },
+                {
+                    "date": "2024-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/separate-black-and-white-balls/",
+                    "question": {
+                        "questionFrontendId": "2938",
+                        "title": "Separate Black and White Balls",
+                        "titleSlug": "separate-black-and-white-balls"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "2838",
                         "title": "Maximum Coins Heroes Can Collect",
                         "titleSlug": "maximum-coins-heroes-can-collect",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-10-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/first-unique-number/",
+                    "question": {
+                        "questionFrontendId": "1429",
+                        "title": "First Unique Number",
+                        "titleSlug": "first-unique-number",
                         "isPaidOnly": true
                     }
                 }

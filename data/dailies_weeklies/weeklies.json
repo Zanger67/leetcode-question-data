@@ -2737,5 +2737,16 @@
             "titleSlug": "maximum-coins-heroes-can-collect",
             "isPaidOnly": true
         }
+    },
+    "2024-10-15": {
+        "date": "2024-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/first-unique-number/",
+        "question": {
+            "questionFrontendId": "1429",
+            "title": "First Unique Number",
+            "titleSlug": "first-unique-number",
+            "isPaidOnly": true
+        }
     }
 }

@@ -16578,5 +16578,15 @@
             "title": "Maximal Score After Applying K Operations",
             "titleSlug": "maximal-score-after-applying-k-operations"
         }
+    },
+    "2024-10-15": {
+        "date": "2024-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/separate-black-and-white-balls/",
+        "question": {
+            "questionFrontendId": "2938",
+            "title": "Separate Black and White Balls",
+            "titleSlug": "separate-black-and-white-balls"
+        }
     }
 }
