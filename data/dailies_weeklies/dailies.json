@@ -16588,5 +16588,15 @@
             "title": "Separate Black and White Balls",
             "titleSlug": "separate-black-and-white-balls"
         }
+    },
+    "2024-10-16": {
+        "date": "2024-10-16",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-happy-string/",
+        "question": {
+            "questionFrontendId": "1405",
+            "title": "Longest Happy String",
+            "titleSlug": "longest-happy-string"
+        }
     }
 }
