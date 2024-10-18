@@ -171,6 +171,16 @@
                         "title": "Maximum Swap",
                         "titleSlug": "maximum-swap"
                     }
+                },
+                {
+                    "date": "2024-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-number-of-maximum-bitwise-or-subsets/",
+                    "question": {
+                        "questionFrontendId": "2044",
+                        "title": "Count Number of Maximum Bitwise-OR Subsets",
+                        "titleSlug": "count-number-of-maximum-bitwise-or-subsets"
+                    }
                 }
             ],
             "weeklyChallenges": [
