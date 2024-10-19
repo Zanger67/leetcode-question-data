@@ -181,6 +181,16 @@
                         "title": "Count Number of Maximum Bitwise-OR Subsets",
                         "titleSlug": "count-number-of-maximum-bitwise-or-subsets"
                     }
+                },
+                {
+                    "date": "2024-10-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-kth-bit-in-nth-binary-string/",
+                    "question": {
+                        "questionFrontendId": "1545",
+                        "title": "Find Kth Bit in Nth Binary String",
+                        "titleSlug": "find-kth-bit-in-nth-binary-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
