@@ -16628,5 +16628,15 @@
             "title": "Find Kth Bit in Nth Binary String",
             "titleSlug": "find-kth-bit-in-nth-binary-string"
         }
+    },
+    "2024-10-20": {
+        "date": "2024-10-20",
+        "userStatus": "NotStart",
+        "link": "/problems/parsing-a-boolean-expression/",
+        "question": {
+            "questionFrontendId": "1106",
+            "title": "Parsing A Boolean Expression",
+            "titleSlug": "parsing-a-boolean-expression"
+        }
     }
 }
