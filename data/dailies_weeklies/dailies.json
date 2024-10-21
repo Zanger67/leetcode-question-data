@@ -16638,5 +16638,15 @@
             "title": "Parsing A Boolean Expression",
             "titleSlug": "parsing-a-boolean-expression"
         }
+    },
+    "2024-10-21": {
+        "date": "2024-10-21",
+        "userStatus": "NotStart",
+        "link": "/problems/split-a-string-into-the-max-number-of-unique-substrings/",
+        "question": {
+            "questionFrontendId": "1593",
+            "title": "Split a String Into the Max Number of Unique Substrings",
+            "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings"
+        }
     }
 }
