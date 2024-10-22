@@ -211,6 +211,16 @@
                         "title": "Split a String Into the Max Number of Unique Substrings",
                         "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings"
                     }
+                },
+                {
+                    "date": "2024-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kth-largest-sum-in-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "2583",
+                        "title": "Kth Largest Sum in a Binary Tree",
+                        "titleSlug": "kth-largest-sum-in-a-binary-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1429",
                         "title": "First Unique Number",
                         "titleSlug": "first-unique-number",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-10-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-knights-tour/",
+                    "question": {
+                        "questionFrontendId": "2664",
+                        "title": "The Knight\u2019s Tour",
+                        "titleSlug": "the-knights-tour",
                         "isPaidOnly": true
                     }
                 }

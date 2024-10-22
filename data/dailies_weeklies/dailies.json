@@ -16648,5 +16648,15 @@
             "title": "Split a String Into the Max Number of Unique Substrings",
             "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings"
         }
+    },
+    "2024-10-22": {
+        "date": "2024-10-22",
+        "userStatus": "NotStart",
+        "link": "/problems/kth-largest-sum-in-a-binary-tree/",
+        "question": {
+            "questionFrontendId": "2583",
+            "title": "Kth Largest Sum in a Binary Tree",
+            "titleSlug": "kth-largest-sum-in-a-binary-tree"
+        }
     }
 }
