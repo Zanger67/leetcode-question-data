@@ -221,6 +221,16 @@
                         "title": "Kth Largest Sum in a Binary Tree",
                         "titleSlug": "kth-largest-sum-in-a-binary-tree"
                     }
+                },
+                {
+                    "date": "2024-10-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cousins-in-binary-tree-ii/",
+                    "question": {
+                        "questionFrontendId": "2641",
+                        "title": "Cousins in Binary Tree II",
+                        "titleSlug": "cousins-in-binary-tree-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
