@@ -231,6 +231,16 @@
                         "title": "Cousins in Binary Tree II",
                         "titleSlug": "cousins-in-binary-tree-ii"
                     }
+                },
+                {
+                    "date": "2024-10-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/flip-equivalent-binary-trees/",
+                    "question": {
+                        "questionFrontendId": "951",
+                        "title": "Flip Equivalent Binary Trees",
+                        "titleSlug": "flip-equivalent-binary-trees"
+                    }
                 }
             ],
             "weeklyChallenges": [
