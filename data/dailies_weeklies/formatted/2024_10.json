@@ -241,6 +241,16 @@
                         "title": "Flip Equivalent Binary Trees",
                         "titleSlug": "flip-equivalent-binary-trees"
                     }
+                },
+                {
+                    "date": "2024-10-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-sub-folders-from-the-filesystem/",
+                    "question": {
+                        "questionFrontendId": "1233",
+                        "title": "Remove Sub-Folders from the Filesystem",
+                        "titleSlug": "remove-sub-folders-from-the-filesystem"
+                    }
                 }
             ],
             "weeklyChallenges": [
