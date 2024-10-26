@@ -251,6 +251,16 @@
                         "title": "Remove Sub-Folders from the Filesystem",
                         "titleSlug": "remove-sub-folders-from-the-filesystem"
                     }
+                },
+                {
+                    "date": "2024-10-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/height-of-binary-tree-after-subtree-removal-queries/",
+                    "question": {
+                        "questionFrontendId": "2458",
+                        "title": "Height of Binary Tree After Subtree Removal Queries",
+                        "titleSlug": "height-of-binary-tree-after-subtree-removal-queries"
+                    }
                 }
             ],
             "weeklyChallenges": [
