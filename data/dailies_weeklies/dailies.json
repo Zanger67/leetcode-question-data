@@ -16698,5 +16698,15 @@
             "title": "Height of Binary Tree After Subtree Removal Queries",
             "titleSlug": "height-of-binary-tree-after-subtree-removal-queries"
         }
+    },
+    "2024-10-27": {
+        "date": "2024-10-27",
+        "userStatus": "NotStart",
+        "link": "/problems/count-square-submatrices-with-all-ones/",
+        "question": {
+            "questionFrontendId": "1277",
+            "title": "Count Square Submatrices with All Ones",
+            "titleSlug": "count-square-submatrices-with-all-ones"
+        }
     }
 }
