@@ -16708,5 +16708,15 @@
             "title": "Count Square Submatrices with All Ones",
             "titleSlug": "count-square-submatrices-with-all-ones"
         }
+    },
+    "2024-10-28": {
+        "date": "2024-10-28",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-square-streak-in-an-array/",
+        "question": {
+            "questionFrontendId": "2501",
+            "title": "Longest Square Streak in an Array",
+            "titleSlug": "longest-square-streak-in-an-array"
+        }
     }
 }
