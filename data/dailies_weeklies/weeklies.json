@@ -2759,5 +2759,16 @@
             "titleSlug": "the-knights-tour",
             "isPaidOnly": true
         }
+    },
+    "2024-10-29": {
+        "date": "2024-10-29",
+        "userStatus": "NotStart",
+        "link": "/problems/paint-house-ii/",
+        "question": {
+            "questionFrontendId": "265",
+            "title": "Paint House II",
+            "titleSlug": "paint-house-ii",
+            "isPaidOnly": true
+        }
     }
 }

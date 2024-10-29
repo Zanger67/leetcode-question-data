@@ -281,6 +281,16 @@
                         "title": "Longest Square Streak in an Array",
                         "titleSlug": "longest-square-streak-in-an-array"
                     }
+                },
+                {
+                    "date": "2024-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-moves-in-a-grid/",
+                    "question": {
+                        "questionFrontendId": "2684",
+                        "title": "Maximum Number of Moves in a Grid",
+                        "titleSlug": "maximum-number-of-moves-in-a-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "2664",
                         "title": "The Knight\u2019s Tour",
                         "titleSlug": "the-knights-tour",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/paint-house-ii/",
+                    "question": {
+                        "questionFrontendId": "265",
+                        "title": "Paint House II",
+                        "titleSlug": "paint-house-ii",
                         "isPaidOnly": true
                     }
                 }
