@@ -291,6 +291,16 @@
                         "title": "Maximum Number of Moves in a Grid",
                         "titleSlug": "maximum-number-of-moves-in-a-grid"
                     }
+                },
+                {
+                    "date": "2024-10-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-removals-to-make-mountain-array/",
+                    "question": {
+                        "questionFrontendId": "1671",
+                        "title": "Minimum Number of Removals to Make Mountain Array",
+                        "titleSlug": "minimum-number-of-removals-to-make-mountain-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
