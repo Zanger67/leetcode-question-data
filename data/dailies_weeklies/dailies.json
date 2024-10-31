@@ -16738,5 +16738,15 @@
             "title": "Minimum Number of Removals to Make Mountain Array",
             "titleSlug": "minimum-number-of-removals-to-make-mountain-array"
         }
+    },
+    "2024-10-31": {
+        "date": "2024-10-31",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-total-distance-traveled/",
+        "question": {
+            "questionFrontendId": "2463",
+            "title": "Minimum Total Distance Traveled",
+            "titleSlug": "minimum-total-distance-traveled"
+        }
     }
 }
