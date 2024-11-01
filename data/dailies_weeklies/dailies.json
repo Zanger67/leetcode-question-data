@@ -16748,5 +16748,15 @@
             "title": "Minimum Total Distance Traveled",
             "titleSlug": "minimum-total-distance-traveled"
         }
+    },
+    "2024-11-01": {
+        "date": "2024-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-characters-to-make-fancy-string/",
+        "question": {
+            "questionFrontendId": "1957",
+            "title": "Delete Characters to Make Fancy String",
+            "titleSlug": "delete-characters-to-make-fancy-string"
+        }
     }
 }
