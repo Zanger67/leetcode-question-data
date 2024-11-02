@@ -11,6 +11,16 @@
                         "title": "Delete Characters to Make Fancy String",
                         "titleSlug": "delete-characters-to-make-fancy-string"
                     }
+                },
+                {
+                    "date": "2024-11-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/circular-sentence/",
+                    "question": {
+                        "questionFrontendId": "2490",
+                        "title": "Circular Sentence",
+                        "titleSlug": "circular-sentence"
+                    }
                 }
             ],
             "weeklyChallenges": [
