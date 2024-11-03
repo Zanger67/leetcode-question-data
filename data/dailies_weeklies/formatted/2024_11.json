@@ -21,6 +21,16 @@
                         "title": "Circular Sentence",
                         "titleSlug": "circular-sentence"
                     }
+                },
+                {
+                    "date": "2024-11-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotate-string/",
+                    "question": {
+                        "questionFrontendId": "796",
+                        "title": "Rotate String",
+                        "titleSlug": "rotate-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
