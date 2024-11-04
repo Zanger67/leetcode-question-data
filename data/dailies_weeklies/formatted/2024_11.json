@@ -31,6 +31,16 @@
                         "title": "Rotate String",
                         "titleSlug": "rotate-string"
                     }
+                },
+                {
+                    "date": "2024-11-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/string-compression-iii/",
+                    "question": {
+                        "questionFrontendId": "3163",
+                        "title": "String Compression III",
+                        "titleSlug": "string-compression-iii"
+                    }
                 }
             ],
             "weeklyChallenges": [
