@@ -16788,5 +16788,15 @@
             "title": "String Compression III",
             "titleSlug": "string-compression-iii"
         }
+    },
+    "2024-11-05": {
+        "date": "2024-11-05",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+        "question": {
+            "questionFrontendId": "2914",
+            "title": "Minimum Number of Changes to Make Binary String Beautiful",
+            "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful"
+        }
     }
 }
