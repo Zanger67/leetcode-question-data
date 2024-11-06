@@ -51,6 +51,16 @@
                         "title": "Minimum Number of Changes to Make Binary String Beautiful",
                         "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful"
                     }
+                },
+                {
+                    "date": "2024-11-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-if-array-can-be-sorted/",
+                    "question": {
+                        "questionFrontendId": "3011",
+                        "title": "Find if Array Can Be Sorted",
+                        "titleSlug": "find-if-array-can-be-sorted"
+                    }
                 }
             ],
             "weeklyChallenges": [
