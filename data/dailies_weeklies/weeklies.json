@@ -2781,5 +2781,16 @@
             "titleSlug": "number-of-same-end-substrings",
             "isPaidOnly": true
         }
+    },
+    "2024-11-08": {
+        "date": "2024-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/intersection-of-three-sorted-arrays/",
+        "question": {
+            "questionFrontendId": "1213",
+            "title": "Intersection of Three Sorted Arrays",
+            "titleSlug": "intersection-of-three-sorted-arrays",
+            "isPaidOnly": true
+        }
     }
 }

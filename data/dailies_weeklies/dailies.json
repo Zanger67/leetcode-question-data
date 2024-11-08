@@ -16818,5 +16818,15 @@
             "title": "Largest Combination With Bitwise AND Greater Than Zero",
             "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero"
         }
+    },
+    "2024-11-08": {
+        "date": "2024-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-xor-for-each-query/",
+        "question": {
+            "questionFrontendId": "1829",
+            "title": "Maximum XOR for Each Query",
+            "titleSlug": "maximum-xor-for-each-query"
+        }
     }
 }

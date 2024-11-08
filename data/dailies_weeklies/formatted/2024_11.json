@@ -71,6 +71,16 @@
                         "title": "Largest Combination With Bitwise AND Greater Than Zero",
                         "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero"
                     }
+                },
+                {
+                    "date": "2024-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-xor-for-each-query/",
+                    "question": {
+                        "questionFrontendId": "1829",
+                        "title": "Maximum XOR for Each Query",
+                        "titleSlug": "maximum-xor-for-each-query"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "2955",
                         "title": "Number of Same-End Substrings",
                         "titleSlug": "number-of-same-end-substrings",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/intersection-of-three-sorted-arrays/",
+                    "question": {
+                        "questionFrontendId": "1213",
+                        "title": "Intersection of Three Sorted Arrays",
+                        "titleSlug": "intersection-of-three-sorted-arrays",
                         "isPaidOnly": true
                     }
                 }
