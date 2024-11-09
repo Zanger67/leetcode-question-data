@@ -16828,5 +16828,15 @@
             "title": "Maximum XOR for Each Query",
             "titleSlug": "maximum-xor-for-each-query"
         }
+    },
+    "2024-11-09": {
+        "date": "2024-11-09",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-array-end/",
+        "question": {
+            "questionFrontendId": "3133",
+            "title": "Minimum Array End",
+            "titleSlug": "minimum-array-end"
+        }
     }
 }
