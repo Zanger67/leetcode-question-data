@@ -16848,5 +16848,15 @@
             "title": "Shortest Subarray With OR at Least K II",
             "titleSlug": "shortest-subarray-with-or-at-least-k-ii"
         }
+    },
+    "2024-11-11": {
+        "date": "2024-11-11",
+        "userStatus": "NotStart",
+        "link": "/problems/prime-subtraction-operation/",
+        "question": {
+            "questionFrontendId": "2601",
+            "title": "Prime Subtraction Operation",
+            "titleSlug": "prime-subtraction-operation"
+        }
     }
 }
