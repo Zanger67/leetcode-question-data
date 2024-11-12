@@ -111,6 +111,16 @@
                         "title": "Prime Subtraction Operation",
                         "titleSlug": "prime-subtraction-operation"
                     }
+                },
+                {
+                    "date": "2024-11-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/most-beautiful-item-for-each-query/",
+                    "question": {
+                        "questionFrontendId": "2070",
+                        "title": "Most Beautiful Item for Each Query",
+                        "titleSlug": "most-beautiful-item-for-each-query"
+                    }
                 }
             ],
             "weeklyChallenges": [
