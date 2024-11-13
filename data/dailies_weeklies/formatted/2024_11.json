@@ -121,6 +121,16 @@
                         "title": "Most Beautiful Item for Each Query",
                         "titleSlug": "most-beautiful-item-for-each-query"
                     }
+                },
+                {
+                    "date": "2024-11-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-fair-pairs/",
+                    "question": {
+                        "questionFrontendId": "2563",
+                        "title": "Count the Number of Fair Pairs",
+                        "titleSlug": "count-the-number-of-fair-pairs"
+                    }
                 }
             ],
             "weeklyChallenges": [
