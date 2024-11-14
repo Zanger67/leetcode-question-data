@@ -16878,5 +16878,15 @@
             "title": "Count the Number of Fair Pairs",
             "titleSlug": "count-the-number-of-fair-pairs"
         }
+    },
+    "2024-11-14": {
+        "date": "2024-11-14",
+        "userStatus": "NotStart",
+        "link": "/problems/minimized-maximum-of-products-distributed-to-any-store/",
+        "question": {
+            "questionFrontendId": "2064",
+            "title": "Minimized Maximum of Products Distributed to Any Store",
+            "titleSlug": "minimized-maximum-of-products-distributed-to-any-store"
+        }
     }
 }
