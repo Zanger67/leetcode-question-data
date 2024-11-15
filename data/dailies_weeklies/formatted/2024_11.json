@@ -141,6 +141,16 @@
                         "title": "Minimized Maximum of Products Distributed to Any Store",
                         "titleSlug": "minimized-maximum-of-products-distributed-to-any-store"
                     }
+                },
+                {
+                    "date": "2024-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-subarray-to-be-removed-to-make-array-sorted/",
+                    "question": {
+                        "questionFrontendId": "1574",
+                        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+                        "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1213",
                         "title": "Intersection of Three Sorted Arrays",
                         "titleSlug": "intersection-of-three-sorted-arrays",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+                    "question": {
+                        "questionFrontendId": "2107",
+                        "title": "Number of Unique Flavors After Sharing K Candies",
+                        "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
                         "isPaidOnly": true
                     }
                 }

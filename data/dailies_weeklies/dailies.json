@@ -16888,5 +16888,15 @@
             "title": "Minimized Maximum of Products Distributed to Any Store",
             "titleSlug": "minimized-maximum-of-products-distributed-to-any-store"
         }
+    },
+    "2024-11-15": {
+        "date": "2024-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-subarray-to-be-removed-to-make-array-sorted/",
+        "question": {
+            "questionFrontendId": "1574",
+            "title": "Shortest Subarray to be Removed to Make Array Sorted",
+            "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted"
+        }
     }
 }

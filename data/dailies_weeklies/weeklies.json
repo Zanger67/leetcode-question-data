@@ -2792,5 +2792,16 @@
             "titleSlug": "intersection-of-three-sorted-arrays",
             "isPaidOnly": true
         }
+    },
+    "2024-11-15": {
+        "date": "2024-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+        "question": {
+            "questionFrontendId": "2107",
+            "title": "Number of Unique Flavors After Sharing K Candies",
+            "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+            "isPaidOnly": true
+        }
     }
 }
