@@ -151,6 +151,16 @@
                         "title": "Shortest Subarray to be Removed to Make Array Sorted",
                         "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted"
                     }
+                },
+                {
+                    "date": "2024-11-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-power-of-k-size-subarrays-i/",
+                    "question": {
+                        "questionFrontendId": "3254",
+                        "title": "Find the Power of K-Size Subarrays I",
+                        "titleSlug": "find-the-power-of-k-size-subarrays-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
