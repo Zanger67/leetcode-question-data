@@ -16908,5 +16908,15 @@
             "title": "Find the Power of K-Size Subarrays I",
             "titleSlug": "find-the-power-of-k-size-subarrays-i"
         }
+    },
+    "2024-11-17": {
+        "date": "2024-11-17",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-subarray-with-sum-at-least-k/",
+        "question": {
+            "questionFrontendId": "862",
+            "title": "Shortest Subarray with Sum at Least K",
+            "titleSlug": "shortest-subarray-with-sum-at-least-k"
+        }
     }
 }
