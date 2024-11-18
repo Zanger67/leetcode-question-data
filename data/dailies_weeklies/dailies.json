@@ -16918,5 +16918,15 @@
             "title": "Shortest Subarray with Sum at Least K",
             "titleSlug": "shortest-subarray-with-sum-at-least-k"
         }
+    },
+    "2024-11-18": {
+        "date": "2024-11-18",
+        "userStatus": "NotStart",
+        "link": "/problems/defuse-the-bomb/",
+        "question": {
+            "questionFrontendId": "1652",
+            "title": "Defuse the Bomb",
+            "titleSlug": "defuse-the-bomb"
+        }
     }
 }
