@@ -16928,5 +16928,15 @@
             "title": "Defuse the Bomb",
             "titleSlug": "defuse-the-bomb"
         }
+    },
+    "2024-11-19": {
+        "date": "2024-11-19",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+        "question": {
+            "questionFrontendId": "2461",
+            "title": "Maximum Sum of Distinct Subarrays With Length K",
+            "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k"
+        }
     }
 }
