@@ -191,6 +191,16 @@
                         "title": "Maximum Sum of Distinct Subarrays With Length K",
                         "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k"
                     }
+                },
+                {
+                    "date": "2024-11-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/take-k-of-each-character-from-left-and-right/",
+                    "question": {
+                        "questionFrontendId": "2516",
+                        "title": "Take K of Each Character From Left and Right",
+                        "titleSlug": "take-k-of-each-character-from-left-and-right"
+                    }
                 }
             ],
             "weeklyChallenges": [
