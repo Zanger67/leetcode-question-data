@@ -16948,5 +16948,15 @@
             "title": "Take K of Each Character From Left and Right",
             "titleSlug": "take-k-of-each-character-from-left-and-right"
         }
+    },
+    "2024-11-21": {
+        "date": "2024-11-21",
+        "userStatus": "NotStart",
+        "link": "/problems/count-unguarded-cells-in-the-grid/",
+        "question": {
+            "questionFrontendId": "2257",
+            "title": "Count Unguarded Cells in the Grid",
+            "titleSlug": "count-unguarded-cells-in-the-grid"
+        }
     }
 }
