@@ -2803,5 +2803,16 @@
             "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
             "isPaidOnly": true
         }
+    },
+    "2024-11-22": {
+        "date": "2024-11-22",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-maximum-value-in-a-grid/",
+        "question": {
+            "questionFrontendId": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "titleSlug": "minimize-maximum-value-in-a-grid",
+            "isPaidOnly": true
+        }
     }
 }
