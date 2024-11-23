@@ -16968,5 +16968,15 @@
             "title": "Flip Columns For Maximum Number of Equal Rows",
             "titleSlug": "flip-columns-for-maximum-number-of-equal-rows"
         }
+    },
+    "2024-11-23": {
+        "date": "2024-11-23",
+        "userStatus": "NotStart",
+        "link": "/problems/rotating-the-box/",
+        "question": {
+            "questionFrontendId": "1861",
+            "title": "Rotating the Box",
+            "titleSlug": "rotating-the-box"
+        }
     }
 }
