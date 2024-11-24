@@ -231,6 +231,16 @@
                         "title": "Rotating the Box",
                         "titleSlug": "rotating-the-box"
                     }
+                },
+                {
+                    "date": "2024-11-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-matrix-sum/",
+                    "question": {
+                        "questionFrontendId": "1975",
+                        "title": "Maximum Matrix Sum",
+                        "titleSlug": "maximum-matrix-sum"
+                    }
                 }
             ],
             "weeklyChallenges": [
