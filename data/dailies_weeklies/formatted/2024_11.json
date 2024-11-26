@@ -251,6 +251,16 @@
                         "title": "Sliding Puzzle",
                         "titleSlug": "sliding-puzzle"
                     }
+                },
+                {
+                    "date": "2024-11-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-champion-ii/",
+                    "question": {
+                        "questionFrontendId": "2924",
+                        "title": "Find Champion II",
+                        "titleSlug": "find-champion-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
