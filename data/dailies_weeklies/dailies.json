@@ -17018,5 +17018,15 @@
             "title": "Shortest Distance After Road Addition Queries I",
             "titleSlug": "shortest-distance-after-road-addition-queries-i"
         }
+    },
+    "2024-11-28": {
+        "date": "2024-11-28",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-obstacle-removal-to-reach-corner/",
+        "question": {
+            "questionFrontendId": "2290",
+            "title": "Minimum Obstacle Removal to Reach Corner",
+            "titleSlug": "minimum-obstacle-removal-to-reach-corner"
+        }
     }
 }
