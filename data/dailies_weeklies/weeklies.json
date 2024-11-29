@@ -2814,5 +2814,16 @@
             "titleSlug": "minimize-maximum-value-in-a-grid",
             "isPaidOnly": true
         }
+    },
+    "2024-11-29": {
+        "date": "2024-11-29",
+        "userStatus": "NotStart",
+        "link": "/problems/distance-to-a-cycle-in-undirected-graph/",
+        "question": {
+            "questionFrontendId": "2204",
+            "title": "Distance to a Cycle in Undirected Graph",
+            "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+            "isPaidOnly": true
+        }
     }
 }
