@@ -17038,5 +17038,15 @@
             "title": "Minimum Time to Visit a Cell In a Grid",
             "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid"
         }
+    },
+    "2024-11-30": {
+        "date": "2024-11-30",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-arrangement-of-pairs/",
+        "question": {
+            "questionFrontendId": "2097",
+            "title": "Valid Arrangement of Pairs",
+            "titleSlug": "valid-arrangement-of-pairs"
+        }
     }
 }
