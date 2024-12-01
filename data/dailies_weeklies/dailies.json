@@ -17048,5 +17048,15 @@
             "title": "Valid Arrangement of Pairs",
             "titleSlug": "valid-arrangement-of-pairs"
         }
+    },
+    "2024-12-01": {
+        "date": "2024-12-01",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-n-and-its-double-exist/",
+        "question": {
+            "questionFrontendId": "1346",
+            "title": "Check If N and Its Double Exist",
+            "titleSlug": "check-if-n-and-its-double-exist"
+        }
     }
 }

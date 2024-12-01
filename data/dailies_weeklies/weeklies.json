@@ -2825,5 +2825,16 @@
             "titleSlug": "distance-to-a-cycle-in-undirected-graph",
             "isPaidOnly": true
         }
+    },
+    "2024-12-01": {
+        "date": "2024-12-01",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-celebrity/",
+        "question": {
+            "questionFrontendId": "277",
+            "title": "Find the Celebrity",
+            "titleSlug": "find-the-celebrity",
+            "isPaidOnly": true
+        }
     }
 }

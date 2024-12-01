@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2024-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-n-and-its-double-exist/",
+                    "question": {
+                        "questionFrontendId": "1346",
+                        "title": "Check If N and Its Double Exist",
+                        "titleSlug": "check-if-n-and-its-double-exist"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2024-12-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-celebrity/",
+                    "question": {
+                        "questionFrontendId": "277",
+                        "title": "Find the Celebrity",
+                        "titleSlug": "find-the-celebrity",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}
