@@ -17058,5 +17058,15 @@
             "title": "Check If N and Its Double Exist",
             "titleSlug": "check-if-n-and-its-double-exist"
         }
+    },
+    "2024-12-02": {
+        "date": "2024-12-02",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+        "question": {
+            "questionFrontendId": "1455",
+            "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+            "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+        }
     }
 }
