@@ -17068,5 +17068,15 @@
             "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
             "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
         }
+    },
+    "2024-12-03": {
+        "date": "2024-12-03",
+        "userStatus": "NotStart",
+        "link": "/problems/adding-spaces-to-a-string/",
+        "question": {
+            "questionFrontendId": "2109",
+            "title": "Adding Spaces to a String",
+            "titleSlug": "adding-spaces-to-a-string"
+        }
     }
 }
