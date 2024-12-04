@@ -17078,5 +17078,15 @@
             "title": "Adding Spaces to a String",
             "titleSlug": "adding-spaces-to-a-string"
         }
+    },
+    "2024-12-04": {
+        "date": "2024-12-04",
+        "userStatus": "NotStart",
+        "link": "/problems/make-string-a-subsequence-using-cyclic-increments/",
+        "question": {
+            "questionFrontendId": "2825",
+            "title": "Make String a Subsequence Using Cyclic Increments",
+            "titleSlug": "make-string-a-subsequence-using-cyclic-increments"
+        }
     }
 }
