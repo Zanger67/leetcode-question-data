@@ -17088,5 +17088,15 @@
             "title": "Make String a Subsequence Using Cyclic Increments",
             "titleSlug": "make-string-a-subsequence-using-cyclic-increments"
         }
+    },
+    "2024-12-05": {
+        "date": "2024-12-05",
+        "userStatus": "NotStart",
+        "link": "/problems/move-pieces-to-obtain-a-string/",
+        "question": {
+            "questionFrontendId": "2337",
+            "title": "Move Pieces to Obtain a String",
+            "titleSlug": "move-pieces-to-obtain-a-string"
+        }
     }
 }
