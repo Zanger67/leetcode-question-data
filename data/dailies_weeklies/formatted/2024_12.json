@@ -51,6 +51,16 @@
                         "title": "Move Pieces to Obtain a String",
                         "titleSlug": "move-pieces-to-obtain-a-string"
                     }
+                },
+                {
+                    "date": "2024-12-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-integers-to-choose-from-a-range-i/",
+                    "question": {
+                        "questionFrontendId": "2554",
+                        "title": "Maximum Number of Integers to Choose From a Range I",
+                        "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
