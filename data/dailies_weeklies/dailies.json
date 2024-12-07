@@ -17108,5 +17108,15 @@
             "title": "Maximum Number of Integers to Choose From a Range I",
             "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i"
         }
+    },
+    "2024-12-07": {
+        "date": "2024-12-07",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-limit-of-balls-in-a-bag/",
+        "question": {
+            "questionFrontendId": "1760",
+            "title": "Minimum Limit of Balls in a Bag",
+            "titleSlug": "minimum-limit-of-balls-in-a-bag"
+        }
     }
 }
