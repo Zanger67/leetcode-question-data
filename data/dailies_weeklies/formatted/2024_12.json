@@ -71,6 +71,16 @@
                         "title": "Minimum Limit of Balls in a Bag",
                         "titleSlug": "minimum-limit-of-balls-in-a-bag"
                     }
+                },
+                {
+                    "date": "2024-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-best-non-overlapping-events/",
+                    "question": {
+                        "questionFrontendId": "2054",
+                        "title": "Two Best Non-Overlapping Events",
+                        "titleSlug": "two-best-non-overlapping-events"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "277",
                         "title": "Find the Celebrity",
                         "titleSlug": "find-the-celebrity",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cutting-ribbons/",
+                    "question": {
+                        "questionFrontendId": "1891",
+                        "title": "Cutting Ribbons",
+                        "titleSlug": "cutting-ribbons",
                         "isPaidOnly": true
                     }
                 }
