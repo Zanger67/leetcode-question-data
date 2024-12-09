@@ -17128,5 +17128,15 @@
             "title": "Two Best Non-Overlapping Events",
             "titleSlug": "two-best-non-overlapping-events"
         }
+    },
+    "2024-12-09": {
+        "date": "2024-12-09",
+        "userStatus": "NotStart",
+        "link": "/problems/special-array-ii/",
+        "question": {
+            "questionFrontendId": "3152",
+            "title": "Special Array II",
+            "titleSlug": "special-array-ii"
+        }
     }
 }
