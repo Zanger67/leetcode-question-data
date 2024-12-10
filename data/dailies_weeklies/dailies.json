@@ -17138,5 +17138,15 @@
             "title": "Special Array II",
             "titleSlug": "special-array-ii"
         }
+    },
+    "2024-12-10": {
+        "date": "2024-12-10",
+        "userStatus": "NotStart",
+        "link": "/problems/find-longest-special-substring-that-occurs-thrice-i/",
+        "question": {
+            "questionFrontendId": "2981",
+            "title": "Find Longest Special Substring That Occurs Thrice I",
+            "titleSlug": "find-longest-special-substring-that-occurs-thrice-i"
+        }
     }
 }
