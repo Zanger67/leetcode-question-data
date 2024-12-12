@@ -17158,5 +17158,15 @@
             "title": "Maximum Beauty of an Array After Applying Operation",
             "titleSlug": "maximum-beauty-of-an-array-after-applying-operation"
         }
+    },
+    "2024-12-12": {
+        "date": "2024-12-12",
+        "userStatus": "NotStart",
+        "link": "/problems/take-gifts-from-the-richest-pile/",
+        "question": {
+            "questionFrontendId": "2558",
+            "title": "Take Gifts From the Richest Pile",
+            "titleSlug": "take-gifts-from-the-richest-pile"
+        }
     }
 }
