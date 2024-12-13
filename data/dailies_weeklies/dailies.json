@@ -17168,5 +17168,15 @@
             "title": "Take Gifts From the Richest Pile",
             "titleSlug": "take-gifts-from-the-richest-pile"
         }
+    },
+    "2024-12-13": {
+        "date": "2024-12-13",
+        "userStatus": "NotStart",
+        "link": "/problems/find-score-of-an-array-after-marking-all-elements/",
+        "question": {
+            "questionFrontendId": "2593",
+            "title": "Find Score of an Array After Marking All Elements",
+            "titleSlug": "find-score-of-an-array-after-marking-all-elements"
+        }
     }
 }
