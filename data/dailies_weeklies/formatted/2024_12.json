@@ -131,6 +131,16 @@
                         "title": "Find Score of an Array After Marking All Elements",
                         "titleSlug": "find-score-of-an-array-after-marking-all-elements"
                     }
+                },
+                {
+                    "date": "2024-12-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/continuous-subarrays/",
+                    "question": {
+                        "questionFrontendId": "2762",
+                        "title": "Continuous Subarrays",
+                        "titleSlug": "continuous-subarrays"
+                    }
                 }
             ],
             "weeklyChallenges": [
