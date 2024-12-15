@@ -17188,5 +17188,15 @@
             "title": "Continuous Subarrays",
             "titleSlug": "continuous-subarrays"
         }
+    },
+    "2024-12-15": {
+        "date": "2024-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-average-pass-ratio/",
+        "question": {
+            "questionFrontendId": "1792",
+            "title": "Maximum Average Pass Ratio",
+            "titleSlug": "maximum-average-pass-ratio"
+        }
     }
 }

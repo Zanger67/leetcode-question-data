@@ -2847,5 +2847,16 @@
             "titleSlug": "cutting-ribbons",
             "isPaidOnly": true
         }
+    },
+    "2024-12-15": {
+        "date": "2024-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximal-range-that-each-element-is-maximum-in-it/",
+        "question": {
+            "questionFrontendId": "2832",
+            "title": "Maximal Range That Each Element Is Maximum in It",
+            "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+            "isPaidOnly": true
+        }
     }
 }
