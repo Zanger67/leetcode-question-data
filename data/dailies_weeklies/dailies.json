@@ -17218,5 +17218,15 @@
             "title": "Construct String With Repeat Limit",
             "titleSlug": "construct-string-with-repeat-limit"
         }
+    },
+    "2024-12-18": {
+        "date": "2024-12-18",
+        "userStatus": "NotStart",
+        "link": "/problems/final-prices-with-a-special-discount-in-a-shop/",
+        "question": {
+            "questionFrontendId": "1475",
+            "title": "Final Prices With a Special Discount in a Shop",
+            "titleSlug": "final-prices-with-a-special-discount-in-a-shop"
+        }
     }
 }
