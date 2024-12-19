@@ -181,6 +181,16 @@
                         "title": "Final Prices With a Special Discount in a Shop",
                         "titleSlug": "final-prices-with-a-special-discount-in-a-shop"
                     }
+                },
+                {
+                    "date": "2024-12-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-chunks-to-make-sorted/",
+                    "question": {
+                        "questionFrontendId": "769",
+                        "title": "Max Chunks To Make Sorted",
+                        "titleSlug": "max-chunks-to-make-sorted"
+                    }
                 }
             ],
             "weeklyChallenges": [
