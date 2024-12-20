@@ -191,6 +191,16 @@
                         "title": "Max Chunks To Make Sorted",
                         "titleSlug": "max-chunks-to-make-sorted"
                     }
+                },
+                {
+                    "date": "2024-12-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-odd-levels-of-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "2415",
+                        "title": "Reverse Odd Levels of Binary Tree",
+                        "titleSlug": "reverse-odd-levels-of-binary-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
