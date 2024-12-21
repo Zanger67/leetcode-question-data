@@ -17248,5 +17248,15 @@
             "title": "Reverse Odd Levels of Binary Tree",
             "titleSlug": "reverse-odd-levels-of-binary-tree"
         }
+    },
+    "2024-12-21": {
+        "date": "2024-12-21",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-k-divisible-components/",
+        "question": {
+            "questionFrontendId": "2872",
+            "title": "Maximum Number of K-Divisible Components",
+            "titleSlug": "maximum-number-of-k-divisible-components"
+        }
     }
 }
