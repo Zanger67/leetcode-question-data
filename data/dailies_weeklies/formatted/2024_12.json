@@ -211,6 +211,16 @@
                         "title": "Maximum Number of K-Divisible Components",
                         "titleSlug": "maximum-number-of-k-divisible-components"
                     }
+                },
+                {
+                    "date": "2024-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-building-where-alice-and-bob-can-meet/",
+                    "question": {
+                        "questionFrontendId": "2940",
+                        "title": "Find Building Where Alice and Bob Can Meet",
+                        "titleSlug": "find-building-where-alice-and-bob-can-meet"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "2832",
                         "title": "Maximal Range That Each Element Is Maximum in It",
                         "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2024-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+                    "question": {
+                        "questionFrontendId": "1644",
+                        "title": "Lowest Common Ancestor of a Binary Tree II",
+                        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
                         "isPaidOnly": true
                     }
                 }

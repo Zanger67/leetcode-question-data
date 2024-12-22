@@ -17258,5 +17258,15 @@
             "title": "Maximum Number of K-Divisible Components",
             "titleSlug": "maximum-number-of-k-divisible-components"
         }
+    },
+    "2024-12-22": {
+        "date": "2024-12-22",
+        "userStatus": "NotStart",
+        "link": "/problems/find-building-where-alice-and-bob-can-meet/",
+        "question": {
+            "questionFrontendId": "2940",
+            "title": "Find Building Where Alice and Bob Can Meet",
+            "titleSlug": "find-building-where-alice-and-bob-can-meet"
+        }
     }
 }

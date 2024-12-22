@@ -2858,5 +2858,16 @@
             "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
             "isPaidOnly": true
         }
+    },
+    "2024-12-22": {
+        "date": "2024-12-22",
+        "userStatus": "NotStart",
+        "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+        "question": {
+            "questionFrontendId": "1644",
+            "title": "Lowest Common Ancestor of a Binary Tree II",
+            "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+            "isPaidOnly": true
+        }
     }
 }
