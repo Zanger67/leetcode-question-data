@@ -17268,5 +17268,15 @@
             "title": "Find Building Where Alice and Bob Can Meet",
             "titleSlug": "find-building-where-alice-and-bob-can-meet"
         }
+    },
+    "2024-12-23": {
+        "date": "2024-12-23",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/",
+        "question": {
+            "questionFrontendId": "2471",
+            "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+            "titleSlug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+        }
     }
 }
