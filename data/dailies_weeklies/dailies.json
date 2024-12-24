@@ -17278,5 +17278,15 @@
             "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
             "titleSlug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level"
         }
+    },
+    "2024-12-24": {
+        "date": "2024-12-24",
+        "userStatus": "NotStart",
+        "link": "/problems/find-minimum-diameter-after-merging-two-trees/",
+        "question": {
+            "questionFrontendId": "3203",
+            "title": "Find Minimum Diameter After Merging Two Trees",
+            "titleSlug": "find-minimum-diameter-after-merging-two-trees"
+        }
     }
 }
