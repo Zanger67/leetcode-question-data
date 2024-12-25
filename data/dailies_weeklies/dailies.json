@@ -17288,5 +17288,15 @@
             "title": "Find Minimum Diameter After Merging Two Trees",
             "titleSlug": "find-minimum-diameter-after-merging-two-trees"
         }
+    },
+    "2024-12-25": {
+        "date": "2024-12-25",
+        "userStatus": "NotStart",
+        "link": "/problems/find-largest-value-in-each-tree-row/",
+        "question": {
+            "questionFrontendId": "515",
+            "title": "Find Largest Value in Each Tree Row",
+            "titleSlug": "find-largest-value-in-each-tree-row"
+        }
     }
 }
