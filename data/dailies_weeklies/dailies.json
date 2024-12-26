@@ -17298,5 +17298,15 @@
             "title": "Find Largest Value in Each Tree Row",
             "titleSlug": "find-largest-value-in-each-tree-row"
         }
+    },
+    "2024-12-26": {
+        "date": "2024-12-26",
+        "userStatus": "NotStart",
+        "link": "/problems/target-sum/",
+        "question": {
+            "questionFrontendId": "494",
+            "title": "Target Sum",
+            "titleSlug": "target-sum"
+        }
     }
 }
