@@ -261,6 +261,16 @@
                         "title": "Target Sum",
                         "titleSlug": "target-sum"
                     }
+                },
+                {
+                    "date": "2024-12-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/best-sightseeing-pair/",
+                    "question": {
+                        "questionFrontendId": "1014",
+                        "title": "Best Sightseeing Pair",
+                        "titleSlug": "best-sightseeing-pair"
+                    }
                 }
             ],
             "weeklyChallenges": [
