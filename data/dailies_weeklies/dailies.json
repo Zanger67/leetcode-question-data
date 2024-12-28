@@ -17318,5 +17318,15 @@
             "title": "Best Sightseeing Pair",
             "titleSlug": "best-sightseeing-pair"
         }
+    },
+    "2024-12-28": {
+        "date": "2024-12-28",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-sum-of-3-non-overlapping-subarrays/",
+        "question": {
+            "questionFrontendId": "689",
+            "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+            "titleSlug": "maximum-sum-of-3-non-overlapping-subarrays"
+        }
     }
 }
