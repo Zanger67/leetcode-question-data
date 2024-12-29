@@ -2869,5 +2869,16 @@
             "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
             "isPaidOnly": true
         }
+    },
+    "2024-12-29": {
+        "date": "2024-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-subarray-sum-after-one-operation/",
+        "question": {
+            "questionFrontendId": "1746",
+            "title": "Maximum Subarray Sum After One Operation",
+            "titleSlug": "maximum-subarray-sum-after-one-operation",
+            "isPaidOnly": true
+        }
     }
 }

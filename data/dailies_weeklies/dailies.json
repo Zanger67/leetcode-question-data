@@ -17328,5 +17328,15 @@
             "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
             "titleSlug": "maximum-sum-of-3-non-overlapping-subarrays"
         }
+    },
+    "2024-12-29": {
+        "date": "2024-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/",
+        "question": {
+            "questionFrontendId": "1639",
+            "title": "Number of Ways to Form a Target String Given a Dictionary",
+            "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+        }
     }
 }
