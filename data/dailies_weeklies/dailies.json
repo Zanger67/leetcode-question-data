@@ -17338,5 +17338,15 @@
             "title": "Number of Ways to Form a Target String Given a Dictionary",
             "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
         }
+    },
+    "2024-12-30": {
+        "date": "2024-12-30",
+        "userStatus": "NotStart",
+        "link": "/problems/count-ways-to-build-good-strings/",
+        "question": {
+            "questionFrontendId": "2466",
+            "title": "Count Ways To Build Good Strings",
+            "titleSlug": "count-ways-to-build-good-strings"
+        }
     }
 }
