@@ -17348,5 +17348,15 @@
             "title": "Count Ways To Build Good Strings",
             "titleSlug": "count-ways-to-build-good-strings"
         }
+    },
+    "2024-12-31": {
+        "date": "2024-12-31",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-for-tickets/",
+        "question": {
+            "questionFrontendId": "983",
+            "title": "Minimum Cost For Tickets",
+            "titleSlug": "minimum-cost-for-tickets"
+        }
     }
 }
