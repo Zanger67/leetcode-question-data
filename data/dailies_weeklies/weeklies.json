@@ -2880,5 +2880,16 @@
             "titleSlug": "maximum-subarray-sum-after-one-operation",
             "isPaidOnly": true
         }
+    },
+    "2025-01-01": {
+        "date": "2025-01-01",
+        "userStatus": "NotStart",
+        "link": "/problems/perform-string-shifts/",
+        "question": {
+            "questionFrontendId": "1427",
+            "title": "Perform String Shifts",
+            "titleSlug": "perform-string-shifts",
+            "isPaidOnly": true
+        }
     }
 }

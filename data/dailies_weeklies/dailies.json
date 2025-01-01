@@ -17358,5 +17358,15 @@
             "title": "Minimum Cost For Tickets",
             "titleSlug": "minimum-cost-for-tickets"
         }
+    },
+    "2025-01-01": {
+        "date": "2025-01-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-score-after-splitting-a-string/",
+        "question": {
+            "questionFrontendId": "1422",
+            "title": "Maximum Score After Splitting a String",
+            "titleSlug": "maximum-score-after-splitting-a-string"
+        }
     }
 }
