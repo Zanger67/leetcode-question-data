@@ -17368,5 +17368,15 @@
             "title": "Maximum Score After Splitting a String",
             "titleSlug": "maximum-score-after-splitting-a-string"
         }
+    },
+    "2025-01-02": {
+        "date": "2025-01-02",
+        "userStatus": "NotStart",
+        "link": "/problems/count-vowel-strings-in-ranges/",
+        "question": {
+            "questionFrontendId": "2559",
+            "title": "Count Vowel Strings in Ranges",
+            "titleSlug": "count-vowel-strings-in-ranges"
+        }
     }
 }
