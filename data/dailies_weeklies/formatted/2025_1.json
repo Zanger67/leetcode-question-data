@@ -21,6 +21,16 @@
                         "title": "Count Vowel Strings in Ranges",
                         "titleSlug": "count-vowel-strings-in-ranges"
                     }
+                },
+                {
+                    "date": "2025-01-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-split-array/",
+                    "question": {
+                        "questionFrontendId": "2270",
+                        "title": "Number of Ways to Split Array",
+                        "titleSlug": "number-of-ways-to-split-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
