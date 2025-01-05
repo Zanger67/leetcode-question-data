@@ -41,6 +41,16 @@
                         "title": "Unique Length-3 Palindromic Subsequences",
                         "titleSlug": "unique-length-3-palindromic-subsequences"
                     }
+                },
+                {
+                    "date": "2025-01-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shifting-letters-ii/",
+                    "question": {
+                        "questionFrontendId": "2381",
+                        "title": "Shifting Letters II",
+                        "titleSlug": "shifting-letters-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
