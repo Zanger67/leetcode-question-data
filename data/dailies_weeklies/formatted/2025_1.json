@@ -51,6 +51,16 @@
                         "title": "Shifting Letters II",
                         "titleSlug": "shifting-letters-ii"
                     }
+                },
+                {
+                    "date": "2025-01-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/",
+                    "question": {
+                        "questionFrontendId": "1769",
+                        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+                        "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box"
+                    }
                 }
             ],
             "weeklyChallenges": [
