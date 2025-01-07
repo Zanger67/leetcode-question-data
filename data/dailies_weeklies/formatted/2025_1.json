@@ -61,6 +61,16 @@
                         "title": "Minimum Number of Operations to Move All Balls to Each Box",
                         "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box"
                     }
+                },
+                {
+                    "date": "2025-01-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/string-matching-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "1408",
+                        "title": "String Matching in an Array",
+                        "titleSlug": "string-matching-in-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
