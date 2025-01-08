@@ -2891,5 +2891,16 @@
             "titleSlug": "perform-string-shifts",
             "isPaidOnly": true
         }
+    },
+    "2025-01-08": {
+        "date": "2025-01-08",
+        "userStatus": "NotStart",
+        "link": "/problems/unique-substrings-with-equal-digit-frequency/",
+        "question": {
+            "questionFrontendId": "2168",
+            "title": "Unique Substrings With Equal Digit Frequency",
+            "titleSlug": "unique-substrings-with-equal-digit-frequency",
+            "isPaidOnly": true
+        }
     }
 }
