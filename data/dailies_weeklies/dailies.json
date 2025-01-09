@@ -17438,5 +17438,15 @@
             "title": "Count Prefix and Suffix Pairs I",
             "titleSlug": "count-prefix-and-suffix-pairs-i"
         }
+    },
+    "2025-01-09": {
+        "date": "2025-01-09",
+        "userStatus": "NotStart",
+        "link": "/problems/counting-words-with-a-given-prefix/",
+        "question": {
+            "questionFrontendId": "2185",
+            "title": "Counting Words With a Given Prefix",
+            "titleSlug": "counting-words-with-a-given-prefix"
+        }
     }
 }
