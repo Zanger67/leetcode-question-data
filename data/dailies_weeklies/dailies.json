@@ -17448,5 +17448,15 @@
             "title": "Counting Words With a Given Prefix",
             "titleSlug": "counting-words-with-a-given-prefix"
         }
+    },
+    "2025-01-10": {
+        "date": "2025-01-10",
+        "userStatus": "NotStart",
+        "link": "/problems/word-subsets/",
+        "question": {
+            "questionFrontendId": "916",
+            "title": "Word Subsets",
+            "titleSlug": "word-subsets"
+        }
     }
 }
