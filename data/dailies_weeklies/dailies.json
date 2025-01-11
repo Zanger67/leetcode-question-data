@@ -17458,5 +17458,15 @@
             "title": "Word Subsets",
             "titleSlug": "word-subsets"
         }
+    },
+    "2025-01-11": {
+        "date": "2025-01-11",
+        "userStatus": "NotStart",
+        "link": "/problems/construct-k-palindrome-strings/",
+        "question": {
+            "questionFrontendId": "1400",
+            "title": "Construct K Palindrome Strings",
+            "titleSlug": "construct-k-palindrome-strings"
+        }
     }
 }
