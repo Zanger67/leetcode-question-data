@@ -17468,5 +17468,15 @@
             "title": "Construct K Palindrome Strings",
             "titleSlug": "construct-k-palindrome-strings"
         }
+    },
+    "2025-01-12": {
+        "date": "2025-01-12",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-a-parentheses-string-can-be-valid/",
+        "question": {
+            "questionFrontendId": "2116",
+            "title": "Check if a Parentheses String Can Be Valid",
+            "titleSlug": "check-if-a-parentheses-string-can-be-valid"
+        }
     }
 }
