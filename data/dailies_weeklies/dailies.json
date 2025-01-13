@@ -17478,5 +17478,15 @@
             "title": "Check if a Parentheses String Can Be Valid",
             "titleSlug": "check-if-a-parentheses-string-can-be-valid"
         }
+    },
+    "2025-01-13": {
+        "date": "2025-01-13",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-length-of-string-after-operations/",
+        "question": {
+            "questionFrontendId": "3223",
+            "title": "Minimum Length of String After Operations",
+            "titleSlug": "minimum-length-of-string-after-operations"
+        }
     }
 }
