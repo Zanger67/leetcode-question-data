@@ -17488,5 +17488,15 @@
             "title": "Minimum Length of String After Operations",
             "titleSlug": "minimum-length-of-string-after-operations"
         }
+    },
+    "2025-01-14": {
+        "date": "2025-01-14",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-prefix-common-array-of-two-arrays/",
+        "question": {
+            "questionFrontendId": "2657",
+            "title": "Find the Prefix Common Array of Two Arrays",
+            "titleSlug": "find-the-prefix-common-array-of-two-arrays"
+        }
     }
 }
