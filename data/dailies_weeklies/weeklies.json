@@ -2902,5 +2902,16 @@
             "titleSlug": "unique-substrings-with-equal-digit-frequency",
             "isPaidOnly": true
         }
+    },
+    "2025-01-15": {
+        "date": "2025-01-15",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-path-to-get-food/",
+        "question": {
+            "questionFrontendId": "1730",
+            "title": "Shortest Path to Get Food",
+            "titleSlug": "shortest-path-to-get-food",
+            "isPaidOnly": true
+        }
     }
 }

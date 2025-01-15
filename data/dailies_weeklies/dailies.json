@@ -17498,5 +17498,15 @@
             "title": "Find the Prefix Common Array of Two Arrays",
             "titleSlug": "find-the-prefix-common-array-of-two-arrays"
         }
+    },
+    "2025-01-15": {
+        "date": "2025-01-15",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-xor/",
+        "question": {
+            "questionFrontendId": "2429",
+            "title": "Minimize XOR",
+            "titleSlug": "minimize-xor"
+        }
     }
 }

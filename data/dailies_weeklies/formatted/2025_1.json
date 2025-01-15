@@ -141,6 +141,16 @@
                         "title": "Find the Prefix Common Array of Two Arrays",
                         "titleSlug": "find-the-prefix-common-array-of-two-arrays"
                     }
+                },
+                {
+                    "date": "2025-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-xor/",
+                    "question": {
+                        "questionFrontendId": "2429",
+                        "title": "Minimize XOR",
+                        "titleSlug": "minimize-xor"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "2168",
                         "title": "Unique Substrings With Equal Digit Frequency",
                         "titleSlug": "unique-substrings-with-equal-digit-frequency",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-to-get-food/",
+                    "question": {
+                        "questionFrontendId": "1730",
+                        "title": "Shortest Path to Get Food",
+                        "titleSlug": "shortest-path-to-get-food",
                         "isPaidOnly": true
                     }
                 }
