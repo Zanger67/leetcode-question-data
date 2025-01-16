@@ -151,6 +151,16 @@
                         "title": "Minimize XOR",
                         "titleSlug": "minimize-xor"
                     }
+                },
+                {
+                    "date": "2025-01-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bitwise-xor-of-all-pairings/",
+                    "question": {
+                        "questionFrontendId": "2425",
+                        "title": "Bitwise XOR of All Pairings",
+                        "titleSlug": "bitwise-xor-of-all-pairings"
+                    }
                 }
             ],
             "weeklyChallenges": [
