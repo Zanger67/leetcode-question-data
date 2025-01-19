@@ -181,6 +181,16 @@
                         "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
                         "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
                     }
+                },
+                {
+                    "date": "2025-01-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/trapping-rain-water-ii/",
+                    "question": {
+                        "questionFrontendId": "407",
+                        "title": "Trapping Rain Water II",
+                        "titleSlug": "trapping-rain-water-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
