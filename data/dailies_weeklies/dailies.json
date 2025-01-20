@@ -17548,5 +17548,15 @@
             "title": "Trapping Rain Water II",
             "titleSlug": "trapping-rain-water-ii"
         }
+    },
+    "2025-01-20": {
+        "date": "2025-01-20",
+        "userStatus": "NotStart",
+        "link": "/problems/first-completely-painted-row-or-column/",
+        "question": {
+            "questionFrontendId": "2661",
+            "title": "First Completely Painted Row or Column",
+            "titleSlug": "first-completely-painted-row-or-column"
+        }
     }
 }
