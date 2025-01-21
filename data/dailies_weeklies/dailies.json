@@ -17558,5 +17558,15 @@
             "title": "First Completely Painted Row or Column",
             "titleSlug": "first-completely-painted-row-or-column"
         }
+    },
+    "2025-01-21": {
+        "date": "2025-01-21",
+        "userStatus": "NotStart",
+        "link": "/problems/grid-game/",
+        "question": {
+            "questionFrontendId": "2017",
+            "title": "Grid Game",
+            "titleSlug": "grid-game"
+        }
     }
 }
