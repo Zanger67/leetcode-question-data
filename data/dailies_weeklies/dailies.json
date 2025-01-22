@@ -17568,5 +17568,15 @@
             "title": "Grid Game",
             "titleSlug": "grid-game"
         }
+    },
+    "2025-01-22": {
+        "date": "2025-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/map-of-highest-peak/",
+        "question": {
+            "questionFrontendId": "1765",
+            "title": "Map of Highest Peak",
+            "titleSlug": "map-of-highest-peak"
+        }
     }
 }

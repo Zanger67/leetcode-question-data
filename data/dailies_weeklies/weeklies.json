@@ -2913,5 +2913,16 @@
             "titleSlug": "shortest-path-to-get-food",
             "isPaidOnly": true
         }
+    },
+    "2025-01-22": {
+        "date": "2025-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/sum-of-remoteness-of-all-cells/",
+        "question": {
+            "questionFrontendId": "2852",
+            "title": "Sum of Remoteness of All Cells",
+            "titleSlug": "sum-of-remoteness-of-all-cells",
+            "isPaidOnly": true
+        }
     }
 }

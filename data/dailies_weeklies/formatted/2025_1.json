@@ -211,6 +211,16 @@
                         "title": "Grid Game",
                         "titleSlug": "grid-game"
                     }
+                },
+                {
+                    "date": "2025-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/map-of-highest-peak/",
+                    "question": {
+                        "questionFrontendId": "1765",
+                        "title": "Map of Highest Peak",
+                        "titleSlug": "map-of-highest-peak"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1730",
                         "title": "Shortest Path to Get Food",
                         "titleSlug": "shortest-path-to-get-food",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-remoteness-of-all-cells/",
+                    "question": {
+                        "questionFrontendId": "2852",
+                        "title": "Sum of Remoteness of All Cells",
+                        "titleSlug": "sum-of-remoteness-of-all-cells",
                         "isPaidOnly": true
                     }
                 }
