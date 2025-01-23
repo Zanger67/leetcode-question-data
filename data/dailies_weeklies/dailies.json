@@ -17578,5 +17578,15 @@
             "title": "Map of Highest Peak",
             "titleSlug": "map-of-highest-peak"
         }
+    },
+    "2025-01-23": {
+        "date": "2025-01-23",
+        "userStatus": "NotStart",
+        "link": "/problems/count-servers-that-communicate/",
+        "question": {
+            "questionFrontendId": "1267",
+            "title": "Count Servers that Communicate",
+            "titleSlug": "count-servers-that-communicate"
+        }
     }
 }
