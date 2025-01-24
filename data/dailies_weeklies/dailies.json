@@ -17588,5 +17588,15 @@
             "title": "Count Servers that Communicate",
             "titleSlug": "count-servers-that-communicate"
         }
+    },
+    "2025-01-24": {
+        "date": "2025-01-24",
+        "userStatus": "NotStart",
+        "link": "/problems/find-eventual-safe-states/",
+        "question": {
+            "questionFrontendId": "802",
+            "title": "Find Eventual Safe States",
+            "titleSlug": "find-eventual-safe-states"
+        }
     }
 }
