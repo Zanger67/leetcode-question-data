@@ -17598,5 +17598,15 @@
             "title": "Find Eventual Safe States",
             "titleSlug": "find-eventual-safe-states"
         }
+    },
+    "2025-01-25": {
+        "date": "2025-01-25",
+        "userStatus": "NotStart",
+        "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+        "question": {
+            "questionFrontendId": "2948",
+            "title": "Make Lexicographically Smallest Array by Swapping Elements",
+            "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements"
+        }
     }
 }
