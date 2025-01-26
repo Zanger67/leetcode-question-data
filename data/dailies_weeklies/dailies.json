@@ -17608,5 +17608,15 @@
             "title": "Make Lexicographically Smallest Array by Swapping Elements",
             "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements"
         }
+    },
+    "2025-01-26": {
+        "date": "2025-01-26",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-employees-to-be-invited-to-a-meeting/",
+        "question": {
+            "questionFrontendId": "2127",
+            "title": "Maximum Employees to Be Invited to a Meeting",
+            "titleSlug": "maximum-employees-to-be-invited-to-a-meeting"
+        }
     }
 }
