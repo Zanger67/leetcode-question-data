@@ -17618,5 +17618,15 @@
             "title": "Maximum Employees to Be Invited to a Meeting",
             "titleSlug": "maximum-employees-to-be-invited-to-a-meeting"
         }
+    },
+    "2025-01-27": {
+        "date": "2025-01-27",
+        "userStatus": "NotStart",
+        "link": "/problems/course-schedule-iv/",
+        "question": {
+            "questionFrontendId": "1462",
+            "title": "Course Schedule IV",
+            "titleSlug": "course-schedule-iv"
+        }
     }
 }
