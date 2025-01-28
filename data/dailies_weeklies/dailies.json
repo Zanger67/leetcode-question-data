@@ -17628,5 +17628,15 @@
             "title": "Course Schedule IV",
             "titleSlug": "course-schedule-iv"
         }
+    },
+    "2025-01-28": {
+        "date": "2025-01-28",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-fish-in-a-grid/",
+        "question": {
+            "questionFrontendId": "2658",
+            "title": "Maximum Number of Fish in a Grid",
+            "titleSlug": "maximum-number-of-fish-in-a-grid"
+        }
     }
 }
