@@ -281,6 +281,16 @@
                         "title": "Maximum Number of Fish in a Grid",
                         "titleSlug": "maximum-number-of-fish-in-a-grid"
                     }
+                },
+                {
+                    "date": "2025-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/redundant-connection/",
+                    "question": {
+                        "questionFrontendId": "684",
+                        "title": "Redundant Connection",
+                        "titleSlug": "redundant-connection"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "2852",
                         "title": "Sum of Remoteness of All Cells",
                         "titleSlug": "sum-of-remoteness-of-all-cells",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-01-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/graph-valid-tree/",
+                    "question": {
+                        "questionFrontendId": "261",
+                        "title": "Graph Valid Tree",
+                        "titleSlug": "graph-valid-tree",
                         "isPaidOnly": true
                     }
                 }

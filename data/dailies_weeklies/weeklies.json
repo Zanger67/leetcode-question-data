@@ -2924,5 +2924,16 @@
             "titleSlug": "sum-of-remoteness-of-all-cells",
             "isPaidOnly": true
         }
+    },
+    "2025-01-29": {
+        "date": "2025-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/graph-valid-tree/",
+        "question": {
+            "questionFrontendId": "261",
+            "title": "Graph Valid Tree",
+            "titleSlug": "graph-valid-tree",
+            "isPaidOnly": true
+        }
     }
 }

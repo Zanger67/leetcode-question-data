@@ -17638,5 +17638,15 @@
             "title": "Maximum Number of Fish in a Grid",
             "titleSlug": "maximum-number-of-fish-in-a-grid"
         }
+    },
+    "2025-01-29": {
+        "date": "2025-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/redundant-connection/",
+        "question": {
+            "questionFrontendId": "684",
+            "title": "Redundant Connection",
+            "titleSlug": "redundant-connection"
+        }
     }
 }
