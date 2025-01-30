@@ -17648,5 +17648,15 @@
             "title": "Redundant Connection",
             "titleSlug": "redundant-connection"
         }
+    },
+    "2025-01-30": {
+        "date": "2025-01-30",
+        "userStatus": "NotStart",
+        "link": "/problems/divide-nodes-into-the-maximum-number-of-groups/",
+        "question": {
+            "questionFrontendId": "2493",
+            "title": "Divide Nodes Into the Maximum Number of Groups",
+            "titleSlug": "divide-nodes-into-the-maximum-number-of-groups"
+        }
     }
 }
