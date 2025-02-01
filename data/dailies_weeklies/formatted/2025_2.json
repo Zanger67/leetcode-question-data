@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2025-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/special-array-i/",
+                    "question": {
+                        "questionFrontendId": "3151",
+                        "title": "Special Array I",
+                        "titleSlug": "special-array-i"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2025-02-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/distinct-numbers-in-each-subarray/",
+                    "question": {
+                        "questionFrontendId": "1852",
+                        "title": "Distinct Numbers in Each Subarray",
+                        "titleSlug": "distinct-numbers-in-each-subarray",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

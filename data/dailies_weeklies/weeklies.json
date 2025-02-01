@@ -2935,5 +2935,16 @@
             "titleSlug": "graph-valid-tree",
             "isPaidOnly": true
         }
+    },
+    "2025-02-01": {
+        "date": "2025-02-01",
+        "userStatus": "NotStart",
+        "link": "/problems/distinct-numbers-in-each-subarray/",
+        "question": {
+            "questionFrontendId": "1852",
+            "title": "Distinct Numbers in Each Subarray",
+            "titleSlug": "distinct-numbers-in-each-subarray",
+            "isPaidOnly": true
+        }
     }
 }
