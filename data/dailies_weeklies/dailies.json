@@ -17678,5 +17678,15 @@
             "title": "Special Array I",
             "titleSlug": "special-array-i"
         }
+    },
+    "2025-02-02": {
+        "date": "2025-02-02",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-array-is-sorted-and-rotated/",
+        "question": {
+            "questionFrontendId": "1752",
+            "title": "Check if Array Is Sorted and Rotated",
+            "titleSlug": "check-if-array-is-sorted-and-rotated"
+        }
     }
 }
