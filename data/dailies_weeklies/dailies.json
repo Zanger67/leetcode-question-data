@@ -17688,5 +17688,15 @@
             "title": "Check if Array Is Sorted and Rotated",
             "titleSlug": "check-if-array-is-sorted-and-rotated"
         }
+    },
+    "2025-02-03": {
+        "date": "2025-02-03",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+        "question": {
+            "questionFrontendId": "3105",
+            "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+            "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray"
+        }
     }
 }
