@@ -41,6 +41,16 @@
                         "title": "Maximum Ascending Subarray Sum",
                         "titleSlug": "maximum-ascending-subarray-sum"
                     }
+                },
+                {
+                    "date": "2025-02-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-one-string-swap-can-make-strings-equal/",
+                    "question": {
+                        "questionFrontendId": "1790",
+                        "title": "Check if One String Swap Can Make Strings Equal",
+                        "titleSlug": "check-if-one-string-swap-can-make-strings-equal"
+                    }
                 }
             ],
             "weeklyChallenges": [
