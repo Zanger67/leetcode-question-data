@@ -51,6 +51,16 @@
                         "title": "Check if One String Swap Can Make Strings Equal",
                         "titleSlug": "check-if-one-string-swap-can-make-strings-equal"
                     }
+                },
+                {
+                    "date": "2025-02-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/tuple-with-same-product/",
+                    "question": {
+                        "questionFrontendId": "1726",
+                        "title": "Tuple with Same Product",
+                        "titleSlug": "tuple-with-same-product"
+                    }
                 }
             ],
             "weeklyChallenges": [
