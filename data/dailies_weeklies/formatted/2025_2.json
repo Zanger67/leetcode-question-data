@@ -61,6 +61,16 @@
                         "title": "Tuple with Same Product",
                         "titleSlug": "tuple-with-same-product"
                     }
+                },
+                {
+                    "date": "2025-02-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-number-of-distinct-colors-among-the-balls/",
+                    "question": {
+                        "questionFrontendId": "3160",
+                        "title": "Find the Number of Distinct Colors Among the Balls",
+                        "titleSlug": "find-the-number-of-distinct-colors-among-the-balls"
+                    }
                 }
             ],
             "weeklyChallenges": [
