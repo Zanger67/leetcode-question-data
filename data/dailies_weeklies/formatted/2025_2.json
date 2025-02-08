@@ -71,6 +71,16 @@
                         "title": "Find the Number of Distinct Colors Among the Balls",
                         "titleSlug": "find-the-number-of-distinct-colors-among-the-balls"
                     }
+                },
+                {
+                    "date": "2025-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-a-number-container-system/",
+                    "question": {
+                        "questionFrontendId": "2349",
+                        "title": "Design a Number Container System",
+                        "titleSlug": "design-a-number-container-system"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1852",
                         "title": "Distinct Numbers in Each Subarray",
                         "titleSlug": "distinct-numbers-in-each-subarray",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/make-the-prefix-sum-non-negative/",
+                    "question": {
+                        "questionFrontendId": "2599",
+                        "title": "Make the Prefix Sum Non-negative",
+                        "titleSlug": "make-the-prefix-sum-non-negative",
                         "isPaidOnly": true
                     }
                 }

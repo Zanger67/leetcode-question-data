@@ -2946,5 +2946,16 @@
             "titleSlug": "distinct-numbers-in-each-subarray",
             "isPaidOnly": true
         }
+    },
+    "2025-02-08": {
+        "date": "2025-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/make-the-prefix-sum-non-negative/",
+        "question": {
+            "questionFrontendId": "2599",
+            "title": "Make the Prefix Sum Non-negative",
+            "titleSlug": "make-the-prefix-sum-non-negative",
+            "isPaidOnly": true
+        }
     }
 }

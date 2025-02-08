@@ -17738,5 +17738,15 @@
             "title": "Find the Number of Distinct Colors Among the Balls",
             "titleSlug": "find-the-number-of-distinct-colors-among-the-balls"
         }
+    },
+    "2025-02-08": {
+        "date": "2025-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/design-a-number-container-system/",
+        "question": {
+            "questionFrontendId": "2349",
+            "title": "Design a Number Container System",
+            "titleSlug": "design-a-number-container-system"
+        }
     }
 }
