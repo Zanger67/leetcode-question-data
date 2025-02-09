@@ -17748,5 +17748,15 @@
             "title": "Design a Number Container System",
             "titleSlug": "design-a-number-container-system"
         }
+    },
+    "2025-02-09": {
+        "date": "2025-02-09",
+        "userStatus": "NotStart",
+        "link": "/problems/count-number-of-bad-pairs/",
+        "question": {
+            "questionFrontendId": "2364",
+            "title": "Count Number of Bad Pairs",
+            "titleSlug": "count-number-of-bad-pairs"
+        }
     }
 }
