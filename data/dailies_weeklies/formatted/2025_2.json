@@ -91,6 +91,16 @@
                         "title": "Count Number of Bad Pairs",
                         "titleSlug": "count-number-of-bad-pairs"
                     }
+                },
+                {
+                    "date": "2025-02-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/clear-digits/",
+                    "question": {
+                        "questionFrontendId": "3174",
+                        "title": "Clear Digits",
+                        "titleSlug": "clear-digits"
+                    }
                 }
             ],
             "weeklyChallenges": [
