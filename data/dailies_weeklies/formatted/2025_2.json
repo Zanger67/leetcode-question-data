@@ -101,6 +101,16 @@
                         "title": "Clear Digits",
                         "titleSlug": "clear-digits"
                     }
+                },
+                {
+                    "date": "2025-02-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-all-occurrences-of-a-substring/",
+                    "question": {
+                        "questionFrontendId": "1910",
+                        "title": "Remove All Occurrences of a Substring",
+                        "titleSlug": "remove-all-occurrences-of-a-substring"
+                    }
                 }
             ],
             "weeklyChallenges": [
