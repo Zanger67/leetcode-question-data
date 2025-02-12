@@ -17778,5 +17778,15 @@
             "title": "Remove All Occurrences of a Substring",
             "titleSlug": "remove-all-occurrences-of-a-substring"
         }
+    },
+    "2025-02-12": {
+        "date": "2025-02-12",
+        "userStatus": "NotStart",
+        "link": "/problems/max-sum-of-a-pair-with-equal-sum-of-digits/",
+        "question": {
+            "questionFrontendId": "2342",
+            "title": "Max Sum of a Pair With Equal Sum of Digits",
+            "titleSlug": "max-sum-of-a-pair-with-equal-sum-of-digits"
+        }
     }
 }
