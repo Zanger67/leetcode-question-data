@@ -17788,5 +17788,15 @@
             "title": "Max Sum of a Pair With Equal Sum of Digits",
             "titleSlug": "max-sum-of-a-pair-with-equal-sum-of-digits"
         }
+    },
+    "2025-02-13": {
+        "date": "2025-02-13",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-exceed-threshold-value-ii/",
+        "question": {
+            "questionFrontendId": "3066",
+            "title": "Minimum Operations to Exceed Threshold Value II",
+            "titleSlug": "minimum-operations-to-exceed-threshold-value-ii"
+        }
     }
 }
