@@ -131,6 +131,16 @@
                         "title": "Minimum Operations to Exceed Threshold Value II",
                         "titleSlug": "minimum-operations-to-exceed-threshold-value-ii"
                     }
+                },
+                {
+                    "date": "2025-02-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/product-of-the-last-k-numbers/",
+                    "question": {
+                        "questionFrontendId": "1352",
+                        "title": "Product of the Last K Numbers",
+                        "titleSlug": "product-of-the-last-k-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
