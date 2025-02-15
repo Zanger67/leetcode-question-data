@@ -141,6 +141,16 @@
                         "title": "Product of the Last K Numbers",
                         "titleSlug": "product-of-the-last-k-numbers"
                     }
+                },
+                {
+                    "date": "2025-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-punishment-number-of-an-integer/",
+                    "question": {
+                        "questionFrontendId": "2698",
+                        "title": "Find the Punishment Number of an Integer",
+                        "titleSlug": "find-the-punishment-number-of-an-integer"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "2599",
                         "title": "Make the Prefix Sum Non-negative",
                         "titleSlug": "make-the-prefix-sum-non-negative",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-most-recently-used-queue/",
+                    "question": {
+                        "questionFrontendId": "1756",
+                        "title": "Design Most Recently Used Queue",
+                        "titleSlug": "design-most-recently-used-queue",
                         "isPaidOnly": true
                     }
                 }

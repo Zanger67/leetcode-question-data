@@ -2957,5 +2957,16 @@
             "titleSlug": "make-the-prefix-sum-non-negative",
             "isPaidOnly": true
         }
+    },
+    "2025-02-15": {
+        "date": "2025-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-most-recently-used-queue/",
+        "question": {
+            "questionFrontendId": "1756",
+            "title": "Design Most Recently Used Queue",
+            "titleSlug": "design-most-recently-used-queue",
+            "isPaidOnly": true
+        }
     }
 }

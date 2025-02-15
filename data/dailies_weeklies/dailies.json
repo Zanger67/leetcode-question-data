@@ -17808,5 +17808,15 @@
             "title": "Product of the Last K Numbers",
             "titleSlug": "product-of-the-last-k-numbers"
         }
+    },
+    "2025-02-15": {
+        "date": "2025-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-punishment-number-of-an-integer/",
+        "question": {
+            "questionFrontendId": "2698",
+            "title": "Find the Punishment Number of an Integer",
+            "titleSlug": "find-the-punishment-number-of-an-integer"
+        }
     }
 }
