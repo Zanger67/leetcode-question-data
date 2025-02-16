@@ -151,6 +151,16 @@
                         "title": "Find the Punishment Number of an Integer",
                         "titleSlug": "find-the-punishment-number-of-an-integer"
                     }
+                },
+                {
+                    "date": "2025-02-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-the-lexicographically-largest-valid-sequence/",
+                    "question": {
+                        "questionFrontendId": "1718",
+                        "title": "Construct the Lexicographically Largest Valid Sequence",
+                        "titleSlug": "construct-the-lexicographically-largest-valid-sequence"
+                    }
                 }
             ],
             "weeklyChallenges": [
