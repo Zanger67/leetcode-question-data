@@ -171,6 +171,16 @@
                         "title": "Letter Tile Possibilities",
                         "titleSlug": "letter-tile-possibilities"
                     }
+                },
+                {
+                    "date": "2025-02-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-smallest-number-from-di-string/",
+                    "question": {
+                        "questionFrontendId": "2375",
+                        "title": "Construct Smallest Number From DI String",
+                        "titleSlug": "construct-smallest-number-from-di-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
