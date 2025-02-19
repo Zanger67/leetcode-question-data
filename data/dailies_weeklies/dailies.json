@@ -17848,5 +17848,15 @@
             "title": "Construct Smallest Number From DI String",
             "titleSlug": "construct-smallest-number-from-di-string"
         }
+    },
+    "2025-02-19": {
+        "date": "2025-02-19",
+        "userStatus": "NotStart",
+        "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+        "question": {
+            "questionFrontendId": "1415",
+            "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+            "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
+        }
     }
 }
