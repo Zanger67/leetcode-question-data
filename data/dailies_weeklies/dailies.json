@@ -17858,5 +17858,15 @@
             "title": "The k-th Lexicographical String of All Happy Strings of Length n",
             "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
         }
+    },
+    "2025-02-20": {
+        "date": "2025-02-20",
+        "userStatus": "NotStart",
+        "link": "/problems/find-unique-binary-string/",
+        "question": {
+            "questionFrontendId": "1980",
+            "title": "Find Unique Binary String",
+            "titleSlug": "find-unique-binary-string"
+        }
     }
 }
