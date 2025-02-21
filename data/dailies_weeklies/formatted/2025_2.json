@@ -201,6 +201,16 @@
                         "title": "Find Unique Binary String",
                         "titleSlug": "find-unique-binary-string"
                     }
+                },
+                {
+                    "date": "2025-02-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-elements-in-a-contaminated-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1261",
+                        "title": "Find Elements in a Contaminated Binary Tree",
+                        "titleSlug": "find-elements-in-a-contaminated-binary-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
