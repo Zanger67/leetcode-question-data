@@ -17878,5 +17878,15 @@
             "title": "Find Elements in a Contaminated Binary Tree",
             "titleSlug": "find-elements-in-a-contaminated-binary-tree"
         }
+    },
+    "2025-02-22": {
+        "date": "2025-02-22",
+        "userStatus": "NotStart",
+        "link": "/problems/recover-a-tree-from-preorder-traversal/",
+        "question": {
+            "questionFrontendId": "1028",
+            "title": "Recover a Tree From Preorder Traversal",
+            "titleSlug": "recover-a-tree-from-preorder-traversal"
+        }
     }
 }

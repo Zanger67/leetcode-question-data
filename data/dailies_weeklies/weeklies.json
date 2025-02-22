@@ -2968,5 +2968,16 @@
             "titleSlug": "design-most-recently-used-queue",
             "isPaidOnly": true
         }
+    },
+    "2025-02-22": {
+        "date": "2025-02-22",
+        "userStatus": "NotStart",
+        "link": "/problems/max-consecutive-ones-ii/",
+        "question": {
+            "questionFrontendId": "487",
+            "title": "Max Consecutive Ones II",
+            "titleSlug": "max-consecutive-ones-ii",
+            "isPaidOnly": true
+        }
     }
 }

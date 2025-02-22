@@ -211,6 +211,16 @@
                         "title": "Find Elements in a Contaminated Binary Tree",
                         "titleSlug": "find-elements-in-a-contaminated-binary-tree"
                     }
+                },
+                {
+                    "date": "2025-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/recover-a-tree-from-preorder-traversal/",
+                    "question": {
+                        "questionFrontendId": "1028",
+                        "title": "Recover a Tree From Preorder Traversal",
+                        "titleSlug": "recover-a-tree-from-preorder-traversal"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1756",
                         "title": "Design Most Recently Used Queue",
                         "titleSlug": "design-most-recently-used-queue",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-consecutive-ones-ii/",
+                    "question": {
+                        "questionFrontendId": "487",
+                        "title": "Max Consecutive Ones II",
+                        "titleSlug": "max-consecutive-ones-ii",
                         "isPaidOnly": true
                     }
                 }
