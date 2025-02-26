@@ -251,6 +251,16 @@
                         "title": "Number of Sub-arrays With Odd Sum",
                         "titleSlug": "number-of-sub-arrays-with-odd-sum"
                     }
+                },
+                {
+                    "date": "2025-02-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-absolute-sum-of-any-subarray/",
+                    "question": {
+                        "questionFrontendId": "1749",
+                        "title": "Maximum Absolute Sum of Any Subarray",
+                        "titleSlug": "maximum-absolute-sum-of-any-subarray"
+                    }
                 }
             ],
             "weeklyChallenges": [
