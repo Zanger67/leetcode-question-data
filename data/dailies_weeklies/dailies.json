@@ -17938,5 +17938,15 @@
             "title": "Length of Longest Fibonacci Subsequence",
             "titleSlug": "length-of-longest-fibonacci-subsequence"
         }
+    },
+    "2025-02-28": {
+        "date": "2025-02-28",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-common-supersequence/",
+        "question": {
+            "questionFrontendId": "1092",
+            "title": "Shortest Common Supersequence ",
+            "titleSlug": "shortest-common-supersequence"
+        }
     }
 }
