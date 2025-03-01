@@ -2979,5 +2979,16 @@
             "titleSlug": "max-consecutive-ones-ii",
             "isPaidOnly": true
         }
+    },
+    "2025-03-01": {
+        "date": "2025-03-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-swaps-to-group-all-1s-together/",
+        "question": {
+            "questionFrontendId": "1151",
+            "title": "Minimum Swaps to Group All 1's Together",
+            "titleSlug": "minimum-swaps-to-group-all-1s-together",
+            "isPaidOnly": true
+        }
     }
 }
