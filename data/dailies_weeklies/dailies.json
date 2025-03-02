@@ -17958,5 +17958,15 @@
             "title": "Apply Operations to an Array",
             "titleSlug": "apply-operations-to-an-array"
         }
+    },
+    "2025-03-02": {
+        "date": "2025-03-02",
+        "userStatus": "NotStart",
+        "link": "/problems/merge-two-2d-arrays-by-summing-values/",
+        "question": {
+            "questionFrontendId": "2570",
+            "title": "Merge Two 2D Arrays by Summing Values",
+            "titleSlug": "merge-two-2d-arrays-by-summing-values"
+        }
     }
 }
