@@ -21,6 +21,16 @@
                         "title": "Merge Two 2D Arrays by Summing Values",
                         "titleSlug": "merge-two-2d-arrays-by-summing-values"
                     }
+                },
+                {
+                    "date": "2025-03-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/partition-array-according-to-given-pivot/",
+                    "question": {
+                        "questionFrontendId": "2161",
+                        "title": "Partition Array According to Given Pivot",
+                        "titleSlug": "partition-array-according-to-given-pivot"
+                    }
                 }
             ],
             "weeklyChallenges": [
