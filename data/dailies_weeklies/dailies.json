@@ -17978,5 +17978,15 @@
             "title": "Partition Array According to Given Pivot",
             "titleSlug": "partition-array-according-to-given-pivot"
         }
+    },
+    "2025-03-04": {
+        "date": "2025-03-04",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-number-is-a-sum-of-powers-of-three/",
+        "question": {
+            "questionFrontendId": "1780",
+            "title": "Check if Number is a Sum of Powers of Three",
+            "titleSlug": "check-if-number-is-a-sum-of-powers-of-three"
+        }
     }
 }
