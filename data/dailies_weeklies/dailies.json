@@ -17988,5 +17988,15 @@
             "title": "Check if Number is a Sum of Powers of Three",
             "titleSlug": "check-if-number-is-a-sum-of-powers-of-three"
         }
+    },
+    "2025-03-05": {
+        "date": "2025-03-05",
+        "userStatus": "NotStart",
+        "link": "/problems/count-total-number-of-colored-cells/",
+        "question": {
+            "questionFrontendId": "2579",
+            "title": "Count Total Number of Colored Cells",
+            "titleSlug": "count-total-number-of-colored-cells"
+        }
     }
 }
