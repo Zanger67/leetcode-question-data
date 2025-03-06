@@ -51,6 +51,16 @@
                         "title": "Count Total Number of Colored Cells",
                         "titleSlug": "count-total-number-of-colored-cells"
                     }
+                },
+                {
+                    "date": "2025-03-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-missing-and-repeated-values/",
+                    "question": {
+                        "questionFrontendId": "2965",
+                        "title": "Find Missing and Repeated Values",
+                        "titleSlug": "find-missing-and-repeated-values"
+                    }
                 }
             ],
             "weeklyChallenges": [
