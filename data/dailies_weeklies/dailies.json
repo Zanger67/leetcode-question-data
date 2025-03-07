@@ -18008,5 +18008,15 @@
             "title": "Find Missing and Repeated Values",
             "titleSlug": "find-missing-and-repeated-values"
         }
+    },
+    "2025-03-07": {
+        "date": "2025-03-07",
+        "userStatus": "NotStart",
+        "link": "/problems/closest-prime-numbers-in-range/",
+        "question": {
+            "questionFrontendId": "2523",
+            "title": "Closest Prime Numbers in Range",
+            "titleSlug": "closest-prime-numbers-in-range"
+        }
     }
 }
