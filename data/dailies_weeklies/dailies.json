@@ -18018,5 +18018,15 @@
             "title": "Closest Prime Numbers in Range",
             "titleSlug": "closest-prime-numbers-in-range"
         }
+    },
+    "2025-03-08": {
+        "date": "2025-03-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-recolors-to-get-k-consecutive-black-blocks/",
+        "question": {
+            "questionFrontendId": "2379",
+            "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+            "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks"
+        }
     }
 }
