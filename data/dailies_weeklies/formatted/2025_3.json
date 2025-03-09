@@ -81,6 +81,16 @@
                         "title": "Minimum Recolors to Get K Consecutive Black Blocks",
                         "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks"
                     }
+                },
+                {
+                    "date": "2025-03-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/alternating-groups-ii/",
+                    "question": {
+                        "questionFrontendId": "3208",
+                        "title": "Alternating Groups II",
+                        "titleSlug": "alternating-groups-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
