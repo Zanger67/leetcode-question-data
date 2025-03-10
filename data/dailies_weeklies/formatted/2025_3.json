@@ -91,6 +91,16 @@
                         "title": "Alternating Groups II",
                         "titleSlug": "alternating-groups-ii"
                     }
+                },
+                {
+                    "date": "2025-03-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/",
+                    "question": {
+                        "questionFrontendId": "3306",
+                        "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+                        "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
