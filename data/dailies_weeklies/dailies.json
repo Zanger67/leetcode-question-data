@@ -18048,5 +18048,15 @@
             "title": "Count of Substrings Containing Every Vowel and K Consonants II",
             "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii"
         }
+    },
+    "2025-03-11": {
+        "date": "2025-03-11",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-substrings-containing-all-three-characters/",
+        "question": {
+            "questionFrontendId": "1358",
+            "title": "Number of Substrings Containing All Three Characters",
+            "titleSlug": "number-of-substrings-containing-all-three-characters"
+        }
     }
 }
