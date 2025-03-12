@@ -18058,5 +18058,15 @@
             "title": "Number of Substrings Containing All Three Characters",
             "titleSlug": "number-of-substrings-containing-all-three-characters"
         }
+    },
+    "2025-03-12": {
+        "date": "2025-03-12",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-count-of-positive-integer-and-negative-integer/",
+        "question": {
+            "questionFrontendId": "2529",
+            "title": "Maximum Count of Positive Integer and Negative Integer",
+            "titleSlug": "maximum-count-of-positive-integer-and-negative-integer"
+        }
     }
 }
