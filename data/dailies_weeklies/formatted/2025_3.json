@@ -131,6 +131,16 @@
                         "title": "Zero Array Transformation II",
                         "titleSlug": "zero-array-transformation-ii"
                     }
+                },
+                {
+                    "date": "2025-03-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-candies-allocated-to-k-children/",
+                    "question": {
+                        "questionFrontendId": "2226",
+                        "title": "Maximum Candies Allocated to K Children",
+                        "titleSlug": "maximum-candies-allocated-to-k-children"
+                    }
                 }
             ],
             "weeklyChallenges": [
