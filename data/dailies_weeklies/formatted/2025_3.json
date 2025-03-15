@@ -141,6 +141,16 @@
                         "title": "Maximum Candies Allocated to K Children",
                         "titleSlug": "maximum-candies-allocated-to-k-children"
                     }
+                },
+                {
+                    "date": "2025-03-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/house-robber-iv/",
+                    "question": {
+                        "questionFrontendId": "2560",
+                        "title": "House Robber IV",
+                        "titleSlug": "house-robber-iv"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1100",
                         "title": "Find K-Length Substrings With No Repeated Characters",
                         "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-03-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindrome-permutation/",
+                    "question": {
+                        "questionFrontendId": "266",
+                        "title": "Palindrome Permutation",
+                        "titleSlug": "palindrome-permutation",
                         "isPaidOnly": true
                     }
                 }

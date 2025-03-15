@@ -3001,5 +3001,16 @@
             "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
             "isPaidOnly": true
         }
+    },
+    "2025-03-15": {
+        "date": "2025-03-15",
+        "userStatus": "NotStart",
+        "link": "/problems/palindrome-permutation/",
+        "question": {
+            "questionFrontendId": "266",
+            "title": "Palindrome Permutation",
+            "titleSlug": "palindrome-permutation",
+            "isPaidOnly": true
+        }
     }
 }

@@ -18088,5 +18088,15 @@
             "title": "Maximum Candies Allocated to K Children",
             "titleSlug": "maximum-candies-allocated-to-k-children"
         }
+    },
+    "2025-03-15": {
+        "date": "2025-03-15",
+        "userStatus": "NotStart",
+        "link": "/problems/house-robber-iv/",
+        "question": {
+            "questionFrontendId": "2560",
+            "title": "House Robber IV",
+            "titleSlug": "house-robber-iv"
+        }
     }
 }
