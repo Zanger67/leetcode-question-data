@@ -151,6 +151,16 @@
                         "title": "House Robber IV",
                         "titleSlug": "house-robber-iv"
                     }
+                },
+                {
+                    "date": "2025-03-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-time-to-repair-cars/",
+                    "question": {
+                        "questionFrontendId": "2594",
+                        "title": "Minimum Time to Repair Cars",
+                        "titleSlug": "minimum-time-to-repair-cars"
+                    }
                 }
             ],
             "weeklyChallenges": [
