@@ -161,6 +161,16 @@
                         "title": "Minimum Time to Repair Cars",
                         "titleSlug": "minimum-time-to-repair-cars"
                     }
+                },
+                {
+                    "date": "2025-03-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/divide-array-into-equal-pairs/",
+                    "question": {
+                        "questionFrontendId": "2206",
+                        "title": "Divide Array Into Equal Pairs",
+                        "titleSlug": "divide-array-into-equal-pairs"
+                    }
                 }
             ],
             "weeklyChallenges": [
