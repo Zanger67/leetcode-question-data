@@ -171,6 +171,16 @@
                         "title": "Divide Array Into Equal Pairs",
                         "titleSlug": "divide-array-into-equal-pairs"
                     }
+                },
+                {
+                    "date": "2025-03-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-nice-subarray/",
+                    "question": {
+                        "questionFrontendId": "2401",
+                        "title": "Longest Nice Subarray",
+                        "titleSlug": "longest-nice-subarray"
+                    }
                 }
             ],
             "weeklyChallenges": [
