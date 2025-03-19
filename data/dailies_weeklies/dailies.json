@@ -18128,5 +18128,15 @@
             "title": "Longest Nice Subarray",
             "titleSlug": "longest-nice-subarray"
         }
+    },
+    "2025-03-19": {
+        "date": "2025-03-19",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/",
+        "question": {
+            "questionFrontendId": "3191",
+            "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+            "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i"
+        }
     }
 }
