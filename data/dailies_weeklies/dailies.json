@@ -18138,5 +18138,15 @@
             "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
             "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i"
         }
+    },
+    "2025-03-20": {
+        "date": "2025-03-20",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-walk-in-weighted-graph/",
+        "question": {
+            "questionFrontendId": "3108",
+            "title": "Minimum Cost Walk in Weighted Graph",
+            "titleSlug": "minimum-cost-walk-in-weighted-graph"
+        }
     }
 }
