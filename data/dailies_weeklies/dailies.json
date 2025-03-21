@@ -18148,5 +18148,15 @@
             "title": "Minimum Cost Walk in Weighted Graph",
             "titleSlug": "minimum-cost-walk-in-weighted-graph"
         }
+    },
+    "2025-03-21": {
+        "date": "2025-03-21",
+        "userStatus": "NotStart",
+        "link": "/problems/find-all-possible-recipes-from-given-supplies/",
+        "question": {
+            "questionFrontendId": "2115",
+            "title": "Find All Possible Recipes from Given Supplies",
+            "titleSlug": "find-all-possible-recipes-from-given-supplies"
+        }
     }
 }
