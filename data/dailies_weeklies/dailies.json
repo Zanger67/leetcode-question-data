@@ -18158,5 +18158,15 @@
             "title": "Find All Possible Recipes from Given Supplies",
             "titleSlug": "find-all-possible-recipes-from-given-supplies"
         }
+    },
+    "2025-03-22": {
+        "date": "2025-03-22",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-number-of-complete-components/",
+        "question": {
+            "questionFrontendId": "2685",
+            "title": "Count the Number of Complete Components",
+            "titleSlug": "count-the-number-of-complete-components"
+        }
     }
 }

@@ -3012,5 +3012,16 @@
             "titleSlug": "palindrome-permutation",
             "isPaidOnly": true
         }
+    },
+    "2025-03-22": {
+        "date": "2025-03-22",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-closest-marked-node/",
+        "question": {
+            "questionFrontendId": "2737",
+            "title": "Find the Closest Marked Node",
+            "titleSlug": "find-the-closest-marked-node",
+            "isPaidOnly": true
+        }
     }
 }
