@@ -18168,5 +18168,15 @@
             "title": "Count the Number of Complete Components",
             "titleSlug": "count-the-number-of-complete-components"
         }
+    },
+    "2025-03-23": {
+        "date": "2025-03-23",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-ways-to-arrive-at-destination/",
+        "question": {
+            "questionFrontendId": "1976",
+            "title": "Number of Ways to Arrive at Destination",
+            "titleSlug": "number-of-ways-to-arrive-at-destination"
+        }
     }
 }
