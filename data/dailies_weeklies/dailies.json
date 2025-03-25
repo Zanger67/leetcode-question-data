@@ -18188,5 +18188,15 @@
             "title": "Count Days Without Meetings",
             "titleSlug": "count-days-without-meetings"
         }
+    },
+    "2025-03-25": {
+        "date": "2025-03-25",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-grid-can-be-cut-into-sections/",
+        "question": {
+            "questionFrontendId": "3394",
+            "title": "Check if Grid can be Cut into Sections",
+            "titleSlug": "check-if-grid-can-be-cut-into-sections"
+        }
     }
 }
