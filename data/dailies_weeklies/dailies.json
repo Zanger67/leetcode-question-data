@@ -18198,5 +18198,15 @@
             "title": "Check if Grid can be Cut into Sections",
             "titleSlug": "check-if-grid-can-be-cut-into-sections"
         }
+    },
+    "2025-03-26": {
+        "date": "2025-03-26",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-make-a-uni-value-grid/",
+        "question": {
+            "questionFrontendId": "2033",
+            "title": "Minimum Operations to Make a Uni-Value Grid",
+            "titleSlug": "minimum-operations-to-make-a-uni-value-grid"
+        }
     }
 }
