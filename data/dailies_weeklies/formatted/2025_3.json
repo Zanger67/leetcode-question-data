@@ -261,6 +261,16 @@
                         "title": "Minimum Operations to Make a Uni-Value Grid",
                         "titleSlug": "minimum-operations-to-make-a-uni-value-grid"
                     }
+                },
+                {
+                    "date": "2025-03-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-index-of-a-valid-split/",
+                    "question": {
+                        "questionFrontendId": "2780",
+                        "title": "Minimum Index of a Valid Split",
+                        "titleSlug": "minimum-index-of-a-valid-split"
+                    }
                 }
             ],
             "weeklyChallenges": [
