@@ -271,6 +271,16 @@
                         "title": "Minimum Index of a Valid Split",
                         "titleSlug": "minimum-index-of-a-valid-split"
                     }
+                },
+                {
+                    "date": "2025-03-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-points-from-grid-queries/",
+                    "question": {
+                        "questionFrontendId": "2503",
+                        "title": "Maximum Number of Points From Grid Queries",
+                        "titleSlug": "maximum-number-of-points-from-grid-queries"
+                    }
                 }
             ],
             "weeklyChallenges": [
