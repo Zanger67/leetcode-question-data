@@ -281,6 +281,16 @@
                         "title": "Maximum Number of Points From Grid Queries",
                         "titleSlug": "maximum-number-of-points-from-grid-queries"
                     }
+                },
+                {
+                    "date": "2025-03-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/apply-operations-to-maximize-score/",
+                    "question": {
+                        "questionFrontendId": "2818",
+                        "title": "Apply Operations to Maximize Score",
+                        "titleSlug": "apply-operations-to-maximize-score"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "2737",
                         "title": "Find the Closest Marked Node",
                         "titleSlug": "find-the-closest-marked-node",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-03-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-way-to-form-string/",
+                    "question": {
+                        "questionFrontendId": "1055",
+                        "title": "Shortest Way to Form String",
+                        "titleSlug": "shortest-way-to-form-string",
                         "isPaidOnly": true
                     }
                 }

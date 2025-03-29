@@ -18228,5 +18228,15 @@
             "title": "Maximum Number of Points From Grid Queries",
             "titleSlug": "maximum-number-of-points-from-grid-queries"
         }
+    },
+    "2025-03-29": {
+        "date": "2025-03-29",
+        "userStatus": "NotStart",
+        "link": "/problems/apply-operations-to-maximize-score/",
+        "question": {
+            "questionFrontendId": "2818",
+            "title": "Apply Operations to Maximize Score",
+            "titleSlug": "apply-operations-to-maximize-score"
+        }
     }
 }

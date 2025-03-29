@@ -3023,5 +3023,16 @@
             "titleSlug": "find-the-closest-marked-node",
             "isPaidOnly": true
         }
+    },
+    "2025-03-29": {
+        "date": "2025-03-29",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-way-to-form-string/",
+        "question": {
+            "questionFrontendId": "1055",
+            "title": "Shortest Way to Form String",
+            "titleSlug": "shortest-way-to-form-string",
+            "isPaidOnly": true
+        }
     }
 }
