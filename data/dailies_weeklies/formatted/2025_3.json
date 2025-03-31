@@ -301,6 +301,16 @@
                         "title": "Partition Labels",
                         "titleSlug": "partition-labels"
                     }
+                },
+                {
+                    "date": "2025-03-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/put-marbles-in-bags/",
+                    "question": {
+                        "questionFrontendId": "2551",
+                        "title": "Put Marbles in Bags",
+                        "titleSlug": "put-marbles-in-bags"
+                    }
                 }
             ],
             "weeklyChallenges": [
