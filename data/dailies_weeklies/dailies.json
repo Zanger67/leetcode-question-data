@@ -18258,5 +18258,15 @@
             "title": "Put Marbles in Bags",
             "titleSlug": "put-marbles-in-bags"
         }
+    },
+    "2025-04-01": {
+        "date": "2025-04-01",
+        "userStatus": "NotStart",
+        "link": "/problems/solving-questions-with-brainpower/",
+        "question": {
+            "questionFrontendId": "2140",
+            "title": "Solving Questions With Brainpower",
+            "titleSlug": "solving-questions-with-brainpower"
+        }
     }
 }
