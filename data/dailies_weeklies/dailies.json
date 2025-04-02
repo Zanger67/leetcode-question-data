@@ -18268,5 +18268,15 @@
             "title": "Solving Questions With Brainpower",
             "titleSlug": "solving-questions-with-brainpower"
         }
+    },
+    "2025-04-02": {
+        "date": "2025-04-02",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
+        "question": {
+            "questionFrontendId": "2873",
+            "title": "Maximum Value of an Ordered Triplet I",
+            "titleSlug": "maximum-value-of-an-ordered-triplet-i"
+        }
     }
 }
