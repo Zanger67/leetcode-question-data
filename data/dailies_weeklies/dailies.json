@@ -18278,5 +18278,15 @@
             "title": "Maximum Value of an Ordered Triplet I",
             "titleSlug": "maximum-value-of-an-ordered-triplet-i"
         }
+    },
+    "2025-04-03": {
+        "date": "2025-04-03",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-value-of-an-ordered-triplet-ii/",
+        "question": {
+            "questionFrontendId": "2874",
+            "title": "Maximum Value of an Ordered Triplet II",
+            "titleSlug": "maximum-value-of-an-ordered-triplet-ii"
+        }
     }
 }
