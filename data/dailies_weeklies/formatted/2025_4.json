@@ -51,6 +51,16 @@
                         "title": "Sum of All Subset XOR Totals",
                         "titleSlug": "sum-of-all-subset-xor-totals"
                     }
+                },
+                {
+                    "date": "2025-04-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-divisible-subset/",
+                    "question": {
+                        "questionFrontendId": "368",
+                        "title": "Largest Divisible Subset",
+                        "titleSlug": "largest-divisible-subset"
+                    }
                 }
             ],
             "weeklyChallenges": [
