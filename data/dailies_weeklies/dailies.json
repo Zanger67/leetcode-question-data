@@ -18318,5 +18318,15 @@
             "title": "Largest Divisible Subset",
             "titleSlug": "largest-divisible-subset"
         }
+    },
+    "2025-04-07": {
+        "date": "2025-04-07",
+        "userStatus": "NotStart",
+        "link": "/problems/partition-equal-subset-sum/",
+        "question": {
+            "questionFrontendId": "416",
+            "title": "Partition Equal Subset Sum",
+            "titleSlug": "partition-equal-subset-sum"
+        }
     }
 }
