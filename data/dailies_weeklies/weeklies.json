@@ -3045,5 +3045,16 @@
             "titleSlug": "shortest-distance-from-all-buildings",
             "isPaidOnly": true
         }
+    },
+    "2025-04-08": {
+        "date": "2025-04-08",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+        "question": {
+            "questionFrontendId": "323",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+            "isPaidOnly": true
+        }
     }
 }

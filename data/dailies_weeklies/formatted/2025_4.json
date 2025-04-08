@@ -71,6 +71,16 @@
                         "title": "Partition Equal Subset Sum",
                         "titleSlug": "partition-equal-subset-sum"
                     }
+                },
+                {
+                    "date": "2025-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+                    "question": {
+                        "questionFrontendId": "3396",
+                        "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+                        "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "317",
                         "title": "Shortest Distance from All Buildings",
                         "titleSlug": "shortest-distance-from-all-buildings",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+                    "question": {
+                        "questionFrontendId": "323",
+                        "title": "Number of Connected Components in an Undirected Graph",
+                        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
                         "isPaidOnly": true
                     }
                 }
