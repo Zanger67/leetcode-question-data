@@ -18338,5 +18338,15 @@
             "title": "Minimum Number of Operations to Make Elements in Array Distinct",
             "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct"
         }
+    },
+    "2025-04-09": {
+        "date": "2025-04-09",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
+        "question": {
+            "questionFrontendId": "3375",
+            "title": "Minimum Operations to Make Array Values Equal to K",
+            "titleSlug": "minimum-operations-to-make-array-values-equal-to-k"
+        }
     }
 }
