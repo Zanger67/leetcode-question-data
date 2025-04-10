@@ -91,6 +91,16 @@
                         "title": "Minimum Operations to Make Array Values Equal to K",
                         "titleSlug": "minimum-operations-to-make-array-values-equal-to-k"
                     }
+                },
+                {
+                    "date": "2025-04-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-powerful-integers/",
+                    "question": {
+                        "questionFrontendId": "2999",
+                        "title": "Count the Number of Powerful Integers",
+                        "titleSlug": "count-the-number-of-powerful-integers"
+                    }
                 }
             ],
             "weeklyChallenges": [
