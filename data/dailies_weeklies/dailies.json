@@ -18358,5 +18358,15 @@
             "title": "Count the Number of Powerful Integers",
             "titleSlug": "count-the-number-of-powerful-integers"
         }
+    },
+    "2025-04-11": {
+        "date": "2025-04-11",
+        "userStatus": "NotStart",
+        "link": "/problems/count-symmetric-integers/",
+        "question": {
+            "questionFrontendId": "2843",
+            "title": "  Count Symmetric Integers",
+            "titleSlug": "count-symmetric-integers"
+        }
     }
 }
