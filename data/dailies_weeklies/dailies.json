@@ -18368,5 +18368,15 @@
             "title": "  Count Symmetric Integers",
             "titleSlug": "count-symmetric-integers"
         }
+    },
+    "2025-04-12": {
+        "date": "2025-04-12",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-count-of-good-integers/",
+        "question": {
+            "questionFrontendId": "3272",
+            "title": "Find the Count of Good Integers",
+            "titleSlug": "find-the-count-of-good-integers"
+        }
     }
 }
