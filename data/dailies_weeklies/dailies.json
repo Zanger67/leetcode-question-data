@@ -18378,5 +18378,15 @@
             "title": "Find the Count of Good Integers",
             "titleSlug": "find-the-count-of-good-integers"
         }
+    },
+    "2025-04-13": {
+        "date": "2025-04-13",
+        "userStatus": "NotStart",
+        "link": "/problems/count-good-numbers/",
+        "question": {
+            "questionFrontendId": "1922",
+            "title": "Count Good Numbers",
+            "titleSlug": "count-good-numbers"
+        }
     }
 }
