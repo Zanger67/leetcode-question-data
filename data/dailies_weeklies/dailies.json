@@ -18388,5 +18388,15 @@
             "title": "Count Good Numbers",
             "titleSlug": "count-good-numbers"
         }
+    },
+    "2025-04-14": {
+        "date": "2025-04-14",
+        "userStatus": "NotStart",
+        "link": "/problems/count-good-triplets/",
+        "question": {
+            "questionFrontendId": "1534",
+            "title": "Count Good Triplets",
+            "titleSlug": "count-good-triplets"
+        }
     }
 }
