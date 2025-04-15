@@ -141,6 +141,16 @@
                         "title": "Count Good Triplets",
                         "titleSlug": "count-good-triplets"
                     }
+                },
+                {
+                    "date": "2025-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-good-triplets-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "2179",
+                        "title": "Count Good Triplets in an Array",
+                        "titleSlug": "count-good-triplets-in-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "323",
                         "title": "Number of Connected Components in an Undirected Graph",
                         "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-size-subarray-sum-equals-k/",
+                    "question": {
+                        "questionFrontendId": "325",
+                        "title": "Maximum Size Subarray Sum Equals k",
+                        "titleSlug": "maximum-size-subarray-sum-equals-k",
                         "isPaidOnly": true
                     }
                 }

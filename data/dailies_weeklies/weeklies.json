@@ -3056,5 +3056,16 @@
             "titleSlug": "number-of-connected-components-in-an-undirected-graph",
             "isPaidOnly": true
         }
+    },
+    "2025-04-15": {
+        "date": "2025-04-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-size-subarray-sum-equals-k/",
+        "question": {
+            "questionFrontendId": "325",
+            "title": "Maximum Size Subarray Sum Equals k",
+            "titleSlug": "maximum-size-subarray-sum-equals-k",
+            "isPaidOnly": true
+        }
     }
 }

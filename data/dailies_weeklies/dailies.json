@@ -18398,5 +18398,15 @@
             "title": "Count Good Triplets",
             "titleSlug": "count-good-triplets"
         }
+    },
+    "2025-04-15": {
+        "date": "2025-04-15",
+        "userStatus": "NotStart",
+        "link": "/problems/count-good-triplets-in-an-array/",
+        "question": {
+            "questionFrontendId": "2179",
+            "title": "Count Good Triplets in an Array",
+            "titleSlug": "count-good-triplets-in-an-array"
+        }
     }
 }
