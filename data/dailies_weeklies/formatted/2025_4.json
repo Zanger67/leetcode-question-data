@@ -151,6 +151,16 @@
                         "title": "Count Good Triplets in an Array",
                         "titleSlug": "count-good-triplets-in-an-array"
                     }
+                },
+                {
+                    "date": "2025-04-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-good-subarrays/",
+                    "question": {
+                        "questionFrontendId": "2537",
+                        "title": "Count the Number of Good Subarrays",
+                        "titleSlug": "count-the-number-of-good-subarrays"
+                    }
                 }
             ],
             "weeklyChallenges": [
