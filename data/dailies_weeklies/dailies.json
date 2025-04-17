@@ -18418,5 +18418,15 @@
             "title": "Count the Number of Good Subarrays",
             "titleSlug": "count-the-number-of-good-subarrays"
         }
+    },
+    "2025-04-17": {
+        "date": "2025-04-17",
+        "userStatus": "NotStart",
+        "link": "/problems/count-equal-and-divisible-pairs-in-an-array/",
+        "question": {
+            "questionFrontendId": "2176",
+            "title": "Count Equal and Divisible Pairs in an Array",
+            "titleSlug": "count-equal-and-divisible-pairs-in-an-array"
+        }
     }
 }
