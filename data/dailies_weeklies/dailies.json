@@ -18428,5 +18428,15 @@
             "title": "Count Equal and Divisible Pairs in an Array",
             "titleSlug": "count-equal-and-divisible-pairs-in-an-array"
         }
+    },
+    "2025-04-18": {
+        "date": "2025-04-18",
+        "userStatus": "NotStart",
+        "link": "/problems/count-and-say/",
+        "question": {
+            "questionFrontendId": "38",
+            "title": "Count and Say",
+            "titleSlug": "count-and-say"
+        }
     }
 }
