@@ -18438,5 +18438,15 @@
             "title": "Count and Say",
             "titleSlug": "count-and-say"
         }
+    },
+    "2025-04-19": {
+        "date": "2025-04-19",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-number-of-fair-pairs/",
+        "question": {
+            "questionFrontendId": "2563",
+            "title": "Count the Number of Fair Pairs",
+            "titleSlug": "count-the-number-of-fair-pairs"
+        }
     }
 }
