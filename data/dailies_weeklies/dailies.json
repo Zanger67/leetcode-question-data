@@ -18448,5 +18448,15 @@
             "title": "Count the Number of Fair Pairs",
             "titleSlug": "count-the-number-of-fair-pairs"
         }
+    },
+    "2025-04-20": {
+        "date": "2025-04-20",
+        "userStatus": "NotStart",
+        "link": "/problems/rabbits-in-forest/",
+        "question": {
+            "questionFrontendId": "781",
+            "title": "Rabbits in Forest",
+            "titleSlug": "rabbits-in-forest"
+        }
     }
 }
