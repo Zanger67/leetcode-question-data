@@ -18458,5 +18458,15 @@
             "title": "Rabbits in Forest",
             "titleSlug": "rabbits-in-forest"
         }
+    },
+    "2025-04-21": {
+        "date": "2025-04-21",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-hidden-sequences/",
+        "question": {
+            "questionFrontendId": "2145",
+            "title": "Count the Hidden Sequences",
+            "titleSlug": "count-the-hidden-sequences"
+        }
     }
 }
