@@ -211,6 +211,16 @@
                         "title": "Count the Hidden Sequences",
                         "titleSlug": "count-the-hidden-sequences"
                     }
+                },
+                {
+                    "date": "2025-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-ideal-arrays/",
+                    "question": {
+                        "questionFrontendId": "2338",
+                        "title": "Count the Number of Ideal Arrays",
+                        "titleSlug": "count-the-number-of-ideal-arrays"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "325",
                         "title": "Maximum Size Subarray Sum Equals k",
                         "titleSlug": "maximum-size-subarray-sum-equals-k",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+                    "question": {
+                        "questionFrontendId": "302",
+                        "title": "Smallest Rectangle Enclosing Black Pixels",
+                        "titleSlug": "smallest-rectangle-enclosing-black-pixels",
                         "isPaidOnly": true
                     }
                 }

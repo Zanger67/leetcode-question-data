@@ -3067,5 +3067,16 @@
             "titleSlug": "maximum-size-subarray-sum-equals-k",
             "isPaidOnly": true
         }
+    },
+    "2025-04-22": {
+        "date": "2025-04-22",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+        "question": {
+            "questionFrontendId": "302",
+            "title": "Smallest Rectangle Enclosing Black Pixels",
+            "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+            "isPaidOnly": true
+        }
     }
 }
