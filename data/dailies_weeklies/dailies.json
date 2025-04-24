@@ -18488,5 +18488,15 @@
             "title": "Count Largest Group",
             "titleSlug": "count-largest-group"
         }
+    },
+    "2025-04-24": {
+        "date": "2025-04-24",
+        "userStatus": "NotStart",
+        "link": "/problems/count-complete-subarrays-in-an-array/",
+        "question": {
+            "questionFrontendId": "2799",
+            "title": "Count Complete Subarrays in an Array",
+            "titleSlug": "count-complete-subarrays-in-an-array"
+        }
     }
 }
