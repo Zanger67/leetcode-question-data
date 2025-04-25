@@ -18498,5 +18498,15 @@
             "title": "Count Complete Subarrays in an Array",
             "titleSlug": "count-complete-subarrays-in-an-array"
         }
+    },
+    "2025-04-25": {
+        "date": "2025-04-25",
+        "userStatus": "NotStart",
+        "link": "/problems/count-of-interesting-subarrays/",
+        "question": {
+            "questionFrontendId": "2845",
+            "title": "Count of Interesting Subarrays",
+            "titleSlug": "count-of-interesting-subarrays"
+        }
     }
 }
