@@ -18508,5 +18508,15 @@
             "title": "Count of Interesting Subarrays",
             "titleSlug": "count-of-interesting-subarrays"
         }
+    },
+    "2025-04-26": {
+        "date": "2025-04-26",
+        "userStatus": "NotStart",
+        "link": "/problems/count-subarrays-with-fixed-bounds/",
+        "question": {
+            "questionFrontendId": "2444",
+            "title": "Count Subarrays With Fixed Bounds",
+            "titleSlug": "count-subarrays-with-fixed-bounds"
+        }
     }
 }
