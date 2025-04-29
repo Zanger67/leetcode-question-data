@@ -3078,5 +3078,16 @@
             "titleSlug": "smallest-rectangle-enclosing-black-pixels",
             "isPaidOnly": true
         }
+    },
+    "2025-04-29": {
+        "date": "2025-04-29",
+        "userStatus": "NotStart",
+        "link": "/problems/sparse-matrix-multiplication/",
+        "question": {
+            "questionFrontendId": "311",
+            "title": "Sparse Matrix Multiplication",
+            "titleSlug": "sparse-matrix-multiplication",
+            "isPaidOnly": true
+        }
     }
 }

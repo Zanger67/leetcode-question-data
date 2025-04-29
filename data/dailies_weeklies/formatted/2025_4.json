@@ -281,6 +281,16 @@
                         "title": "Count Subarrays With Score Less Than K",
                         "titleSlug": "count-subarrays-with-score-less-than-k"
                     }
+                },
+                {
+                    "date": "2025-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+                    "question": {
+                        "questionFrontendId": "2962",
+                        "title": "Count Subarrays Where Max Element Appears at Least K Times",
+                        "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "302",
                         "title": "Smallest Rectangle Enclosing Black Pixels",
                         "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-04-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sparse-matrix-multiplication/",
+                    "question": {
+                        "questionFrontendId": "311",
+                        "title": "Sparse Matrix Multiplication",
+                        "titleSlug": "sparse-matrix-multiplication",
                         "isPaidOnly": true
                     }
                 }
