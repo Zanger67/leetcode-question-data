@@ -18548,5 +18548,15 @@
             "title": "Count Subarrays Where Max Element Appears at Least K Times",
             "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times"
         }
+    },
+    "2025-04-30": {
+        "date": "2025-04-30",
+        "userStatus": "NotStart",
+        "link": "/problems/find-numbers-with-even-number-of-digits/",
+        "question": {
+            "questionFrontendId": "1295",
+            "title": "Find Numbers with Even Number of Digits",
+            "titleSlug": "find-numbers-with-even-number-of-digits"
+        }
     }
 }
