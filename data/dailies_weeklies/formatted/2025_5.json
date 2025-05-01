@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2025-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-tasks-you-can-assign/",
+                    "question": {
+                        "questionFrontendId": "2071",
+                        "title": "Maximum Number of Tasks You Can Assign",
+                        "titleSlug": "maximum-number-of-tasks-you-can-assign"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2025-05-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-snake-game/",
+                    "question": {
+                        "questionFrontendId": "353",
+                        "title": "Design Snake Game",
+                        "titleSlug": "design-snake-game",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

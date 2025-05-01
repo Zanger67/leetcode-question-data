@@ -18558,5 +18558,15 @@
             "title": "Find Numbers with Even Number of Digits",
             "titleSlug": "find-numbers-with-even-number-of-digits"
         }
+    },
+    "2025-05-01": {
+        "date": "2025-05-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-tasks-you-can-assign/",
+        "question": {
+            "questionFrontendId": "2071",
+            "title": "Maximum Number of Tasks You Can Assign",
+            "titleSlug": "maximum-number-of-tasks-you-can-assign"
+        }
     }
 }
