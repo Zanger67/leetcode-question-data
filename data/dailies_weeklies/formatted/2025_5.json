@@ -11,6 +11,16 @@
                         "title": "Maximum Number of Tasks You Can Assign",
                         "titleSlug": "maximum-number-of-tasks-you-can-assign"
                     }
+                },
+                {
+                    "date": "2025-05-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/push-dominoes/",
+                    "question": {
+                        "questionFrontendId": "838",
+                        "title": "Push Dominoes",
+                        "titleSlug": "push-dominoes"
+                    }
                 }
             ],
             "weeklyChallenges": [
