@@ -21,6 +21,16 @@
                         "title": "Push Dominoes",
                         "titleSlug": "push-dominoes"
                     }
+                },
+                {
+                    "date": "2025-05-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-domino-rotations-for-equal-row/",
+                    "question": {
+                        "questionFrontendId": "1007",
+                        "title": "Minimum Domino Rotations For Equal Row",
+                        "titleSlug": "minimum-domino-rotations-for-equal-row"
+                    }
                 }
             ],
             "weeklyChallenges": [
