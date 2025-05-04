@@ -18588,5 +18588,15 @@
             "title": "Minimum Domino Rotations For Equal Row",
             "titleSlug": "minimum-domino-rotations-for-equal-row"
         }
+    },
+    "2025-05-04": {
+        "date": "2025-05-04",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-equivalent-domino-pairs/",
+        "question": {
+            "questionFrontendId": "1128",
+            "title": "Number of Equivalent Domino Pairs",
+            "titleSlug": "number-of-equivalent-domino-pairs"
+        }
     }
 }
