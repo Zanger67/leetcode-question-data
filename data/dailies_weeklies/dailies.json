@@ -18598,5 +18598,15 @@
             "title": "Number of Equivalent Domino Pairs",
             "titleSlug": "number-of-equivalent-domino-pairs"
         }
+    },
+    "2025-05-05": {
+        "date": "2025-05-05",
+        "userStatus": "NotStart",
+        "link": "/problems/domino-and-tromino-tiling/",
+        "question": {
+            "questionFrontendId": "790",
+            "title": "Domino and Tromino Tiling",
+            "titleSlug": "domino-and-tromino-tiling"
+        }
     }
 }
