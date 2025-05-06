@@ -51,6 +51,16 @@
                         "title": "Domino and Tromino Tiling",
                         "titleSlug": "domino-and-tromino-tiling"
                     }
+                },
+                {
+                    "date": "2025-05-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/build-array-from-permutation/",
+                    "question": {
+                        "questionFrontendId": "1920",
+                        "title": "Build Array from Permutation",
+                        "titleSlug": "build-array-from-permutation"
+                    }
                 }
             ],
             "weeklyChallenges": [
