@@ -18618,5 +18618,15 @@
             "title": "Build Array from Permutation",
             "titleSlug": "build-array-from-permutation"
         }
+    },
+    "2025-05-07": {
+        "date": "2025-05-07",
+        "userStatus": "NotStart",
+        "link": "/problems/find-minimum-time-to-reach-last-room-i/",
+        "question": {
+            "questionFrontendId": "3341",
+            "title": "Find Minimum Time to Reach Last Room I",
+            "titleSlug": "find-minimum-time-to-reach-last-room-i"
+        }
     }
 }
