@@ -71,6 +71,16 @@
                         "title": "Find Minimum Time to Reach Last Room I",
                         "titleSlug": "find-minimum-time-to-reach-last-room-i"
                     }
+                },
+                {
+                    "date": "2025-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-minimum-time-to-reach-last-room-ii/",
+                    "question": {
+                        "questionFrontendId": "3342",
+                        "title": "Find Minimum Time to Reach Last Room II",
+                        "titleSlug": "find-minimum-time-to-reach-last-room-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "353",
                         "title": "Design Snake Game",
                         "titleSlug": "design-snake-game",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-05-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/logger-rate-limiter/",
+                    "question": {
+                        "questionFrontendId": "359",
+                        "title": "Logger Rate Limiter",
+                        "titleSlug": "logger-rate-limiter",
                         "isPaidOnly": true
                     }
                 }

@@ -18628,5 +18628,15 @@
             "title": "Find Minimum Time to Reach Last Room I",
             "titleSlug": "find-minimum-time-to-reach-last-room-i"
         }
+    },
+    "2025-05-08": {
+        "date": "2025-05-08",
+        "userStatus": "NotStart",
+        "link": "/problems/find-minimum-time-to-reach-last-room-ii/",
+        "question": {
+            "questionFrontendId": "3342",
+            "title": "Find Minimum Time to Reach Last Room II",
+            "titleSlug": "find-minimum-time-to-reach-last-room-ii"
+        }
     }
 }
