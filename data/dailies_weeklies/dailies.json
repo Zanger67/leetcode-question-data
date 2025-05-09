@@ -18638,5 +18638,15 @@
             "title": "Find Minimum Time to Reach Last Room II",
             "titleSlug": "find-minimum-time-to-reach-last-room-ii"
         }
+    },
+    "2025-05-09": {
+        "date": "2025-05-09",
+        "userStatus": "NotStart",
+        "link": "/problems/count-number-of-balanced-permutations/",
+        "question": {
+            "questionFrontendId": "3343",
+            "title": "Count Number of Balanced Permutations",
+            "titleSlug": "count-number-of-balanced-permutations"
+        }
     }
 }
