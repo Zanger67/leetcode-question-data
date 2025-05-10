@@ -18648,5 +18648,15 @@
             "title": "Count Number of Balanced Permutations",
             "titleSlug": "count-number-of-balanced-permutations"
         }
+    },
+    "2025-05-10": {
+        "date": "2025-05-10",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/",
+        "question": {
+            "questionFrontendId": "2918",
+            "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+            "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+        }
     }
 }
