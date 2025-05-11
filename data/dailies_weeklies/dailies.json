@@ -18658,5 +18658,15 @@
             "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
             "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros"
         }
+    },
+    "2025-05-11": {
+        "date": "2025-05-11",
+        "userStatus": "NotStart",
+        "link": "/problems/three-consecutive-odds/",
+        "question": {
+            "questionFrontendId": "1550",
+            "title": "Three Consecutive Odds",
+            "titleSlug": "three-consecutive-odds"
+        }
     }
 }
