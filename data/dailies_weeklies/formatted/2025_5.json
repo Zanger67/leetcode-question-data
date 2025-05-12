@@ -111,6 +111,16 @@
                         "title": "Three Consecutive Odds",
                         "titleSlug": "three-consecutive-odds"
                     }
+                },
+                {
+                    "date": "2025-05-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/finding-3-digit-even-numbers/",
+                    "question": {
+                        "questionFrontendId": "2094",
+                        "title": "Finding 3-Digit Even Numbers",
+                        "titleSlug": "finding-3-digit-even-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
