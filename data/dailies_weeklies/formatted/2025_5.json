@@ -121,6 +121,16 @@
                         "title": "Finding 3-Digit Even Numbers",
                         "titleSlug": "finding-3-digit-even-numbers"
                     }
+                },
+                {
+                    "date": "2025-05-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/total-characters-in-string-after-transformations-i/",
+                    "question": {
+                        "questionFrontendId": "3335",
+                        "title": "Total Characters in String After Transformations I",
+                        "titleSlug": "total-characters-in-string-after-transformations-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
