@@ -18688,5 +18688,15 @@
             "title": "Total Characters in String After Transformations I",
             "titleSlug": "total-characters-in-string-after-transformations-i"
         }
+    },
+    "2025-05-14": {
+        "date": "2025-05-14",
+        "userStatus": "NotStart",
+        "link": "/problems/total-characters-in-string-after-transformations-ii/",
+        "question": {
+            "questionFrontendId": "3337",
+            "title": "Total Characters in String After Transformations II",
+            "titleSlug": "total-characters-in-string-after-transformations-ii"
+        }
     }
 }
