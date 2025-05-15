@@ -18698,5 +18698,15 @@
             "title": "Total Characters in String After Transformations II",
             "titleSlug": "total-characters-in-string-after-transformations-ii"
         }
+    },
+    "2025-05-15": {
+        "date": "2025-05-15",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-unequal-adjacent-groups-subsequence-i/",
+        "question": {
+            "questionFrontendId": "2900",
+            "title": "Longest Unequal Adjacent Groups Subsequence I",
+            "titleSlug": "longest-unequal-adjacent-groups-subsequence-i"
+        }
     }
 }

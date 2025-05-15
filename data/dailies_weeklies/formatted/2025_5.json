@@ -141,6 +141,16 @@
                         "title": "Total Characters in String After Transformations II",
                         "titleSlug": "total-characters-in-string-after-transformations-ii"
                     }
+                },
+                {
+                    "date": "2025-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-unequal-adjacent-groups-subsequence-i/",
+                    "question": {
+                        "questionFrontendId": "2900",
+                        "title": "Longest Unequal Adjacent Groups Subsequence I",
+                        "titleSlug": "longest-unequal-adjacent-groups-subsequence-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "359",
                         "title": "Logger Rate Limiter",
                         "titleSlug": "logger-rate-limiter",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-05-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bomb-enemy/",
+                    "question": {
+                        "questionFrontendId": "361",
+                        "title": "Bomb Enemy",
+                        "titleSlug": "bomb-enemy",
                         "isPaidOnly": true
                     }
                 }

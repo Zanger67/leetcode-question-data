@@ -3111,5 +3111,16 @@
             "titleSlug": "logger-rate-limiter",
             "isPaidOnly": true
         }
+    },
+    "2025-05-15": {
+        "date": "2025-05-15",
+        "userStatus": "NotStart",
+        "link": "/problems/bomb-enemy/",
+        "question": {
+            "questionFrontendId": "361",
+            "title": "Bomb Enemy",
+            "titleSlug": "bomb-enemy",
+            "isPaidOnly": true
+        }
     }
 }
