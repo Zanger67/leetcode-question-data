@@ -151,6 +151,16 @@
                         "title": "Longest Unequal Adjacent Groups Subsequence I",
                         "titleSlug": "longest-unequal-adjacent-groups-subsequence-i"
                     }
+                },
+                {
+                    "date": "2025-05-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+                    "question": {
+                        "questionFrontendId": "2901",
+                        "title": "Longest Unequal Adjacent Groups Subsequence II",
+                        "titleSlug": "longest-unequal-adjacent-groups-subsequence-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
