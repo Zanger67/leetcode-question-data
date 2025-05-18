@@ -171,6 +171,16 @@
                         "title": "Sort Colors",
                         "titleSlug": "sort-colors"
                     }
+                },
+                {
+                    "date": "2025-05-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/painting-a-grid-with-three-different-colors/",
+                    "question": {
+                        "questionFrontendId": "1931",
+                        "title": "Painting a Grid With Three Different Colors",
+                        "titleSlug": "painting-a-grid-with-three-different-colors"
+                    }
                 }
             ],
             "weeklyChallenges": [
