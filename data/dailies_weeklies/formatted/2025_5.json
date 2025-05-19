@@ -181,6 +181,16 @@
                         "title": "Painting a Grid With Three Different Colors",
                         "titleSlug": "painting-a-grid-with-three-different-colors"
                     }
+                },
+                {
+                    "date": "2025-05-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/type-of-triangle/",
+                    "question": {
+                        "questionFrontendId": "3024",
+                        "title": "Type of Triangle",
+                        "titleSlug": "type-of-triangle"
+                    }
                 }
             ],
             "weeklyChallenges": [
