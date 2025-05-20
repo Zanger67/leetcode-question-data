@@ -18748,5 +18748,15 @@
             "title": "Type of Triangle",
             "titleSlug": "type-of-triangle"
         }
+    },
+    "2025-05-20": {
+        "date": "2025-05-20",
+        "userStatus": "NotStart",
+        "link": "/problems/zero-array-transformation-i/",
+        "question": {
+            "questionFrontendId": "3355",
+            "title": "Zero Array Transformation I",
+            "titleSlug": "zero-array-transformation-i"
+        }
     }
 }
