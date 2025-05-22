@@ -211,6 +211,16 @@
                         "title": "Set Matrix Zeroes",
                         "titleSlug": "set-matrix-zeroes"
                     }
+                },
+                {
+                    "date": "2025-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/zero-array-transformation-iii/",
+                    "question": {
+                        "questionFrontendId": "3362",
+                        "title": "Zero Array Transformation III",
+                        "titleSlug": "zero-array-transformation-iii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "361",
                         "title": "Bomb Enemy",
                         "titleSlug": "bomb-enemy",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/first-unique-number/",
+                    "question": {
+                        "questionFrontendId": "1429",
+                        "title": "First Unique Number",
+                        "titleSlug": "first-unique-number",
                         "isPaidOnly": true
                     }
                 }

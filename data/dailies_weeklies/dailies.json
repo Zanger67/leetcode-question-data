@@ -18768,5 +18768,15 @@
             "title": "Set Matrix Zeroes",
             "titleSlug": "set-matrix-zeroes"
         }
+    },
+    "2025-05-22": {
+        "date": "2025-05-22",
+        "userStatus": "NotStart",
+        "link": "/problems/zero-array-transformation-iii/",
+        "question": {
+            "questionFrontendId": "3362",
+            "title": "Zero Array Transformation III",
+            "titleSlug": "zero-array-transformation-iii"
+        }
     }
 }
