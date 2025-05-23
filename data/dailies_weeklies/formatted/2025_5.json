@@ -221,6 +221,16 @@
                         "title": "Zero Array Transformation III",
                         "titleSlug": "zero-array-transformation-iii"
                     }
+                },
+                {
+                    "date": "2025-05-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-maximum-sum-of-node-values/",
+                    "question": {
+                        "questionFrontendId": "3068",
+                        "title": "Find the Maximum Sum of Node Values",
+                        "titleSlug": "find-the-maximum-sum-of-node-values"
+                    }
                 }
             ],
             "weeklyChallenges": [
