@@ -18788,5 +18788,15 @@
             "title": "Find the Maximum Sum of Node Values",
             "titleSlug": "find-the-maximum-sum-of-node-values"
         }
+    },
+    "2025-05-24": {
+        "date": "2025-05-24",
+        "userStatus": "NotStart",
+        "link": "/problems/find-words-containing-character/",
+        "question": {
+            "questionFrontendId": "2942",
+            "title": "Find Words Containing Character",
+            "titleSlug": "find-words-containing-character"
+        }
     }
 }
