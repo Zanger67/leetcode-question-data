@@ -251,6 +251,16 @@
                         "title": "Longest Palindrome by Concatenating Two Letter Words",
                         "titleSlug": "longest-palindrome-by-concatenating-two-letter-words"
                     }
+                },
+                {
+                    "date": "2025-05-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-color-value-in-a-directed-graph/",
+                    "question": {
+                        "questionFrontendId": "1857",
+                        "title": "Largest Color Value in a Directed Graph",
+                        "titleSlug": "largest-color-value-in-a-directed-graph"
+                    }
                 }
             ],
             "weeklyChallenges": [
