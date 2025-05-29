@@ -3133,5 +3133,16 @@
             "titleSlug": "first-unique-number",
             "isPaidOnly": true
         }
+    },
+    "2025-05-29": {
+        "date": "2025-05-29",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+        "question": {
+            "questionFrontendId": "1474",
+            "title": "Delete N Nodes After M Nodes of a Linked List",
+            "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+            "isPaidOnly": true
+        }
     }
 }

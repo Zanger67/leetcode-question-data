@@ -18838,5 +18838,15 @@
             "title": "Maximize the Number of Target Nodes After Connecting Trees I",
             "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i"
         }
+    },
+    "2025-05-29": {
+        "date": "2025-05-29",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+        "question": {
+            "questionFrontendId": "3373",
+            "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+            "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+        }
     }
 }

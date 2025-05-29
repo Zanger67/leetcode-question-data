@@ -281,6 +281,16 @@
                         "title": "Maximize the Number of Target Nodes After Connecting Trees I",
                         "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i"
                     }
+                },
+                {
+                    "date": "2025-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+                    "question": {
+                        "questionFrontendId": "3373",
+                        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+                        "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "1429",
                         "title": "First Unique Number",
                         "titleSlug": "first-unique-number",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "1474",
+                        "title": "Delete N Nodes After M Nodes of a Linked List",
+                        "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
                         "isPaidOnly": true
                     }
                 }
