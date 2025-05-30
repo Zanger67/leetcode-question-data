@@ -291,6 +291,16 @@
                         "title": "Maximize the Number of Target Nodes After Connecting Trees II",
                         "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
                     }
+                },
+                {
+                    "date": "2025-05-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-closest-node-to-given-two-nodes/",
+                    "question": {
+                        "questionFrontendId": "2359",
+                        "title": "Find Closest Node to Given Two Nodes",
+                        "titleSlug": "find-closest-node-to-given-two-nodes"
+                    }
                 }
             ],
             "weeklyChallenges": [
