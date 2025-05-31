@@ -18858,5 +18858,15 @@
             "title": "Find Closest Node to Given Two Nodes",
             "titleSlug": "find-closest-node-to-given-two-nodes"
         }
+    },
+    "2025-05-31": {
+        "date": "2025-05-31",
+        "userStatus": "NotStart",
+        "link": "/problems/snakes-and-ladders/",
+        "question": {
+            "questionFrontendId": "909",
+            "title": "Snakes and Ladders",
+            "titleSlug": "snakes-and-ladders"
+        }
     }
 }
