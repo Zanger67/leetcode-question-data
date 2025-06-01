@@ -3144,5 +3144,16 @@
             "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
             "isPaidOnly": true
         }
+    },
+    "2025-06-01": {
+        "date": "2025-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/distribute-candies-among-children-iii/",
+        "question": {
+            "questionFrontendId": "2927",
+            "title": "Distribute Candies Among Children III",
+            "titleSlug": "distribute-candies-among-children-iii",
+            "isPaidOnly": true
+        }
     }
 }

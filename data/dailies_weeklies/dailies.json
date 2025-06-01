@@ -18868,5 +18868,15 @@
             "title": "Snakes and Ladders",
             "titleSlug": "snakes-and-ladders"
         }
+    },
+    "2025-06-01": {
+        "date": "2025-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/distribute-candies-among-children-ii/",
+        "question": {
+            "questionFrontendId": "2929",
+            "title": "Distribute Candies Among Children II",
+            "titleSlug": "distribute-candies-among-children-ii"
+        }
     }
 }
