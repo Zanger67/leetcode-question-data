@@ -18878,5 +18878,15 @@
             "title": "Distribute Candies Among Children II",
             "titleSlug": "distribute-candies-among-children-ii"
         }
+    },
+    "2025-06-02": {
+        "date": "2025-06-02",
+        "userStatus": "NotStart",
+        "link": "/problems/candy/",
+        "question": {
+            "questionFrontendId": "135",
+            "title": "Candy",
+            "titleSlug": "candy"
+        }
     }
 }
