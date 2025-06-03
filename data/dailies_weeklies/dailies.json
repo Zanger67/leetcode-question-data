@@ -18888,5 +18888,15 @@
             "title": "Candy",
             "titleSlug": "candy"
         }
+    },
+    "2025-06-03": {
+        "date": "2025-06-03",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-candies-you-can-get-from-boxes/",
+        "question": {
+            "questionFrontendId": "1298",
+            "title": "Maximum Candies You Can Get from Boxes",
+            "titleSlug": "maximum-candies-you-can-get-from-boxes"
+        }
     }
 }
