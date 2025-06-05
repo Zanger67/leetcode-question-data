@@ -18908,5 +18908,15 @@
             "title": "Find the Lexicographically Largest String From the Box I",
             "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i"
         }
+    },
+    "2025-06-05": {
+        "date": "2025-06-05",
+        "userStatus": "NotStart",
+        "link": "/problems/lexicographically-smallest-equivalent-string/",
+        "question": {
+            "questionFrontendId": "1061",
+            "title": "Lexicographically Smallest Equivalent String",
+            "titleSlug": "lexicographically-smallest-equivalent-string"
+        }
     }
 }
