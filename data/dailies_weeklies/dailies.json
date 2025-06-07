@@ -18928,5 +18928,15 @@
             "title": "Using a Robot to Print the Lexicographically Smallest String",
             "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string"
         }
+    },
+    "2025-06-07": {
+        "date": "2025-06-07",
+        "userStatus": "NotStart",
+        "link": "/problems/lexicographically-minimum-string-after-removing-stars/",
+        "question": {
+            "questionFrontendId": "3170",
+            "title": "Lexicographically Minimum String After Removing Stars",
+            "titleSlug": "lexicographically-minimum-string-after-removing-stars"
+        }
     }
 }
