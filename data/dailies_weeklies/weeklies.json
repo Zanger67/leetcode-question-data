@@ -3155,5 +3155,16 @@
             "titleSlug": "distribute-candies-among-children-iii",
             "isPaidOnly": true
         }
+    },
+    "2025-06-08": {
+        "date": "2025-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/verify-preorder-sequence-in-binary-search-tree/",
+        "question": {
+            "questionFrontendId": "255",
+            "title": "Verify Preorder Sequence in Binary Search Tree",
+            "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+            "isPaidOnly": true
+        }
     }
 }

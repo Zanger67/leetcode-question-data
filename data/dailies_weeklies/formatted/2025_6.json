@@ -71,6 +71,16 @@
                         "title": "Lexicographically Minimum String After Removing Stars",
                         "titleSlug": "lexicographically-minimum-string-after-removing-stars"
                     }
+                },
+                {
+                    "date": "2025-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lexicographical-numbers/",
+                    "question": {
+                        "questionFrontendId": "386",
+                        "title": "Lexicographical Numbers",
+                        "titleSlug": "lexicographical-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "2927",
                         "title": "Distribute Candies Among Children III",
                         "titleSlug": "distribute-candies-among-children-iii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/verify-preorder-sequence-in-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "255",
+                        "title": "Verify Preorder Sequence in Binary Search Tree",
+                        "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
                         "isPaidOnly": true
                     }
                 }

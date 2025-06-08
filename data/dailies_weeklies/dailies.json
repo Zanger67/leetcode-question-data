@@ -18938,5 +18938,15 @@
             "title": "Lexicographically Minimum String After Removing Stars",
             "titleSlug": "lexicographically-minimum-string-after-removing-stars"
         }
+    },
+    "2025-06-08": {
+        "date": "2025-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/lexicographical-numbers/",
+        "question": {
+            "questionFrontendId": "386",
+            "title": "Lexicographical Numbers",
+            "titleSlug": "lexicographical-numbers"
+        }
     }
 }
