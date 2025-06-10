@@ -91,6 +91,16 @@
                         "title": "K-th Smallest in Lexicographical Order",
                         "titleSlug": "k-th-smallest-in-lexicographical-order"
                     }
+                },
+                {
+                    "date": "2025-06-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-difference-between-even-and-odd-frequency-i/",
+                    "question": {
+                        "questionFrontendId": "3442",
+                        "title": "Maximum Difference Between Even and Odd Frequency I",
+                        "titleSlug": "maximum-difference-between-even-and-odd-frequency-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
