@@ -101,6 +101,16 @@
                         "title": "Maximum Difference Between Even and Odd Frequency I",
                         "titleSlug": "maximum-difference-between-even-and-odd-frequency-i"
                     }
+                },
+                {
+                    "date": "2025-06-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-difference-between-even-and-odd-frequency-ii/",
+                    "question": {
+                        "questionFrontendId": "3445",
+                        "title": "Maximum Difference Between Even and Odd Frequency II",
+                        "titleSlug": "maximum-difference-between-even-and-odd-frequency-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
