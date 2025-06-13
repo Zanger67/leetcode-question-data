@@ -121,6 +121,16 @@
                         "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
                         "titleSlug": "maximum-difference-between-adjacent-elements-in-a-circular-array"
                     }
+                },
+                {
+                    "date": "2025-06-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-the-maximum-difference-of-pairs/",
+                    "question": {
+                        "questionFrontendId": "2616",
+                        "title": "Minimize the Maximum Difference of Pairs",
+                        "titleSlug": "minimize-the-maximum-difference-of-pairs"
+                    }
                 }
             ],
             "weeklyChallenges": [
