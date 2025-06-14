@@ -18998,5 +18998,15 @@
             "title": "Minimize the Maximum Difference of Pairs",
             "titleSlug": "minimize-the-maximum-difference-of-pairs"
         }
+    },
+    "2025-06-14": {
+        "date": "2025-06-14",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-difference-by-remapping-a-digit/",
+        "question": {
+            "questionFrontendId": "2566",
+            "title": "Maximum Difference by Remapping a Digit",
+            "titleSlug": "maximum-difference-by-remapping-a-digit"
+        }
     }
 }
