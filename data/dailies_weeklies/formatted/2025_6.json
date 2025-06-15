@@ -141,6 +141,16 @@
                         "title": "Maximum Difference by Remapping a Digit",
                         "titleSlug": "maximum-difference-by-remapping-a-digit"
                     }
+                },
+                {
+                    "date": "2025-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-difference-you-can-get-from-changing-an-integer/",
+                    "question": {
+                        "questionFrontendId": "1432",
+                        "title": "Max Difference You Can Get From Changing an Integer",
+                        "titleSlug": "max-difference-you-can-get-from-changing-an-integer"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "255",
                         "title": "Verify Preorder Sequence in Binary Search Tree",
                         "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/equal-tree-partition/",
+                    "question": {
+                        "questionFrontendId": "663",
+                        "title": "Equal Tree Partition",
+                        "titleSlug": "equal-tree-partition",
                         "isPaidOnly": true
                     }
                 }

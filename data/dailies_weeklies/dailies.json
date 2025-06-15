@@ -19008,5 +19008,15 @@
             "title": "Maximum Difference by Remapping a Digit",
             "titleSlug": "maximum-difference-by-remapping-a-digit"
         }
+    },
+    "2025-06-15": {
+        "date": "2025-06-15",
+        "userStatus": "NotStart",
+        "link": "/problems/max-difference-you-can-get-from-changing-an-integer/",
+        "question": {
+            "questionFrontendId": "1432",
+            "title": "Max Difference You Can Get From Changing an Integer",
+            "titleSlug": "max-difference-you-can-get-from-changing-an-integer"
+        }
     }
 }

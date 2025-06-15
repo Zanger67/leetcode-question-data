@@ -3166,5 +3166,16 @@
             "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
             "isPaidOnly": true
         }
+    },
+    "2025-06-15": {
+        "date": "2025-06-15",
+        "userStatus": "NotStart",
+        "link": "/problems/equal-tree-partition/",
+        "question": {
+            "questionFrontendId": "663",
+            "title": "Equal Tree Partition",
+            "titleSlug": "equal-tree-partition",
+            "isPaidOnly": true
+        }
     }
 }
