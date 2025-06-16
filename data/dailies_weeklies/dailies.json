@@ -19018,5 +19018,15 @@
             "title": "Max Difference You Can Get From Changing an Integer",
             "titleSlug": "max-difference-you-can-get-from-changing-an-integer"
         }
+    },
+    "2025-06-16": {
+        "date": "2025-06-16",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-difference-between-increasing-elements/",
+        "question": {
+            "questionFrontendId": "2016",
+            "title": "Maximum Difference Between Increasing Elements",
+            "titleSlug": "maximum-difference-between-increasing-elements"
+        }
     }
 }
