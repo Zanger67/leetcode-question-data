@@ -161,6 +161,16 @@
                         "title": "Maximum Difference Between Increasing Elements",
                         "titleSlug": "maximum-difference-between-increasing-elements"
                     }
+                },
+                {
+                    "date": "2025-06-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/",
+                    "question": {
+                        "questionFrontendId": "3405",
+                        "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+                        "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements"
+                    }
                 }
             ],
             "weeklyChallenges": [
