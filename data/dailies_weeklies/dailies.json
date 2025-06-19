@@ -19048,5 +19048,15 @@
             "title": "Divide Array Into Arrays With Max Difference",
             "titleSlug": "divide-array-into-arrays-with-max-difference"
         }
+    },
+    "2025-06-19": {
+        "date": "2025-06-19",
+        "userStatus": "NotStart",
+        "link": "/problems/partition-array-such-that-maximum-difference-is-k/",
+        "question": {
+            "questionFrontendId": "2294",
+            "title": "Partition Array Such That Maximum Difference Is K",
+            "titleSlug": "partition-array-such-that-maximum-difference-is-k"
+        }
     }
 }
