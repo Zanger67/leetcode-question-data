@@ -191,6 +191,16 @@
                         "title": "Partition Array Such That Maximum Difference Is K",
                         "titleSlug": "partition-array-such-that-maximum-difference-is-k"
                     }
+                },
+                {
+                    "date": "2025-06-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-manhattan-distance-after-k-changes/",
+                    "question": {
+                        "questionFrontendId": "3443",
+                        "title": "Maximum Manhattan Distance After K Changes",
+                        "titleSlug": "maximum-manhattan-distance-after-k-changes"
+                    }
                 }
             ],
             "weeklyChallenges": [
