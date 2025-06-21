@@ -19068,5 +19068,15 @@
             "title": "Maximum Manhattan Distance After K Changes",
             "titleSlug": "maximum-manhattan-distance-after-k-changes"
         }
+    },
+    "2025-06-21": {
+        "date": "2025-06-21",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-deletions-to-make-string-k-special/",
+        "question": {
+            "questionFrontendId": "3085",
+            "title": "Minimum Deletions to Make String K-Special",
+            "titleSlug": "minimum-deletions-to-make-string-k-special"
+        }
     }
 }
