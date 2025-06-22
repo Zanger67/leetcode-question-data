@@ -211,6 +211,16 @@
                         "title": "Minimum Deletions to Make String K-Special",
                         "titleSlug": "minimum-deletions-to-make-string-k-special"
                     }
+                },
+                {
+                    "date": "2025-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/divide-a-string-into-groups-of-size-k/",
+                    "question": {
+                        "questionFrontendId": "2138",
+                        "title": "Divide a String Into Groups of Size k",
+                        "titleSlug": "divide-a-string-into-groups-of-size-k"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "663",
                         "title": "Equal Tree Partition",
                         "titleSlug": "equal-tree-partition",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/k-empty-slots/",
+                    "question": {
+                        "questionFrontendId": "683",
+                        "title": "K Empty Slots",
+                        "titleSlug": "k-empty-slots",
                         "isPaidOnly": true
                     }
                 }

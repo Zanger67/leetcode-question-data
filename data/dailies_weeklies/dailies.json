@@ -19078,5 +19078,15 @@
             "title": "Minimum Deletions to Make String K-Special",
             "titleSlug": "minimum-deletions-to-make-string-k-special"
         }
+    },
+    "2025-06-22": {
+        "date": "2025-06-22",
+        "userStatus": "NotStart",
+        "link": "/problems/divide-a-string-into-groups-of-size-k/",
+        "question": {
+            "questionFrontendId": "2138",
+            "title": "Divide a String Into Groups of Size k",
+            "titleSlug": "divide-a-string-into-groups-of-size-k"
+        }
     }
 }
