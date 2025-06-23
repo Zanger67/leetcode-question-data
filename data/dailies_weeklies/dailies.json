@@ -19088,5 +19088,15 @@
             "title": "Divide a String Into Groups of Size k",
             "titleSlug": "divide-a-string-into-groups-of-size-k"
         }
+    },
+    "2025-06-23": {
+        "date": "2025-06-23",
+        "userStatus": "NotStart",
+        "link": "/problems/sum-of-k-mirror-numbers/",
+        "question": {
+            "questionFrontendId": "2081",
+            "title": "Sum of k-Mirror Numbers",
+            "titleSlug": "sum-of-k-mirror-numbers"
+        }
     }
 }
