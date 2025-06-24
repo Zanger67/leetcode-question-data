@@ -231,6 +231,16 @@
                         "title": "Sum of k-Mirror Numbers",
                         "titleSlug": "sum-of-k-mirror-numbers"
                     }
+                },
+                {
+                    "date": "2025-06-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-k-distant-indices-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "2200",
+                        "title": "Find All K-Distant Indices in an Array",
+                        "titleSlug": "find-all-k-distant-indices-in-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
