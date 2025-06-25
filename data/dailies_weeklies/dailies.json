@@ -19108,5 +19108,15 @@
             "title": "Find All K-Distant Indices in an Array",
             "titleSlug": "find-all-k-distant-indices-in-an-array"
         }
+    },
+    "2025-06-25": {
+        "date": "2025-06-25",
+        "userStatus": "NotStart",
+        "link": "/problems/kth-smallest-product-of-two-sorted-arrays/",
+        "question": {
+            "questionFrontendId": "2040",
+            "title": "Kth Smallest Product of Two Sorted Arrays",
+            "titleSlug": "kth-smallest-product-of-two-sorted-arrays"
+        }
     }
 }
