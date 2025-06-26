@@ -19118,5 +19118,15 @@
             "title": "Kth Smallest Product of Two Sorted Arrays",
             "titleSlug": "kth-smallest-product-of-two-sorted-arrays"
         }
+    },
+    "2025-06-26": {
+        "date": "2025-06-26",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-binary-subsequence-less-than-or-equal-to-k/",
+        "question": {
+            "questionFrontendId": "2311",
+            "title": "Longest Binary Subsequence Less Than or Equal to K",
+            "titleSlug": "longest-binary-subsequence-less-than-or-equal-to-k"
+        }
     }
 }
