@@ -261,6 +261,16 @@
                         "title": "Longest Binary Subsequence Less Than or Equal to K",
                         "titleSlug": "longest-binary-subsequence-less-than-or-equal-to-k"
                     }
+                },
+                {
+                    "date": "2025-06-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-subsequence-repeated-k-times/",
+                    "question": {
+                        "questionFrontendId": "2014",
+                        "title": "Longest Subsequence Repeated k Times",
+                        "titleSlug": "longest-subsequence-repeated-k-times"
+                    }
                 }
             ],
             "weeklyChallenges": [
