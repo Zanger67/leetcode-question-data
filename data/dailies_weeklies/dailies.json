@@ -19138,5 +19138,15 @@
             "title": "Longest Subsequence Repeated k Times",
             "titleSlug": "longest-subsequence-repeated-k-times"
         }
+    },
+    "2025-06-28": {
+        "date": "2025-06-28",
+        "userStatus": "NotStart",
+        "link": "/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+        "question": {
+            "questionFrontendId": "2099",
+            "title": "Find Subsequence of Length K With the Largest Sum",
+            "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum"
+        }
     }
 }
