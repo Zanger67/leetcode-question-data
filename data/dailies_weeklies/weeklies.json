@@ -3188,5 +3188,16 @@
             "titleSlug": "k-empty-slots",
             "isPaidOnly": true
         }
+    },
+    "2025-06-29": {
+        "date": "2025-06-29",
+        "userStatus": "NotStart",
+        "link": "/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/",
+        "question": {
+            "questionFrontendId": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "isPaidOnly": true
+        }
     }
 }
