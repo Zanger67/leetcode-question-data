@@ -19158,5 +19158,15 @@
             "title": "Number of Subsequences That Satisfy the Given Sum Condition",
             "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition"
         }
+    },
+    "2025-06-30": {
+        "date": "2025-06-30",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-harmonious-subsequence/",
+        "question": {
+            "questionFrontendId": "594",
+            "title": "Longest Harmonious Subsequence",
+            "titleSlug": "longest-harmonious-subsequence"
+        }
     }
 }
