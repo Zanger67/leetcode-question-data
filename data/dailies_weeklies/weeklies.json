@@ -3199,5 +3199,16 @@
             "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
             "isPaidOnly": true
         }
+    },
+    "2025-07-01": {
+        "date": "2025-07-01",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-bst-subtree/",
+        "question": {
+            "questionFrontendId": "333",
+            "title": "Largest BST Subtree",
+            "titleSlug": "largest-bst-subtree",
+            "isPaidOnly": true
+        }
     }
 }
