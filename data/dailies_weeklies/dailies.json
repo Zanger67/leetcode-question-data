@@ -19178,5 +19178,15 @@
             "title": "Find the Original Typed String I",
             "titleSlug": "find-the-original-typed-string-i"
         }
+    },
+    "2025-07-02": {
+        "date": "2025-07-02",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-original-typed-string-ii/",
+        "question": {
+            "questionFrontendId": "3333",
+            "title": "Find the Original Typed String II",
+            "titleSlug": "find-the-original-typed-string-ii"
+        }
     }
 }
