@@ -21,6 +21,16 @@
                         "title": "Find the Original Typed String II",
                         "titleSlug": "find-the-original-typed-string-ii"
                     }
+                },
+                {
+                    "date": "2025-07-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-k-th-character-in-string-game-i/",
+                    "question": {
+                        "questionFrontendId": "3304",
+                        "title": "Find the K-th Character in String Game I",
+                        "titleSlug": "find-the-k-th-character-in-string-game-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
