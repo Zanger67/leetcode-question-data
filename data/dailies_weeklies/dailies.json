@@ -19198,5 +19198,15 @@
             "title": "Find the K-th Character in String Game I",
             "titleSlug": "find-the-k-th-character-in-string-game-i"
         }
+    },
+    "2025-07-04": {
+        "date": "2025-07-04",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-k-th-character-in-string-game-ii/",
+        "question": {
+            "questionFrontendId": "3307",
+            "title": "Find the K-th Character in String Game II",
+            "titleSlug": "find-the-k-th-character-in-string-game-ii"
+        }
     }
 }
