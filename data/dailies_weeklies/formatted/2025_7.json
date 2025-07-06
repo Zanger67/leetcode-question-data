@@ -51,6 +51,16 @@
                         "title": "Find Lucky Integer in an Array",
                         "titleSlug": "find-lucky-integer-in-an-array"
                     }
+                },
+                {
+                    "date": "2025-07-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/finding-pairs-with-a-certain-sum/",
+                    "question": {
+                        "questionFrontendId": "1865",
+                        "title": "Finding Pairs With a Certain Sum",
+                        "titleSlug": "finding-pairs-with-a-certain-sum"
+                    }
                 }
             ],
             "weeklyChallenges": [
