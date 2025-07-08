@@ -71,6 +71,16 @@
                         "title": "Maximum Number of Events That Can Be Attended",
                         "titleSlug": "maximum-number-of-events-that-can-be-attended"
                     }
+                },
+                {
+                    "date": "2025-07-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/",
+                    "question": {
+                        "questionFrontendId": "1751",
+                        "title": "Maximum Number of Events That Can Be Attended II",
+                        "titleSlug": "maximum-number-of-events-that-can-be-attended-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "333",
                         "title": "Largest BST Subtree",
                         "titleSlug": "largest-bst-subtree",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-07-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/inorder-successor-in-bst/",
+                    "question": {
+                        "questionFrontendId": "285",
+                        "title": "Inorder Successor in BST",
+                        "titleSlug": "inorder-successor-in-bst",
                         "isPaidOnly": true
                     }
                 }

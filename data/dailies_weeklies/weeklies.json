@@ -3210,5 +3210,16 @@
             "titleSlug": "largest-bst-subtree",
             "isPaidOnly": true
         }
+    },
+    "2025-07-08": {
+        "date": "2025-07-08",
+        "userStatus": "NotStart",
+        "link": "/problems/inorder-successor-in-bst/",
+        "question": {
+            "questionFrontendId": "285",
+            "title": "Inorder Successor in BST",
+            "titleSlug": "inorder-successor-in-bst",
+            "isPaidOnly": true
+        }
     }
 }
