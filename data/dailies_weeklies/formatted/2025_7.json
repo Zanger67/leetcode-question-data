@@ -81,6 +81,16 @@
                         "title": "Maximum Number of Events That Can Be Attended II",
                         "titleSlug": "maximum-number-of-events-that-can-be-attended-ii"
                     }
+                },
+                {
+                    "date": "2025-07-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reschedule-meetings-for-maximum-free-time-i/",
+                    "question": {
+                        "questionFrontendId": "3439",
+                        "title": "Reschedule Meetings for Maximum Free Time I",
+                        "titleSlug": "reschedule-meetings-for-maximum-free-time-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
