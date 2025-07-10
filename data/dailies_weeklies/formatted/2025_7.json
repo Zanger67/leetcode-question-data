@@ -91,6 +91,16 @@
                         "title": "Reschedule Meetings for Maximum Free Time I",
                         "titleSlug": "reschedule-meetings-for-maximum-free-time-i"
                     }
+                },
+                {
+                    "date": "2025-07-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reschedule-meetings-for-maximum-free-time-ii/",
+                    "question": {
+                        "questionFrontendId": "3440",
+                        "title": "Reschedule Meetings for Maximum Free Time II",
+                        "titleSlug": "reschedule-meetings-for-maximum-free-time-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
