@@ -19268,5 +19268,15 @@
             "title": "Reschedule Meetings for Maximum Free Time II",
             "titleSlug": "reschedule-meetings-for-maximum-free-time-ii"
         }
+    },
+    "2025-07-11": {
+        "date": "2025-07-11",
+        "userStatus": "NotStart",
+        "link": "/problems/meeting-rooms-iii/",
+        "question": {
+            "questionFrontendId": "2402",
+            "title": "Meeting Rooms III",
+            "titleSlug": "meeting-rooms-iii"
+        }
     }
 }
