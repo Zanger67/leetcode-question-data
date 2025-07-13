@@ -121,6 +121,16 @@
                         "title": "The Earliest and Latest Rounds Where Players Compete",
                         "titleSlug": "the-earliest-and-latest-rounds-where-players-compete"
                     }
+                },
+                {
+                    "date": "2025-07-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-matching-of-players-with-trainers/",
+                    "question": {
+                        "questionFrontendId": "2410",
+                        "title": "Maximum Matching of Players With Trainers",
+                        "titleSlug": "maximum-matching-of-players-with-trainers"
+                    }
                 }
             ],
             "weeklyChallenges": [
