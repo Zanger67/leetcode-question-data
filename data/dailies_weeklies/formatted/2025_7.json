@@ -131,6 +131,16 @@
                         "title": "Maximum Matching of Players With Trainers",
                         "titleSlug": "maximum-matching-of-players-with-trainers"
                     }
+                },
+                {
+                    "date": "2025-07-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/",
+                    "question": {
+                        "questionFrontendId": "1290",
+                        "title": "Convert Binary Number in a Linked List to Integer",
+                        "titleSlug": "convert-binary-number-in-a-linked-list-to-integer"
+                    }
                 }
             ],
             "weeklyChallenges": [
