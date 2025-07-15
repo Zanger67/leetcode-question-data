@@ -141,6 +141,16 @@
                         "title": "Convert Binary Number in a Linked List to Integer",
                         "titleSlug": "convert-binary-number-in-a-linked-list-to-integer"
                     }
+                },
+                {
+                    "date": "2025-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-word/",
+                    "question": {
+                        "questionFrontendId": "3136",
+                        "title": "Valid Word",
+                        "titleSlug": "valid-word"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "285",
                         "title": "Inorder Successor in BST",
                         "titleSlug": "inorder-successor-in-bst",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-squares/",
+                    "question": {
+                        "questionFrontendId": "425",
+                        "title": "Word Squares",
+                        "titleSlug": "word-squares",
                         "isPaidOnly": true
                     }
                 }

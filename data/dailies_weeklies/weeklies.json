@@ -3221,5 +3221,16 @@
             "titleSlug": "inorder-successor-in-bst",
             "isPaidOnly": true
         }
+    },
+    "2025-07-15": {
+        "date": "2025-07-15",
+        "userStatus": "NotStart",
+        "link": "/problems/word-squares/",
+        "question": {
+            "questionFrontendId": "425",
+            "title": "Word Squares",
+            "titleSlug": "word-squares",
+            "isPaidOnly": true
+        }
     }
 }

@@ -19308,5 +19308,15 @@
             "title": "Convert Binary Number in a Linked List to Integer",
             "titleSlug": "convert-binary-number-in-a-linked-list-to-integer"
         }
+    },
+    "2025-07-15": {
+        "date": "2025-07-15",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-word/",
+        "question": {
+            "questionFrontendId": "3136",
+            "title": "Valid Word",
+            "titleSlug": "valid-word"
+        }
     }
 }
