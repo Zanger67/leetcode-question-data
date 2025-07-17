@@ -19328,5 +19328,15 @@
             "title": "Find the Maximum Length of Valid Subsequence I",
             "titleSlug": "find-the-maximum-length-of-valid-subsequence-i"
         }
+    },
+    "2025-07-17": {
+        "date": "2025-07-17",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-maximum-length-of-valid-subsequence-ii/",
+        "question": {
+            "questionFrontendId": "3202",
+            "title": "Find the Maximum Length of Valid Subsequence II",
+            "titleSlug": "find-the-maximum-length-of-valid-subsequence-ii"
+        }
     }
 }
