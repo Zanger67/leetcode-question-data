@@ -171,6 +171,16 @@
                         "title": "Find the Maximum Length of Valid Subsequence II",
                         "titleSlug": "find-the-maximum-length-of-valid-subsequence-ii"
                     }
+                },
+                {
+                    "date": "2025-07-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-difference-in-sums-after-removal-of-elements/",
+                    "question": {
+                        "questionFrontendId": "2163",
+                        "title": "Minimum Difference in Sums After Removal of Elements",
+                        "titleSlug": "minimum-difference-in-sums-after-removal-of-elements"
+                    }
                 }
             ],
             "weeklyChallenges": [
