@@ -181,6 +181,16 @@
                         "title": "Minimum Difference in Sums After Removal of Elements",
                         "titleSlug": "minimum-difference-in-sums-after-removal-of-elements"
                     }
+                },
+                {
+                    "date": "2025-07-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-sub-folders-from-the-filesystem/",
+                    "question": {
+                        "questionFrontendId": "1233",
+                        "title": "Remove Sub-Folders from the Filesystem",
+                        "titleSlug": "remove-sub-folders-from-the-filesystem"
+                    }
                 }
             ],
             "weeklyChallenges": [
