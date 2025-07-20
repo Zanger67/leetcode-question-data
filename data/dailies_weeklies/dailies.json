@@ -19358,5 +19358,15 @@
             "title": "Remove Sub-Folders from the Filesystem",
             "titleSlug": "remove-sub-folders-from-the-filesystem"
         }
+    },
+    "2025-07-20": {
+        "date": "2025-07-20",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-duplicate-folders-in-system/",
+        "question": {
+            "questionFrontendId": "1948",
+            "title": "Delete Duplicate Folders in System",
+            "titleSlug": "delete-duplicate-folders-in-system"
+        }
     }
 }
