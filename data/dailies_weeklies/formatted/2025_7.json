@@ -201,6 +201,16 @@
                         "title": "Delete Duplicate Folders in System",
                         "titleSlug": "delete-duplicate-folders-in-system"
                     }
+                },
+                {
+                    "date": "2025-07-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-characters-to-make-fancy-string/",
+                    "question": {
+                        "questionFrontendId": "1957",
+                        "title": "Delete Characters to Make Fancy String",
+                        "titleSlug": "delete-characters-to-make-fancy-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
