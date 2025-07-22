@@ -211,6 +211,16 @@
                         "title": "Delete Characters to Make Fancy String",
                         "titleSlug": "delete-characters-to-make-fancy-string"
                     }
+                },
+                {
+                    "date": "2025-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-erasure-value/",
+                    "question": {
+                        "questionFrontendId": "1695",
+                        "title": "Maximum Erasure Value",
+                        "titleSlug": "maximum-erasure-value"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "425",
                         "title": "Word Squares",
                         "titleSlug": "word-squares",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/word-abbreviation/",
+                    "question": {
+                        "questionFrontendId": "527",
+                        "title": "Word Abbreviation",
+                        "titleSlug": "word-abbreviation",
                         "isPaidOnly": true
                     }
                 }

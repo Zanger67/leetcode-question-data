@@ -19378,5 +19378,15 @@
             "title": "Delete Characters to Make Fancy String",
             "titleSlug": "delete-characters-to-make-fancy-string"
         }
+    },
+    "2025-07-22": {
+        "date": "2025-07-22",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-erasure-value/",
+        "question": {
+            "questionFrontendId": "1695",
+            "title": "Maximum Erasure Value",
+            "titleSlug": "maximum-erasure-value"
+        }
     }
 }

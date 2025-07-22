@@ -3232,5 +3232,16 @@
             "titleSlug": "word-squares",
             "isPaidOnly": true
         }
+    },
+    "2025-07-22": {
+        "date": "2025-07-22",
+        "userStatus": "NotStart",
+        "link": "/problems/word-abbreviation/",
+        "question": {
+            "questionFrontendId": "527",
+            "title": "Word Abbreviation",
+            "titleSlug": "word-abbreviation",
+            "isPaidOnly": true
+        }
     }
 }
