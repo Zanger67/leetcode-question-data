@@ -19388,5 +19388,15 @@
             "title": "Maximum Erasure Value",
             "titleSlug": "maximum-erasure-value"
         }
+    },
+    "2025-07-23": {
+        "date": "2025-07-23",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-score-from-removing-substrings/",
+        "question": {
+            "questionFrontendId": "1717",
+            "title": "Maximum Score From Removing Substrings",
+            "titleSlug": "maximum-score-from-removing-substrings"
+        }
     }
 }
