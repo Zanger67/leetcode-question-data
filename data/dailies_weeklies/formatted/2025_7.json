@@ -231,6 +231,16 @@
                         "title": "Maximum Score From Removing Substrings",
                         "titleSlug": "maximum-score-from-removing-substrings"
                     }
+                },
+                {
+                    "date": "2025-07-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-score-after-removals-on-a-tree/",
+                    "question": {
+                        "questionFrontendId": "2322",
+                        "title": "Minimum Score After Removals on a Tree",
+                        "titleSlug": "minimum-score-after-removals-on-a-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
