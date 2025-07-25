@@ -19408,5 +19408,15 @@
             "title": "Minimum Score After Removals on a Tree",
             "titleSlug": "minimum-score-after-removals-on-a-tree"
         }
+    },
+    "2025-07-25": {
+        "date": "2025-07-25",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-unique-subarray-sum-after-deletion/",
+        "question": {
+            "questionFrontendId": "3487",
+            "title": "Maximum Unique Subarray Sum After Deletion",
+            "titleSlug": "maximum-unique-subarray-sum-after-deletion"
+        }
     }
 }
