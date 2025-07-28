@@ -19438,5 +19438,15 @@
             "title": "Count Hills and Valleys in an Array",
             "titleSlug": "count-hills-and-valleys-in-an-array"
         }
+    },
+    "2025-07-28": {
+        "date": "2025-07-28",
+        "userStatus": "NotStart",
+        "link": "/problems/count-number-of-maximum-bitwise-or-subsets/",
+        "question": {
+            "questionFrontendId": "2044",
+            "title": "Count Number of Maximum Bitwise-OR Subsets",
+            "titleSlug": "count-number-of-maximum-bitwise-or-subsets"
+        }
     }
 }
