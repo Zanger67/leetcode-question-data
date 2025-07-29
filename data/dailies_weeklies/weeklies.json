@@ -3243,5 +3243,16 @@
             "titleSlug": "word-abbreviation",
             "isPaidOnly": true
         }
+    },
+    "2025-07-29": {
+        "date": "2025-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/closest-binary-search-tree-value-ii/",
+        "question": {
+            "questionFrontendId": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "titleSlug": "closest-binary-search-tree-value-ii",
+            "isPaidOnly": true
+        }
     }
 }

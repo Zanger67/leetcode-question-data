@@ -281,6 +281,16 @@
                         "title": "Count Number of Maximum Bitwise-OR Subsets",
                         "titleSlug": "count-number-of-maximum-bitwise-or-subsets"
                     }
+                },
+                {
+                    "date": "2025-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-subarrays-with-maximum-bitwise-or/",
+                    "question": {
+                        "questionFrontendId": "2411",
+                        "title": "Smallest Subarrays With Maximum Bitwise OR",
+                        "titleSlug": "smallest-subarrays-with-maximum-bitwise-or"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "527",
                         "title": "Word Abbreviation",
                         "titleSlug": "word-abbreviation",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/closest-binary-search-tree-value-ii/",
+                    "question": {
+                        "questionFrontendId": "272",
+                        "title": "Closest Binary Search Tree Value II",
+                        "titleSlug": "closest-binary-search-tree-value-ii",
                         "isPaidOnly": true
                     }
                 }

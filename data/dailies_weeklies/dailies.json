@@ -19448,5 +19448,15 @@
             "title": "Count Number of Maximum Bitwise-OR Subsets",
             "titleSlug": "count-number-of-maximum-bitwise-or-subsets"
         }
+    },
+    "2025-07-29": {
+        "date": "2025-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-subarrays-with-maximum-bitwise-or/",
+        "question": {
+            "questionFrontendId": "2411",
+            "title": "Smallest Subarrays With Maximum Bitwise OR",
+            "titleSlug": "smallest-subarrays-with-maximum-bitwise-or"
+        }
     }
 }
