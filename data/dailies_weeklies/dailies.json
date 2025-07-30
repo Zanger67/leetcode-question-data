@@ -19458,5 +19458,15 @@
             "title": "Smallest Subarrays With Maximum Bitwise OR",
             "titleSlug": "smallest-subarrays-with-maximum-bitwise-or"
         }
+    },
+    "2025-07-30": {
+        "date": "2025-07-30",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-subarray-with-maximum-bitwise-and/",
+        "question": {
+            "questionFrontendId": "2419",
+            "title": "Longest Subarray With Maximum Bitwise AND",
+            "titleSlug": "longest-subarray-with-maximum-bitwise-and"
+        }
     }
 }
