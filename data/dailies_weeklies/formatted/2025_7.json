@@ -301,6 +301,16 @@
                         "title": "Longest Subarray With Maximum Bitwise AND",
                         "titleSlug": "longest-subarray-with-maximum-bitwise-and"
                     }
+                },
+                {
+                    "date": "2025-07-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bitwise-ors-of-subarrays/",
+                    "question": {
+                        "questionFrontendId": "898",
+                        "title": "Bitwise ORs of Subarrays",
+                        "titleSlug": "bitwise-ors-of-subarrays"
+                    }
                 }
             ],
             "weeklyChallenges": [
