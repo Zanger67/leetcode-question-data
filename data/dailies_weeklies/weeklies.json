@@ -3254,5 +3254,16 @@
             "titleSlug": "closest-binary-search-tree-value-ii",
             "isPaidOnly": true
         }
+    },
+    "2025-08-01": {
+        "date": "2025-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-vertical-order-traversal/",
+        "question": {
+            "questionFrontendId": "314",
+            "title": "Binary Tree Vertical Order Traversal",
+            "titleSlug": "binary-tree-vertical-order-traversal",
+            "isPaidOnly": true
+        }
     }
 }

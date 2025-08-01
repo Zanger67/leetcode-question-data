@@ -19478,5 +19478,15 @@
             "title": "Bitwise ORs of Subarrays",
             "titleSlug": "bitwise-ors-of-subarrays"
         }
+    },
+    "2025-08-01": {
+        "date": "2025-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/pascals-triangle/",
+        "question": {
+            "questionFrontendId": "118",
+            "title": "Pascal's Triangle",
+            "titleSlug": "pascals-triangle"
+        }
     }
 }
