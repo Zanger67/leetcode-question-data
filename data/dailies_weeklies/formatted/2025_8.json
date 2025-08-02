@@ -11,6 +11,16 @@
                         "title": "Pascal's Triangle",
                         "titleSlug": "pascals-triangle"
                     }
+                },
+                {
+                    "date": "2025-08-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rearranging-fruits/",
+                    "question": {
+                        "questionFrontendId": "2561",
+                        "title": "Rearranging Fruits",
+                        "titleSlug": "rearranging-fruits"
+                    }
                 }
             ],
             "weeklyChallenges": [
