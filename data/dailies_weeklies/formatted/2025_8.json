@@ -21,6 +21,16 @@
                         "title": "Rearranging Fruits",
                         "titleSlug": "rearranging-fruits"
                     }
+                },
+                {
+                    "date": "2025-08-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-fruits-harvested-after-at-most-k-steps/",
+                    "question": {
+                        "questionFrontendId": "2106",
+                        "title": "Maximum Fruits Harvested After at Most K Steps",
+                        "titleSlug": "maximum-fruits-harvested-after-at-most-k-steps"
+                    }
                 }
             ],
             "weeklyChallenges": [
