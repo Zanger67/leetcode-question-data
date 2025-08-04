@@ -31,6 +31,16 @@
                         "title": "Maximum Fruits Harvested After at Most K Steps",
                         "titleSlug": "maximum-fruits-harvested-after-at-most-k-steps"
                     }
+                },
+                {
+                    "date": "2025-08-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fruit-into-baskets/",
+                    "question": {
+                        "questionFrontendId": "904",
+                        "title": "Fruit Into Baskets",
+                        "titleSlug": "fruit-into-baskets"
+                    }
                 }
             ],
             "weeklyChallenges": [
