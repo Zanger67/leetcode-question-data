@@ -51,6 +51,16 @@
                         "title": "Fruits Into Baskets II",
                         "titleSlug": "fruits-into-baskets-ii"
                     }
+                },
+                {
+                    "date": "2025-08-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fruits-into-baskets-iii/",
+                    "question": {
+                        "questionFrontendId": "3479",
+                        "title": "Fruits Into Baskets III",
+                        "titleSlug": "fruits-into-baskets-iii"
+                    }
                 }
             ],
             "weeklyChallenges": [
