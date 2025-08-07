@@ -61,6 +61,16 @@
                         "title": "Fruits Into Baskets III",
                         "titleSlug": "fruits-into-baskets-iii"
                     }
+                },
+                {
+                    "date": "2025-08-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-maximum-number-of-fruits-collected/",
+                    "question": {
+                        "questionFrontendId": "3363",
+                        "title": "Find the Maximum Number of Fruits Collected",
+                        "titleSlug": "find-the-maximum-number-of-fruits-collected"
+                    }
                 }
             ],
             "weeklyChallenges": [
