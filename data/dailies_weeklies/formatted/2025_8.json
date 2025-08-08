@@ -71,6 +71,16 @@
                         "title": "Find the Maximum Number of Fruits Collected",
                         "titleSlug": "find-the-maximum-number-of-fruits-collected"
                     }
+                },
+                {
+                    "date": "2025-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/soup-servings/",
+                    "question": {
+                        "questionFrontendId": "808",
+                        "title": "Soup Servings",
+                        "titleSlug": "soup-servings"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "314",
                         "title": "Binary Tree Vertical Order Traversal",
                         "titleSlug": "binary-tree-vertical-order-traversal",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-smallest-common-element-in-all-rows/",
+                    "question": {
+                        "questionFrontendId": "1198",
+                        "title": "Find Smallest Common Element in All Rows",
+                        "titleSlug": "find-smallest-common-element-in-all-rows",
                         "isPaidOnly": true
                     }
                 }

@@ -3265,5 +3265,16 @@
             "titleSlug": "binary-tree-vertical-order-traversal",
             "isPaidOnly": true
         }
+    },
+    "2025-08-08": {
+        "date": "2025-08-08",
+        "userStatus": "NotStart",
+        "link": "/problems/find-smallest-common-element-in-all-rows/",
+        "question": {
+            "questionFrontendId": "1198",
+            "title": "Find Smallest Common Element in All Rows",
+            "titleSlug": "find-smallest-common-element-in-all-rows",
+            "isPaidOnly": true
+        }
     }
 }
