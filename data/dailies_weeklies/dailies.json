@@ -19558,5 +19558,15 @@
             "title": "Soup Servings",
             "titleSlug": "soup-servings"
         }
+    },
+    "2025-08-09": {
+        "date": "2025-08-09",
+        "userStatus": "NotStart",
+        "link": "/problems/power-of-two/",
+        "question": {
+            "questionFrontendId": "231",
+            "title": "Power of Two",
+            "titleSlug": "power-of-two"
+        }
     }
 }
