@@ -19568,5 +19568,15 @@
             "title": "Power of Two",
             "titleSlug": "power-of-two"
         }
+    },
+    "2025-08-10": {
+        "date": "2025-08-10",
+        "userStatus": "NotStart",
+        "link": "/problems/reordered-power-of-2/",
+        "question": {
+            "questionFrontendId": "869",
+            "title": "Reordered Power of 2",
+            "titleSlug": "reordered-power-of-2"
+        }
     }
 }
