@@ -101,6 +101,16 @@
                         "title": "Reordered Power of 2",
                         "titleSlug": "reordered-power-of-2"
                     }
+                },
+                {
+                    "date": "2025-08-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/range-product-queries-of-powers/",
+                    "question": {
+                        "questionFrontendId": "2438",
+                        "title": "Range Product Queries of Powers",
+                        "titleSlug": "range-product-queries-of-powers"
+                    }
                 }
             ],
             "weeklyChallenges": [
