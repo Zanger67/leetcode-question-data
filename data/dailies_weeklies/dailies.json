@@ -19588,5 +19588,15 @@
             "title": "Range Product Queries of Powers",
             "titleSlug": "range-product-queries-of-powers"
         }
+    },
+    "2025-08-12": {
+        "date": "2025-08-12",
+        "userStatus": "NotStart",
+        "link": "/problems/ways-to-express-an-integer-as-sum-of-powers/",
+        "question": {
+            "questionFrontendId": "2787",
+            "title": "Ways to Express an Integer as Sum of Powers",
+            "titleSlug": "ways-to-express-an-integer-as-sum-of-powers"
+        }
     }
 }
