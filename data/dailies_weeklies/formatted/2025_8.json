@@ -121,6 +121,16 @@
                         "title": "Ways to Express an Integer as Sum of Powers",
                         "titleSlug": "ways-to-express-an-integer-as-sum-of-powers"
                     }
+                },
+                {
+                    "date": "2025-08-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-three/",
+                    "question": {
+                        "questionFrontendId": "326",
+                        "title": "Power of Three",
+                        "titleSlug": "power-of-three"
+                    }
                 }
             ],
             "weeklyChallenges": [
