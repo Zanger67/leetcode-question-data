@@ -131,6 +131,16 @@
                         "title": "Power of Three",
                         "titleSlug": "power-of-three"
                     }
+                },
+                {
+                    "date": "2025-08-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-3-same-digit-number-in-string/",
+                    "question": {
+                        "questionFrontendId": "2264",
+                        "title": "Largest 3-Same-Digit Number in String",
+                        "titleSlug": "largest-3-same-digit-number-in-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
