@@ -19618,5 +19618,15 @@
             "title": "Largest 3-Same-Digit Number in String",
             "titleSlug": "largest-3-same-digit-number-in-string"
         }
+    },
+    "2025-08-15": {
+        "date": "2025-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/power-of-four/",
+        "question": {
+            "questionFrontendId": "342",
+            "title": "Power of Four",
+            "titleSlug": "power-of-four"
+        }
     }
 }

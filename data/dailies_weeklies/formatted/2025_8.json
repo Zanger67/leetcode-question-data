@@ -141,6 +141,16 @@
                         "title": "Largest 3-Same-Digit Number in String",
                         "titleSlug": "largest-3-same-digit-number-in-string"
                     }
+                },
+                {
+                    "date": "2025-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-of-four/",
+                    "question": {
+                        "questionFrontendId": "342",
+                        "title": "Power of Four",
+                        "titleSlug": "power-of-four"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1198",
                         "title": "Find Smallest Common Element in All Rows",
                         "titleSlug": "find-smallest-common-element-in-all-rows",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-08-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-file-system/",
+                    "question": {
+                        "questionFrontendId": "1166",
+                        "title": "Design File System",
+                        "titleSlug": "design-file-system",
                         "isPaidOnly": true
                     }
                 }

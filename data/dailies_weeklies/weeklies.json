@@ -3276,5 +3276,16 @@
             "titleSlug": "find-smallest-common-element-in-all-rows",
             "isPaidOnly": true
         }
+    },
+    "2025-08-15": {
+        "date": "2025-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-file-system/",
+        "question": {
+            "questionFrontendId": "1166",
+            "title": "Design File System",
+            "titleSlug": "design-file-system",
+            "isPaidOnly": true
+        }
     }
 }
