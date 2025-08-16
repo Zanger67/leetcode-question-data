@@ -19628,5 +19628,15 @@
             "title": "Power of Four",
             "titleSlug": "power-of-four"
         }
+    },
+    "2025-08-16": {
+        "date": "2025-08-16",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-69-number/",
+        "question": {
+            "questionFrontendId": "1323",
+            "title": "Maximum 69 Number",
+            "titleSlug": "maximum-69-number"
+        }
     }
 }
