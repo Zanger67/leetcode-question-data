@@ -19638,5 +19638,15 @@
             "title": "Maximum 69 Number",
             "titleSlug": "maximum-69-number"
         }
+    },
+    "2025-08-17": {
+        "date": "2025-08-17",
+        "userStatus": "NotStart",
+        "link": "/problems/new-21-game/",
+        "question": {
+            "questionFrontendId": "837",
+            "title": "New 21 Game",
+            "titleSlug": "new-21-game"
+        }
     }
 }
