@@ -19648,5 +19648,15 @@
             "title": "New 21 Game",
             "titleSlug": "new-21-game"
         }
+    },
+    "2025-08-18": {
+        "date": "2025-08-18",
+        "userStatus": "NotStart",
+        "link": "/problems/24-game/",
+        "question": {
+            "questionFrontendId": "679",
+            "title": "24 Game",
+            "titleSlug": "24-game"
+        }
     }
 }
