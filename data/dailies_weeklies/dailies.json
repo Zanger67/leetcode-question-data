@@ -19658,5 +19658,15 @@
             "title": "24 Game",
             "titleSlug": "24-game"
         }
+    },
+    "2025-08-19": {
+        "date": "2025-08-19",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-zero-filled-subarrays/",
+        "question": {
+            "questionFrontendId": "2348",
+            "title": "Number of Zero-Filled Subarrays",
+            "titleSlug": "number-of-zero-filled-subarrays"
+        }
     }
 }
