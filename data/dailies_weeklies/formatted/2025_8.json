@@ -191,6 +191,16 @@
                         "title": "Number of Zero-Filled Subarrays",
                         "titleSlug": "number-of-zero-filled-subarrays"
                     }
+                },
+                {
+                    "date": "2025-08-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-square-submatrices-with-all-ones/",
+                    "question": {
+                        "questionFrontendId": "1277",
+                        "title": "Count Square Submatrices with All Ones",
+                        "titleSlug": "count-square-submatrices-with-all-ones"
+                    }
                 }
             ],
             "weeklyChallenges": [
