@@ -19678,5 +19678,15 @@
             "title": "Count Square Submatrices with All Ones",
             "titleSlug": "count-square-submatrices-with-all-ones"
         }
+    },
+    "2025-08-21": {
+        "date": "2025-08-21",
+        "userStatus": "NotStart",
+        "link": "/problems/count-submatrices-with-all-ones/",
+        "question": {
+            "questionFrontendId": "1504",
+            "title": "Count Submatrices With All Ones",
+            "titleSlug": "count-submatrices-with-all-ones"
+        }
     }
 }
