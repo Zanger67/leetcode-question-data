@@ -3287,5 +3287,16 @@
             "titleSlug": "design-file-system",
             "isPaidOnly": true
         }
+    },
+    "2025-08-22": {
+        "date": "2025-08-22",
+        "userStatus": "NotStart",
+        "link": "/problems/before-and-after-puzzle/",
+        "question": {
+            "questionFrontendId": "1181",
+            "title": "Before and After Puzzle",
+            "titleSlug": "before-and-after-puzzle",
+            "isPaidOnly": true
+        }
     }
 }
