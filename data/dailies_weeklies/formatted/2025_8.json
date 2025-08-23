@@ -221,6 +221,16 @@
                         "title": "Find the Minimum Area to Cover All Ones I",
                         "titleSlug": "find-the-minimum-area-to-cover-all-ones-i"
                     }
+                },
+                {
+                    "date": "2025-08-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-minimum-area-to-cover-all-ones-ii/",
+                    "question": {
+                        "questionFrontendId": "3197",
+                        "title": "Find the Minimum Area to Cover All Ones II",
+                        "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
