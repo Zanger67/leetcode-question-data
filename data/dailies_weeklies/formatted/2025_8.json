@@ -231,6 +231,16 @@
                         "title": "Find the Minimum Area to Cover All Ones II",
                         "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii"
                     }
+                },
+                {
+                    "date": "2025-08-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/",
+                    "question": {
+                        "questionFrontendId": "1493",
+                        "title": "Longest Subarray of 1's After Deleting One Element",
+                        "titleSlug": "longest-subarray-of-1s-after-deleting-one-element"
+                    }
                 }
             ],
             "weeklyChallenges": [
