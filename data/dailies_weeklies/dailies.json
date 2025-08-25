@@ -19718,5 +19718,15 @@
             "title": "Longest Subarray of 1's After Deleting One Element",
             "titleSlug": "longest-subarray-of-1s-after-deleting-one-element"
         }
+    },
+    "2025-08-25": {
+        "date": "2025-08-25",
+        "userStatus": "NotStart",
+        "link": "/problems/diagonal-traverse/",
+        "question": {
+            "questionFrontendId": "498",
+            "title": "Diagonal Traverse",
+            "titleSlug": "diagonal-traverse"
+        }
     }
 }
