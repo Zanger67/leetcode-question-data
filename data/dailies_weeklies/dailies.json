@@ -19728,5 +19728,15 @@
             "title": "Diagonal Traverse",
             "titleSlug": "diagonal-traverse"
         }
+    },
+    "2025-08-26": {
+        "date": "2025-08-26",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-area-of-longest-diagonal-rectangle/",
+        "question": {
+            "questionFrontendId": "3000",
+            "title": "Maximum Area of Longest Diagonal Rectangle",
+            "titleSlug": "maximum-area-of-longest-diagonal-rectangle"
+        }
     }
 }
