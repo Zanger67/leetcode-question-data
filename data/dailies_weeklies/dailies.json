@@ -19738,5 +19738,15 @@
             "title": "Maximum Area of Longest Diagonal Rectangle",
             "titleSlug": "maximum-area-of-longest-diagonal-rectangle"
         }
+    },
+    "2025-08-27": {
+        "date": "2025-08-27",
+        "userStatus": "NotStart",
+        "link": "/problems/length-of-longest-v-shaped-diagonal-segment/",
+        "question": {
+            "questionFrontendId": "3459",
+            "title": "Length of Longest V-Shaped Diagonal Segment",
+            "titleSlug": "length-of-longest-v-shaped-diagonal-segment"
+        }
     }
 }
