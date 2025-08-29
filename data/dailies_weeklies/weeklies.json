@@ -3298,5 +3298,16 @@
             "titleSlug": "before-and-after-puzzle",
             "isPaidOnly": true
         }
+    },
+    "2025-08-29": {
+        "date": "2025-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-distance-to-target-color/",
+        "question": {
+            "questionFrontendId": "1182",
+            "title": "Shortest Distance to Target Color",
+            "titleSlug": "shortest-distance-to-target-color",
+            "isPaidOnly": true
+        }
     }
 }
