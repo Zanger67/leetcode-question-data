@@ -19768,5 +19768,15 @@
             "title": "Alice and Bob Playing Flower Game",
             "titleSlug": "alice-and-bob-playing-flower-game"
         }
+    },
+    "2025-08-30": {
+        "date": "2025-08-30",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-sudoku/",
+        "question": {
+            "questionFrontendId": "36",
+            "title": "Valid Sudoku",
+            "titleSlug": "valid-sudoku"
+        }
     }
 }
