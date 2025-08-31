@@ -301,6 +301,16 @@
                         "title": "Valid Sudoku",
                         "titleSlug": "valid-sudoku"
                     }
+                },
+                {
+                    "date": "2025-08-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sudoku-solver/",
+                    "question": {
+                        "questionFrontendId": "37",
+                        "title": "Sudoku Solver",
+                        "titleSlug": "sudoku-solver"
+                    }
                 }
             ],
             "weeklyChallenges": [
