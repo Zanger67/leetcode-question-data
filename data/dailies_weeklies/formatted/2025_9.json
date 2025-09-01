@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2025-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-average-pass-ratio/",
+                    "question": {
+                        "questionFrontendId": "1792",
+                        "title": "Maximum Average Pass Ratio",
+                        "titleSlug": "maximum-average-pass-ratio"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2025-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/campus-bikes-ii/",
+                    "question": {
+                        "questionFrontendId": "1066",
+                        "title": "Campus Bikes II",
+                        "titleSlug": "campus-bikes-ii",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

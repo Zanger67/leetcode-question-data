@@ -19788,5 +19788,15 @@
             "title": "Sudoku Solver",
             "titleSlug": "sudoku-solver"
         }
+    },
+    "2025-09-01": {
+        "date": "2025-09-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-average-pass-ratio/",
+        "question": {
+            "questionFrontendId": "1792",
+            "title": "Maximum Average Pass Ratio",
+            "titleSlug": "maximum-average-pass-ratio"
+        }
     }
 }

@@ -3309,5 +3309,16 @@
             "titleSlug": "shortest-distance-to-target-color",
             "isPaidOnly": true
         }
+    },
+    "2025-09-01": {
+        "date": "2025-09-01",
+        "userStatus": "NotStart",
+        "link": "/problems/campus-bikes-ii/",
+        "question": {
+            "questionFrontendId": "1066",
+            "title": "Campus Bikes II",
+            "titleSlug": "campus-bikes-ii",
+            "isPaidOnly": true
+        }
     }
 }
