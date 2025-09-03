@@ -21,6 +21,16 @@
                         "title": "Find the Number of Ways to Place People I",
                         "titleSlug": "find-the-number-of-ways-to-place-people-i"
                     }
+                },
+                {
+                    "date": "2025-09-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-number-of-ways-to-place-people-ii/",
+                    "question": {
+                        "questionFrontendId": "3027",
+                        "title": "Find the Number of Ways to Place People II",
+                        "titleSlug": "find-the-number-of-ways-to-place-people-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
