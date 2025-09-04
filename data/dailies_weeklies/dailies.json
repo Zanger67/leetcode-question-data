@@ -19818,5 +19818,15 @@
             "title": "Find the Number of Ways to Place People II",
             "titleSlug": "find-the-number-of-ways-to-place-people-ii"
         }
+    },
+    "2025-09-04": {
+        "date": "2025-09-04",
+        "userStatus": "NotStart",
+        "link": "/problems/find-closest-person/",
+        "question": {
+            "questionFrontendId": "3516",
+            "title": "Find Closest Person",
+            "titleSlug": "find-closest-person"
+        }
     }
 }
