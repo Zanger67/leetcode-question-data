@@ -51,6 +51,16 @@
                         "title": "Minimum Operations to Make the Integer Zero",
                         "titleSlug": "minimum-operations-to-make-the-integer-zero"
                     }
+                },
+                {
+                    "date": "2025-09-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-make-array-elements-zero/",
+                    "question": {
+                        "questionFrontendId": "3495",
+                        "title": "Minimum Operations to Make Array Elements Zero",
+                        "titleSlug": "minimum-operations-to-make-array-elements-zero"
+                    }
                 }
             ],
             "weeklyChallenges": [
