@@ -71,6 +71,16 @@
                         "title": "Find N Unique Integers Sum up to Zero",
                         "titleSlug": "find-n-unique-integers-sum-up-to-zero"
                     }
+                },
+                {
+                    "date": "2025-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+                    "question": {
+                        "questionFrontendId": "1317",
+                        "title": "Convert Integer to the Sum of Two No-Zero Integers",
+                        "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1066",
                         "title": "Campus Bikes II",
                         "titleSlug": "campus-bikes-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-09-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-unique-number/",
+                    "question": {
+                        "questionFrontendId": "1133",
+                        "title": "Largest Unique Number",
+                        "titleSlug": "largest-unique-number",
                         "isPaidOnly": true
                     }
                 }

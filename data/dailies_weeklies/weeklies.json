@@ -3320,5 +3320,16 @@
             "titleSlug": "campus-bikes-ii",
             "isPaidOnly": true
         }
+    },
+    "2025-09-08": {
+        "date": "2025-09-08",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-unique-number/",
+        "question": {
+            "questionFrontendId": "1133",
+            "title": "Largest Unique Number",
+            "titleSlug": "largest-unique-number",
+            "isPaidOnly": true
+        }
     }
 }
