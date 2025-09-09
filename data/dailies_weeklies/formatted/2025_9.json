@@ -81,6 +81,16 @@
                         "title": "Convert Integer to the Sum of Two No-Zero Integers",
                         "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers"
                     }
+                },
+                {
+                    "date": "2025-09-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-people-aware-of-a-secret/",
+                    "question": {
+                        "questionFrontendId": "2327",
+                        "title": "Number of People Aware of a Secret",
+                        "titleSlug": "number-of-people-aware-of-a-secret"
+                    }
                 }
             ],
             "weeklyChallenges": [
