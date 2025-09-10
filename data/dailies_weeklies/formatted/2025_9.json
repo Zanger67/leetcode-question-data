@@ -91,6 +91,16 @@
                         "title": "Number of People Aware of a Secret",
                         "titleSlug": "number-of-people-aware-of-a-secret"
                     }
+                },
+                {
+                    "date": "2025-09-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-people-to-teach/",
+                    "question": {
+                        "questionFrontendId": "1733",
+                        "title": "Minimum Number of People to Teach",
+                        "titleSlug": "minimum-number-of-people-to-teach"
+                    }
                 }
             ],
             "weeklyChallenges": [
