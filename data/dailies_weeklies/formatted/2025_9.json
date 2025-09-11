@@ -101,6 +101,16 @@
                         "title": "Minimum Number of People to Teach",
                         "titleSlug": "minimum-number-of-people-to-teach"
                     }
+                },
+                {
+                    "date": "2025-09-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sort-vowels-in-a-string/",
+                    "question": {
+                        "questionFrontendId": "2785",
+                        "title": "Sort Vowels in a String",
+                        "titleSlug": "sort-vowels-in-a-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
