@@ -19898,5 +19898,15 @@
             "title": "Sort Vowels in a String",
             "titleSlug": "sort-vowels-in-a-string"
         }
+    },
+    "2025-09-12": {
+        "date": "2025-09-12",
+        "userStatus": "NotStart",
+        "link": "/problems/vowels-game-in-a-string/",
+        "question": {
+            "questionFrontendId": "3227",
+            "title": "Vowels Game in a String",
+            "titleSlug": "vowels-game-in-a-string"
+        }
     }
 }
