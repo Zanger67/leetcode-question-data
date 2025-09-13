@@ -19908,5 +19908,15 @@
             "title": "Vowels Game in a String",
             "titleSlug": "vowels-game-in-a-string"
         }
+    },
+    "2025-09-13": {
+        "date": "2025-09-13",
+        "userStatus": "NotStart",
+        "link": "/problems/find-most-frequent-vowel-and-consonant/",
+        "question": {
+            "questionFrontendId": "3541",
+            "title": "Find Most Frequent Vowel and Consonant",
+            "titleSlug": "find-most-frequent-vowel-and-consonant"
+        }
     }
 }
