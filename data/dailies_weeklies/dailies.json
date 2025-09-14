@@ -19918,5 +19918,15 @@
             "title": "Find Most Frequent Vowel and Consonant",
             "titleSlug": "find-most-frequent-vowel-and-consonant"
         }
+    },
+    "2025-09-14": {
+        "date": "2025-09-14",
+        "userStatus": "NotStart",
+        "link": "/problems/vowel-spellchecker/",
+        "question": {
+            "questionFrontendId": "966",
+            "title": "Vowel Spellchecker",
+            "titleSlug": "vowel-spellchecker"
+        }
     }
 }
