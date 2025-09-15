@@ -141,6 +141,16 @@
                         "title": "Vowel Spellchecker",
                         "titleSlug": "vowel-spellchecker"
                     }
+                },
+                {
+                    "date": "2025-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-words-you-can-type/",
+                    "question": {
+                        "questionFrontendId": "1935",
+                        "title": "Maximum Number of Words You Can Type",
+                        "titleSlug": "maximum-number-of-words-you-can-type"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1133",
                         "title": "Largest Unique Number",
                         "titleSlug": "largest-unique-number",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-09-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "1150",
+                        "title": "Check If a Number Is Majority Element in a Sorted Array",
+                        "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
                         "isPaidOnly": true
                     }
                 }

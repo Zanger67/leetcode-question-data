@@ -19928,5 +19928,15 @@
             "title": "Vowel Spellchecker",
             "titleSlug": "vowel-spellchecker"
         }
+    },
+    "2025-09-15": {
+        "date": "2025-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-words-you-can-type/",
+        "question": {
+            "questionFrontendId": "1935",
+            "title": "Maximum Number of Words You Can Type",
+            "titleSlug": "maximum-number-of-words-you-can-type"
+        }
     }
 }
