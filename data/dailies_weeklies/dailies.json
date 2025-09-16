@@ -19938,5 +19938,15 @@
             "title": "Maximum Number of Words You Can Type",
             "titleSlug": "maximum-number-of-words-you-can-type"
         }
+    },
+    "2025-09-16": {
+        "date": "2025-09-16",
+        "userStatus": "NotStart",
+        "link": "/problems/replace-non-coprime-numbers-in-array/",
+        "question": {
+            "questionFrontendId": "2197",
+            "title": "Replace Non-Coprime Numbers in Array",
+            "titleSlug": "replace-non-coprime-numbers-in-array"
+        }
     }
 }
