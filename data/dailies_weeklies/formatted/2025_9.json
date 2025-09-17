@@ -161,6 +161,16 @@
                         "title": "Replace Non-Coprime Numbers in Array",
                         "titleSlug": "replace-non-coprime-numbers-in-array"
                     }
+                },
+                {
+                    "date": "2025-09-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-a-food-rating-system/",
+                    "question": {
+                        "questionFrontendId": "2353",
+                        "title": "Design a Food Rating System",
+                        "titleSlug": "design-a-food-rating-system"
+                    }
                 }
             ],
             "weeklyChallenges": [
