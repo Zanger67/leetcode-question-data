@@ -171,6 +171,16 @@
                         "title": "Design a Food Rating System",
                         "titleSlug": "design-a-food-rating-system"
                     }
+                },
+                {
+                    "date": "2025-09-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-task-manager/",
+                    "question": {
+                        "questionFrontendId": "3408",
+                        "title": "Design Task Manager",
+                        "titleSlug": "design-task-manager"
+                    }
                 }
             ],
             "weeklyChallenges": [
