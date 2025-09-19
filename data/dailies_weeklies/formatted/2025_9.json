@@ -181,6 +181,16 @@
                         "title": "Design Task Manager",
                         "titleSlug": "design-task-manager"
                     }
+                },
+                {
+                    "date": "2025-09-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-spreadsheet/",
+                    "question": {
+                        "questionFrontendId": "3484",
+                        "title": "Design Spreadsheet",
+                        "titleSlug": "design-spreadsheet"
+                    }
                 }
             ],
             "weeklyChallenges": [
