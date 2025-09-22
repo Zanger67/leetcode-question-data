@@ -19998,5 +19998,15 @@
             "title": "Design Movie Rental System",
             "titleSlug": "design-movie-rental-system"
         }
+    },
+    "2025-09-22": {
+        "date": "2025-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/count-elements-with-maximum-frequency/",
+        "question": {
+            "questionFrontendId": "3005",
+            "title": "Count Elements With Maximum Frequency",
+            "titleSlug": "count-elements-with-maximum-frequency"
+        }
     }
 }

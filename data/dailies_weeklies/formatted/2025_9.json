@@ -211,6 +211,16 @@
                         "title": "Design Movie Rental System",
                         "titleSlug": "design-movie-rental-system"
                     }
+                },
+                {
+                    "date": "2025-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-elements-with-maximum-frequency/",
+                    "question": {
+                        "questionFrontendId": "3005",
+                        "title": "Count Elements With Maximum Frequency",
+                        "titleSlug": "count-elements-with-maximum-frequency"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1150",
                         "title": "Check If a Number Is Majority Element in a Sorted Array",
                         "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/analyze-user-website-visit-pattern/",
+                    "question": {
+                        "questionFrontendId": "1152",
+                        "title": "Analyze User Website Visit Pattern",
+                        "titleSlug": "analyze-user-website-visit-pattern",
                         "isPaidOnly": true
                     }
                 }
