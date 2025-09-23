@@ -20008,5 +20008,15 @@
             "title": "Count Elements With Maximum Frequency",
             "titleSlug": "count-elements-with-maximum-frequency"
         }
+    },
+    "2025-09-23": {
+        "date": "2025-09-23",
+        "userStatus": "NotStart",
+        "link": "/problems/compare-version-numbers/",
+        "question": {
+            "questionFrontendId": "165",
+            "title": "Compare Version Numbers",
+            "titleSlug": "compare-version-numbers"
+        }
     }
 }
