@@ -20018,5 +20018,15 @@
             "title": "Compare Version Numbers",
             "titleSlug": "compare-version-numbers"
         }
+    },
+    "2025-09-24": {
+        "date": "2025-09-24",
+        "userStatus": "NotStart",
+        "link": "/problems/fraction-to-recurring-decimal/",
+        "question": {
+            "questionFrontendId": "166",
+            "title": "Fraction to Recurring Decimal",
+            "titleSlug": "fraction-to-recurring-decimal"
+        }
     }
 }
