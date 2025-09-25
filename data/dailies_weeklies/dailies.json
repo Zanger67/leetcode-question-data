@@ -20028,5 +20028,15 @@
             "title": "Fraction to Recurring Decimal",
             "titleSlug": "fraction-to-recurring-decimal"
         }
+    },
+    "2025-09-25": {
+        "date": "2025-09-25",
+        "userStatus": "NotStart",
+        "link": "/problems/triangle/",
+        "question": {
+            "questionFrontendId": "120",
+            "title": "Triangle",
+            "titleSlug": "triangle"
+        }
     }
 }
