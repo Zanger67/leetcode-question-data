@@ -251,6 +251,16 @@
                         "title": "Triangle",
                         "titleSlug": "triangle"
                     }
+                },
+                {
+                    "date": "2025-09-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-triangle-number/",
+                    "question": {
+                        "questionFrontendId": "611",
+                        "title": "Valid Triangle Number",
+                        "titleSlug": "valid-triangle-number"
+                    }
                 }
             ],
             "weeklyChallenges": [
