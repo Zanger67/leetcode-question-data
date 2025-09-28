@@ -271,6 +271,16 @@
                         "title": "Largest Triangle Area",
                         "titleSlug": "largest-triangle-area"
                     }
+                },
+                {
+                    "date": "2025-09-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-perimeter-triangle/",
+                    "question": {
+                        "questionFrontendId": "976",
+                        "title": "Largest Perimeter Triangle",
+                        "titleSlug": "largest-perimeter-triangle"
+                    }
                 }
             ],
             "weeklyChallenges": [
