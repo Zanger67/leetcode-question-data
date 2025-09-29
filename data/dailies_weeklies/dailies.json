@@ -20068,5 +20068,15 @@
             "title": "Largest Perimeter Triangle",
             "titleSlug": "largest-perimeter-triangle"
         }
+    },
+    "2025-09-29": {
+        "date": "2025-09-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-score-triangulation-of-polygon/",
+        "question": {
+            "questionFrontendId": "1039",
+            "title": "Minimum Score Triangulation of Polygon",
+            "titleSlug": "minimum-score-triangulation-of-polygon"
+        }
     }
 }

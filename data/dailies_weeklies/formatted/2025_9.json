@@ -281,6 +281,16 @@
                         "title": "Largest Perimeter Triangle",
                         "titleSlug": "largest-perimeter-triangle"
                     }
+                },
+                {
+                    "date": "2025-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-score-triangulation-of-polygon/",
+                    "question": {
+                        "questionFrontendId": "1039",
+                        "title": "Minimum Score Triangulation of Polygon",
+                        "titleSlug": "minimum-score-triangulation-of-polygon"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "1152",
                         "title": "Analyze User Website Visit Pattern",
                         "titleSlug": "analyze-user-website-visit-pattern",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-09-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/divide-array-into-increasing-sequences/",
+                    "question": {
+                        "questionFrontendId": "1121",
+                        "title": "Divide Array Into Increasing Sequences",
+                        "titleSlug": "divide-array-into-increasing-sequences",
                         "isPaidOnly": true
                     }
                 }
