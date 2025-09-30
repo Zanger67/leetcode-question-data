@@ -291,6 +291,16 @@
                         "title": "Minimum Score Triangulation of Polygon",
                         "titleSlug": "minimum-score-triangulation-of-polygon"
                     }
+                },
+                {
+                    "date": "2025-09-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-triangular-sum-of-an-array/",
+                    "question": {
+                        "questionFrontendId": "2221",
+                        "title": "Find Triangular Sum of an Array",
+                        "titleSlug": "find-triangular-sum-of-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
