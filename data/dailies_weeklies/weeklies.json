@@ -3364,5 +3364,16 @@
             "titleSlug": "divide-array-into-increasing-sequences",
             "isPaidOnly": true
         }
+    },
+    "2025-10-01": {
+        "date": "2025-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/connecting-cities-with-minimum-cost/",
+        "question": {
+            "questionFrontendId": "1135",
+            "title": "Connecting Cities With Minimum Cost",
+            "titleSlug": "connecting-cities-with-minimum-cost",
+            "isPaidOnly": true
+        }
     }
 }

@@ -20088,5 +20088,15 @@
             "title": "Find Triangular Sum of an Array",
             "titleSlug": "find-triangular-sum-of-an-array"
         }
+    },
+    "2025-10-01": {
+        "date": "2025-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/water-bottles/",
+        "question": {
+            "questionFrontendId": "1518",
+            "title": "Water Bottles",
+            "titleSlug": "water-bottles"
+        }
     }
 }
