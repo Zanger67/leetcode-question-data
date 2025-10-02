@@ -20098,5 +20098,15 @@
             "title": "Water Bottles",
             "titleSlug": "water-bottles"
         }
+    },
+    "2025-10-02": {
+        "date": "2025-10-02",
+        "userStatus": "NotStart",
+        "link": "/problems/water-bottles-ii/",
+        "question": {
+            "questionFrontendId": "3100",
+            "title": "Water Bottles II",
+            "titleSlug": "water-bottles-ii"
+        }
     }
 }
