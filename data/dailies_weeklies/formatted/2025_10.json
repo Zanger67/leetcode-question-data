@@ -21,6 +21,16 @@
                         "title": "Water Bottles II",
                         "titleSlug": "water-bottles-ii"
                     }
+                },
+                {
+                    "date": "2025-10-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/trapping-rain-water-ii/",
+                    "question": {
+                        "questionFrontendId": "407",
+                        "title": "Trapping Rain Water II",
+                        "titleSlug": "trapping-rain-water-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
