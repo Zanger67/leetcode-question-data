@@ -31,6 +31,16 @@
                         "title": "Trapping Rain Water II",
                         "titleSlug": "trapping-rain-water-ii"
                     }
+                },
+                {
+                    "date": "2025-10-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/container-with-most-water/",
+                    "question": {
+                        "questionFrontendId": "11",
+                        "title": "Container With Most Water",
+                        "titleSlug": "container-with-most-water"
+                    }
                 }
             ],
             "weeklyChallenges": [
