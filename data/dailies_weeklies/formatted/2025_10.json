@@ -51,6 +51,16 @@
                         "title": "Pacific Atlantic Water Flow",
                         "titleSlug": "pacific-atlantic-water-flow"
                     }
+                },
+                {
+                    "date": "2025-10-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/swim-in-rising-water/",
+                    "question": {
+                        "questionFrontendId": "778",
+                        "title": "Swim in Rising Water",
+                        "titleSlug": "swim-in-rising-water"
+                    }
                 }
             ],
             "weeklyChallenges": [
