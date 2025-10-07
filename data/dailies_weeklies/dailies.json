@@ -20148,5 +20148,15 @@
             "title": "Swim in Rising Water",
             "titleSlug": "swim-in-rising-water"
         }
+    },
+    "2025-10-07": {
+        "date": "2025-10-07",
+        "userStatus": "NotStart",
+        "link": "/problems/avoid-flood-in-the-city/",
+        "question": {
+            "questionFrontendId": "1488",
+            "title": "Avoid Flood in The City",
+            "titleSlug": "avoid-flood-in-the-city"
+        }
     }
 }
