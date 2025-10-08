@@ -3375,5 +3375,16 @@
             "titleSlug": "connecting-cities-with-minimum-cost",
             "isPaidOnly": true
         }
+    },
+    "2025-10-08": {
+        "date": "2025-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-max-distance-to-gas-station/",
+        "question": {
+            "questionFrontendId": "774",
+            "title": "Minimize Max Distance to Gas Station",
+            "titleSlug": "minimize-max-distance-to-gas-station",
+            "isPaidOnly": true
+        }
     }
 }
