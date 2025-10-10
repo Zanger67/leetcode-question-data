@@ -20178,5 +20178,15 @@
             "title": "Find the Minimum Amount of Time to Brew Potions",
             "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions"
         }
+    },
+    "2025-10-10": {
+        "date": "2025-10-10",
+        "userStatus": "NotStart",
+        "link": "/problems/taking-maximum-energy-from-the-mystic-dungeon/",
+        "question": {
+            "questionFrontendId": "3147",
+            "title": "Taking Maximum Energy From the Mystic Dungeon",
+            "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon"
+        }
     }
 }
