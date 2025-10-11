@@ -20188,5 +20188,15 @@
             "title": "Taking Maximum Energy From the Mystic Dungeon",
             "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon"
         }
+    },
+    "2025-10-11": {
+        "date": "2025-10-11",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-total-damage-with-spell-casting/",
+        "question": {
+            "questionFrontendId": "3186",
+            "title": "Maximum Total Damage With Spell Casting",
+            "titleSlug": "maximum-total-damage-with-spell-casting"
+        }
     }
 }
