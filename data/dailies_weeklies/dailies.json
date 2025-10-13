@@ -20208,5 +20208,15 @@
             "title": "Find Sum of Array Product of Magical Sequences",
             "titleSlug": "find-sum-of-array-product-of-magical-sequences"
         }
+    },
+    "2025-10-13": {
+        "date": "2025-10-13",
+        "userStatus": "NotStart",
+        "link": "/problems/find-resultant-array-after-removing-anagrams/",
+        "question": {
+            "questionFrontendId": "2273",
+            "title": "Find Resultant Array After Removing Anagrams",
+            "titleSlug": "find-resultant-array-after-removing-anagrams"
+        }
     }
 }
