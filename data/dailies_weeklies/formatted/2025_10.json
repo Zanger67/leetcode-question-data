@@ -131,6 +131,16 @@
                         "title": "Find Resultant Array After Removing Anagrams",
                         "titleSlug": "find-resultant-array-after-removing-anagrams"
                     }
+                },
+                {
+                    "date": "2025-10-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/adjacent-increasing-subarrays-detection-i/",
+                    "question": {
+                        "questionFrontendId": "3349",
+                        "title": "Adjacent Increasing Subarrays Detection I",
+                        "titleSlug": "adjacent-increasing-subarrays-detection-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
