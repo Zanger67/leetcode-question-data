@@ -20228,5 +20228,15 @@
             "title": "Adjacent Increasing Subarrays Detection I",
             "titleSlug": "adjacent-increasing-subarrays-detection-i"
         }
+    },
+    "2025-10-15": {
+        "date": "2025-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/adjacent-increasing-subarrays-detection-ii/",
+        "question": {
+            "questionFrontendId": "3350",
+            "title": "Adjacent Increasing Subarrays Detection II",
+            "titleSlug": "adjacent-increasing-subarrays-detection-ii"
+        }
     }
 }

@@ -3386,5 +3386,16 @@
             "titleSlug": "minimize-max-distance-to-gas-station",
             "isPaidOnly": true
         }
+    },
+    "2025-10-15": {
+        "date": "2025-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/coin-path/",
+        "question": {
+            "questionFrontendId": "656",
+            "title": "Coin Path",
+            "titleSlug": "coin-path",
+            "isPaidOnly": true
+        }
     }
 }
