@@ -20238,5 +20238,15 @@
             "title": "Adjacent Increasing Subarrays Detection II",
             "titleSlug": "adjacent-increasing-subarrays-detection-ii"
         }
+    },
+    "2025-10-16": {
+        "date": "2025-10-16",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-missing-non-negative-integer-after-operations/",
+        "question": {
+            "questionFrontendId": "2598",
+            "title": "Smallest Missing Non-negative Integer After Operations",
+            "titleSlug": "smallest-missing-non-negative-integer-after-operations"
+        }
     }
 }
