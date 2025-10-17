@@ -161,6 +161,16 @@
                         "title": "Smallest Missing Non-negative Integer After Operations",
                         "titleSlug": "smallest-missing-non-negative-integer-after-operations"
                     }
+                },
+                {
+                    "date": "2025-10-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-the-number-of-partitions-after-operations/",
+                    "question": {
+                        "questionFrontendId": "3003",
+                        "title": "Maximize the Number of Partitions After Operations",
+                        "titleSlug": "maximize-the-number-of-partitions-after-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
