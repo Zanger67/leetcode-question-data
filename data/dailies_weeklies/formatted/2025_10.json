@@ -171,6 +171,16 @@
                         "title": "Maximize the Number of Partitions After Operations",
                         "titleSlug": "maximize-the-number-of-partitions-after-operations"
                     }
+                },
+                {
+                    "date": "2025-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-distinct-elements-after-operations/",
+                    "question": {
+                        "questionFrontendId": "3397",
+                        "title": "Maximum Number of Distinct Elements After Operations",
+                        "titleSlug": "maximum-number-of-distinct-elements-after-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
