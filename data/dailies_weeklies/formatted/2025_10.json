@@ -181,6 +181,16 @@
                         "title": "Maximum Number of Distinct Elements After Operations",
                         "titleSlug": "maximum-number-of-distinct-elements-after-operations"
                     }
+                },
+                {
+                    "date": "2025-10-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lexicographically-smallest-string-after-applying-operations/",
+                    "question": {
+                        "questionFrontendId": "1625",
+                        "title": "Lexicographically Smallest String After Applying Operations",
+                        "titleSlug": "lexicographically-smallest-string-after-applying-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
