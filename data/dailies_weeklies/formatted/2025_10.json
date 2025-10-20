@@ -191,6 +191,16 @@
                         "title": "Lexicographically Smallest String After Applying Operations",
                         "titleSlug": "lexicographically-smallest-string-after-applying-operations"
                     }
+                },
+                {
+                    "date": "2025-10-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/final-value-of-variable-after-performing-operations/",
+                    "question": {
+                        "questionFrontendId": "2011",
+                        "title": "Final Value of Variable After Performing Operations",
+                        "titleSlug": "final-value-of-variable-after-performing-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
