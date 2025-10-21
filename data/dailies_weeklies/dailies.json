@@ -20288,5 +20288,15 @@
             "title": "Final Value of Variable After Performing Operations",
             "titleSlug": "final-value-of-variable-after-performing-operations"
         }
+    },
+    "2025-10-21": {
+        "date": "2025-10-21",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-i/",
+        "question": {
+            "questionFrontendId": "3346",
+            "title": "Maximum Frequency of an Element After Performing Operations I",
+            "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i"
+        }
     }
 }
