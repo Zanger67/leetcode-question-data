@@ -3397,5 +3397,16 @@
             "titleSlug": "coin-path",
             "isPaidOnly": true
         }
+    },
+    "2025-10-22": {
+        "date": "2025-10-22",
+        "userStatus": "NotStart",
+        "link": "/problems/dot-product-of-two-sparse-vectors/",
+        "question": {
+            "questionFrontendId": "1570",
+            "title": "Dot Product of Two Sparse Vectors",
+            "titleSlug": "dot-product-of-two-sparse-vectors",
+            "isPaidOnly": true
+        }
     }
 }
