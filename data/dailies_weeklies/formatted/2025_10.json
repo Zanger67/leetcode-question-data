@@ -221,6 +221,16 @@
                         "title": "Maximum Frequency of an Element After Performing Operations II",
                         "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii"
                     }
+                },
+                {
+                    "date": "2025-10-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+                    "question": {
+                        "questionFrontendId": "3461",
+                        "title": "Check If Digits Are Equal in String After Operations I",
+                        "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
