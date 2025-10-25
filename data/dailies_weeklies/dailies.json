@@ -20328,5 +20328,15 @@
             "title": "Next Greater Numerically Balanced Number",
             "titleSlug": "next-greater-numerically-balanced-number"
         }
+    },
+    "2025-10-25": {
+        "date": "2025-10-25",
+        "userStatus": "NotStart",
+        "link": "/problems/calculate-money-in-leetcode-bank/",
+        "question": {
+            "questionFrontendId": "1716",
+            "title": "Calculate Money in Leetcode Bank",
+            "titleSlug": "calculate-money-in-leetcode-bank"
+        }
     }
 }
