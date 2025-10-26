@@ -251,6 +251,16 @@
                         "title": "Calculate Money in Leetcode Bank",
                         "titleSlug": "calculate-money-in-leetcode-bank"
                     }
+                },
+                {
+                    "date": "2025-10-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/simple-bank-system/",
+                    "question": {
+                        "questionFrontendId": "2043",
+                        "title": "Simple Bank System",
+                        "titleSlug": "simple-bank-system"
+                    }
                 }
             ],
             "weeklyChallenges": [
