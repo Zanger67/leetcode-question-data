@@ -261,6 +261,16 @@
                         "title": "Simple Bank System",
                         "titleSlug": "simple-bank-system"
                     }
+                },
+                {
+                    "date": "2025-10-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-laser-beams-in-a-bank/",
+                    "question": {
+                        "questionFrontendId": "2125",
+                        "title": "Number of Laser Beams in a Bank",
+                        "titleSlug": "number-of-laser-beams-in-a-bank"
+                    }
                 }
             ],
             "weeklyChallenges": [
