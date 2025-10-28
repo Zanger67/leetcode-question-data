@@ -20358,5 +20358,15 @@
             "title": "Number of Laser Beams in a Bank",
             "titleSlug": "number-of-laser-beams-in-a-bank"
         }
+    },
+    "2025-10-28": {
+        "date": "2025-10-28",
+        "userStatus": "NotStart",
+        "link": "/problems/make-array-elements-equal-to-zero/",
+        "question": {
+            "questionFrontendId": "3354",
+            "title": "Make Array Elements Equal to Zero",
+            "titleSlug": "make-array-elements-equal-to-zero"
+        }
     }
 }
