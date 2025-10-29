@@ -3408,5 +3408,16 @@
             "titleSlug": "dot-product-of-two-sparse-vectors",
             "isPaidOnly": true
         }
+    },
+    "2025-10-29": {
+        "date": "2025-10-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-subarrays-in-a-valid-split/",
+        "question": {
+            "questionFrontendId": "2464",
+            "title": "Minimum Subarrays in a Valid Split",
+            "titleSlug": "minimum-subarrays-in-a-valid-split",
+            "isPaidOnly": true
+        }
     }
 }

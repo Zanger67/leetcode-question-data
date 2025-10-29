@@ -20368,5 +20368,15 @@
             "title": "Make Array Elements Equal to Zero",
             "titleSlug": "make-array-elements-equal-to-zero"
         }
+    },
+    "2025-10-29": {
+        "date": "2025-10-29",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-number-with-all-set-bits/",
+        "question": {
+            "questionFrontendId": "3370",
+            "title": "Smallest Number With All Set Bits",
+            "titleSlug": "smallest-number-with-all-set-bits"
+        }
     }
 }
