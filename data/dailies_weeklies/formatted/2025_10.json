@@ -291,6 +291,16 @@
                         "title": "Smallest Number With All Set Bits",
                         "titleSlug": "smallest-number-with-all-set-bits"
                     }
+                },
+                {
+                    "date": "2025-10-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+                    "question": {
+                        "questionFrontendId": "1526",
+                        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+                        "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
