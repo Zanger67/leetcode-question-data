@@ -3419,5 +3419,16 @@
             "titleSlug": "minimum-subarrays-in-a-valid-split",
             "isPaidOnly": true
         }
+    },
+    "2025-11-01": {
+        "date": "2025-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-ones/",
+        "question": {
+            "questionFrontendId": "1183",
+            "title": "Maximum Number of Ones",
+            "titleSlug": "maximum-number-of-ones",
+            "isPaidOnly": true
+        }
     }
 }

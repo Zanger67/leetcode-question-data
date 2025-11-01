@@ -20398,5 +20398,15 @@
             "title": "The Two Sneaky Numbers of Digitville",
             "titleSlug": "the-two-sneaky-numbers-of-digitville"
         }
+    },
+    "2025-11-01": {
+        "date": "2025-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-nodes-from-linked-list-present-in-array/",
+        "question": {
+            "questionFrontendId": "3217",
+            "title": "Delete Nodes From Linked List Present in Array",
+            "titleSlug": "delete-nodes-from-linked-list-present-in-array"
+        }
     }
 }
