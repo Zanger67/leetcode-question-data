@@ -31,6 +31,16 @@
                         "title": "Minimum Time to Make Rope Colorful",
                         "titleSlug": "minimum-time-to-make-rope-colorful"
                     }
+                },
+                {
+                    "date": "2025-11-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-x-sum-of-all-k-long-subarrays-i/",
+                    "question": {
+                        "questionFrontendId": "3318",
+                        "title": "Find X-Sum of All K-Long Subarrays I",
+                        "titleSlug": "find-x-sum-of-all-k-long-subarrays-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
