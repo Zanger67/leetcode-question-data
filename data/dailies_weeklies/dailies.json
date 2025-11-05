@@ -20438,5 +20438,15 @@
             "title": "Find X-Sum of All K-Long Subarrays I",
             "titleSlug": "find-x-sum-of-all-k-long-subarrays-i"
         }
+    },
+    "2025-11-05": {
+        "date": "2025-11-05",
+        "userStatus": "NotStart",
+        "link": "/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+        "question": {
+            "questionFrontendId": "3321",
+            "title": "Find X-Sum of All K-Long Subarrays II",
+            "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii"
+        }
     }
 }
