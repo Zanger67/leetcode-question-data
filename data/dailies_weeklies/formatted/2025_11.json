@@ -51,6 +51,16 @@
                         "title": "Find X-Sum of All K-Long Subarrays II",
                         "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii"
                     }
+                },
+                {
+                    "date": "2025-11-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/power-grid-maintenance/",
+                    "question": {
+                        "questionFrontendId": "3607",
+                        "title": "Power Grid Maintenance",
+                        "titleSlug": "power-grid-maintenance"
+                    }
                 }
             ],
             "weeklyChallenges": [
