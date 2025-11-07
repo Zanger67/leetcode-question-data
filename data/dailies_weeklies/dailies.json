@@ -20458,5 +20458,15 @@
             "title": "Power Grid Maintenance",
             "titleSlug": "power-grid-maintenance"
         }
+    },
+    "2025-11-07": {
+        "date": "2025-11-07",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-the-minimum-powered-city/",
+        "question": {
+            "questionFrontendId": "2528",
+            "title": "Maximize the Minimum Powered City",
+            "titleSlug": "maximize-the-minimum-powered-city"
+        }
     }
 }
