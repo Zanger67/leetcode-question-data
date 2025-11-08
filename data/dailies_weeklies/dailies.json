@@ -20468,5 +20468,15 @@
             "title": "Maximize the Minimum Powered City",
             "titleSlug": "maximize-the-minimum-powered-city"
         }
+    },
+    "2025-11-08": {
+        "date": "2025-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/",
+        "question": {
+            "questionFrontendId": "1611",
+            "title": "Minimum One Bit Operations to Make Integers Zero",
+            "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
+        }
     }
 }

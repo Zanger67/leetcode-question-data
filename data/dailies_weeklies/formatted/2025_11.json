@@ -71,6 +71,16 @@
                         "title": "Maximize the Minimum Powered City",
                         "titleSlug": "maximize-the-minimum-powered-city"
                     }
+                },
+                {
+                    "date": "2025-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/",
+                    "question": {
+                        "questionFrontendId": "1611",
+                        "title": "Minimum One Bit Operations to Make Integers Zero",
+                        "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1183",
                         "title": "Maximum Number of Ones",
                         "titleSlug": "maximum-number-of-ones",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-11-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-sum-iii-data-structure-design/",
+                    "question": {
+                        "questionFrontendId": "170",
+                        "title": "Two Sum III - Data structure design",
+                        "titleSlug": "two-sum-iii-data-structure-design",
                         "isPaidOnly": true
                     }
                 }
