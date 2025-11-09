@@ -81,6 +81,16 @@
                         "title": "Minimum One Bit Operations to Make Integers Zero",
                         "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
                     }
+                },
+                {
+                    "date": "2025-11-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-operations-to-obtain-zero/",
+                    "question": {
+                        "questionFrontendId": "2169",
+                        "title": "Count Operations to Obtain Zero",
+                        "titleSlug": "count-operations-to-obtain-zero"
+                    }
                 }
             ],
             "weeklyChallenges": [
