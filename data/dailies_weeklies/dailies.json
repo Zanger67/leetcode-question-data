@@ -20488,5 +20488,15 @@
             "title": "Count Operations to Obtain Zero",
             "titleSlug": "count-operations-to-obtain-zero"
         }
+    },
+    "2025-11-10": {
+        "date": "2025-11-10",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-convert-all-elements-to-zero/",
+        "question": {
+            "questionFrontendId": "3542",
+            "title": "Minimum Operations to Convert All Elements to Zero",
+            "titleSlug": "minimum-operations-to-convert-all-elements-to-zero"
+        }
     }
 }
