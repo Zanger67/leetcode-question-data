@@ -20498,5 +20498,15 @@
             "title": "Minimum Operations to Convert All Elements to Zero",
             "titleSlug": "minimum-operations-to-convert-all-elements-to-zero"
         }
+    },
+    "2025-11-11": {
+        "date": "2025-11-11",
+        "userStatus": "NotStart",
+        "link": "/problems/ones-and-zeroes/",
+        "question": {
+            "questionFrontendId": "474",
+            "title": "Ones and Zeroes",
+            "titleSlug": "ones-and-zeroes"
+        }
     }
 }
