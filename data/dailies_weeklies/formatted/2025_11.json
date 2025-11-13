@@ -121,6 +121,16 @@
                         "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
                         "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
                     }
+                },
+                {
+                    "date": "2025-11-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+                    "question": {
+                        "questionFrontendId": "3228",
+                        "title": "Maximum Number of Operations to Move Ones to the End",
+                        "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end"
+                    }
                 }
             ],
             "weeklyChallenges": [
