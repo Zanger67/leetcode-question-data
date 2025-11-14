@@ -20528,5 +20528,15 @@
             "title": "Maximum Number of Operations to Move Ones to the End",
             "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end"
         }
+    },
+    "2025-11-14": {
+        "date": "2025-11-14",
+        "userStatus": "NotStart",
+        "link": "/problems/increment-submatrices-by-one/",
+        "question": {
+            "questionFrontendId": "2536",
+            "title": "Increment Submatrices by One",
+            "titleSlug": "increment-submatrices-by-one"
+        }
     }
 }
