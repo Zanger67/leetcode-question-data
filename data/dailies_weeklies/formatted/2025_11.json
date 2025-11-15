@@ -141,6 +141,16 @@
                         "title": "Increment Submatrices by One",
                         "titleSlug": "increment-submatrices-by-one"
                     }
+                },
+                {
+                    "date": "2025-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-the-number-of-substrings-with-dominant-ones/",
+                    "question": {
+                        "questionFrontendId": "3234",
+                        "title": "Count the Number of Substrings With Dominant Ones",
+                        "titleSlug": "count-the-number-of-substrings-with-dominant-ones"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "170",
                         "title": "Two Sum III - Data structure design",
                         "titleSlug": "two-sum-iii-data-structure-design",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-11-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/3sum-smaller/",
+                    "question": {
+                        "questionFrontendId": "259",
+                        "title": "3Sum Smaller",
+                        "titleSlug": "3sum-smaller",
                         "isPaidOnly": true
                     }
                 }

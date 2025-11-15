@@ -20538,5 +20538,15 @@
             "title": "Increment Submatrices by One",
             "titleSlug": "increment-submatrices-by-one"
         }
+    },
+    "2025-11-15": {
+        "date": "2025-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-number-of-substrings-with-dominant-ones/",
+        "question": {
+            "questionFrontendId": "3234",
+            "title": "Count the Number of Substrings With Dominant Ones",
+            "titleSlug": "count-the-number-of-substrings-with-dominant-ones"
+        }
     }
 }

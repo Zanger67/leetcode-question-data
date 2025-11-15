@@ -3441,5 +3441,16 @@
             "titleSlug": "two-sum-iii-data-structure-design",
             "isPaidOnly": true
         }
+    },
+    "2025-11-15": {
+        "date": "2025-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/3sum-smaller/",
+        "question": {
+            "questionFrontendId": "259",
+            "title": "3Sum Smaller",
+            "titleSlug": "3sum-smaller",
+            "isPaidOnly": true
+        }
     }
 }
