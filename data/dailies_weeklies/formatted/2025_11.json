@@ -151,6 +151,16 @@
                         "title": "Count the Number of Substrings With Dominant Ones",
                         "titleSlug": "count-the-number-of-substrings-with-dominant-ones"
                     }
+                },
+                {
+                    "date": "2025-11-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-substrings-with-only-1s/",
+                    "question": {
+                        "questionFrontendId": "1513",
+                        "title": "Number of Substrings With Only 1s",
+                        "titleSlug": "number-of-substrings-with-only-1s"
+                    }
                 }
             ],
             "weeklyChallenges": [
