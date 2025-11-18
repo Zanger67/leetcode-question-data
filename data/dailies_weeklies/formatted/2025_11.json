@@ -171,6 +171,16 @@
                         "title": "Check If All 1's Are at Least Length K Places Away",
                         "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away"
                     }
+                },
+                {
+                    "date": "2025-11-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/1-bit-and-2-bit-characters/",
+                    "question": {
+                        "questionFrontendId": "717",
+                        "title": "1-bit and 2-bit Characters",
+                        "titleSlug": "1-bit-and-2-bit-characters"
+                    }
                 }
             ],
             "weeklyChallenges": [
