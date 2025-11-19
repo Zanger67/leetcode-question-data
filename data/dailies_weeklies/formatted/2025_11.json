@@ -181,6 +181,16 @@
                         "title": "1-bit and 2-bit Characters",
                         "titleSlug": "1-bit-and-2-bit-characters"
                     }
+                },
+                {
+                    "date": "2025-11-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/keep-multiplying-found-values-by-two/",
+                    "question": {
+                        "questionFrontendId": "2154",
+                        "title": "Keep Multiplying Found Values by Two",
+                        "titleSlug": "keep-multiplying-found-values-by-two"
+                    }
                 }
             ],
             "weeklyChallenges": [
