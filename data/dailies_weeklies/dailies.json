@@ -20588,5 +20588,15 @@
             "title": "Keep Multiplying Found Values by Two",
             "titleSlug": "keep-multiplying-found-values-by-two"
         }
+    },
+    "2025-11-20": {
+        "date": "2025-11-20",
+        "userStatus": "NotStart",
+        "link": "/problems/set-intersection-size-at-least-two/",
+        "question": {
+            "questionFrontendId": "757",
+            "title": "Set Intersection Size At Least Two",
+            "titleSlug": "set-intersection-size-at-least-two"
+        }
     }
 }
