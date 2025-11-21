@@ -201,6 +201,16 @@
                         "title": "Set Intersection Size At Least Two",
                         "titleSlug": "set-intersection-size-at-least-two"
                     }
+                },
+                {
+                    "date": "2025-11-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-length-3-palindromic-subsequences/",
+                    "question": {
+                        "questionFrontendId": "1930",
+                        "title": "Unique Length-3 Palindromic Subsequences",
+                        "titleSlug": "unique-length-3-palindromic-subsequences"
+                    }
                 }
             ],
             "weeklyChallenges": [
