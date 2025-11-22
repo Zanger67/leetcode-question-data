@@ -3452,5 +3452,16 @@
             "titleSlug": "3sum-smaller",
             "isPaidOnly": true
         }
+    },
+    "2025-11-22": {
+        "date": "2025-11-22",
+        "userStatus": "NotStart",
+        "link": "/problems/nested-list-weight-sum-ii/",
+        "question": {
+            "questionFrontendId": "364",
+            "title": "Nested List Weight Sum II",
+            "titleSlug": "nested-list-weight-sum-ii",
+            "isPaidOnly": true
+        }
     }
 }

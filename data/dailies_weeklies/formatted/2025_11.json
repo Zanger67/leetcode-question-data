@@ -211,6 +211,16 @@
                         "title": "Unique Length-3 Palindromic Subsequences",
                         "titleSlug": "unique-length-3-palindromic-subsequences"
                     }
+                },
+                {
+                    "date": "2025-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+                    "question": {
+                        "questionFrontendId": "3190",
+                        "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+                        "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "259",
                         "title": "3Sum Smaller",
                         "titleSlug": "3sum-smaller",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/nested-list-weight-sum-ii/",
+                    "question": {
+                        "questionFrontendId": "364",
+                        "title": "Nested List Weight Sum II",
+                        "titleSlug": "nested-list-weight-sum-ii",
                         "isPaidOnly": true
                     }
                 }
