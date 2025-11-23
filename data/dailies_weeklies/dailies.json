@@ -20618,5 +20618,15 @@
             "title": "Find Minimum Operations to Make All Elements Divisible by Three",
             "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three"
         }
+    },
+    "2025-11-23": {
+        "date": "2025-11-23",
+        "userStatus": "NotStart",
+        "link": "/problems/greatest-sum-divisible-by-three/",
+        "question": {
+            "questionFrontendId": "1262",
+            "title": "Greatest Sum Divisible by Three",
+            "titleSlug": "greatest-sum-divisible-by-three"
+        }
     }
 }
