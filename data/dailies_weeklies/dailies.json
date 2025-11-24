@@ -20628,5 +20628,15 @@
             "title": "Greatest Sum Divisible by Three",
             "titleSlug": "greatest-sum-divisible-by-three"
         }
+    },
+    "2025-11-24": {
+        "date": "2025-11-24",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-prefix-divisible-by-5/",
+        "question": {
+            "questionFrontendId": "1018",
+            "title": "Binary Prefix Divisible By 5",
+            "titleSlug": "binary-prefix-divisible-by-5"
+        }
     }
 }
