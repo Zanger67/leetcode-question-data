@@ -20638,5 +20638,15 @@
             "title": "Binary Prefix Divisible By 5",
             "titleSlug": "binary-prefix-divisible-by-5"
         }
+    },
+    "2025-11-25": {
+        "date": "2025-11-25",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-integer-divisible-by-k/",
+        "question": {
+            "questionFrontendId": "1015",
+            "title": "Smallest Integer Divisible by K",
+            "titleSlug": "smallest-integer-divisible-by-k"
+        }
     }
 }
