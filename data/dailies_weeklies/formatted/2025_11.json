@@ -251,6 +251,16 @@
                         "title": "Smallest Integer Divisible by K",
                         "titleSlug": "smallest-integer-divisible-by-k"
                     }
+                },
+                {
+                    "date": "2025-11-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+                    "question": {
+                        "questionFrontendId": "2435",
+                        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+                        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k"
+                    }
                 }
             ],
             "weeklyChallenges": [
