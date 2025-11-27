@@ -20658,5 +20658,15 @@
             "title": "Paths in Matrix Whose Sum Is Divisible by K",
             "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k"
         }
+    },
+    "2025-11-27": {
+        "date": "2025-11-27",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+        "question": {
+            "questionFrontendId": "3381",
+            "title": "Maximum Subarray Sum With Length Divisible by K",
+            "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k"
+        }
     }
 }
