@@ -20668,5 +20668,15 @@
             "title": "Maximum Subarray Sum With Length Divisible by K",
             "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k"
         }
+    },
+    "2025-11-28": {
+        "date": "2025-11-28",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-k-divisible-components/",
+        "question": {
+            "questionFrontendId": "2872",
+            "title": "Maximum Number of K-Divisible Components",
+            "titleSlug": "maximum-number-of-k-divisible-components"
+        }
     }
 }
