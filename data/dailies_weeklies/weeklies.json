@@ -3463,5 +3463,16 @@
             "titleSlug": "nested-list-weight-sum-ii",
             "isPaidOnly": true
         }
+    },
+    "2025-11-29": {
+        "date": "2025-11-29",
+        "userStatus": "NotStart",
+        "link": "/problems/range-addition/",
+        "question": {
+            "questionFrontendId": "370",
+            "title": "Range Addition",
+            "titleSlug": "range-addition",
+            "isPaidOnly": true
+        }
     }
 }

@@ -20678,5 +20678,15 @@
             "title": "Maximum Number of K-Divisible Components",
             "titleSlug": "maximum-number-of-k-divisible-components"
         }
+    },
+    "2025-11-29": {
+        "date": "2025-11-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+        "question": {
+            "questionFrontendId": "3512",
+            "title": "Minimum Operations to Make Array Sum Divisible by K",
+            "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k"
+        }
     }
 }

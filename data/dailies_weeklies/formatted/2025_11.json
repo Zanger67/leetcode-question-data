@@ -281,6 +281,16 @@
                         "title": "Maximum Number of K-Divisible Components",
                         "titleSlug": "maximum-number-of-k-divisible-components"
                     }
+                },
+                {
+                    "date": "2025-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+                    "question": {
+                        "questionFrontendId": "3512",
+                        "title": "Minimum Operations to Make Array Sum Divisible by K",
+                        "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "364",
                         "title": "Nested List Weight Sum II",
                         "titleSlug": "nested-list-weight-sum-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-11-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/range-addition/",
+                    "question": {
+                        "questionFrontendId": "370",
+                        "title": "Range Addition",
+                        "titleSlug": "range-addition",
                         "isPaidOnly": true
                     }
                 }
