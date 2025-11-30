@@ -20688,5 +20688,15 @@
             "title": "Minimum Operations to Make Array Sum Divisible by K",
             "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k"
         }
+    },
+    "2025-11-30": {
+        "date": "2025-11-30",
+        "userStatus": "NotStart",
+        "link": "/problems/make-sum-divisible-by-p/",
+        "question": {
+            "questionFrontendId": "1590",
+            "title": "Make Sum Divisible by P",
+            "titleSlug": "make-sum-divisible-by-p"
+        }
     }
 }
