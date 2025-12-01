@@ -20698,5 +20698,15 @@
             "title": "Make Sum Divisible by P",
             "titleSlug": "make-sum-divisible-by-p"
         }
+    },
+    "2025-12-01": {
+        "date": "2025-12-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-running-time-of-n-computers/",
+        "question": {
+            "questionFrontendId": "2141",
+            "title": "Maximum Running Time of N Computers",
+            "titleSlug": "maximum-running-time-of-n-computers"
+        }
     }
 }
