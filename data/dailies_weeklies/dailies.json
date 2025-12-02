@@ -20708,5 +20708,15 @@
             "title": "Maximum Running Time of N Computers",
             "titleSlug": "maximum-running-time-of-n-computers"
         }
+    },
+    "2025-12-02": {
+        "date": "2025-12-02",
+        "userStatus": "NotStart",
+        "link": "/problems/count-number-of-trapezoids-i/",
+        "question": {
+            "questionFrontendId": "3623",
+            "title": "Count Number of Trapezoids I",
+            "titleSlug": "count-number-of-trapezoids-i"
+        }
     }
 }
