@@ -21,6 +21,16 @@
                         "title": "Count Number of Trapezoids I",
                         "titleSlug": "count-number-of-trapezoids-i"
                     }
+                },
+                {
+                    "date": "2025-12-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-number-of-trapezoids-ii/",
+                    "question": {
+                        "questionFrontendId": "3625",
+                        "title": "Count Number of Trapezoids II",
+                        "titleSlug": "count-number-of-trapezoids-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
