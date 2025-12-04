@@ -31,6 +31,16 @@
                         "title": "Count Number of Trapezoids II",
                         "titleSlug": "count-number-of-trapezoids-ii"
                     }
+                },
+                {
+                    "date": "2025-12-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-collisions-on-a-road/",
+                    "question": {
+                        "questionFrontendId": "2211",
+                        "title": "Count Collisions on a Road",
+                        "titleSlug": "count-collisions-on-a-road"
+                    }
                 }
             ],
             "weeklyChallenges": [
