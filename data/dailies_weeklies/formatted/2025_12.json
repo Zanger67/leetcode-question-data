@@ -41,6 +41,16 @@
                         "title": "Count Collisions on a Road",
                         "titleSlug": "count-collisions-on-a-road"
                     }
+                },
+                {
+                    "date": "2025-12-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-partitions-with-even-sum-difference/",
+                    "question": {
+                        "questionFrontendId": "3432",
+                        "title": "Count Partitions with Even Sum Difference",
+                        "titleSlug": "count-partitions-with-even-sum-difference"
+                    }
                 }
             ],
             "weeklyChallenges": [
