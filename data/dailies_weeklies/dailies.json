@@ -20748,5 +20748,15 @@
             "title": "Count Partitions with Even Sum Difference",
             "titleSlug": "count-partitions-with-even-sum-difference"
         }
+    },
+    "2025-12-06": {
+        "date": "2025-12-06",
+        "userStatus": "NotStart",
+        "link": "/problems/count-partitions-with-max-min-difference-at-most-k/",
+        "question": {
+            "questionFrontendId": "3578",
+            "title": "Count Partitions With Max-Min Difference at Most K",
+            "titleSlug": "count-partitions-with-max-min-difference-at-most-k"
+        }
     }
 }
