@@ -61,6 +61,16 @@
                         "title": "Count Partitions With Max-Min Difference at Most K",
                         "titleSlug": "count-partitions-with-max-min-difference-at-most-k"
                     }
+                },
+                {
+                    "date": "2025-12-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-odd-numbers-in-an-interval-range/",
+                    "question": {
+                        "questionFrontendId": "1523",
+                        "title": "Count Odd Numbers in an Interval Range",
+                        "titleSlug": "count-odd-numbers-in-an-interval-range"
+                    }
                 }
             ],
             "weeklyChallenges": [
