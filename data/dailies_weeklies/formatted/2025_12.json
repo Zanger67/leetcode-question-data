@@ -71,6 +71,16 @@
                         "title": "Count Odd Numbers in an Interval Range",
                         "titleSlug": "count-odd-numbers-in-an-interval-range"
                     }
+                },
+                {
+                    "date": "2025-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-square-sum-triples/",
+                    "question": {
+                        "questionFrontendId": "1925",
+                        "title": "Count Square Sum Triples",
+                        "titleSlug": "count-square-sum-triples"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1214",
                         "title": "Two Sum BSTs",
                         "titleSlug": "two-sum-bsts",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-12-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-product-sum-of-two-arrays/",
+                    "question": {
+                        "questionFrontendId": "1874",
+                        "title": "Minimize Product Sum of Two Arrays",
+                        "titleSlug": "minimize-product-sum-of-two-arrays",
                         "isPaidOnly": true
                     }
                 }

@@ -3485,5 +3485,16 @@
             "titleSlug": "two-sum-bsts",
             "isPaidOnly": true
         }
+    },
+    "2025-12-08": {
+        "date": "2025-12-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-product-sum-of-two-arrays/",
+        "question": {
+            "questionFrontendId": "1874",
+            "title": "Minimize Product Sum of Two Arrays",
+            "titleSlug": "minimize-product-sum-of-two-arrays",
+            "isPaidOnly": true
+        }
     }
 }
