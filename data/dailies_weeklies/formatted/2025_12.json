@@ -81,6 +81,16 @@
                         "title": "Count Square Sum Triples",
                         "titleSlug": "count-square-sum-triples"
                     }
+                },
+                {
+                    "date": "2025-12-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-special-triplets/",
+                    "question": {
+                        "questionFrontendId": "3583",
+                        "title": "Count Special Triplets",
+                        "titleSlug": "count-special-triplets"
+                    }
                 }
             ],
             "weeklyChallenges": [
