@@ -20788,5 +20788,15 @@
             "title": "Count Special Triplets",
             "titleSlug": "count-special-triplets"
         }
+    },
+    "2025-12-10": {
+        "date": "2025-12-10",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-number-of-computer-unlocking-permutations/",
+        "question": {
+            "questionFrontendId": "3577",
+            "title": "Count the Number of Computer Unlocking Permutations",
+            "titleSlug": "count-the-number-of-computer-unlocking-permutations"
+        }
     }
 }
