@@ -20798,5 +20798,15 @@
             "title": "Count the Number of Computer Unlocking Permutations",
             "titleSlug": "count-the-number-of-computer-unlocking-permutations"
         }
+    },
+    "2025-12-11": {
+        "date": "2025-12-11",
+        "userStatus": "NotStart",
+        "link": "/problems/count-covered-buildings/",
+        "question": {
+            "questionFrontendId": "3531",
+            "title": "Count Covered Buildings",
+            "titleSlug": "count-covered-buildings"
+        }
     }
 }
