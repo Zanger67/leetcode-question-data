@@ -20808,5 +20808,15 @@
             "title": "Count Covered Buildings",
             "titleSlug": "count-covered-buildings"
         }
+    },
+    "2025-12-12": {
+        "date": "2025-12-12",
+        "userStatus": "NotStart",
+        "link": "/problems/count-mentions-per-user/",
+        "question": {
+            "questionFrontendId": "3433",
+            "title": "Count Mentions Per User",
+            "titleSlug": "count-mentions-per-user"
+        }
     }
 }
