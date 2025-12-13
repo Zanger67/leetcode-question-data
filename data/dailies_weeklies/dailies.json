@@ -20818,5 +20818,15 @@
             "title": "Count Mentions Per User",
             "titleSlug": "count-mentions-per-user"
         }
+    },
+    "2025-12-13": {
+        "date": "2025-12-13",
+        "userStatus": "NotStart",
+        "link": "/problems/coupon-code-validator/",
+        "question": {
+            "questionFrontendId": "3606",
+            "title": "Coupon Code Validator",
+            "titleSlug": "coupon-code-validator"
+        }
     }
 }
