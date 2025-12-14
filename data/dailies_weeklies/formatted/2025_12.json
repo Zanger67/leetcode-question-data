@@ -131,6 +131,16 @@
                         "title": "Coupon Code Validator",
                         "titleSlug": "coupon-code-validator"
                     }
+                },
+                {
+                    "date": "2025-12-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-divide-a-long-corridor/",
+                    "question": {
+                        "questionFrontendId": "2147",
+                        "title": "Number of Ways to Divide a Long Corridor",
+                        "titleSlug": "number-of-ways-to-divide-a-long-corridor"
+                    }
                 }
             ],
             "weeklyChallenges": [
