@@ -3496,5 +3496,16 @@
             "titleSlug": "minimize-product-sum-of-two-arrays",
             "isPaidOnly": true
         }
+    },
+    "2025-12-15": {
+        "date": "2025-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-longest-consecutive-sequence/",
+        "question": {
+            "questionFrontendId": "298",
+            "title": "Binary Tree Longest Consecutive Sequence",
+            "titleSlug": "binary-tree-longest-consecutive-sequence",
+            "isPaidOnly": true
+        }
     }
 }

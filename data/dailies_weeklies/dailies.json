@@ -20838,5 +20838,15 @@
             "title": "Number of Ways to Divide a Long Corridor",
             "titleSlug": "number-of-ways-to-divide-a-long-corridor"
         }
+    },
+    "2025-12-15": {
+        "date": "2025-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-smooth-descent-periods-of-a-stock/",
+        "question": {
+            "questionFrontendId": "2110",
+            "title": "Number of Smooth Descent Periods of a Stock",
+            "titleSlug": "number-of-smooth-descent-periods-of-a-stock"
+        }
     }
 }

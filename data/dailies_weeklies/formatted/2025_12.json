@@ -141,6 +141,16 @@
                         "title": "Number of Ways to Divide a Long Corridor",
                         "titleSlug": "number-of-ways-to-divide-a-long-corridor"
                     }
+                },
+                {
+                    "date": "2025-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-smooth-descent-periods-of-a-stock/",
+                    "question": {
+                        "questionFrontendId": "2110",
+                        "title": "Number of Smooth Descent Periods of a Stock",
+                        "titleSlug": "number-of-smooth-descent-periods-of-a-stock"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "1874",
                         "title": "Minimize Product Sum of Two Arrays",
                         "titleSlug": "minimize-product-sum-of-two-arrays",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-12-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-longest-consecutive-sequence/",
+                    "question": {
+                        "questionFrontendId": "298",
+                        "title": "Binary Tree Longest Consecutive Sequence",
+                        "titleSlug": "binary-tree-longest-consecutive-sequence",
                         "isPaidOnly": true
                     }
                 }
