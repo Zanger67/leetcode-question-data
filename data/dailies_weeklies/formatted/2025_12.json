@@ -151,6 +151,16 @@
                         "title": "Number of Smooth Descent Periods of a Stock",
                         "titleSlug": "number-of-smooth-descent-periods-of-a-stock"
                     }
+                },
+                {
+                    "date": "2025-12-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-profit-from-trading-stocks-with-discounts/",
+                    "question": {
+                        "questionFrontendId": "3562",
+                        "title": "Maximum Profit from Trading Stocks with Discounts",
+                        "titleSlug": "maximum-profit-from-trading-stocks-with-discounts"
+                    }
                 }
             ],
             "weeklyChallenges": [
