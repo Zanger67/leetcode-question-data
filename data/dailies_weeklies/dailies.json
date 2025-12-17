@@ -20858,5 +20858,15 @@
             "title": "Maximum Profit from Trading Stocks with Discounts",
             "titleSlug": "maximum-profit-from-trading-stocks-with-discounts"
         }
+    },
+    "2025-12-17": {
+        "date": "2025-12-17",
+        "userStatus": "NotStart",
+        "link": "/problems/best-time-to-buy-and-sell-stock-v/",
+        "question": {
+            "questionFrontendId": "3573",
+            "title": "Best Time to Buy and Sell Stock V",
+            "titleSlug": "best-time-to-buy-and-sell-stock-v"
+        }
     }
 }
