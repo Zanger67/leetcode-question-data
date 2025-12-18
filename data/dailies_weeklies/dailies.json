@@ -20868,5 +20868,15 @@
             "title": "Best Time to Buy and Sell Stock V",
             "titleSlug": "best-time-to-buy-and-sell-stock-v"
         }
+    },
+    "2025-12-18": {
+        "date": "2025-12-18",
+        "userStatus": "NotStart",
+        "link": "/problems/best-time-to-buy-and-sell-stock-using-strategy/",
+        "question": {
+            "questionFrontendId": "3652",
+            "title": "Best Time to Buy and Sell Stock using Strategy",
+            "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy"
+        }
     }
 }
