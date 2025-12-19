@@ -181,6 +181,16 @@
                         "title": "Best Time to Buy and Sell Stock using Strategy",
                         "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy"
                     }
+                },
+                {
+                    "date": "2025-12-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-all-people-with-secret/",
+                    "question": {
+                        "questionFrontendId": "2092",
+                        "title": "Find All People With Secret",
+                        "titleSlug": "find-all-people-with-secret"
+                    }
                 }
             ],
             "weeklyChallenges": [
