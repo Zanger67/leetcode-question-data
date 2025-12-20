@@ -20888,5 +20888,15 @@
             "title": "Find All People With Secret",
             "titleSlug": "find-all-people-with-secret"
         }
+    },
+    "2025-12-20": {
+        "date": "2025-12-20",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-columns-to-make-sorted/",
+        "question": {
+            "questionFrontendId": "944",
+            "title": "Delete Columns to Make Sorted",
+            "titleSlug": "delete-columns-to-make-sorted"
+        }
     }
 }
