@@ -20898,5 +20898,15 @@
             "title": "Delete Columns to Make Sorted",
             "titleSlug": "delete-columns-to-make-sorted"
         }
+    },
+    "2025-12-21": {
+        "date": "2025-12-21",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-columns-to-make-sorted-ii/",
+        "question": {
+            "questionFrontendId": "955",
+            "title": "Delete Columns to Make Sorted II",
+            "titleSlug": "delete-columns-to-make-sorted-ii"
+        }
     }
 }
