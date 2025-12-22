@@ -211,6 +211,16 @@
                         "title": "Delete Columns to Make Sorted II",
                         "titleSlug": "delete-columns-to-make-sorted-ii"
                     }
+                },
+                {
+                    "date": "2025-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-columns-to-make-sorted-iii/",
+                    "question": {
+                        "questionFrontendId": "960",
+                        "title": "Delete Columns to Make Sorted III",
+                        "titleSlug": "delete-columns-to-make-sorted-iii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "298",
                         "title": "Binary Tree Longest Consecutive Sequence",
                         "titleSlug": "binary-tree-longest-consecutive-sequence",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2025-12-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-tree-longest-consecutive-sequence-ii/",
+                    "question": {
+                        "questionFrontendId": "549",
+                        "title": "Binary Tree Longest Consecutive Sequence II",
+                        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
                         "isPaidOnly": true
                     }
                 }

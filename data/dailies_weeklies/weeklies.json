@@ -3507,5 +3507,16 @@
             "titleSlug": "binary-tree-longest-consecutive-sequence",
             "isPaidOnly": true
         }
+    },
+    "2025-12-22": {
+        "date": "2025-12-22",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-longest-consecutive-sequence-ii/",
+        "question": {
+            "questionFrontendId": "549",
+            "title": "Binary Tree Longest Consecutive Sequence II",
+            "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+            "isPaidOnly": true
+        }
     }
 }
