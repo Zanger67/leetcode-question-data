@@ -221,6 +221,16 @@
                         "title": "Delete Columns to Make Sorted III",
                         "titleSlug": "delete-columns-to-make-sorted-iii"
                     }
+                },
+                {
+                    "date": "2025-12-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/two-best-non-overlapping-events/",
+                    "question": {
+                        "questionFrontendId": "2054",
+                        "title": "Two Best Non-Overlapping Events",
+                        "titleSlug": "two-best-non-overlapping-events"
+                    }
                 }
             ],
             "weeklyChallenges": [
