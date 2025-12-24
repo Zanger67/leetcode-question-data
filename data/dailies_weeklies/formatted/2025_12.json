@@ -231,6 +231,16 @@
                         "title": "Two Best Non-Overlapping Events",
                         "titleSlug": "two-best-non-overlapping-events"
                     }
+                },
+                {
+                    "date": "2025-12-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/apple-redistribution-into-boxes/",
+                    "question": {
+                        "questionFrontendId": "3074",
+                        "title": "Apple Redistribution into Boxes",
+                        "titleSlug": "apple-redistribution-into-boxes"
+                    }
                 }
             ],
             "weeklyChallenges": [
