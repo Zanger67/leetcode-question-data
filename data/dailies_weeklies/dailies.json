@@ -20938,5 +20938,15 @@
             "title": "Apple Redistribution into Boxes",
             "titleSlug": "apple-redistribution-into-boxes"
         }
+    },
+    "2025-12-25": {
+        "date": "2025-12-25",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-happiness-of-selected-children/",
+        "question": {
+            "questionFrontendId": "3075",
+            "title": "Maximize Happiness of Selected Children",
+            "titleSlug": "maximize-happiness-of-selected-children"
+        }
     }
 }
