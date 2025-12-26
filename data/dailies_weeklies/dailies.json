@@ -20948,5 +20948,15 @@
             "title": "Maximize Happiness of Selected Children",
             "titleSlug": "maximize-happiness-of-selected-children"
         }
+    },
+    "2025-12-26": {
+        "date": "2025-12-26",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-penalty-for-a-shop/",
+        "question": {
+            "questionFrontendId": "2483",
+            "title": "Minimum Penalty for a Shop",
+            "titleSlug": "minimum-penalty-for-a-shop"
+        }
     }
 }
