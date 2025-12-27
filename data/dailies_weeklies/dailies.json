@@ -20958,5 +20958,15 @@
             "title": "Minimum Penalty for a Shop",
             "titleSlug": "minimum-penalty-for-a-shop"
         }
+    },
+    "2025-12-27": {
+        "date": "2025-12-27",
+        "userStatus": "NotStart",
+        "link": "/problems/meeting-rooms-iii/",
+        "question": {
+            "questionFrontendId": "2402",
+            "title": "Meeting Rooms III",
+            "titleSlug": "meeting-rooms-iii"
+        }
     }
 }
