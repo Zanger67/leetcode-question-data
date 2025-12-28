@@ -20968,5 +20968,15 @@
             "title": "Meeting Rooms III",
             "titleSlug": "meeting-rooms-iii"
         }
+    },
+    "2025-12-28": {
+        "date": "2025-12-28",
+        "userStatus": "NotStart",
+        "link": "/problems/count-negative-numbers-in-a-sorted-matrix/",
+        "question": {
+            "questionFrontendId": "1351",
+            "title": "Count Negative Numbers in a Sorted Matrix",
+            "titleSlug": "count-negative-numbers-in-a-sorted-matrix"
+        }
     }
 }
