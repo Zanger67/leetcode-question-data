@@ -20978,5 +20978,15 @@
             "title": "Count Negative Numbers in a Sorted Matrix",
             "titleSlug": "count-negative-numbers-in-a-sorted-matrix"
         }
+    },
+    "2025-12-29": {
+        "date": "2025-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/pyramid-transition-matrix/",
+        "question": {
+            "questionFrontendId": "756",
+            "title": "Pyramid Transition Matrix",
+            "titleSlug": "pyramid-transition-matrix"
+        }
     }
 }

@@ -3518,5 +3518,16 @@
             "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
             "isPaidOnly": true
         }
+    },
+    "2025-12-29": {
+        "date": "2025-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/diet-plan-performance/",
+        "question": {
+            "questionFrontendId": "1176",
+            "title": "Diet Plan Performance",
+            "titleSlug": "diet-plan-performance",
+            "isPaidOnly": true
+        }
     }
 }
