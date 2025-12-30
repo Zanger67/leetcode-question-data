@@ -20988,5 +20988,15 @@
             "title": "Pyramid Transition Matrix",
             "titleSlug": "pyramid-transition-matrix"
         }
+    },
+    "2025-12-30": {
+        "date": "2025-12-30",
+        "userStatus": "NotStart",
+        "link": "/problems/magic-squares-in-grid/",
+        "question": {
+            "questionFrontendId": "840",
+            "title": "Magic Squares In Grid",
+            "titleSlug": "magic-squares-in-grid"
+        }
     }
 }
