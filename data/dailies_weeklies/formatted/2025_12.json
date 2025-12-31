@@ -301,6 +301,16 @@
                         "title": "Magic Squares In Grid",
                         "titleSlug": "magic-squares-in-grid"
                     }
+                },
+                {
+                    "date": "2025-12-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/last-day-where-you-can-still-cross/",
+                    "question": {
+                        "questionFrontendId": "1970",
+                        "title": "Last Day Where You Can Still Cross",
+                        "titleSlug": "last-day-where-you-can-still-cross"
+                    }
                 }
             ],
             "weeklyChallenges": [
