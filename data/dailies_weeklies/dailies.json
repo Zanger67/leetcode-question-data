@@ -21008,5 +21008,15 @@
             "title": "Last Day Where You Can Still Cross",
             "titleSlug": "last-day-where-you-can-still-cross"
         }
+    },
+    "2026-01-01": {
+        "date": "2026-01-01",
+        "userStatus": "NotStart",
+        "link": "/problems/plus-one/",
+        "question": {
+            "questionFrontendId": "66",
+            "title": "Plus One",
+            "titleSlug": "plus-one"
+        }
     }
 }
