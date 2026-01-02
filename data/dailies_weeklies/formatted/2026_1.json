@@ -11,6 +11,16 @@
                         "title": "Plus One",
                         "titleSlug": "plus-one"
                     }
+                },
+                {
+                    "date": "2026-01-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/n-repeated-element-in-size-2n-array/",
+                    "question": {
+                        "questionFrontendId": "961",
+                        "title": "N-Repeated Element in Size 2N Array",
+                        "titleSlug": "n-repeated-element-in-size-2n-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
