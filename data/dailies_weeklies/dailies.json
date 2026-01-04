@@ -21038,5 +21038,15 @@
             "title": "Number of Ways to Paint N \u00d7 3 Grid",
             "titleSlug": "number-of-ways-to-paint-n-3-grid"
         }
+    },
+    "2026-01-04": {
+        "date": "2026-01-04",
+        "userStatus": "NotStart",
+        "link": "/problems/four-divisors/",
+        "question": {
+            "questionFrontendId": "1390",
+            "title": "Four Divisors",
+            "titleSlug": "four-divisors"
+        }
     }
 }
