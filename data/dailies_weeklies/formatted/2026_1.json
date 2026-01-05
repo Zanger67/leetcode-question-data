@@ -41,6 +41,16 @@
                         "title": "Four Divisors",
                         "titleSlug": "four-divisors"
                     }
+                },
+                {
+                    "date": "2026-01-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-matrix-sum/",
+                    "question": {
+                        "questionFrontendId": "1975",
+                        "title": "Maximum Matrix Sum",
+                        "titleSlug": "maximum-matrix-sum"
+                    }
                 }
             ],
             "weeklyChallenges": [
