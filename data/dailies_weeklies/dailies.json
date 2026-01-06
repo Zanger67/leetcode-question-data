@@ -21058,5 +21058,15 @@
             "title": "Maximum Matrix Sum",
             "titleSlug": "maximum-matrix-sum"
         }
+    },
+    "2026-01-06": {
+        "date": "2026-01-06",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-level-sum-of-a-binary-tree/",
+        "question": {
+            "questionFrontendId": "1161",
+            "title": "Maximum Level Sum of a Binary Tree",
+            "titleSlug": "maximum-level-sum-of-a-binary-tree"
+        }
     }
 }
