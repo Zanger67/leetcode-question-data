@@ -21068,5 +21068,15 @@
             "title": "Maximum Level Sum of a Binary Tree",
             "titleSlug": "maximum-level-sum-of-a-binary-tree"
         }
+    },
+    "2026-01-07": {
+        "date": "2026-01-07",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-product-of-splitted-binary-tree/",
+        "question": {
+            "questionFrontendId": "1339",
+            "title": "Maximum Product of Splitted Binary Tree",
+            "titleSlug": "maximum-product-of-splitted-binary-tree"
+        }
     }
 }
