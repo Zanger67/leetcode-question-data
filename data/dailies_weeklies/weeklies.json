@@ -3540,5 +3540,16 @@
             "titleSlug": "design-a-leaderboard",
             "isPaidOnly": true
         }
+    },
+    "2026-01-08": {
+        "date": "2026-01-08",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze/",
+        "question": {
+            "questionFrontendId": "490",
+            "title": "The Maze",
+            "titleSlug": "the-maze",
+            "isPaidOnly": true
+        }
     }
 }

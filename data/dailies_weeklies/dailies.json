@@ -21078,5 +21078,15 @@
             "title": "Maximum Product of Splitted Binary Tree",
             "titleSlug": "maximum-product-of-splitted-binary-tree"
         }
+    },
+    "2026-01-08": {
+        "date": "2026-01-08",
+        "userStatus": "NotStart",
+        "link": "/problems/max-dot-product-of-two-subsequences/",
+        "question": {
+            "questionFrontendId": "1458",
+            "title": "Max Dot Product of Two Subsequences",
+            "titleSlug": "max-dot-product-of-two-subsequences"
+        }
     }
 }

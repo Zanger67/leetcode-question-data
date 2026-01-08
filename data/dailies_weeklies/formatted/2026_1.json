@@ -71,6 +71,16 @@
                         "title": "Maximum Product of Splitted Binary Tree",
                         "titleSlug": "maximum-product-of-splitted-binary-tree"
                     }
+                },
+                {
+                    "date": "2026-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/max-dot-product-of-two-subsequences/",
+                    "question": {
+                        "questionFrontendId": "1458",
+                        "title": "Max Dot Product of Two Subsequences",
+                        "titleSlug": "max-dot-product-of-two-subsequences"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1244",
                         "title": "Design A Leaderboard",
                         "titleSlug": "design-a-leaderboard",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-01-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-maze/",
+                    "question": {
+                        "questionFrontendId": "490",
+                        "title": "The Maze",
+                        "titleSlug": "the-maze",
                         "isPaidOnly": true
                     }
                 }
