@@ -81,6 +81,16 @@
                         "title": "Max Dot Product of Two Subsequences",
                         "titleSlug": "max-dot-product-of-two-subsequences"
                     }
+                },
+                {
+                    "date": "2026-01-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-subtree-with-all-the-deepest-nodes/",
+                    "question": {
+                        "questionFrontendId": "865",
+                        "title": "Smallest Subtree with all the Deepest Nodes",
+                        "titleSlug": "smallest-subtree-with-all-the-deepest-nodes"
+                    }
                 }
             ],
             "weeklyChallenges": [
