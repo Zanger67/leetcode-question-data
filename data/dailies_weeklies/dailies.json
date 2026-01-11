@@ -21108,5 +21108,15 @@
             "title": "Minimum ASCII Delete Sum for Two Strings",
             "titleSlug": "minimum-ascii-delete-sum-for-two-strings"
         }
+    },
+    "2026-01-11": {
+        "date": "2026-01-11",
+        "userStatus": "NotStart",
+        "link": "/problems/maximal-rectangle/",
+        "question": {
+            "questionFrontendId": "85",
+            "title": "Maximal Rectangle",
+            "titleSlug": "maximal-rectangle"
+        }
     }
 }
