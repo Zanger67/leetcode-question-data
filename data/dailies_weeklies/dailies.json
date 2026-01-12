@@ -21118,5 +21118,15 @@
             "title": "Maximal Rectangle",
             "titleSlug": "maximal-rectangle"
         }
+    },
+    "2026-01-12": {
+        "date": "2026-01-12",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-time-visiting-all-points/",
+        "question": {
+            "questionFrontendId": "1266",
+            "title": "Minimum Time Visiting All Points",
+            "titleSlug": "minimum-time-visiting-all-points"
+        }
     }
 }
