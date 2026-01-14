@@ -21138,5 +21138,15 @@
             "title": "Separate Squares I",
             "titleSlug": "separate-squares-i"
         }
+    },
+    "2026-01-14": {
+        "date": "2026-01-14",
+        "userStatus": "NotStart",
+        "link": "/problems/separate-squares-ii/",
+        "question": {
+            "questionFrontendId": "3454",
+            "title": "Separate Squares II",
+            "titleSlug": "separate-squares-ii"
+        }
     }
 }
