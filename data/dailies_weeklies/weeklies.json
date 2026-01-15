@@ -3551,5 +3551,16 @@
             "titleSlug": "the-maze",
             "isPaidOnly": true
         }
+    },
+    "2026-01-15": {
+        "date": "2026-01-15",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze-ii/",
+        "question": {
+            "questionFrontendId": "505",
+            "title": "The Maze II",
+            "titleSlug": "the-maze-ii",
+            "isPaidOnly": true
+        }
     }
 }

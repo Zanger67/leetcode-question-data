@@ -141,6 +141,16 @@
                         "title": "Separate Squares II",
                         "titleSlug": "separate-squares-ii"
                     }
+                },
+                {
+                    "date": "2026-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-area-of-square-hole-in-grid/",
+                    "question": {
+                        "questionFrontendId": "2943",
+                        "title": "Maximize Area of Square Hole in Grid",
+                        "titleSlug": "maximize-area-of-square-hole-in-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "490",
                         "title": "The Maze",
                         "titleSlug": "the-maze",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-01-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-maze-ii/",
+                    "question": {
+                        "questionFrontendId": "505",
+                        "title": "The Maze II",
+                        "titleSlug": "the-maze-ii",
                         "isPaidOnly": true
                     }
                 }
