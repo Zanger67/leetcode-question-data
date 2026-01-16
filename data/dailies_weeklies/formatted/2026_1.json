@@ -151,6 +151,16 @@
                         "title": "Maximize Area of Square Hole in Grid",
                         "titleSlug": "maximize-area-of-square-hole-in-grid"
                     }
+                },
+                {
+                    "date": "2026-01-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-square-area-by-removing-fences-from-a-field/",
+                    "question": {
+                        "questionFrontendId": "2975",
+                        "title": "Maximum Square Area by Removing Fences From a Field",
+                        "titleSlug": "maximum-square-area-by-removing-fences-from-a-field"
+                    }
                 }
             ],
             "weeklyChallenges": [
