@@ -21168,5 +21168,15 @@
             "title": "Maximum Square Area by Removing Fences From a Field",
             "titleSlug": "maximum-square-area-by-removing-fences-from-a-field"
         }
+    },
+    "2026-01-17": {
+        "date": "2026-01-17",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+        "question": {
+            "questionFrontendId": "3047",
+            "title": "Find the Largest Area of Square Inside Two Rectangles",
+            "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles"
+        }
     }
 }
