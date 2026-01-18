@@ -21178,5 +21178,15 @@
             "title": "Find the Largest Area of Square Inside Two Rectangles",
             "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles"
         }
+    },
+    "2026-01-18": {
+        "date": "2026-01-18",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-magic-square/",
+        "question": {
+            "questionFrontendId": "1895",
+            "title": "Largest Magic Square",
+            "titleSlug": "largest-magic-square"
+        }
     }
 }
