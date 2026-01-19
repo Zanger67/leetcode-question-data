@@ -181,6 +181,16 @@
                         "title": "Largest Magic Square",
                         "titleSlug": "largest-magic-square"
                     }
+                },
+                {
+                    "date": "2026-01-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+                    "question": {
+                        "questionFrontendId": "1292",
+                        "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+                        "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+                    }
                 }
             ],
             "weeklyChallenges": [
