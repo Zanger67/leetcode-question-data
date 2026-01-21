@@ -201,6 +201,16 @@
                         "title": "Construct the Minimum Bitwise Array I",
                         "titleSlug": "construct-the-minimum-bitwise-array-i"
                     }
+                },
+                {
+                    "date": "2026-01-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-the-minimum-bitwise-array-ii/",
+                    "question": {
+                        "questionFrontendId": "3315",
+                        "title": "Construct the Minimum Bitwise Array II",
+                        "titleSlug": "construct-the-minimum-bitwise-array-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
