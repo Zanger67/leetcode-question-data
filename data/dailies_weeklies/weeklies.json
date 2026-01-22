@@ -3562,5 +3562,16 @@
             "titleSlug": "the-maze-ii",
             "isPaidOnly": true
         }
+    },
+    "2026-01-22": {
+        "date": "2026-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze-iii/",
+        "question": {
+            "questionFrontendId": "499",
+            "title": "The Maze III",
+            "titleSlug": "the-maze-iii",
+            "isPaidOnly": true
+        }
     }
 }

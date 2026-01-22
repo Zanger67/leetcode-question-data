@@ -21218,5 +21218,15 @@
             "title": "Construct the Minimum Bitwise Array II",
             "titleSlug": "construct-the-minimum-bitwise-array-ii"
         }
+    },
+    "2026-01-22": {
+        "date": "2026-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-pair-removal-to-sort-array-i/",
+        "question": {
+            "questionFrontendId": "3507",
+            "title": "Minimum Pair Removal to Sort Array I",
+            "titleSlug": "minimum-pair-removal-to-sort-array-i"
+        }
     }
 }

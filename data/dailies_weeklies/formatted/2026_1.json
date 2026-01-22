@@ -211,6 +211,16 @@
                         "title": "Construct the Minimum Bitwise Array II",
                         "titleSlug": "construct-the-minimum-bitwise-array-ii"
                     }
+                },
+                {
+                    "date": "2026-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-pair-removal-to-sort-array-i/",
+                    "question": {
+                        "questionFrontendId": "3507",
+                        "title": "Minimum Pair Removal to Sort Array I",
+                        "titleSlug": "minimum-pair-removal-to-sort-array-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "505",
                         "title": "The Maze II",
                         "titleSlug": "the-maze-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-01-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/the-maze-iii/",
+                    "question": {
+                        "questionFrontendId": "499",
+                        "title": "The Maze III",
+                        "titleSlug": "the-maze-iii",
                         "isPaidOnly": true
                     }
                 }
