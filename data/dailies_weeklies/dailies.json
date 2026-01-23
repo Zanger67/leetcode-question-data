@@ -21228,5 +21228,15 @@
             "title": "Minimum Pair Removal to Sort Array I",
             "titleSlug": "minimum-pair-removal-to-sort-array-i"
         }
+    },
+    "2026-01-23": {
+        "date": "2026-01-23",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-pair-removal-to-sort-array-ii/",
+        "question": {
+            "questionFrontendId": "3510",
+            "title": "Minimum Pair Removal to Sort Array II",
+            "titleSlug": "minimum-pair-removal-to-sort-array-ii"
+        }
     }
 }
