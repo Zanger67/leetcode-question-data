@@ -231,6 +231,16 @@
                         "title": "Minimum Pair Removal to Sort Array II",
                         "titleSlug": "minimum-pair-removal-to-sort-array-ii"
                     }
+                },
+                {
+                    "date": "2026-01-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-maximum-pair-sum-in-array/",
+                    "question": {
+                        "questionFrontendId": "1877",
+                        "title": "Minimize Maximum Pair Sum in Array",
+                        "titleSlug": "minimize-maximum-pair-sum-in-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
