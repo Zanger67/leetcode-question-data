@@ -21248,5 +21248,15 @@
             "title": "Minimize Maximum Pair Sum in Array",
             "titleSlug": "minimize-maximum-pair-sum-in-array"
         }
+    },
+    "2026-01-25": {
+        "date": "2026-01-25",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+        "question": {
+            "questionFrontendId": "1984",
+            "title": "Minimum Difference Between Highest and Lowest of K Scores",
+            "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores"
+        }
     }
 }
