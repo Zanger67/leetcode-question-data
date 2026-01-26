@@ -251,6 +251,16 @@
                         "title": "Minimum Difference Between Highest and Lowest of K Scores",
                         "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores"
                     }
+                },
+                {
+                    "date": "2026-01-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-absolute-difference/",
+                    "question": {
+                        "questionFrontendId": "1200",
+                        "title": "Minimum Absolute Difference",
+                        "titleSlug": "minimum-absolute-difference"
+                    }
                 }
             ],
             "weeklyChallenges": [
