@@ -261,6 +261,16 @@
                         "title": "Minimum Absolute Difference",
                         "titleSlug": "minimum-absolute-difference"
                     }
+                },
+                {
+                    "date": "2026-01-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-path-with-edge-reversals/",
+                    "question": {
+                        "questionFrontendId": "3650",
+                        "title": "Minimum Cost Path with Edge Reversals",
+                        "titleSlug": "minimum-cost-path-with-edge-reversals"
+                    }
                 }
             ],
             "weeklyChallenges": [
