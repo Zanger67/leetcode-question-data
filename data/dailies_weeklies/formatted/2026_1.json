@@ -271,6 +271,16 @@
                         "title": "Minimum Cost Path with Edge Reversals",
                         "titleSlug": "minimum-cost-path-with-edge-reversals"
                     }
+                },
+                {
+                    "date": "2026-01-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-path-with-teleportations/",
+                    "question": {
+                        "questionFrontendId": "3651",
+                        "title": "Minimum Cost Path with Teleportations",
+                        "titleSlug": "minimum-cost-path-with-teleportations"
+                    }
                 }
             ],
             "weeklyChallenges": [
