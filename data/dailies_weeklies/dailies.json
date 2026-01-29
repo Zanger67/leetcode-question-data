@@ -21288,5 +21288,15 @@
             "title": "Minimum Cost Path with Teleportations",
             "titleSlug": "minimum-cost-path-with-teleportations"
         }
+    },
+    "2026-01-29": {
+        "date": "2026-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-to-convert-string-i/",
+        "question": {
+            "questionFrontendId": "2976",
+            "title": "Minimum Cost to Convert String I",
+            "titleSlug": "minimum-cost-to-convert-string-i"
+        }
     }
 }

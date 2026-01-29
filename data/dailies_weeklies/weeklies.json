@@ -3573,5 +3573,16 @@
             "titleSlug": "the-maze-iii",
             "isPaidOnly": true
         }
+    },
+    "2026-01-29": {
+        "date": "2026-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/walls-and-gates/",
+        "question": {
+            "questionFrontendId": "286",
+            "title": "Walls and Gates",
+            "titleSlug": "walls-and-gates",
+            "isPaidOnly": true
+        }
     }
 }
