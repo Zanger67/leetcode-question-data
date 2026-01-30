@@ -21298,5 +21298,15 @@
             "title": "Minimum Cost to Convert String I",
             "titleSlug": "minimum-cost-to-convert-string-i"
         }
+    },
+    "2026-01-30": {
+        "date": "2026-01-30",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-to-convert-string-ii/",
+        "question": {
+            "questionFrontendId": "2977",
+            "title": "Minimum Cost to Convert String II",
+            "titleSlug": "minimum-cost-to-convert-string-ii"
+        }
     }
 }
