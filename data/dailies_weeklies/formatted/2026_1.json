@@ -301,6 +301,16 @@
                         "title": "Minimum Cost to Convert String II",
                         "titleSlug": "minimum-cost-to-convert-string-ii"
                     }
+                },
+                {
+                    "date": "2026-01-31",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-smallest-letter-greater-than-target/",
+                    "question": {
+                        "questionFrontendId": "744",
+                        "title": "Find Smallest Letter Greater Than Target",
+                        "titleSlug": "find-smallest-letter-greater-than-target"
+                    }
                 }
             ],
             "weeklyChallenges": [
