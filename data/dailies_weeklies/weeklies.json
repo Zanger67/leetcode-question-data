@@ -3584,5 +3584,16 @@
             "titleSlug": "walls-and-gates",
             "isPaidOnly": true
         }
+    },
+    "2026-02-01": {
+        "date": "2026-02-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-hit-counter/",
+        "question": {
+            "questionFrontendId": "362",
+            "title": "Design Hit Counter",
+            "titleSlug": "design-hit-counter",
+            "isPaidOnly": true
+        }
     }
 }
