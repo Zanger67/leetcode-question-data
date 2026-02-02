@@ -11,6 +11,16 @@
                         "title": "Divide an Array Into Subarrays With Minimum Cost I",
                         "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i"
                     }
+                },
+                {
+                    "date": "2026-02-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+                    "question": {
+                        "questionFrontendId": "3013",
+                        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+                        "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
