@@ -21358,5 +21358,15 @@
             "title": "Trionic Array II",
             "titleSlug": "trionic-array-ii"
         }
+    },
+    "2026-02-05": {
+        "date": "2026-02-05",
+        "userStatus": "NotStart",
+        "link": "/problems/transformed-array/",
+        "question": {
+            "questionFrontendId": "3379",
+            "title": "Transformed Array",
+            "titleSlug": "transformed-array"
+        }
     }
 }
