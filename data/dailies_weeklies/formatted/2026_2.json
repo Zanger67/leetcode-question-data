@@ -51,6 +51,16 @@
                         "title": "Transformed Array",
                         "titleSlug": "transformed-array"
                     }
+                },
+                {
+                    "date": "2026-02-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-removals-to-balance-array/",
+                    "question": {
+                        "questionFrontendId": "3634",
+                        "title": "Minimum Removals to Balance Array",
+                        "titleSlug": "minimum-removals-to-balance-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
