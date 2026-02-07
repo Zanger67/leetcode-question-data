@@ -21378,5 +21378,15 @@
             "title": "Minimum Removals to Balance Array",
             "titleSlug": "minimum-removals-to-balance-array"
         }
+    },
+    "2026-02-07": {
+        "date": "2026-02-07",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-deletions-to-make-string-balanced/",
+        "question": {
+            "questionFrontendId": "1653",
+            "title": "Minimum Deletions to Make String Balanced",
+            "titleSlug": "minimum-deletions-to-make-string-balanced"
+        }
     }
 }
