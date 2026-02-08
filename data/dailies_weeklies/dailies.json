@@ -21388,5 +21388,15 @@
             "title": "Minimum Deletions to Make String Balanced",
             "titleSlug": "minimum-deletions-to-make-string-balanced"
         }
+    },
+    "2026-02-08": {
+        "date": "2026-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/balanced-binary-tree/",
+        "question": {
+            "questionFrontendId": "110",
+            "title": "Balanced Binary Tree",
+            "titleSlug": "balanced-binary-tree"
+        }
     }
 }

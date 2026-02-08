@@ -3595,5 +3595,16 @@
             "titleSlug": "design-hit-counter",
             "isPaidOnly": true
         }
+    },
+    "2026-02-08": {
+        "date": "2026-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/4-keys-keyboard/",
+        "question": {
+            "questionFrontendId": "651",
+            "title": "4 Keys Keyboard",
+            "titleSlug": "4-keys-keyboard",
+            "isPaidOnly": true
+        }
     }
 }

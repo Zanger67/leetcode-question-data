@@ -71,6 +71,16 @@
                         "title": "Minimum Deletions to Make String Balanced",
                         "titleSlug": "minimum-deletions-to-make-string-balanced"
                     }
+                },
+                {
+                    "date": "2026-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/balanced-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "110",
+                        "title": "Balanced Binary Tree",
+                        "titleSlug": "balanced-binary-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "362",
                         "title": "Design Hit Counter",
                         "titleSlug": "design-hit-counter",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-02-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/4-keys-keyboard/",
+                    "question": {
+                        "questionFrontendId": "651",
+                        "title": "4 Keys Keyboard",
+                        "titleSlug": "4-keys-keyboard",
                         "isPaidOnly": true
                     }
                 }
