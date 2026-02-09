@@ -81,6 +81,16 @@
                         "title": "Balanced Binary Tree",
                         "titleSlug": "balanced-binary-tree"
                     }
+                },
+                {
+                    "date": "2026-02-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/balance-a-binary-search-tree/",
+                    "question": {
+                        "questionFrontendId": "1382",
+                        "title": "Balance a Binary Search Tree",
+                        "titleSlug": "balance-a-binary-search-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
