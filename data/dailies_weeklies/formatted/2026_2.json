@@ -101,6 +101,16 @@
                         "title": "Longest Balanced Subarray I",
                         "titleSlug": "longest-balanced-subarray-i"
                     }
+                },
+                {
+                    "date": "2026-02-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-balanced-subarray-ii/",
+                    "question": {
+                        "questionFrontendId": "3721",
+                        "title": "Longest Balanced Subarray II",
+                        "titleSlug": "longest-balanced-subarray-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
