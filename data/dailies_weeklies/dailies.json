@@ -21428,5 +21428,15 @@
             "title": "Longest Balanced Subarray II",
             "titleSlug": "longest-balanced-subarray-ii"
         }
+    },
+    "2026-02-12": {
+        "date": "2026-02-12",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-balanced-substring-i/",
+        "question": {
+            "questionFrontendId": "3713",
+            "title": "Longest Balanced Substring I",
+            "titleSlug": "longest-balanced-substring-i"
+        }
     }
 }
