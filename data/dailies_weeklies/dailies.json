@@ -21448,5 +21448,15 @@
             "title": "Longest Balanced Substring II",
             "titleSlug": "longest-balanced-substring-ii"
         }
+    },
+    "2026-02-14": {
+        "date": "2026-02-14",
+        "userStatus": "NotStart",
+        "link": "/problems/champagne-tower/",
+        "question": {
+            "questionFrontendId": "799",
+            "title": "Champagne Tower",
+            "titleSlug": "champagne-tower"
+        }
     }
 }
