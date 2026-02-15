@@ -141,6 +141,16 @@
                         "title": "Champagne Tower",
                         "titleSlug": "champagne-tower"
                     }
+                },
+                {
+                    "date": "2026-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/add-binary/",
+                    "question": {
+                        "questionFrontendId": "67",
+                        "title": "Add Binary",
+                        "titleSlug": "add-binary"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "651",
                         "title": "4 Keys Keyboard",
                         "titleSlug": "4-keys-keyboard",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-02-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/valid-word-square/",
+                    "question": {
+                        "questionFrontendId": "422",
+                        "title": "Valid Word Square",
+                        "titleSlug": "valid-word-square",
                         "isPaidOnly": true
                     }
                 }

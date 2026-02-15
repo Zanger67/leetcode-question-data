@@ -3606,5 +3606,16 @@
             "titleSlug": "4-keys-keyboard",
             "isPaidOnly": true
         }
+    },
+    "2026-02-15": {
+        "date": "2026-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-word-square/",
+        "question": {
+            "questionFrontendId": "422",
+            "title": "Valid Word Square",
+            "titleSlug": "valid-word-square",
+            "isPaidOnly": true
+        }
     }
 }

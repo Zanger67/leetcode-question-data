@@ -21458,5 +21458,15 @@
             "title": "Champagne Tower",
             "titleSlug": "champagne-tower"
         }
+    },
+    "2026-02-15": {
+        "date": "2026-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/add-binary/",
+        "question": {
+            "questionFrontendId": "67",
+            "title": "Add Binary",
+            "titleSlug": "add-binary"
+        }
     }
 }
