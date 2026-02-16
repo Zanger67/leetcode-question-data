@@ -151,6 +151,16 @@
                         "title": "Add Binary",
                         "titleSlug": "add-binary"
                     }
+                },
+                {
+                    "date": "2026-02-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/reverse-bits/",
+                    "question": {
+                        "questionFrontendId": "190",
+                        "title": "Reverse Bits",
+                        "titleSlug": "reverse-bits"
+                    }
                 }
             ],
             "weeklyChallenges": [
