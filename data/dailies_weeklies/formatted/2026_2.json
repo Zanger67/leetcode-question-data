@@ -171,6 +171,16 @@
                         "title": "Binary Watch",
                         "titleSlug": "binary-watch"
                     }
+                },
+                {
+                    "date": "2026-02-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-number-with-alternating-bits/",
+                    "question": {
+                        "questionFrontendId": "693",
+                        "title": "Binary Number with Alternating Bits",
+                        "titleSlug": "binary-number-with-alternating-bits"
+                    }
                 }
             ],
             "weeklyChallenges": [
