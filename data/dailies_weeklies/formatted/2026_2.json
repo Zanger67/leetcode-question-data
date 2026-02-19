@@ -181,6 +181,16 @@
                         "title": "Binary Number with Alternating Bits",
                         "titleSlug": "binary-number-with-alternating-bits"
                     }
+                },
+                {
+                    "date": "2026-02-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-binary-substrings/",
+                    "question": {
+                        "questionFrontendId": "696",
+                        "title": "Count Binary Substrings",
+                        "titleSlug": "count-binary-substrings"
+                    }
                 }
             ],
             "weeklyChallenges": [
