@@ -21508,5 +21508,15 @@
             "title": "Count Binary Substrings",
             "titleSlug": "count-binary-substrings"
         }
+    },
+    "2026-02-20": {
+        "date": "2026-02-20",
+        "userStatus": "NotStart",
+        "link": "/problems/special-binary-string/",
+        "question": {
+            "questionFrontendId": "761",
+            "title": "Special Binary String",
+            "titleSlug": "special-binary-string"
+        }
     }
 }
