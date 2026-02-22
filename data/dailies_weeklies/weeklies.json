@@ -3617,5 +3617,16 @@
             "titleSlug": "valid-word-square",
             "isPaidOnly": true
         }
+    },
+    "2026-02-22": {
+        "date": "2026-02-22",
+        "userStatus": "NotStart",
+        "link": "/problems/rearrange-string-k-distance-apart/",
+        "question": {
+            "questionFrontendId": "358",
+            "title": "Rearrange String k Distance Apart",
+            "titleSlug": "rearrange-string-k-distance-apart",
+            "isPaidOnly": true
+        }
     }
 }

@@ -211,6 +211,16 @@
                         "title": "Prime Number of Set Bits in Binary Representation",
                         "titleSlug": "prime-number-of-set-bits-in-binary-representation"
                     }
+                },
+                {
+                    "date": "2026-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/binary-gap/",
+                    "question": {
+                        "questionFrontendId": "868",
+                        "title": "Binary Gap",
+                        "titleSlug": "binary-gap"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "422",
                         "title": "Valid Word Square",
                         "titleSlug": "valid-word-square",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-02-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rearrange-string-k-distance-apart/",
+                    "question": {
+                        "questionFrontendId": "358",
+                        "title": "Rearrange String k Distance Apart",
+                        "titleSlug": "rearrange-string-k-distance-apart",
                         "isPaidOnly": true
                     }
                 }
