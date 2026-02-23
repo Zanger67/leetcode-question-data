@@ -221,6 +221,16 @@
                         "title": "Binary Gap",
                         "titleSlug": "binary-gap"
                     }
+                },
+                {
+                    "date": "2026-02-23",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+                    "question": {
+                        "questionFrontendId": "1461",
+                        "title": "Check If a String Contains All Binary Codes of Size K",
+                        "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k"
+                    }
                 }
             ],
             "weeklyChallenges": [
