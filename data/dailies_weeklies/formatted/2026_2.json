@@ -231,6 +231,16 @@
                         "title": "Check If a String Contains All Binary Codes of Size K",
                         "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k"
                     }
+                },
+                {
+                    "date": "2026-02-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-root-to-leaf-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1022",
+                        "title": "Sum of Root To Leaf Binary Numbers",
+                        "titleSlug": "sum-of-root-to-leaf-binary-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
