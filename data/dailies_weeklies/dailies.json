@@ -21558,5 +21558,15 @@
             "title": "Sum of Root To Leaf Binary Numbers",
             "titleSlug": "sum-of-root-to-leaf-binary-numbers"
         }
+    },
+    "2026-02-25": {
+        "date": "2026-02-25",
+        "userStatus": "NotStart",
+        "link": "/problems/sort-integers-by-the-number-of-1-bits/",
+        "question": {
+            "questionFrontendId": "1356",
+            "title": "Sort Integers by The Number of 1 Bits",
+            "titleSlug": "sort-integers-by-the-number-of-1-bits"
+        }
     }
 }
