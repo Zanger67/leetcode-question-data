@@ -21568,5 +21568,15 @@
             "title": "Sort Integers by The Number of 1 Bits",
             "titleSlug": "sort-integers-by-the-number-of-1-bits"
         }
+    },
+    "2026-02-26": {
+        "date": "2026-02-26",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+        "question": {
+            "questionFrontendId": "1404",
+            "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+            "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+        }
     }
 }
