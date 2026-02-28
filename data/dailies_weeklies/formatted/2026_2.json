@@ -271,6 +271,16 @@
                         "title": "Minimum Operations to Equalize Binary String",
                         "titleSlug": "minimum-operations-to-equalize-binary-string"
                     }
+                },
+                {
+                    "date": "2026-02-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/concatenation-of-consecutive-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1680",
+                        "title": "Concatenation of Consecutive Binary Numbers",
+                        "titleSlug": "concatenation-of-consecutive-binary-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
