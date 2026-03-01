@@ -21598,5 +21598,15 @@
             "title": "Concatenation of Consecutive Binary Numbers",
             "titleSlug": "concatenation-of-consecutive-binary-numbers"
         }
+    },
+    "2026-03-01": {
+        "date": "2026-03-01",
+        "userStatus": "NotStart",
+        "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+        "question": {
+            "questionFrontendId": "1689",
+            "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+            "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers"
+        }
     }
 }

@@ -3628,5 +3628,16 @@
             "titleSlug": "rearrange-string-k-distance-apart",
             "isPaidOnly": true
         }
+    },
+    "2026-03-01": {
+        "date": "2026-03-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-excel-sum-formula/",
+        "question": {
+            "questionFrontendId": "631",
+            "title": "Design Excel Sum Formula",
+            "titleSlug": "design-excel-sum-formula",
+            "isPaidOnly": true
+        }
     }
 }

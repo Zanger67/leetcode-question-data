@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2026-03-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+                    "question": {
+                        "questionFrontendId": "1689",
+                        "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+                        "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2026-03-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-excel-sum-formula/",
+                    "question": {
+                        "questionFrontendId": "631",
+                        "title": "Design Excel Sum Formula",
+                        "titleSlug": "design-excel-sum-formula",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}
