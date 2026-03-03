@@ -21618,5 +21618,15 @@
             "title": "Minimum Swaps to Arrange a Binary Grid",
             "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
         }
+    },
+    "2026-03-03": {
+        "date": "2026-03-03",
+        "userStatus": "NotStart",
+        "link": "/problems/find-kth-bit-in-nth-binary-string/",
+        "question": {
+            "questionFrontendId": "1545",
+            "title": "Find Kth Bit in Nth Binary String",
+            "titleSlug": "find-kth-bit-in-nth-binary-string"
+        }
     }
 }
