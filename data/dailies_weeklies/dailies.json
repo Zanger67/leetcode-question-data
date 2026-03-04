@@ -21628,5 +21628,15 @@
             "title": "Find Kth Bit in Nth Binary String",
             "titleSlug": "find-kth-bit-in-nth-binary-string"
         }
+    },
+    "2026-03-04": {
+        "date": "2026-03-04",
+        "userStatus": "NotStart",
+        "link": "/problems/special-positions-in-a-binary-matrix/",
+        "question": {
+            "questionFrontendId": "1582",
+            "title": "Special Positions in a Binary Matrix",
+            "titleSlug": "special-positions-in-a-binary-matrix"
+        }
     }
 }
