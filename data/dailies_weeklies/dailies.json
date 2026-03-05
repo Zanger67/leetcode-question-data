@@ -21638,5 +21638,15 @@
             "title": "Special Positions in a Binary Matrix",
             "titleSlug": "special-positions-in-a-binary-matrix"
         }
+    },
+    "2026-03-05": {
+        "date": "2026-03-05",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-changes-to-make-alternating-binary-string/",
+        "question": {
+            "questionFrontendId": "1758",
+            "title": "Minimum Changes To Make Alternating Binary String",
+            "titleSlug": "minimum-changes-to-make-alternating-binary-string"
+        }
     }
 }
