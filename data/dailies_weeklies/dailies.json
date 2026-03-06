@@ -21648,5 +21648,15 @@
             "title": "Minimum Changes To Make Alternating Binary String",
             "titleSlug": "minimum-changes-to-make-alternating-binary-string"
         }
+    },
+    "2026-03-06": {
+        "date": "2026-03-06",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+        "question": {
+            "questionFrontendId": "1784",
+            "title": "Check if Binary String Has at Most One Segment of Ones",
+            "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones"
+        }
     }
 }
