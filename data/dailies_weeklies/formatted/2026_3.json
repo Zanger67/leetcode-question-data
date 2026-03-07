@@ -61,6 +61,16 @@
                         "title": "Check if Binary String Has at Most One Segment of Ones",
                         "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones"
                     }
+                },
+                {
+                    "date": "2026-03-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
+                    "question": {
+                        "questionFrontendId": "1888",
+                        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+                        "titleSlug": "minimum-number-of-flips-to-make-the-binary-string-alternating"
+                    }
                 }
             ],
             "weeklyChallenges": [
