@@ -1,10 +1,10 @@
 {
     "data": {
         "problemsetQuestionList": {
-            "total": 3859,
+            "total": 3864,
             "questions": [
                 {
-                    "acRate": 57.101904330996945,
+                    "acRate": 57.14001035879935,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "1",
@@ -29,7 +29,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 47.977556589865806,
+                    "acRate": 48.02649729219473,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "2",
@@ -59,7 +59,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 38.53770608906514,
+                    "acRate": 38.58544053924337,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "3",
@@ -89,7 +89,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 45.963582510664004,
+                    "acRate": 46.0186200848469,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "4",
@@ -119,7 +119,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 37.355090777403646,
+                    "acRate": 37.401272439102975,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "5",
@@ -149,7 +149,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 53.57565950541646,
+                    "acRate": 53.62887975593152,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "6",
@@ -169,7 +169,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 31.53114377570007,
+                    "acRate": 31.563778804531257,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "7",
@@ -189,7 +189,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 20.606582011691973,
+                    "acRate": 20.64394080035211,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "8",
@@ -209,7 +209,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 60.26836161248844,
+                    "acRate": 60.3021814223252,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "9",
@@ -229,7 +229,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 30.476133830616607,
+                    "acRate": 30.523335472699532,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "10",
@@ -259,7 +259,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 59.55659930519831,
+                    "acRate": 59.60238401136411,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "11",
@@ -289,7 +289,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 70.45594688694165,
+                    "acRate": 70.50319948003118,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "12",
@@ -319,7 +319,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 66.27087558628246,
+                    "acRate": 66.30864018507215,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "13",
@@ -349,7 +349,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 47.12670106384618,
+                    "acRate": 47.169237005240326,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "14",
@@ -379,7 +379,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 38.617286411514925,
+                    "acRate": 38.65906911603903,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "15",
@@ -409,7 +409,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 48.08387344276859,
+                    "acRate": 48.128326542598096,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "16",
@@ -439,7 +439,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 65.54372024062818,
+                    "acRate": 65.59653108647893,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "17",
@@ -469,7 +469,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 40.044984967672654,
+                    "acRate": 40.09830611010285,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "18",
@@ -499,7 +499,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 51.01945403428855,
+                    "acRate": 51.076023062508405,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "19",
@@ -524,7 +524,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 43.73680898057941,
+                    "acRate": 43.77810888356726,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "20",
@@ -549,7 +549,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 67.95353449338369,
+                    "acRate": 67.98582086667786,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "21",
@@ -574,7 +574,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 78.29040477904779,
+                    "acRate": 78.33865530168308,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "22",
@@ -604,7 +604,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 58.934148955083174,
+                    "acRate": 59.00010002618572,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "23",
@@ -639,7 +639,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 68.9836009015969,
+                    "acRate": 69.0358438498031,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "24",
@@ -664,7 +664,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 65.40181248558893,
+                    "acRate": 65.47687365732868,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "25",
@@ -689,7 +689,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 62.30304734591541,
+                    "acRate": 62.352085861186794,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "26",
@@ -714,7 +714,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 61.40280323886087,
+                    "acRate": 61.43914435356077,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "27",
@@ -739,7 +739,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 46.27301262504523,
+                    "acRate": 46.30787412002501,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "28",
@@ -769,7 +769,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 19.418657493527412,
+                    "acRate": 19.44865281793379,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "29",
@@ -794,7 +794,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 34.020564765794035,
+                    "acRate": 34.05229739107434,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "30",
@@ -824,7 +824,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 44.76916145284004,
+                    "acRate": 44.81216815939212,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "31",
@@ -849,7 +849,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 38.10535612985689,
+                    "acRate": 38.18537588049464,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "32",
@@ -879,7 +879,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 44.14326391891094,
+                    "acRate": 44.17771979490387,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "33",
@@ -904,7 +904,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 48.39367160343422,
+                    "acRate": 48.43925198639008,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "34",
@@ -929,7 +929,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 50.7488103208314,
+                    "acRate": 50.79998626423839,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "35",
@@ -954,7 +954,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 64.17305130642477,
+                    "acRate": 64.20684190544725,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "36",
@@ -984,7 +984,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 65.39079877407758,
+                    "acRate": 65.39808428194476,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "37",
@@ -1019,7 +1019,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 62.35053183935276,
+                    "acRate": 62.399058275946274,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "38",
@@ -1039,7 +1039,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 76.12641596544941,
+                    "acRate": 76.1647441449563,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "39",
@@ -1064,7 +1064,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 59.01386704625027,
+                    "acRate": 59.054694933635986,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "40",
@@ -1089,7 +1089,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 42.45835730325959,
+                    "acRate": 42.50476700247495,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "41",
@@ -1114,7 +1114,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 66.82931204909237,
+                    "acRate": 66.88220486307974,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "42",
@@ -1154,7 +1154,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 43.60094841341221,
+                    "acRate": 43.64596249225047,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "43",
@@ -1184,7 +1184,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 31.416895043389403,
+                    "acRate": 31.470929668137998,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "44",
@@ -1219,7 +1219,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 42.49314722126035,
+                    "acRate": 42.52343192366266,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "45",
@@ -1249,7 +1249,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 81.65088361277623,
+                    "acRate": 81.68079240828962,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "46",
@@ -1274,7 +1274,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 63.00022875644478,
+                    "acRate": 63.04253633290874,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "47",
@@ -1304,7 +1304,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 79.35443980270132,
+                    "acRate": 79.38808481113165,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "48",
@@ -1334,7 +1334,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 72.20558609860404,
+                    "acRate": 72.24007478208713,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "49",
@@ -1369,7 +1369,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 38.2862462299764,
+                    "acRate": 38.31812062542766,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "50",
@@ -1394,7 +1394,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 74.96305595475178,
+                    "acRate": 75.01950388973802,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "51",
@@ -1419,7 +1419,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 78.1930134319668,
+                    "acRate": 78.23484448846449,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "52",
@@ -1439,7 +1439,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 52.99677939968587,
+                    "acRate": 53.02619088760876,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "53",
@@ -1469,7 +1469,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 56.18578288148046,
+                    "acRate": 56.25,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "54",
@@ -1499,7 +1499,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 40.50112573456695,
+                    "acRate": 40.531555365172984,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "55",
@@ -1529,7 +1529,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 51.210295519338864,
+                    "acRate": 51.28084040797252,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "56",
@@ -1554,7 +1554,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 44.78712657100063,
+                    "acRate": 44.82354968585663,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "57",
@@ -1574,7 +1574,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 58.31636822601597,
+                    "acRate": 58.36853199725813,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "58",
@@ -1594,7 +1594,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 74.65705769676771,
+                    "acRate": 74.69857388258919,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "59",
@@ -1624,7 +1624,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 52.19582636723751,
+                    "acRate": 52.264777286886186,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "60",
@@ -1649,7 +1649,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 41.250124532437304,
+                    "acRate": 41.29896886420052,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "61",
@@ -1674,7 +1674,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 66.57566477406107,
+                    "acRate": 66.60230938585482,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "62",
@@ -1704,7 +1704,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 44.16381329941621,
+                    "acRate": 44.19141003514107,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "63",
@@ -1734,7 +1734,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 67.83699925933603,
+                    "acRate": 67.87893168695686,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "64",
@@ -1764,7 +1764,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 22.618408223852065,
+                    "acRate": 22.655145641464983,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "65",
@@ -1784,7 +1784,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 49.56392374899189,
+                    "acRate": 49.6069836735699,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "66",
@@ -1809,7 +1809,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 57.65883963693798,
+                    "acRate": 57.70463204113005,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "67",
@@ -1844,7 +1844,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 50.45476090183255,
+                    "acRate": 50.519608108948646,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "68",
@@ -1874,7 +1874,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 41.44199950066466,
+                    "acRate": 41.481710004288686,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "69",
@@ -1899,7 +1899,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 53.913846318191005,
+                    "acRate": 53.9294798897187,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "70",
@@ -1929,7 +1929,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 50.04532289887364,
+                    "acRate": 50.095980773541704,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "71",
@@ -1954,7 +1954,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 60.155077807986814,
+                    "acRate": 60.20025911546506,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "72",
@@ -1979,7 +1979,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 62.46649553520475,
+                    "acRate": 62.50831448716243,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "73",
@@ -2009,7 +2009,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 53.55941139430664,
+                    "acRate": 53.595257120546016,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "74",
@@ -2039,7 +2039,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 69.19687079640828,
+                    "acRate": 69.23961449203468,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "75",
@@ -2069,7 +2069,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 46.98343897212688,
+                    "acRate": 47.033223824072415,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "76",
@@ -2099,7 +2099,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 74.20555094179139,
+                    "acRate": 74.24594020627879,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "77",
@@ -2119,7 +2119,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 82.06181907049857,
+                    "acRate": 82.08924088360897,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "78",
@@ -2149,7 +2149,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 46.879113109620135,
+                    "acRate": 46.92057066473958,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "79",
@@ -2189,7 +2189,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 64.30955849454806,
+                    "acRate": 64.3431662111873,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "80",
@@ -2214,7 +2214,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 39.75424237201403,
+                    "acRate": 39.78184850727593,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "81",
@@ -2239,7 +2239,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 51.34310428141563,
+                    "acRate": 51.392123449550375,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "82",
@@ -2264,7 +2264,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 56.29484537551625,
+                    "acRate": 56.337439480866855,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "83",
@@ -2284,7 +2284,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 49.36605563702028,
+                    "acRate": 49.408370332187786,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "84",
@@ -2314,7 +2314,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 58.128155670278545,
+                    "acRate": 58.1834143334006,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "85",
@@ -2354,7 +2354,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 60.62977273963257,
+                    "acRate": 60.69167888180685,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "86",
@@ -2379,7 +2379,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 43.94996101473686,
+                    "acRate": 44.01068790876595,
                     "difficulty": "Hard",
                     "freqBar": null,
                     "frontendQuestionId": "87",
@@ -2404,7 +2404,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 54.41842133407585,
+                    "acRate": 54.45474250284489,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "88",
@@ -2434,7 +2434,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 64.1280540765077,
+                    "acRate": 64.18655648834846,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "89",
@@ -2464,7 +2464,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 60.908309921289096,
+                    "acRate": 60.94426631741522,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "90",
@@ -2494,7 +2494,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 37.6438196979081,
+                    "acRate": 37.6760998466918,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "91",
@@ -2519,7 +2519,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 51.03702365902113,
+                    "acRate": 51.082364360858264,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "92",
@@ -2539,7 +2539,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 55.34807146155833,
+                    "acRate": 55.41300216354985,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "93",
@@ -2564,7 +2564,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 79.74939611650314,
+                    "acRate": 79.77984232602195,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "94",
@@ -2599,7 +2599,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 61.995567735121384,
+                    "acRate": 62.03962794165577,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "95",
@@ -2639,7 +2639,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 63.346464992786466,
+                    "acRate": 63.37804121249505,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "96",
@@ -2679,7 +2679,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 43.55033047269014,
+                    "acRate": 43.594484725557834,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "97",
@@ -2704,7 +2704,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 35.393712112241,
+                    "acRate": 35.42737280611391,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "98",
@@ -2739,7 +2739,7 @@
                     "hasVideoSolution": true
                 },
                 {
-                    "acRate": 58.8207695288183,
+                    "acRate": 58.89885583524027,
                     "difficulty": "Medium",
                     "freqBar": null,
                     "frontendQuestionId": "99",
@@ -2774,7 +2774,7 @@
                     "hasVideoSolution": false
                 },
                 {
-                    "acRate": 66.67207660308273,
+                    "acRate": 66.71424570932395,
                     "difficulty": "Easy",
                     "freqBar": null,
                     "frontendQuestionId": "100",
