@@ -71,6 +71,16 @@
                         "title": "Minimum Number of Flips to Make the Binary String Alternating",
                         "titleSlug": "minimum-number-of-flips-to-make-the-binary-string-alternating"
                     }
+                },
+                {
+                    "date": "2026-03-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-unique-binary-string/",
+                    "question": {
+                        "questionFrontendId": "1980",
+                        "title": "Find Unique Binary String",
+                        "titleSlug": "find-unique-binary-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "631",
                         "title": "Design Excel Sum Formula",
                         "titleSlug": "design-excel-sum-formula",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-03-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-log-storage-system/",
+                    "question": {
+                        "questionFrontendId": "635",
+                        "title": "Design Log Storage System",
+                        "titleSlug": "design-log-storage-system",
                         "isPaidOnly": true
                     }
                 }
