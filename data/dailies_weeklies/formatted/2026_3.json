@@ -111,6 +111,16 @@
                         "title": "Complement of Base 10 Integer",
                         "titleSlug": "complement-of-base-10-integer"
                     }
+                },
+                {
+                    "date": "2026-03-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-spanning-tree-stability-with-upgrades/",
+                    "question": {
+                        "questionFrontendId": "3600",
+                        "title": "Maximize Spanning Tree Stability with Upgrades",
+                        "titleSlug": "maximize-spanning-tree-stability-with-upgrades"
+                    }
                 }
             ],
             "weeklyChallenges": [
