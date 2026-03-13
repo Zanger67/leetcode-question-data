@@ -21718,5 +21718,15 @@
             "title": "Maximize Spanning Tree Stability with Upgrades",
             "titleSlug": "maximize-spanning-tree-stability-with-upgrades"
         }
+    },
+    "2026-03-13": {
+        "date": "2026-03-13",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+        "question": {
+            "questionFrontendId": "3296",
+            "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+            "titleSlug": "minimum-number-of-seconds-to-make-mountain-height-zero"
+        }
     }
 }
