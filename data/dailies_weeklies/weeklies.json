@@ -3650,5 +3650,16 @@
             "titleSlug": "design-log-storage-system",
             "isPaidOnly": true
         }
+    },
+    "2026-03-15": {
+        "date": "2026-03-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-search-autocomplete-system/",
+        "question": {
+            "questionFrontendId": "642",
+            "title": "Design Search Autocomplete System",
+            "titleSlug": "design-search-autocomplete-system",
+            "isPaidOnly": true
+        }
     }
 }

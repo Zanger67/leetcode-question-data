@@ -141,6 +141,16 @@
                         "title": "The k-th Lexicographical String of All Happy Strings of Length n",
                         "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
                     }
+                },
+                {
+                    "date": "2026-03-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fancy-sequence/",
+                    "question": {
+                        "questionFrontendId": "1622",
+                        "title": "Fancy Sequence",
+                        "titleSlug": "fancy-sequence"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "635",
                         "title": "Design Log Storage System",
                         "titleSlug": "design-log-storage-system",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-03-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-search-autocomplete-system/",
+                    "question": {
+                        "questionFrontendId": "642",
+                        "title": "Design Search Autocomplete System",
+                        "titleSlug": "design-search-autocomplete-system",
                         "isPaidOnly": true
                     }
                 }
