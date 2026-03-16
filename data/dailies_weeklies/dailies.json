@@ -21748,5 +21748,15 @@
             "title": "Fancy Sequence",
             "titleSlug": "fancy-sequence"
         }
+    },
+    "2026-03-16": {
+        "date": "2026-03-16",
+        "userStatus": "NotStart",
+        "link": "/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+        "question": {
+            "questionFrontendId": "1878",
+            "title": "Get Biggest Three Rhombus Sums in a Grid",
+            "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid"
+        }
     }
 }
