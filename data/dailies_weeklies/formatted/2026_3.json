@@ -161,6 +161,16 @@
                         "title": "Get Biggest Three Rhombus Sums in a Grid",
                         "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid"
                     }
+                },
+                {
+                    "date": "2026-03-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/largest-submatrix-with-rearrangements/",
+                    "question": {
+                        "questionFrontendId": "1727",
+                        "title": "Largest Submatrix With Rearrangements",
+                        "titleSlug": "largest-submatrix-with-rearrangements"
+                    }
                 }
             ],
             "weeklyChallenges": [
