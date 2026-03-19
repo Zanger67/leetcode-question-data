@@ -21778,5 +21778,15 @@
             "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
             "titleSlug": "count-submatrices-with-top-left-element-and-sum-less-than-k"
         }
+    },
+    "2026-03-19": {
+        "date": "2026-03-19",
+        "userStatus": "NotStart",
+        "link": "/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+        "question": {
+            "questionFrontendId": "3212",
+            "title": "Count Submatrices With Equal Frequency of X and Y",
+            "titleSlug": "count-submatrices-with-equal-frequency-of-x-and-y"
+        }
     }
 }
