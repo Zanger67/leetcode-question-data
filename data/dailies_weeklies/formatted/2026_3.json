@@ -191,6 +191,16 @@
                         "title": "Count Submatrices With Equal Frequency of X and Y",
                         "titleSlug": "count-submatrices-with-equal-frequency-of-x-and-y"
                     }
+                },
+                {
+                    "date": "2026-03-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-absolute-difference-in-sliding-submatrix/",
+                    "question": {
+                        "questionFrontendId": "3567",
+                        "title": "Minimum Absolute Difference in Sliding Submatrix",
+                        "titleSlug": "minimum-absolute-difference-in-sliding-submatrix"
+                    }
                 }
             ],
             "weeklyChallenges": [
