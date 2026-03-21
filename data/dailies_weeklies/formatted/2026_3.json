@@ -201,6 +201,16 @@
                         "title": "Minimum Absolute Difference in Sliding Submatrix",
                         "titleSlug": "minimum-absolute-difference-in-sliding-submatrix"
                     }
+                },
+                {
+                    "date": "2026-03-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/flip-square-submatrix-vertically/",
+                    "question": {
+                        "questionFrontendId": "3643",
+                        "title": "Flip Square Submatrix Vertically",
+                        "titleSlug": "flip-square-submatrix-vertically"
+                    }
                 }
             ],
             "weeklyChallenges": [
