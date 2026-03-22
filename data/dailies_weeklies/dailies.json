@@ -21808,5 +21808,15 @@
             "title": "Flip Square Submatrix Vertically",
             "titleSlug": "flip-square-submatrix-vertically"
         }
+    },
+    "2026-03-22": {
+        "date": "2026-03-22",
+        "userStatus": "NotStart",
+        "link": "/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+        "question": {
+            "questionFrontendId": "1886",
+            "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+            "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation"
+        }
     }
 }

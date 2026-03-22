@@ -211,6 +211,16 @@
                         "title": "Flip Square Submatrix Vertically",
                         "titleSlug": "flip-square-submatrix-vertically"
                     }
+                },
+                {
+                    "date": "2026-03-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+                    "question": {
+                        "questionFrontendId": "1886",
+                        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+                        "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "642",
                         "title": "Design Search Autocomplete System",
                         "titleSlug": "design-search-autocomplete-system",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-03-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/design-most-recently-used-queue/",
+                    "question": {
+                        "questionFrontendId": "1756",
+                        "title": "Design Most Recently Used Queue",
+                        "titleSlug": "design-most-recently-used-queue",
                         "isPaidOnly": true
                     }
                 }
