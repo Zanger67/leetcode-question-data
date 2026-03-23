@@ -21818,5 +21818,15 @@
             "title": "Determine Whether Matrix Can Be Obtained By Rotation",
             "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation"
         }
+    },
+    "2026-03-23": {
+        "date": "2026-03-23",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-non-negative-product-in-a-matrix/",
+        "question": {
+            "questionFrontendId": "1594",
+            "title": "Maximum Non Negative Product in a Matrix",
+            "titleSlug": "maximum-non-negative-product-in-a-matrix"
+        }
     }
 }
