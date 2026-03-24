@@ -231,6 +231,16 @@
                         "title": "Maximum Non Negative Product in a Matrix",
                         "titleSlug": "maximum-non-negative-product-in-a-matrix"
                     }
+                },
+                {
+                    "date": "2026-03-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-product-matrix/",
+                    "question": {
+                        "questionFrontendId": "2906",
+                        "title": "Construct Product Matrix",
+                        "titleSlug": "construct-product-matrix"
+                    }
                 }
             ],
             "weeklyChallenges": [
