@@ -21838,5 +21838,15 @@
             "title": "Construct Product Matrix",
             "titleSlug": "construct-product-matrix"
         }
+    },
+    "2026-03-25": {
+        "date": "2026-03-25",
+        "userStatus": "NotStart",
+        "link": "/problems/equal-sum-grid-partition-i/",
+        "question": {
+            "questionFrontendId": "3546",
+            "title": "Equal Sum Grid Partition I",
+            "titleSlug": "equal-sum-grid-partition-i"
+        }
     }
 }
