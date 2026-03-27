@@ -261,6 +261,16 @@
                         "title": "Equal Sum Grid Partition II",
                         "titleSlug": "equal-sum-grid-partition-ii"
                     }
+                },
+                {
+                    "date": "2026-03-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/matrix-similarity-after-cyclic-shifts/",
+                    "question": {
+                        "questionFrontendId": "2946",
+                        "title": "Matrix Similarity After Cyclic Shifts",
+                        "titleSlug": "matrix-similarity-after-cyclic-shifts"
+                    }
                 }
             ],
             "weeklyChallenges": [
