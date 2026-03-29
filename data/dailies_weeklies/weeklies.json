@@ -3672,5 +3672,16 @@
             "titleSlug": "design-most-recently-used-queue",
             "isPaidOnly": true
         }
+    },
+    "2026-03-29": {
+        "date": "2026-03-29",
+        "userStatus": "NotStart",
+        "link": "/problems/design-phone-directory/",
+        "question": {
+            "questionFrontendId": "379",
+            "title": "Design Phone Directory",
+            "titleSlug": "design-phone-directory",
+            "isPaidOnly": true
+        }
     }
 }
