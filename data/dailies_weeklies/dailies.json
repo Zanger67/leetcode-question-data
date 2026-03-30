@@ -21888,5 +21888,15 @@
             "title": "Check if Strings Can be Made Equal With Operations I",
             "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i"
         }
+    },
+    "2026-03-30": {
+        "date": "2026-03-30",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+        "question": {
+            "questionFrontendId": "2840",
+            "title": "Check if Strings Can be Made Equal With Operations II",
+            "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii"
+        }
     }
 }
