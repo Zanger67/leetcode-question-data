@@ -21898,5 +21898,15 @@
             "title": "Check if Strings Can be Made Equal With Operations II",
             "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii"
         }
+    },
+    "2026-03-31": {
+        "date": "2026-03-31",
+        "userStatus": "NotStart",
+        "link": "/problems/lexicographically-smallest-generated-string/",
+        "question": {
+            "questionFrontendId": "3474",
+            "title": "Lexicographically Smallest Generated String",
+            "titleSlug": "lexicographically-smallest-generated-string"
+        }
     }
 }
