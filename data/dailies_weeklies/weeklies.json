@@ -3683,5 +3683,16 @@
             "titleSlug": "design-phone-directory",
             "isPaidOnly": true
         }
+    },
+    "2026-04-01": {
+        "date": "2026-04-01",
+        "userStatus": "NotStart",
+        "link": "/problems/kill-process/",
+        "question": {
+            "questionFrontendId": "582",
+            "title": "Kill Process",
+            "titleSlug": "kill-process",
+            "isPaidOnly": true
+        }
     }
 }
