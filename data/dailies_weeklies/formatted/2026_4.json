@@ -11,6 +11,16 @@
                         "title": "Robot Collisions",
                         "titleSlug": "robot-collisions"
                     }
+                },
+                {
+                    "date": "2026-04-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-amount-of-money-robot-can-earn/",
+                    "question": {
+                        "questionFrontendId": "3418",
+                        "title": "Maximum Amount of Money Robot Can Earn",
+                        "titleSlug": "maximum-amount-of-money-robot-can-earn"
+                    }
                 }
             ],
             "weeklyChallenges": [
