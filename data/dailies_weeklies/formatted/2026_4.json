@@ -41,6 +41,16 @@
                         "title": "Decode the Slanted Ciphertext",
                         "titleSlug": "decode-the-slanted-ciphertext"
                     }
+                },
+                {
+                    "date": "2026-04-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/robot-return-to-origin/",
+                    "question": {
+                        "questionFrontendId": "657",
+                        "title": "Robot Return to Origin",
+                        "titleSlug": "robot-return-to-origin"
+                    }
                 }
             ],
             "weeklyChallenges": [
