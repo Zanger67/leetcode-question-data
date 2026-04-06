@@ -51,6 +51,16 @@
                         "title": "Robot Return to Origin",
                         "titleSlug": "robot-return-to-origin"
                     }
+                },
+                {
+                    "date": "2026-04-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/walking-robot-simulation/",
+                    "question": {
+                        "questionFrontendId": "874",
+                        "title": "Walking Robot Simulation",
+                        "titleSlug": "walking-robot-simulation"
+                    }
                 }
             ],
             "weeklyChallenges": [
