@@ -21968,5 +21968,15 @@
             "title": "Walking Robot Simulation",
             "titleSlug": "walking-robot-simulation"
         }
+    },
+    "2026-04-07": {
+        "date": "2026-04-07",
+        "userStatus": "NotStart",
+        "link": "/problems/walking-robot-simulation-ii/",
+        "question": {
+            "questionFrontendId": "2069",
+            "title": "Walking Robot Simulation II",
+            "titleSlug": "walking-robot-simulation-ii"
+        }
     }
 }
