@@ -71,6 +71,16 @@
                         "title": "Walking Robot Simulation II",
                         "titleSlug": "walking-robot-simulation-ii"
                     }
+                },
+                {
+                    "date": "2026-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/xor-after-range-multiplication-queries-i/",
+                    "question": {
+                        "questionFrontendId": "3653",
+                        "title": "XOR After Range Multiplication Queries I",
+                        "titleSlug": "xor-after-range-multiplication-queries-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "582",
                         "title": "Kill Process",
                         "titleSlug": "kill-process",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-04-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/pour-water/",
+                    "question": {
+                        "questionFrontendId": "755",
+                        "title": "Pour Water",
+                        "titleSlug": "pour-water",
                         "isPaidOnly": true
                     }
                 }

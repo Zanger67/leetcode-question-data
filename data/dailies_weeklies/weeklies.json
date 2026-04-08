@@ -3694,5 +3694,16 @@
             "titleSlug": "kill-process",
             "isPaidOnly": true
         }
+    },
+    "2026-04-08": {
+        "date": "2026-04-08",
+        "userStatus": "NotStart",
+        "link": "/problems/pour-water/",
+        "question": {
+            "questionFrontendId": "755",
+            "title": "Pour Water",
+            "titleSlug": "pour-water",
+            "isPaidOnly": true
+        }
     }
 }
