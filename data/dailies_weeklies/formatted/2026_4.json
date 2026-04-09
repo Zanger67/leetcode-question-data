@@ -81,6 +81,16 @@
                         "title": "XOR After Range Multiplication Queries I",
                         "titleSlug": "xor-after-range-multiplication-queries-i"
                     }
+                },
+                {
+                    "date": "2026-04-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/xor-after-range-multiplication-queries-ii/",
+                    "question": {
+                        "questionFrontendId": "3655",
+                        "title": "XOR After Range Multiplication Queries II",
+                        "titleSlug": "xor-after-range-multiplication-queries-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
