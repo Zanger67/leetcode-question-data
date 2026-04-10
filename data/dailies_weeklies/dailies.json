@@ -21998,5 +21998,15 @@
             "title": "XOR After Range Multiplication Queries II",
             "titleSlug": "xor-after-range-multiplication-queries-ii"
         }
+    },
+    "2026-04-10": {
+        "date": "2026-04-10",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-distance-between-three-equal-elements-i/",
+        "question": {
+            "questionFrontendId": "3740",
+            "title": "Minimum Distance Between Three Equal Elements I",
+            "titleSlug": "minimum-distance-between-three-equal-elements-i"
+        }
     }
 }
