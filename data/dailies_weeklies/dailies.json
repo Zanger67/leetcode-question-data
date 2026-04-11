@@ -22008,5 +22008,15 @@
             "title": "Minimum Distance Between Three Equal Elements I",
             "titleSlug": "minimum-distance-between-three-equal-elements-i"
         }
+    },
+    "2026-04-11": {
+        "date": "2026-04-11",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-distance-between-three-equal-elements-ii/",
+        "question": {
+            "questionFrontendId": "3741",
+            "title": "Minimum Distance Between Three Equal Elements II",
+            "titleSlug": "minimum-distance-between-three-equal-elements-ii"
+        }
     }
 }
