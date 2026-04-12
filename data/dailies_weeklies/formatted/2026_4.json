@@ -111,6 +111,16 @@
                         "title": "Minimum Distance Between Three Equal Elements II",
                         "titleSlug": "minimum-distance-between-three-equal-elements-ii"
                     }
+                },
+                {
+                    "date": "2026-04-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+                    "question": {
+                        "questionFrontendId": "1320",
+                        "title": "Minimum Distance to Type a Word Using Two Fingers",
+                        "titleSlug": "minimum-distance-to-type-a-word-using-two-fingers"
+                    }
                 }
             ],
             "weeklyChallenges": [
