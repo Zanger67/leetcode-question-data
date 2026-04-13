@@ -121,6 +121,16 @@
                         "title": "Minimum Distance to Type a Word Using Two Fingers",
                         "titleSlug": "minimum-distance-to-type-a-word-using-two-fingers"
                     }
+                },
+                {
+                    "date": "2026-04-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-distance-to-the-target-element/",
+                    "question": {
+                        "questionFrontendId": "1848",
+                        "title": "Minimum Distance to the Target Element",
+                        "titleSlug": "minimum-distance-to-the-target-element"
+                    }
                 }
             ],
             "weeklyChallenges": [
