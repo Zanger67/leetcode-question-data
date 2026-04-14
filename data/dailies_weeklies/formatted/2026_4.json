@@ -131,6 +131,16 @@
                         "title": "Minimum Distance to the Target Element",
                         "titleSlug": "minimum-distance-to-the-target-element"
                     }
+                },
+                {
+                    "date": "2026-04-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-total-distance-traveled/",
+                    "question": {
+                        "questionFrontendId": "2463",
+                        "title": "Minimum Total Distance Traveled",
+                        "titleSlug": "minimum-total-distance-traveled"
+                    }
                 }
             ],
             "weeklyChallenges": [
