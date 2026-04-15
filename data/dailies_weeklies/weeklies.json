@@ -3705,5 +3705,16 @@
             "titleSlug": "pour-water",
             "isPaidOnly": true
         }
+    },
+    "2026-04-15": {
+        "date": "2026-04-15",
+        "userStatus": "NotStart",
+        "link": "/problems/missing-ranges/",
+        "question": {
+            "questionFrontendId": "163",
+            "title": "Missing Ranges",
+            "titleSlug": "missing-ranges",
+            "isPaidOnly": true
+        }
     }
 }

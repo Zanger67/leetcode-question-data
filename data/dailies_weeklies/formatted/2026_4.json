@@ -141,6 +141,16 @@
                         "title": "Minimum Total Distance Traveled",
                         "titleSlug": "minimum-total-distance-traveled"
                     }
+                },
+                {
+                    "date": "2026-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-distance-to-target-string-in-a-circular-array/",
+                    "question": {
+                        "questionFrontendId": "2515",
+                        "title": "Shortest Distance to Target String in a Circular Array",
+                        "titleSlug": "shortest-distance-to-target-string-in-a-circular-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "755",
                         "title": "Pour Water",
                         "titleSlug": "pour-water",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-04-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/missing-ranges/",
+                    "question": {
+                        "questionFrontendId": "163",
+                        "title": "Missing Ranges",
+                        "titleSlug": "missing-ranges",
                         "isPaidOnly": true
                     }
                 }
