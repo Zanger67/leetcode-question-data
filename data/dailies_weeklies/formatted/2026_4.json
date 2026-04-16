@@ -151,6 +151,16 @@
                         "title": "Shortest Distance to Target String in a Circular Array",
                         "titleSlug": "shortest-distance-to-target-string-in-a-circular-array"
                     }
+                },
+                {
+                    "date": "2026-04-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/closest-equal-element-queries/",
+                    "question": {
+                        "questionFrontendId": "3488",
+                        "title": "Closest Equal Element Queries",
+                        "titleSlug": "closest-equal-element-queries"
+                    }
                 }
             ],
             "weeklyChallenges": [
