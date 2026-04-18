@@ -22078,5 +22078,15 @@
             "title": "Minimum Absolute Distance Between Mirror Pairs",
             "titleSlug": "minimum-absolute-distance-between-mirror-pairs"
         }
+    },
+    "2026-04-18": {
+        "date": "2026-04-18",
+        "userStatus": "NotStart",
+        "link": "/problems/mirror-distance-of-an-integer/",
+        "question": {
+            "questionFrontendId": "3783",
+            "title": "Mirror Distance of an Integer",
+            "titleSlug": "mirror-distance-of-an-integer"
+        }
     }
 }
