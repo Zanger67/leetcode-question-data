@@ -22088,5 +22088,15 @@
             "title": "Mirror Distance of an Integer",
             "titleSlug": "mirror-distance-of-an-integer"
         }
+    },
+    "2026-04-19": {
+        "date": "2026-04-19",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-distance-between-a-pair-of-values/",
+        "question": {
+            "questionFrontendId": "1855",
+            "title": "Maximum Distance Between a Pair of Values",
+            "titleSlug": "maximum-distance-between-a-pair-of-values"
+        }
     }
 }
