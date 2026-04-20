@@ -22098,5 +22098,15 @@
             "title": "Maximum Distance Between a Pair of Values",
             "titleSlug": "maximum-distance-between-a-pair-of-values"
         }
+    },
+    "2026-04-20": {
+        "date": "2026-04-20",
+        "userStatus": "NotStart",
+        "link": "/problems/two-furthest-houses-with-different-colors/",
+        "question": {
+            "questionFrontendId": "2078",
+            "title": "Two Furthest Houses With Different Colors",
+            "titleSlug": "two-furthest-houses-with-different-colors"
+        }
     }
 }
