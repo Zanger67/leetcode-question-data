@@ -201,6 +201,16 @@
                         "title": "Two Furthest Houses With Different Colors",
                         "titleSlug": "two-furthest-houses-with-different-colors"
                     }
+                },
+                {
+                    "date": "2026-04-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimize-hamming-distance-after-swap-operations/",
+                    "question": {
+                        "questionFrontendId": "1722",
+                        "title": "Minimize Hamming Distance After Swap Operations",
+                        "titleSlug": "minimize-hamming-distance-after-swap-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
