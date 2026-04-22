@@ -211,6 +211,16 @@
                         "title": "Minimize Hamming Distance After Swap Operations",
                         "titleSlug": "minimize-hamming-distance-after-swap-operations"
                     }
+                },
+                {
+                    "date": "2026-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/words-within-two-edits-of-dictionary/",
+                    "question": {
+                        "questionFrontendId": "2452",
+                        "title": "Words Within Two Edits of Dictionary",
+                        "titleSlug": "words-within-two-edits-of-dictionary"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "163",
                         "title": "Missing Ranges",
                         "titleSlug": "missing-ranges",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-04-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/zigzag-iterator/",
+                    "question": {
+                        "questionFrontendId": "281",
+                        "title": "Zigzag Iterator",
+                        "titleSlug": "zigzag-iterator",
                         "isPaidOnly": true
                     }
                 }
