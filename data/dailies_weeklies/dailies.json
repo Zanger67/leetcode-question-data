@@ -22138,5 +22138,15 @@
             "title": "Sum of Distances",
             "titleSlug": "sum-of-distances"
         }
+    },
+    "2026-04-24": {
+        "date": "2026-04-24",
+        "userStatus": "NotStart",
+        "link": "/problems/furthest-point-from-origin/",
+        "question": {
+            "questionFrontendId": "2833",
+            "title": "Furthest Point From Origin",
+            "titleSlug": "furthest-point-from-origin"
+        }
     }
 }
