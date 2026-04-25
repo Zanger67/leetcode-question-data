@@ -22148,5 +22148,15 @@
             "title": "Furthest Point From Origin",
             "titleSlug": "furthest-point-from-origin"
         }
+    },
+    "2026-04-25": {
+        "date": "2026-04-25",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-the-distance-between-points-on-a-square/",
+        "question": {
+            "questionFrontendId": "3464",
+            "title": "Maximize the Distance Between Points on a Square",
+            "titleSlug": "maximize-the-distance-between-points-on-a-square"
+        }
     }
 }
