@@ -251,6 +251,16 @@
                         "title": "Maximize the Distance Between Points on a Square",
                         "titleSlug": "maximize-the-distance-between-points-on-a-square"
                     }
+                },
+                {
+                    "date": "2026-04-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/detect-cycles-in-2d-grid/",
+                    "question": {
+                        "questionFrontendId": "1559",
+                        "title": "Detect Cycles in 2D Grid",
+                        "titleSlug": "detect-cycles-in-2d-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
