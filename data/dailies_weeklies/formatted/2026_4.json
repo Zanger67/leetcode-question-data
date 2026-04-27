@@ -261,6 +261,16 @@
                         "title": "Detect Cycles in 2D Grid",
                         "titleSlug": "detect-cycles-in-2d-grid"
                     }
+                },
+                {
+                    "date": "2026-04-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-there-is-a-valid-path-in-a-grid/",
+                    "question": {
+                        "questionFrontendId": "1391",
+                        "title": "Check if There is a Valid Path in a Grid",
+                        "titleSlug": "check-if-there-is-a-valid-path-in-a-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
