@@ -22188,5 +22188,15 @@
             "title": "Minimum Operations to Make a Uni-Value Grid",
             "titleSlug": "minimum-operations-to-make-a-uni-value-grid"
         }
+    },
+    "2026-04-29": {
+        "date": "2026-04-29",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-score-from-grid-operations/",
+        "question": {
+            "questionFrontendId": "3225",
+            "title": "Maximum Score From Grid Operations",
+            "titleSlug": "maximum-score-from-grid-operations"
+        }
     }
 }

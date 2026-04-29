@@ -3727,5 +3727,16 @@
             "titleSlug": "zigzag-iterator",
             "isPaidOnly": true
         }
+    },
+    "2026-04-29": {
+        "date": "2026-04-29",
+        "userStatus": "NotStart",
+        "link": "/problems/all-paths-from-source-lead-to-destination/",
+        "question": {
+            "questionFrontendId": "1059",
+            "title": "All Paths from Source Lead to Destination",
+            "titleSlug": "all-paths-from-source-lead-to-destination",
+            "isPaidOnly": true
+        }
     }
 }
