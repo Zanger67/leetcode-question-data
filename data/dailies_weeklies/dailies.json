@@ -22208,5 +22208,15 @@
             "title": "Maximum Path Score in a Grid",
             "titleSlug": "maximum-path-score-in-a-grid"
         }
+    },
+    "2026-05-01": {
+        "date": "2026-05-01",
+        "userStatus": "NotStart",
+        "link": "/problems/rotate-function/",
+        "question": {
+            "questionFrontendId": "396",
+            "title": "Rotate Function",
+            "titleSlug": "rotate-function"
+        }
     }
 }

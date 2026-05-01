@@ -3738,5 +3738,16 @@
             "titleSlug": "all-paths-from-source-lead-to-destination",
             "isPaidOnly": true
         }
+    },
+    "2026-05-01": {
+        "date": "2026-05-01",
+        "userStatus": "NotStart",
+        "link": "/problems/employee-free-time/",
+        "question": {
+            "questionFrontendId": "759",
+            "title": "Employee Free Time",
+            "titleSlug": "employee-free-time",
+            "isPaidOnly": true
+        }
     }
 }
