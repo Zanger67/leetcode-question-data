@@ -22218,5 +22218,15 @@
             "title": "Rotate Function",
             "titleSlug": "rotate-function"
         }
+    },
+    "2026-05-02": {
+        "date": "2026-05-02",
+        "userStatus": "NotStart",
+        "link": "/problems/rotated-digits/",
+        "question": {
+            "questionFrontendId": "788",
+            "title": "Rotated Digits",
+            "titleSlug": "rotated-digits"
+        }
     }
 }
