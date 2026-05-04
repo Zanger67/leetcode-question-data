@@ -22238,5 +22238,15 @@
             "title": "Rotate String",
             "titleSlug": "rotate-string"
         }
+    },
+    "2026-05-04": {
+        "date": "2026-05-04",
+        "userStatus": "NotStart",
+        "link": "/problems/rotate-image/",
+        "question": {
+            "questionFrontendId": "48",
+            "title": "Rotate Image",
+            "titleSlug": "rotate-image"
+        }
     }
 }
