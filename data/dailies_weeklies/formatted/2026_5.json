@@ -41,6 +41,16 @@
                         "title": "Rotate Image",
                         "titleSlug": "rotate-image"
                     }
+                },
+                {
+                    "date": "2026-05-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotate-list/",
+                    "question": {
+                        "questionFrontendId": "61",
+                        "title": "Rotate List",
+                        "titleSlug": "rotate-list"
+                    }
                 }
             ],
             "weeklyChallenges": [
