@@ -51,6 +51,16 @@
                         "title": "Rotate List",
                         "titleSlug": "rotate-list"
                     }
+                },
+                {
+                    "date": "2026-05-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rotating-the-box/",
+                    "question": {
+                        "questionFrontendId": "1861",
+                        "title": "Rotating the Box",
+                        "titleSlug": "rotating-the-box"
+                    }
                 }
             ],
             "weeklyChallenges": [
