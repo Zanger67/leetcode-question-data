@@ -3749,5 +3749,16 @@
             "titleSlug": "employee-free-time",
             "isPaidOnly": true
         }
+    },
+    "2026-05-08": {
+        "date": "2026-05-08",
+        "userStatus": "NotStart",
+        "link": "/problems/robot-room-cleaner/",
+        "question": {
+            "questionFrontendId": "489",
+            "title": "Robot Room Cleaner",
+            "titleSlug": "robot-room-cleaner",
+            "isPaidOnly": true
+        }
     }
 }
