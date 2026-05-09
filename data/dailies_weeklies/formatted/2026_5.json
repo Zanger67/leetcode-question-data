@@ -81,6 +81,16 @@
                         "title": "Minimum Jumps to Reach End via Prime Teleportation",
                         "titleSlug": "minimum-jumps-to-reach-end-via-prime-teleportation"
                     }
+                },
+                {
+                    "date": "2026-05-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cyclically-rotating-a-grid/",
+                    "question": {
+                        "questionFrontendId": "1914",
+                        "title": "Cyclically Rotating a Grid",
+                        "titleSlug": "cyclically-rotating-a-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
