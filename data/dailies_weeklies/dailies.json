@@ -22298,5 +22298,15 @@
             "title": "Cyclically Rotating a Grid",
             "titleSlug": "cyclically-rotating-a-grid"
         }
+    },
+    "2026-05-10": {
+        "date": "2026-05-10",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+        "question": {
+            "questionFrontendId": "2770",
+            "title": "Maximum Number of Jumps to Reach the Last Index",
+            "titleSlug": "maximum-number-of-jumps-to-reach-the-last-index"
+        }
     }
 }
