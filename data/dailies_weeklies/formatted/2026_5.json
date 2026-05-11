@@ -101,6 +101,16 @@
                         "title": "Maximum Number of Jumps to Reach the Last Index",
                         "titleSlug": "maximum-number-of-jumps-to-reach-the-last-index"
                     }
+                },
+                {
+                    "date": "2026-05-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/separate-the-digits-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "2553",
+                        "title": "Separate the Digits in an Array",
+                        "titleSlug": "separate-the-digits-in-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
