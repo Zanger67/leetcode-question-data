@@ -22318,5 +22318,15 @@
             "title": "Separate the Digits in an Array",
             "titleSlug": "separate-the-digits-in-an-array"
         }
+    },
+    "2026-05-12": {
+        "date": "2026-05-12",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-initial-energy-to-finish-tasks/",
+        "question": {
+            "questionFrontendId": "1665",
+            "title": "Minimum Initial Energy to Finish Tasks",
+            "titleSlug": "minimum-initial-energy-to-finish-tasks"
+        }
     }
 }
