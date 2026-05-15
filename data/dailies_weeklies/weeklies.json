@@ -3760,5 +3760,16 @@
             "titleSlug": "robot-room-cleaner",
             "isPaidOnly": true
         }
+    },
+    "2026-05-15": {
+        "date": "2026-05-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-spaces-cleaning-robot-cleaned/",
+        "question": {
+            "questionFrontendId": "2061",
+            "title": "Number of Spaces Cleaning Robot Cleaned",
+            "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+            "isPaidOnly": true
+        }
     }
 }
