@@ -181,6 +181,16 @@
                         "title": "Jump Game IV",
                         "titleSlug": "jump-game-iv"
                     }
+                },
+                {
+                    "date": "2026-05-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-common-value/",
+                    "question": {
+                        "questionFrontendId": "2540",
+                        "title": "Minimum Common Value",
+                        "titleSlug": "minimum-common-value"
+                    }
                 }
             ],
             "weeklyChallenges": [
