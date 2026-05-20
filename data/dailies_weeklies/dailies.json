@@ -22398,5 +22398,15 @@
             "title": "Minimum Common Value",
             "titleSlug": "minimum-common-value"
         }
+    },
+    "2026-05-20": {
+        "date": "2026-05-20",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-prefix-common-array-of-two-arrays/",
+        "question": {
+            "questionFrontendId": "2657",
+            "title": "Find the Prefix Common Array of Two Arrays",
+            "titleSlug": "find-the-prefix-common-array-of-two-arrays"
+        }
     }
 }
