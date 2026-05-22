@@ -211,6 +211,16 @@
                         "title": "Find the Length of the Longest Common Prefix",
                         "titleSlug": "find-the-length-of-the-longest-common-prefix"
                     }
+                },
+                {
+                    "date": "2026-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/search-in-rotated-sorted-array/",
+                    "question": {
+                        "questionFrontendId": "33",
+                        "title": "Search in Rotated Sorted Array",
+                        "titleSlug": "search-in-rotated-sorted-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "2061",
                         "title": "Number of Spaces Cleaning Robot Cleaned",
                         "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-05-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/fixed-point/",
+                    "question": {
+                        "questionFrontendId": "1064",
+                        "title": "Fixed Point",
+                        "titleSlug": "fixed-point",
                         "isPaidOnly": true
                     }
                 }

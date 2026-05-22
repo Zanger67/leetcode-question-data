@@ -3771,5 +3771,16 @@
             "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
             "isPaidOnly": true
         }
+    },
+    "2026-05-22": {
+        "date": "2026-05-22",
+        "userStatus": "NotStart",
+        "link": "/problems/fixed-point/",
+        "question": {
+            "questionFrontendId": "1064",
+            "title": "Fixed Point",
+            "titleSlug": "fixed-point",
+            "isPaidOnly": true
+        }
     }
 }
