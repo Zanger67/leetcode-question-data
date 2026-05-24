@@ -22438,5 +22438,15 @@
             "title": "Check if Array Is Sorted and Rotated",
             "titleSlug": "check-if-array-is-sorted-and-rotated"
         }
+    },
+    "2026-05-24": {
+        "date": "2026-05-24",
+        "userStatus": "NotStart",
+        "link": "/problems/jump-game-v/",
+        "question": {
+            "questionFrontendId": "1340",
+            "title": "Jump Game V",
+            "titleSlug": "jump-game-v"
+        }
     }
 }
