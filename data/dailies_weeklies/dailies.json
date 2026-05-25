@@ -22448,5 +22448,15 @@
             "title": "Jump Game V",
             "titleSlug": "jump-game-v"
         }
+    },
+    "2026-05-25": {
+        "date": "2026-05-25",
+        "userStatus": "NotStart",
+        "link": "/problems/jump-game-vii/",
+        "question": {
+            "questionFrontendId": "1871",
+            "title": "Jump Game VII",
+            "titleSlug": "jump-game-vii"
+        }
     }
 }
