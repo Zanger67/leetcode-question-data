@@ -22458,5 +22458,15 @@
             "title": "Jump Game VII",
             "titleSlug": "jump-game-vii"
         }
+    },
+    "2026-05-26": {
+        "date": "2026-05-26",
+        "userStatus": "NotStart",
+        "link": "/problems/count-the-number-of-special-characters-i/",
+        "question": {
+            "questionFrontendId": "3120",
+            "title": "Count the Number of Special Characters I",
+            "titleSlug": "count-the-number-of-special-characters-i"
+        }
     }
 }
