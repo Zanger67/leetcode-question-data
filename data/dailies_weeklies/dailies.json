@@ -22478,5 +22478,15 @@
             "title": "Count the Number of Special Characters II",
             "titleSlug": "count-the-number-of-special-characters-ii"
         }
+    },
+    "2026-05-28": {
+        "date": "2026-05-28",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-common-suffix-queries/",
+        "question": {
+            "questionFrontendId": "3093",
+            "title": "Longest Common Suffix Queries",
+            "titleSlug": "longest-common-suffix-queries"
+        }
     }
 }
