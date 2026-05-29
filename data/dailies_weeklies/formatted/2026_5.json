@@ -281,6 +281,16 @@
                         "title": "Longest Common Suffix Queries",
                         "titleSlug": "longest-common-suffix-queries"
                     }
+                },
+                {
+                    "date": "2026-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-element-after-replacement-with-digit-sum/",
+                    "question": {
+                        "questionFrontendId": "3300",
+                        "title": "Minimum Element After Replacement With Digit Sum",
+                        "titleSlug": "minimum-element-after-replacement-with-digit-sum"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "1064",
                         "title": "Fixed Point",
                         "titleSlug": "fixed-point",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-05-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/confusing-number/",
+                    "question": {
+                        "questionFrontendId": "1056",
+                        "title": "Confusing Number",
+                        "titleSlug": "confusing-number",
                         "isPaidOnly": true
                     }
                 }

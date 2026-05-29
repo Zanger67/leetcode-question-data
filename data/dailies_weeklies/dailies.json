@@ -22488,5 +22488,15 @@
             "title": "Longest Common Suffix Queries",
             "titleSlug": "longest-common-suffix-queries"
         }
+    },
+    "2026-05-29": {
+        "date": "2026-05-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-element-after-replacement-with-digit-sum/",
+        "question": {
+            "questionFrontendId": "3300",
+            "title": "Minimum Element After Replacement With Digit Sum",
+            "titleSlug": "minimum-element-after-replacement-with-digit-sum"
+        }
     }
 }
