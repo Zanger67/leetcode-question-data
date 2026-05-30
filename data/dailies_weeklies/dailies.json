@@ -22498,5 +22498,15 @@
             "title": "Minimum Element After Replacement With Digit Sum",
             "titleSlug": "minimum-element-after-replacement-with-digit-sum"
         }
+    },
+    "2026-05-30": {
+        "date": "2026-05-30",
+        "userStatus": "NotStart",
+        "link": "/problems/block-placement-queries/",
+        "question": {
+            "questionFrontendId": "3161",
+            "title": "Block Placement Queries",
+            "titleSlug": "block-placement-queries"
+        }
     }
 }
