@@ -22508,5 +22508,15 @@
             "title": "Block Placement Queries",
             "titleSlug": "block-placement-queries"
         }
+    },
+    "2026-05-31": {
+        "date": "2026-05-31",
+        "userStatus": "NotStart",
+        "link": "/problems/destroying-asteroids/",
+        "question": {
+            "questionFrontendId": "2126",
+            "title": "Destroying Asteroids",
+            "titleSlug": "destroying-asteroids"
+        }
     }
 }
