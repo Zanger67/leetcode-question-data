@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2026-06-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-of-buying-candies-with-discount/",
+                    "question": {
+                        "questionFrontendId": "2144",
+                        "title": "Minimum Cost of Buying Candies With Discount",
+                        "titleSlug": "minimum-cost-of-buying-candies-with-discount"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2026-06-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/candy-crush/",
+                    "question": {
+                        "questionFrontendId": "723",
+                        "title": "Candy Crush",
+                        "titleSlug": "candy-crush",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}

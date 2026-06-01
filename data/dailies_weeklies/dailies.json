@@ -22518,5 +22518,15 @@
             "title": "Destroying Asteroids",
             "titleSlug": "destroying-asteroids"
         }
+    },
+    "2026-06-01": {
+        "date": "2026-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-of-buying-candies-with-discount/",
+        "question": {
+            "questionFrontendId": "2144",
+            "title": "Minimum Cost of Buying Candies With Discount",
+            "titleSlug": "minimum-cost-of-buying-candies-with-discount"
+        }
     }
 }

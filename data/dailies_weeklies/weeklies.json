@@ -3793,5 +3793,16 @@
             "titleSlug": "confusing-number",
             "isPaidOnly": true
         }
+    },
+    "2026-06-01": {
+        "date": "2026-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/candy-crush/",
+        "question": {
+            "questionFrontendId": "723",
+            "title": "Candy Crush",
+            "titleSlug": "candy-crush",
+            "isPaidOnly": true
+        }
     }
 }
