@@ -22538,5 +22538,15 @@
             "title": "Earliest Finish Time for Land and Water Rides I",
             "titleSlug": "earliest-finish-time-for-land-and-water-rides-i"
         }
+    },
+    "2026-06-03": {
+        "date": "2026-06-03",
+        "userStatus": "NotStart",
+        "link": "/problems/earliest-finish-time-for-land-and-water-rides-ii/",
+        "question": {
+            "questionFrontendId": "3635",
+            "title": "Earliest Finish Time for Land and Water Rides II",
+            "titleSlug": "earliest-finish-time-for-land-and-water-rides-ii"
+        }
     }
 }
