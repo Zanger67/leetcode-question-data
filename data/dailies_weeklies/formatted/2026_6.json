@@ -41,6 +41,16 @@
                         "title": "Total Waviness of Numbers in Range I",
                         "titleSlug": "total-waviness-of-numbers-in-range-i"
                     }
+                },
+                {
+                    "date": "2026-06-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/total-waviness-of-numbers-in-range-ii/",
+                    "question": {
+                        "questionFrontendId": "3753",
+                        "title": "Total Waviness of Numbers in Range II",
+                        "titleSlug": "total-waviness-of-numbers-in-range-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
