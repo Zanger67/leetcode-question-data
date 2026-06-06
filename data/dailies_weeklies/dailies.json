@@ -22568,5 +22568,15 @@
             "title": "Total Waviness of Numbers in Range II",
             "titleSlug": "total-waviness-of-numbers-in-range-ii"
         }
+    },
+    "2026-06-06": {
+        "date": "2026-06-06",
+        "userStatus": "NotStart",
+        "link": "/problems/left-and-right-sum-differences/",
+        "question": {
+            "questionFrontendId": "2574",
+            "title": "Left and Right Sum Differences",
+            "titleSlug": "left-and-right-sum-differences"
+        }
     }
 }
