@@ -22578,5 +22578,15 @@
             "title": "Left and Right Sum Differences",
             "titleSlug": "left-and-right-sum-differences"
         }
+    },
+    "2026-06-07": {
+        "date": "2026-06-07",
+        "userStatus": "NotStart",
+        "link": "/problems/create-binary-tree-from-descriptions/",
+        "question": {
+            "questionFrontendId": "2196",
+            "title": "Create Binary Tree From Descriptions",
+            "titleSlug": "create-binary-tree-from-descriptions"
+        }
     }
 }
