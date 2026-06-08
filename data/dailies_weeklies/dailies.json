@@ -22588,5 +22588,15 @@
             "title": "Create Binary Tree From Descriptions",
             "titleSlug": "create-binary-tree-from-descriptions"
         }
+    },
+    "2026-06-08": {
+        "date": "2026-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/partition-array-according-to-given-pivot/",
+        "question": {
+            "questionFrontendId": "2161",
+            "title": "Partition Array According to Given Pivot",
+            "titleSlug": "partition-array-according-to-given-pivot"
+        }
     }
 }

@@ -71,6 +71,16 @@
                         "title": "Create Binary Tree From Descriptions",
                         "titleSlug": "create-binary-tree-from-descriptions"
                     }
+                },
+                {
+                    "date": "2026-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/partition-array-according-to-given-pivot/",
+                    "question": {
+                        "questionFrontendId": "2161",
+                        "title": "Partition Array According to Given Pivot",
+                        "titleSlug": "partition-array-according-to-given-pivot"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "723",
                         "title": "Candy Crush",
                         "titleSlug": "candy-crush",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-06-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+                    "question": {
+                        "questionFrontendId": "2107",
+                        "title": "Number of Unique Flavors After Sharing K Candies",
+                        "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
                         "isPaidOnly": true
                     }
                 }

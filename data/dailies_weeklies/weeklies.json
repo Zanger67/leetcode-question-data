@@ -3804,5 +3804,16 @@
             "titleSlug": "candy-crush",
             "isPaidOnly": true
         }
+    },
+    "2026-06-08": {
+        "date": "2026-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+        "question": {
+            "questionFrontendId": "2107",
+            "title": "Number of Unique Flavors After Sharing K Candies",
+            "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+            "isPaidOnly": true
+        }
     }
 }
