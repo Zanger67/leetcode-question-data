@@ -91,6 +91,16 @@
                         "title": "Maximum Total Subarray Value I",
                         "titleSlug": "maximum-total-subarray-value-i"
                     }
+                },
+                {
+                    "date": "2026-06-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-total-subarray-value-ii/",
+                    "question": {
+                        "questionFrontendId": "3691",
+                        "title": "Maximum Total Subarray Value II",
+                        "titleSlug": "maximum-total-subarray-value-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
