@@ -22628,5 +22628,15 @@
             "title": "Number of Ways to Assign Edge Weights I",
             "titleSlug": "number-of-ways-to-assign-edge-weights-i"
         }
+    },
+    "2026-06-12": {
+        "date": "2026-06-12",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-ways-to-assign-edge-weights-ii/",
+        "question": {
+            "questionFrontendId": "3559",
+            "title": "Number of Ways to Assign Edge Weights II",
+            "titleSlug": "number-of-ways-to-assign-edge-weights-ii"
+        }
     }
 }
