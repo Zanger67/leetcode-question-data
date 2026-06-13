@@ -22638,5 +22638,15 @@
             "title": "Number of Ways to Assign Edge Weights II",
             "titleSlug": "number-of-ways-to-assign-edge-weights-ii"
         }
+    },
+    "2026-06-13": {
+        "date": "2026-06-13",
+        "userStatus": "NotStart",
+        "link": "/problems/weighted-word-mapping/",
+        "question": {
+            "questionFrontendId": "3838",
+            "title": "Weighted Word Mapping",
+            "titleSlug": "weighted-word-mapping"
+        }
     }
 }
