@@ -131,6 +131,16 @@
                         "title": "Weighted Word Mapping",
                         "titleSlug": "weighted-word-mapping"
                     }
+                },
+                {
+                    "date": "2026-06-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-twin-sum-of-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "2130",
+                        "title": "Maximum Twin Sum of a Linked List",
+                        "titleSlug": "maximum-twin-sum-of-a-linked-list"
+                    }
                 }
             ],
             "weeklyChallenges": [
