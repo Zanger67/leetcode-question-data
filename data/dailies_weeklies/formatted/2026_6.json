@@ -141,6 +141,16 @@
                         "title": "Maximum Twin Sum of a Linked List",
                         "titleSlug": "maximum-twin-sum-of-a-linked-list"
                     }
+                },
+                {
+                    "date": "2026-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/delete-the-middle-node-of-a-linked-list/",
+                    "question": {
+                        "questionFrontendId": "2095",
+                        "title": "Delete the Middle Node of a Linked List",
+                        "titleSlug": "delete-the-middle-node-of-a-linked-list"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "2107",
                         "title": "Number of Unique Flavors After Sharing K Candies",
                         "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-06-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/handshakes-that-dont-cross/",
+                    "question": {
+                        "questionFrontendId": "1259",
+                        "title": "Handshakes That Don't Cross",
+                        "titleSlug": "handshakes-that-dont-cross",
                         "isPaidOnly": true
                     }
                 }

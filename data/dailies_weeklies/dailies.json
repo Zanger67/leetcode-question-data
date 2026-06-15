@@ -22658,5 +22658,15 @@
             "title": "Maximum Twin Sum of a Linked List",
             "titleSlug": "maximum-twin-sum-of-a-linked-list"
         }
+    },
+    "2026-06-15": {
+        "date": "2026-06-15",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-the-middle-node-of-a-linked-list/",
+        "question": {
+            "questionFrontendId": "2095",
+            "title": "Delete the Middle Node of a Linked List",
+            "titleSlug": "delete-the-middle-node-of-a-linked-list"
+        }
     }
 }
