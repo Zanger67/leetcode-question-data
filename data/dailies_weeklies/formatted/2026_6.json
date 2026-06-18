@@ -171,6 +171,16 @@
                         "title": "Process String with Special Operations II",
                         "titleSlug": "process-string-with-special-operations-ii"
                     }
+                },
+                {
+                    "date": "2026-06-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/angle-between-hands-of-a-clock/",
+                    "question": {
+                        "questionFrontendId": "1344",
+                        "title": "Angle Between Hands of a Clock",
+                        "titleSlug": "angle-between-hands-of-a-clock"
+                    }
                 }
             ],
             "weeklyChallenges": [
