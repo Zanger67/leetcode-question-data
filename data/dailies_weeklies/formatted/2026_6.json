@@ -181,6 +181,16 @@
                         "title": "Angle Between Hands of a Clock",
                         "titleSlug": "angle-between-hands-of-a-clock"
                     }
+                },
+                {
+                    "date": "2026-06-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-highest-altitude/",
+                    "question": {
+                        "questionFrontendId": "1732",
+                        "title": "Find the Highest Altitude",
+                        "titleSlug": "find-the-highest-altitude"
+                    }
                 }
             ],
             "weeklyChallenges": [
