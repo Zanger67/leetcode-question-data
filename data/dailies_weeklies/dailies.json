@@ -22708,5 +22708,15 @@
             "title": "Find the Highest Altitude",
             "titleSlug": "find-the-highest-altitude"
         }
+    },
+    "2026-06-20": {
+        "date": "2026-06-20",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-building-height/",
+        "question": {
+            "questionFrontendId": "1840",
+            "title": "Maximum Building Height",
+            "titleSlug": "maximum-building-height"
+        }
     }
 }
