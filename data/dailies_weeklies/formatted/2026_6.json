@@ -201,6 +201,16 @@
                         "title": "Maximum Building Height",
                         "titleSlug": "maximum-building-height"
                     }
+                },
+                {
+                    "date": "2026-06-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-ice-cream-bars/",
+                    "question": {
+                        "questionFrontendId": "1833",
+                        "title": "Maximum Ice Cream Bars",
+                        "titleSlug": "maximum-ice-cream-bars"
+                    }
                 }
             ],
             "weeklyChallenges": [
