@@ -211,6 +211,16 @@
                         "title": "Maximum Ice Cream Bars",
                         "titleSlug": "maximum-ice-cream-bars"
                     }
+                },
+                {
+                    "date": "2026-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-balloons/",
+                    "question": {
+                        "questionFrontendId": "1189",
+                        "title": "Maximum Number of Balloons",
+                        "titleSlug": "maximum-number-of-balloons"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1259",
                         "title": "Handshakes That Don't Cross",
                         "titleSlug": "handshakes-that-dont-cross",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-06-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/clone-binary-tree-with-random-pointer/",
+                    "question": {
+                        "questionFrontendId": "1485",
+                        "title": "Clone Binary Tree With Random Pointer",
+                        "titleSlug": "clone-binary-tree-with-random-pointer",
                         "isPaidOnly": true
                     }
                 }

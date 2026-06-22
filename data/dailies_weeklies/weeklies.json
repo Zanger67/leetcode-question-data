@@ -3826,5 +3826,16 @@
             "titleSlug": "handshakes-that-dont-cross",
             "isPaidOnly": true
         }
+    },
+    "2026-06-22": {
+        "date": "2026-06-22",
+        "userStatus": "NotStart",
+        "link": "/problems/clone-binary-tree-with-random-pointer/",
+        "question": {
+            "questionFrontendId": "1485",
+            "title": "Clone Binary Tree With Random Pointer",
+            "titleSlug": "clone-binary-tree-with-random-pointer",
+            "isPaidOnly": true
+        }
     }
 }

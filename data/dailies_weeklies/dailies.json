@@ -22728,5 +22728,15 @@
             "title": "Maximum Ice Cream Bars",
             "titleSlug": "maximum-ice-cream-bars"
         }
+    },
+    "2026-06-22": {
+        "date": "2026-06-22",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-balloons/",
+        "question": {
+            "questionFrontendId": "1189",
+            "title": "Maximum Number of Balloons",
+            "titleSlug": "maximum-number-of-balloons"
+        }
     }
 }
