@@ -22748,5 +22748,15 @@
             "title": "Number of ZigZag Arrays I",
             "titleSlug": "number-of-zigzag-arrays-i"
         }
+    },
+    "2026-06-24": {
+        "date": "2026-06-24",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-zigzag-arrays-ii/",
+        "question": {
+            "questionFrontendId": "3700",
+            "title": "Number of ZigZag Arrays II",
+            "titleSlug": "number-of-zigzag-arrays-ii"
+        }
     }
 }
