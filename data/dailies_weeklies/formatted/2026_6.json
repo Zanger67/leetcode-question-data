@@ -251,6 +251,16 @@
                         "title": "Count Subarrays With Majority Element I",
                         "titleSlug": "count-subarrays-with-majority-element-i"
                     }
+                },
+                {
+                    "date": "2026-06-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-subarrays-with-majority-element-ii/",
+                    "question": {
+                        "questionFrontendId": "3739",
+                        "title": "Count Subarrays With Majority Element II",
+                        "titleSlug": "count-subarrays-with-majority-element-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
