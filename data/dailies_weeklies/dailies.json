@@ -22788,5 +22788,15 @@
             "title": "Find the Maximum Number of Elements in Subset",
             "titleSlug": "find-the-maximum-number-of-elements-in-subset"
         }
+    },
+    "2026-06-28": {
+        "date": "2026-06-28",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-element-after-decreasing-and-rearranging/",
+        "question": {
+            "questionFrontendId": "1846",
+            "title": "Maximum Element After Decreasing and Rearranging",
+            "titleSlug": "maximum-element-after-decreasing-and-rearranging"
+        }
     }
 }
