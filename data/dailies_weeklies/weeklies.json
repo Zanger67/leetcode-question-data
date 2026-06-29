@@ -3837,5 +3837,16 @@
             "titleSlug": "clone-binary-tree-with-random-pointer",
             "isPaidOnly": true
         }
+    },
+    "2026-06-29": {
+        "date": "2026-06-29",
+        "userStatus": "NotStart",
+        "link": "/problems/clone-n-ary-tree/",
+        "question": {
+            "questionFrontendId": "1490",
+            "title": "Clone N-ary Tree",
+            "titleSlug": "clone-n-ary-tree",
+            "isPaidOnly": true
+        }
     }
 }

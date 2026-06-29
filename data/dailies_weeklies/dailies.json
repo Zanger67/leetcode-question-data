@@ -22798,5 +22798,15 @@
             "title": "Maximum Element After Decreasing and Rearranging",
             "titleSlug": "maximum-element-after-decreasing-and-rearranging"
         }
+    },
+    "2026-06-29": {
+        "date": "2026-06-29",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-strings-that-appear-as-substrings-in-word/",
+        "question": {
+            "questionFrontendId": "1967",
+            "title": "Number of Strings That Appear as Substrings in Word",
+            "titleSlug": "number-of-strings-that-appear-as-substrings-in-word"
+        }
     }
 }

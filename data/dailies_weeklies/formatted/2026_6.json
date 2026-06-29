@@ -281,6 +281,16 @@
                         "title": "Maximum Element After Decreasing and Rearranging",
                         "titleSlug": "maximum-element-after-decreasing-and-rearranging"
                     }
+                },
+                {
+                    "date": "2026-06-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-strings-that-appear-as-substrings-in-word/",
+                    "question": {
+                        "questionFrontendId": "1967",
+                        "title": "Number of Strings That Appear as Substrings in Word",
+                        "titleSlug": "number-of-strings-that-appear-as-substrings-in-word"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "1485",
                         "title": "Clone Binary Tree With Random Pointer",
                         "titleSlug": "clone-binary-tree-with-random-pointer",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-06-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/clone-n-ary-tree/",
+                    "question": {
+                        "questionFrontendId": "1490",
+                        "title": "Clone N-ary Tree",
+                        "titleSlug": "clone-n-ary-tree",
                         "isPaidOnly": true
                     }
                 }
