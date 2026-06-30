@@ -22808,5 +22808,15 @@
             "title": "Number of Strings That Appear as Substrings in Word",
             "titleSlug": "number-of-strings-that-appear-as-substrings-in-word"
         }
+    },
+    "2026-06-30": {
+        "date": "2026-06-30",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-substrings-containing-all-three-characters/",
+        "question": {
+            "questionFrontendId": "1358",
+            "title": "Number of Substrings Containing All Three Characters",
+            "titleSlug": "number-of-substrings-containing-all-three-characters"
+        }
     }
 }
