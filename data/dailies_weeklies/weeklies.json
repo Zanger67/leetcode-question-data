@@ -3848,5 +3848,16 @@
             "titleSlug": "clone-n-ary-tree",
             "isPaidOnly": true
         }
+    },
+    "2026-07-01": {
+        "date": "2026-07-01",
+        "userStatus": "NotStart",
+        "link": "/problems/unique-word-abbreviation/",
+        "question": {
+            "questionFrontendId": "288",
+            "title": "Unique Word Abbreviation",
+            "titleSlug": "unique-word-abbreviation",
+            "isPaidOnly": true
+        }
     }
 }
