@@ -11,6 +11,16 @@
                         "title": "Find the Safest Path in a Grid",
                         "titleSlug": "find-the-safest-path-in-a-grid"
                     }
+                },
+                {
+                    "date": "2026-07-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-a-safe-walk-through-a-grid/",
+                    "question": {
+                        "questionFrontendId": "3286",
+                        "title": "Find a Safe Walk Through a Grid",
+                        "titleSlug": "find-a-safe-walk-through-a-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
