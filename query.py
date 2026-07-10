@@ -20,6 +20,10 @@ import argparse                                 # For command line arguments whe
 URL = 'https://leetcode.com/graphql/'
 DAILY_CHALLENGES_START = {'year': 2020, 'month': 4}
 
+# LeetCode's GraphQL `problemsetQuestionList` silently caps `limit` at 100 per
+# request, so the full question set must be fetched by paging through `skip`.
+PAGE_SIZE = 100
+
 DIRS = []
 
 DATA_PATH = 'data/'
@@ -287,14 +291,48 @@ def query() -> dict:
         "variables":{
             "categorySlug":"all-code-essentials",
             "skip":0,
-            "limit":questionCount,
+            "limit":PAGE_SIZE,
             "filters":{}
         },
         "operationName":"problemsetQuestionList"
     }
 
-    responseDict = requests.post(url=url, json=body).json()
-    
+    # LeetCode caps `limit` at 100 per request, so page through the whole set
+    # using `skip` (0, 100, 200, ...) and concatenate the results.
+    allQuestions = []
+    total = questionCount
+    skip = 0
+    while skip < total :
+        body['variables']['skip'] = skip
+
+        page = requests.post(url=url, json=body).json()
+        pageData = page['data']['problemsetQuestionList']
+        pageQuestions = pageData['questions']
+
+        # Re-read the authoritative total each page in case it shifts mid-run
+        total = pageData['total']
+
+        if not pageQuestions :
+            break
+
+        allQuestions.extend(pageQuestions)
+        print(f'  Retrieved {len(allQuestions)}/{total} questions...')
+
+        skip += PAGE_SIZE
+
+    if len(allQuestions) != total :
+        print(f'  WARNING: expected {total} questions but assembled {len(allQuestions)}.')
+
+    # Re-assemble the single-response shape the rest of the pipeline expects
+    responseDict = {
+        'data': {
+            'problemsetQuestionList': {
+                'total': total,
+                'questions': allQuestions
+            }
+        }
+    }
+
     # Outputs a JSON that has no indentation or new lines
     with open(JSON_FILE_ONELINER, 'w') as f:
         json.dump(responseDict, f)
