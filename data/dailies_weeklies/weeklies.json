@@ -2638,5 +2638,1237 @@
             "titleSlug": "minimum-moves-to-get-a-peaceful-board",
             "isPaidOnly": true
         }
+    },
+    "2024-09-01": {
+        "date": "2024-09-01",
+        "userStatus": "NotStart",
+        "link": "/problems/add-two-polynomials-represented-as-linked-lists/",
+        "question": {
+            "questionFrontendId": "1634",
+            "title": "Add Two Polynomials Represented as Linked Lists",
+            "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+            "isPaidOnly": true
+        }
+    },
+    "2024-09-08": {
+        "date": "2024-09-08",
+        "userStatus": "NotStart",
+        "link": "/problems/meeting-scheduler/",
+        "question": {
+            "questionFrontendId": "1229",
+            "title": "Meeting Scheduler",
+            "titleSlug": "meeting-scheduler",
+            "isPaidOnly": true
+        }
+    },
+    "2024-09-15": {
+        "date": "2024-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-common-region/",
+        "question": {
+            "questionFrontendId": "1257",
+            "title": "Smallest Common Region",
+            "titleSlug": "smallest-common-region",
+            "isPaidOnly": true
+        }
+    },
+    "2024-09-22": {
+        "date": "2024-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-word-with-all-prefixes/",
+        "question": {
+            "questionFrontendId": "1858",
+            "title": "Longest Word With All Prefixes",
+            "titleSlug": "longest-word-with-all-prefixes",
+            "isPaidOnly": true
+        }
+    },
+    "2024-09-29": {
+        "date": "2024-09-29",
+        "userStatus": "NotStart",
+        "link": "/problems/implement-trie-ii-prefix-tree/",
+        "question": {
+            "questionFrontendId": "1804",
+            "title": "Implement Trie II (Prefix Tree)",
+            "titleSlug": "implement-trie-ii-prefix-tree",
+            "isPaidOnly": true
+        }
+    },
+    "2024-10-01": {
+        "date": "2024-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-unique-number/",
+        "question": {
+            "questionFrontendId": "1133",
+            "title": "Largest Unique Number",
+            "titleSlug": "largest-unique-number",
+            "isPaidOnly": true
+        }
+    },
+    "2024-10-08": {
+        "date": "2024-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-coins-heroes-can-collect/",
+        "question": {
+            "questionFrontendId": "2838",
+            "title": "Maximum Coins Heroes Can Collect",
+            "titleSlug": "maximum-coins-heroes-can-collect",
+            "isPaidOnly": true
+        }
+    },
+    "2024-10-15": {
+        "date": "2024-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/first-unique-number/",
+        "question": {
+            "questionFrontendId": "1429",
+            "title": "First Unique Number",
+            "titleSlug": "first-unique-number",
+            "isPaidOnly": true
+        }
+    },
+    "2024-10-22": {
+        "date": "2024-10-22",
+        "userStatus": "NotStart",
+        "link": "/problems/the-knights-tour/",
+        "question": {
+            "questionFrontendId": "2664",
+            "title": "The Knight\u2019s Tour",
+            "titleSlug": "the-knights-tour",
+            "isPaidOnly": true
+        }
+    },
+    "2024-10-29": {
+        "date": "2024-10-29",
+        "userStatus": "NotStart",
+        "link": "/problems/paint-house-ii/",
+        "question": {
+            "questionFrontendId": "265",
+            "title": "Paint House II",
+            "titleSlug": "paint-house-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2024-11-01": {
+        "date": "2024-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-same-end-substrings/",
+        "question": {
+            "questionFrontendId": "2955",
+            "title": "Number of Same-End Substrings",
+            "titleSlug": "number-of-same-end-substrings",
+            "isPaidOnly": true
+        }
+    },
+    "2024-11-08": {
+        "date": "2024-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/intersection-of-three-sorted-arrays/",
+        "question": {
+            "questionFrontendId": "1213",
+            "title": "Intersection of Three Sorted Arrays",
+            "titleSlug": "intersection-of-three-sorted-arrays",
+            "isPaidOnly": true
+        }
+    },
+    "2024-11-15": {
+        "date": "2024-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+        "question": {
+            "questionFrontendId": "2107",
+            "title": "Number of Unique Flavors After Sharing K Candies",
+            "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+            "isPaidOnly": true
+        }
+    },
+    "2024-11-22": {
+        "date": "2024-11-22",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-maximum-value-in-a-grid/",
+        "question": {
+            "questionFrontendId": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "titleSlug": "minimize-maximum-value-in-a-grid",
+            "isPaidOnly": true
+        }
+    },
+    "2024-11-29": {
+        "date": "2024-11-29",
+        "userStatus": "NotStart",
+        "link": "/problems/distance-to-a-cycle-in-undirected-graph/",
+        "question": {
+            "questionFrontendId": "2204",
+            "title": "Distance to a Cycle in Undirected Graph",
+            "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+            "isPaidOnly": true
+        }
+    },
+    "2024-12-01": {
+        "date": "2024-12-01",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-celebrity/",
+        "question": {
+            "questionFrontendId": "277",
+            "title": "Find the Celebrity",
+            "titleSlug": "find-the-celebrity",
+            "isPaidOnly": true
+        }
+    },
+    "2024-12-08": {
+        "date": "2024-12-08",
+        "userStatus": "NotStart",
+        "link": "/problems/cutting-ribbons/",
+        "question": {
+            "questionFrontendId": "1891",
+            "title": "Cutting Ribbons",
+            "titleSlug": "cutting-ribbons",
+            "isPaidOnly": true
+        }
+    },
+    "2024-12-15": {
+        "date": "2024-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximal-range-that-each-element-is-maximum-in-it/",
+        "question": {
+            "questionFrontendId": "2832",
+            "title": "Maximal Range That Each Element Is Maximum in It",
+            "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+            "isPaidOnly": true
+        }
+    },
+    "2024-12-22": {
+        "date": "2024-12-22",
+        "userStatus": "NotStart",
+        "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+        "question": {
+            "questionFrontendId": "1644",
+            "title": "Lowest Common Ancestor of a Binary Tree II",
+            "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2024-12-29": {
+        "date": "2024-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-subarray-sum-after-one-operation/",
+        "question": {
+            "questionFrontendId": "1746",
+            "title": "Maximum Subarray Sum After One Operation",
+            "titleSlug": "maximum-subarray-sum-after-one-operation",
+            "isPaidOnly": true
+        }
+    },
+    "2025-01-01": {
+        "date": "2025-01-01",
+        "userStatus": "NotStart",
+        "link": "/problems/perform-string-shifts/",
+        "question": {
+            "questionFrontendId": "1427",
+            "title": "Perform String Shifts",
+            "titleSlug": "perform-string-shifts",
+            "isPaidOnly": true
+        }
+    },
+    "2025-01-08": {
+        "date": "2025-01-08",
+        "userStatus": "NotStart",
+        "link": "/problems/unique-substrings-with-equal-digit-frequency/",
+        "question": {
+            "questionFrontendId": "2168",
+            "title": "Unique Substrings With Equal Digit Frequency",
+            "titleSlug": "unique-substrings-with-equal-digit-frequency",
+            "isPaidOnly": true
+        }
+    },
+    "2025-01-15": {
+        "date": "2025-01-15",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-path-to-get-food/",
+        "question": {
+            "questionFrontendId": "1730",
+            "title": "Shortest Path to Get Food",
+            "titleSlug": "shortest-path-to-get-food",
+            "isPaidOnly": true
+        }
+    },
+    "2025-01-22": {
+        "date": "2025-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/sum-of-remoteness-of-all-cells/",
+        "question": {
+            "questionFrontendId": "2852",
+            "title": "Sum of Remoteness of All Cells",
+            "titleSlug": "sum-of-remoteness-of-all-cells",
+            "isPaidOnly": true
+        }
+    },
+    "2025-01-29": {
+        "date": "2025-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/graph-valid-tree/",
+        "question": {
+            "questionFrontendId": "261",
+            "title": "Graph Valid Tree",
+            "titleSlug": "graph-valid-tree",
+            "isPaidOnly": true
+        }
+    },
+    "2025-02-01": {
+        "date": "2025-02-01",
+        "userStatus": "NotStart",
+        "link": "/problems/distinct-numbers-in-each-subarray/",
+        "question": {
+            "questionFrontendId": "1852",
+            "title": "Distinct Numbers in Each Subarray",
+            "titleSlug": "distinct-numbers-in-each-subarray",
+            "isPaidOnly": true
+        }
+    },
+    "2025-02-08": {
+        "date": "2025-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/make-the-prefix-sum-non-negative/",
+        "question": {
+            "questionFrontendId": "2599",
+            "title": "Make the Prefix Sum Non-negative",
+            "titleSlug": "make-the-prefix-sum-non-negative",
+            "isPaidOnly": true
+        }
+    },
+    "2025-02-15": {
+        "date": "2025-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-most-recently-used-queue/",
+        "question": {
+            "questionFrontendId": "1756",
+            "title": "Design Most Recently Used Queue",
+            "titleSlug": "design-most-recently-used-queue",
+            "isPaidOnly": true
+        }
+    },
+    "2025-02-22": {
+        "date": "2025-02-22",
+        "userStatus": "NotStart",
+        "link": "/problems/max-consecutive-ones-ii/",
+        "question": {
+            "questionFrontendId": "487",
+            "title": "Max Consecutive Ones II",
+            "titleSlug": "max-consecutive-ones-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-03-01": {
+        "date": "2025-03-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-swaps-to-group-all-1s-together/",
+        "question": {
+            "questionFrontendId": "1151",
+            "title": "Minimum Swaps to Group All 1's Together",
+            "titleSlug": "minimum-swaps-to-group-all-1s-together",
+            "isPaidOnly": true
+        }
+    },
+    "2025-03-08": {
+        "date": "2025-03-08",
+        "userStatus": "NotStart",
+        "link": "/problems/find-k-length-substrings-with-no-repeated-characters/",
+        "question": {
+            "questionFrontendId": "1100",
+            "title": "Find K-Length Substrings With No Repeated Characters",
+            "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+            "isPaidOnly": true
+        }
+    },
+    "2025-03-15": {
+        "date": "2025-03-15",
+        "userStatus": "NotStart",
+        "link": "/problems/palindrome-permutation/",
+        "question": {
+            "questionFrontendId": "266",
+            "title": "Palindrome Permutation",
+            "titleSlug": "palindrome-permutation",
+            "isPaidOnly": true
+        }
+    },
+    "2025-03-22": {
+        "date": "2025-03-22",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-closest-marked-node/",
+        "question": {
+            "questionFrontendId": "2737",
+            "title": "Find the Closest Marked Node",
+            "titleSlug": "find-the-closest-marked-node",
+            "isPaidOnly": true
+        }
+    },
+    "2025-03-29": {
+        "date": "2025-03-29",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-way-to-form-string/",
+        "question": {
+            "questionFrontendId": "1055",
+            "title": "Shortest Way to Form String",
+            "titleSlug": "shortest-way-to-form-string",
+            "isPaidOnly": true
+        }
+    },
+    "2025-04-01": {
+        "date": "2025-04-01",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-distance-from-all-buildings/",
+        "question": {
+            "questionFrontendId": "317",
+            "title": "Shortest Distance from All Buildings",
+            "titleSlug": "shortest-distance-from-all-buildings",
+            "isPaidOnly": true
+        }
+    },
+    "2025-04-08": {
+        "date": "2025-04-08",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+        "question": {
+            "questionFrontendId": "323",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+            "isPaidOnly": true
+        }
+    },
+    "2025-04-15": {
+        "date": "2025-04-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-size-subarray-sum-equals-k/",
+        "question": {
+            "questionFrontendId": "325",
+            "title": "Maximum Size Subarray Sum Equals k",
+            "titleSlug": "maximum-size-subarray-sum-equals-k",
+            "isPaidOnly": true
+        }
+    },
+    "2025-04-22": {
+        "date": "2025-04-22",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+        "question": {
+            "questionFrontendId": "302",
+            "title": "Smallest Rectangle Enclosing Black Pixels",
+            "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+            "isPaidOnly": true
+        }
+    },
+    "2025-04-29": {
+        "date": "2025-04-29",
+        "userStatus": "NotStart",
+        "link": "/problems/sparse-matrix-multiplication/",
+        "question": {
+            "questionFrontendId": "311",
+            "title": "Sparse Matrix Multiplication",
+            "titleSlug": "sparse-matrix-multiplication",
+            "isPaidOnly": true
+        }
+    },
+    "2025-05-01": {
+        "date": "2025-05-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-snake-game/",
+        "question": {
+            "questionFrontendId": "353",
+            "title": "Design Snake Game",
+            "titleSlug": "design-snake-game",
+            "isPaidOnly": true
+        }
+    },
+    "2025-05-08": {
+        "date": "2025-05-08",
+        "userStatus": "NotStart",
+        "link": "/problems/logger-rate-limiter/",
+        "question": {
+            "questionFrontendId": "359",
+            "title": "Logger Rate Limiter",
+            "titleSlug": "logger-rate-limiter",
+            "isPaidOnly": true
+        }
+    },
+    "2025-05-15": {
+        "date": "2025-05-15",
+        "userStatus": "NotStart",
+        "link": "/problems/bomb-enemy/",
+        "question": {
+            "questionFrontendId": "361",
+            "title": "Bomb Enemy",
+            "titleSlug": "bomb-enemy",
+            "isPaidOnly": true
+        }
+    },
+    "2025-05-22": {
+        "date": "2025-05-22",
+        "userStatus": "NotStart",
+        "link": "/problems/first-unique-number/",
+        "question": {
+            "questionFrontendId": "1429",
+            "title": "First Unique Number",
+            "titleSlug": "first-unique-number",
+            "isPaidOnly": true
+        }
+    },
+    "2025-05-29": {
+        "date": "2025-05-29",
+        "userStatus": "NotStart",
+        "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+        "question": {
+            "questionFrontendId": "1474",
+            "title": "Delete N Nodes After M Nodes of a Linked List",
+            "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+            "isPaidOnly": true
+        }
+    },
+    "2025-06-01": {
+        "date": "2025-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/distribute-candies-among-children-iii/",
+        "question": {
+            "questionFrontendId": "2927",
+            "title": "Distribute Candies Among Children III",
+            "titleSlug": "distribute-candies-among-children-iii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-06-08": {
+        "date": "2025-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/verify-preorder-sequence-in-binary-search-tree/",
+        "question": {
+            "questionFrontendId": "255",
+            "title": "Verify Preorder Sequence in Binary Search Tree",
+            "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+            "isPaidOnly": true
+        }
+    },
+    "2025-06-15": {
+        "date": "2025-06-15",
+        "userStatus": "NotStart",
+        "link": "/problems/equal-tree-partition/",
+        "question": {
+            "questionFrontendId": "663",
+            "title": "Equal Tree Partition",
+            "titleSlug": "equal-tree-partition",
+            "isPaidOnly": true
+        }
+    },
+    "2025-06-22": {
+        "date": "2025-06-22",
+        "userStatus": "NotStart",
+        "link": "/problems/k-empty-slots/",
+        "question": {
+            "questionFrontendId": "683",
+            "title": "K Empty Slots",
+            "titleSlug": "k-empty-slots",
+            "isPaidOnly": true
+        }
+    },
+    "2025-06-29": {
+        "date": "2025-06-29",
+        "userStatus": "NotStart",
+        "link": "/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/",
+        "question": {
+            "questionFrontendId": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "isPaidOnly": true
+        }
+    },
+    "2025-07-01": {
+        "date": "2025-07-01",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-bst-subtree/",
+        "question": {
+            "questionFrontendId": "333",
+            "title": "Largest BST Subtree",
+            "titleSlug": "largest-bst-subtree",
+            "isPaidOnly": true
+        }
+    },
+    "2025-07-08": {
+        "date": "2025-07-08",
+        "userStatus": "NotStart",
+        "link": "/problems/inorder-successor-in-bst/",
+        "question": {
+            "questionFrontendId": "285",
+            "title": "Inorder Successor in BST",
+            "titleSlug": "inorder-successor-in-bst",
+            "isPaidOnly": true
+        }
+    },
+    "2025-07-15": {
+        "date": "2025-07-15",
+        "userStatus": "NotStart",
+        "link": "/problems/word-squares/",
+        "question": {
+            "questionFrontendId": "425",
+            "title": "Word Squares",
+            "titleSlug": "word-squares",
+            "isPaidOnly": true
+        }
+    },
+    "2025-07-22": {
+        "date": "2025-07-22",
+        "userStatus": "NotStart",
+        "link": "/problems/word-abbreviation/",
+        "question": {
+            "questionFrontendId": "527",
+            "title": "Word Abbreviation",
+            "titleSlug": "word-abbreviation",
+            "isPaidOnly": true
+        }
+    },
+    "2025-07-29": {
+        "date": "2025-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/closest-binary-search-tree-value-ii/",
+        "question": {
+            "questionFrontendId": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "titleSlug": "closest-binary-search-tree-value-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-08-01": {
+        "date": "2025-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-vertical-order-traversal/",
+        "question": {
+            "questionFrontendId": "314",
+            "title": "Binary Tree Vertical Order Traversal",
+            "titleSlug": "binary-tree-vertical-order-traversal",
+            "isPaidOnly": true
+        }
+    },
+    "2025-08-08": {
+        "date": "2025-08-08",
+        "userStatus": "NotStart",
+        "link": "/problems/find-smallest-common-element-in-all-rows/",
+        "question": {
+            "questionFrontendId": "1198",
+            "title": "Find Smallest Common Element in All Rows",
+            "titleSlug": "find-smallest-common-element-in-all-rows",
+            "isPaidOnly": true
+        }
+    },
+    "2025-08-15": {
+        "date": "2025-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-file-system/",
+        "question": {
+            "questionFrontendId": "1166",
+            "title": "Design File System",
+            "titleSlug": "design-file-system",
+            "isPaidOnly": true
+        }
+    },
+    "2025-08-22": {
+        "date": "2025-08-22",
+        "userStatus": "NotStart",
+        "link": "/problems/before-and-after-puzzle/",
+        "question": {
+            "questionFrontendId": "1181",
+            "title": "Before and After Puzzle",
+            "titleSlug": "before-and-after-puzzle",
+            "isPaidOnly": true
+        }
+    },
+    "2025-08-29": {
+        "date": "2025-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-distance-to-target-color/",
+        "question": {
+            "questionFrontendId": "1182",
+            "title": "Shortest Distance to Target Color",
+            "titleSlug": "shortest-distance-to-target-color",
+            "isPaidOnly": true
+        }
+    },
+    "2025-09-01": {
+        "date": "2025-09-01",
+        "userStatus": "NotStart",
+        "link": "/problems/campus-bikes-ii/",
+        "question": {
+            "questionFrontendId": "1066",
+            "title": "Campus Bikes II",
+            "titleSlug": "campus-bikes-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-09-08": {
+        "date": "2025-09-08",
+        "userStatus": "NotStart",
+        "link": "/problems/largest-unique-number/",
+        "question": {
+            "questionFrontendId": "1133",
+            "title": "Largest Unique Number",
+            "titleSlug": "largest-unique-number",
+            "isPaidOnly": true
+        }
+    },
+    "2025-09-15": {
+        "date": "2025-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+        "question": {
+            "questionFrontendId": "1150",
+            "title": "Check If a Number Is Majority Element in a Sorted Array",
+            "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+            "isPaidOnly": true
+        }
+    },
+    "2025-09-22": {
+        "date": "2025-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/analyze-user-website-visit-pattern/",
+        "question": {
+            "questionFrontendId": "1152",
+            "title": "Analyze User Website Visit Pattern",
+            "titleSlug": "analyze-user-website-visit-pattern",
+            "isPaidOnly": true
+        }
+    },
+    "2025-09-29": {
+        "date": "2025-09-29",
+        "userStatus": "NotStart",
+        "link": "/problems/divide-array-into-increasing-sequences/",
+        "question": {
+            "questionFrontendId": "1121",
+            "title": "Divide Array Into Increasing Sequences",
+            "titleSlug": "divide-array-into-increasing-sequences",
+            "isPaidOnly": true
+        }
+    },
+    "2025-10-01": {
+        "date": "2025-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/connecting-cities-with-minimum-cost/",
+        "question": {
+            "questionFrontendId": "1135",
+            "title": "Connecting Cities With Minimum Cost",
+            "titleSlug": "connecting-cities-with-minimum-cost",
+            "isPaidOnly": true
+        }
+    },
+    "2025-10-08": {
+        "date": "2025-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-max-distance-to-gas-station/",
+        "question": {
+            "questionFrontendId": "774",
+            "title": "Minimize Max Distance to Gas Station",
+            "titleSlug": "minimize-max-distance-to-gas-station",
+            "isPaidOnly": true
+        }
+    },
+    "2025-10-15": {
+        "date": "2025-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/coin-path/",
+        "question": {
+            "questionFrontendId": "656",
+            "title": "Coin Path",
+            "titleSlug": "coin-path",
+            "isPaidOnly": true
+        }
+    },
+    "2025-10-22": {
+        "date": "2025-10-22",
+        "userStatus": "NotStart",
+        "link": "/problems/dot-product-of-two-sparse-vectors/",
+        "question": {
+            "questionFrontendId": "1570",
+            "title": "Dot Product of Two Sparse Vectors",
+            "titleSlug": "dot-product-of-two-sparse-vectors",
+            "isPaidOnly": true
+        }
+    },
+    "2025-10-29": {
+        "date": "2025-10-29",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-subarrays-in-a-valid-split/",
+        "question": {
+            "questionFrontendId": "2464",
+            "title": "Minimum Subarrays in a Valid Split",
+            "titleSlug": "minimum-subarrays-in-a-valid-split",
+            "isPaidOnly": true
+        }
+    },
+    "2025-11-01": {
+        "date": "2025-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-ones/",
+        "question": {
+            "questionFrontendId": "1183",
+            "title": "Maximum Number of Ones",
+            "titleSlug": "maximum-number-of-ones",
+            "isPaidOnly": true
+        }
+    },
+    "2025-11-08": {
+        "date": "2025-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/two-sum-iii-data-structure-design/",
+        "question": {
+            "questionFrontendId": "170",
+            "title": "Two Sum III - Data structure design",
+            "titleSlug": "two-sum-iii-data-structure-design",
+            "isPaidOnly": true
+        }
+    },
+    "2025-11-15": {
+        "date": "2025-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/3sum-smaller/",
+        "question": {
+            "questionFrontendId": "259",
+            "title": "3Sum Smaller",
+            "titleSlug": "3sum-smaller",
+            "isPaidOnly": true
+        }
+    },
+    "2025-11-22": {
+        "date": "2025-11-22",
+        "userStatus": "NotStart",
+        "link": "/problems/nested-list-weight-sum-ii/",
+        "question": {
+            "questionFrontendId": "364",
+            "title": "Nested List Weight Sum II",
+            "titleSlug": "nested-list-weight-sum-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-11-29": {
+        "date": "2025-11-29",
+        "userStatus": "NotStart",
+        "link": "/problems/range-addition/",
+        "question": {
+            "questionFrontendId": "370",
+            "title": "Range Addition",
+            "titleSlug": "range-addition",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-06": {
+        "date": "2025-12-06",
+        "userStatus": "NotStart",
+        "link": "/problems/two-sum-less-than-k/",
+        "question": {
+            "questionFrontendId": "1099",
+            "title": "Two Sum Less Than K",
+            "titleSlug": "two-sum-less-than-k",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-01": {
+        "date": "2025-12-01",
+        "userStatus": "NotStart",
+        "link": "/problems/two-sum-bsts/",
+        "question": {
+            "questionFrontendId": "1214",
+            "title": "Two Sum BSTs",
+            "titleSlug": "two-sum-bsts",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-08": {
+        "date": "2025-12-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimize-product-sum-of-two-arrays/",
+        "question": {
+            "questionFrontendId": "1874",
+            "title": "Minimize Product Sum of Two Arrays",
+            "titleSlug": "minimize-product-sum-of-two-arrays",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-15": {
+        "date": "2025-12-15",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-longest-consecutive-sequence/",
+        "question": {
+            "questionFrontendId": "298",
+            "title": "Binary Tree Longest Consecutive Sequence",
+            "titleSlug": "binary-tree-longest-consecutive-sequence",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-22": {
+        "date": "2025-12-22",
+        "userStatus": "NotStart",
+        "link": "/problems/binary-tree-longest-consecutive-sequence-ii/",
+        "question": {
+            "questionFrontendId": "549",
+            "title": "Binary Tree Longest Consecutive Sequence II",
+            "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2025-12-29": {
+        "date": "2025-12-29",
+        "userStatus": "NotStart",
+        "link": "/problems/diet-plan-performance/",
+        "question": {
+            "questionFrontendId": "1176",
+            "title": "Diet Plan Performance",
+            "titleSlug": "diet-plan-performance",
+            "isPaidOnly": true
+        }
+    },
+    "2026-01-01": {
+        "date": "2026-01-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-a-leaderboard/",
+        "question": {
+            "questionFrontendId": "1244",
+            "title": "Design A Leaderboard",
+            "titleSlug": "design-a-leaderboard",
+            "isPaidOnly": true
+        }
+    },
+    "2026-01-08": {
+        "date": "2026-01-08",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze/",
+        "question": {
+            "questionFrontendId": "490",
+            "title": "The Maze",
+            "titleSlug": "the-maze",
+            "isPaidOnly": true
+        }
+    },
+    "2026-01-15": {
+        "date": "2026-01-15",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze-ii/",
+        "question": {
+            "questionFrontendId": "505",
+            "title": "The Maze II",
+            "titleSlug": "the-maze-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2026-01-22": {
+        "date": "2026-01-22",
+        "userStatus": "NotStart",
+        "link": "/problems/the-maze-iii/",
+        "question": {
+            "questionFrontendId": "499",
+            "title": "The Maze III",
+            "titleSlug": "the-maze-iii",
+            "isPaidOnly": true
+        }
+    },
+    "2026-01-29": {
+        "date": "2026-01-29",
+        "userStatus": "NotStart",
+        "link": "/problems/walls-and-gates/",
+        "question": {
+            "questionFrontendId": "286",
+            "title": "Walls and Gates",
+            "titleSlug": "walls-and-gates",
+            "isPaidOnly": true
+        }
+    },
+    "2026-02-01": {
+        "date": "2026-02-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-hit-counter/",
+        "question": {
+            "questionFrontendId": "362",
+            "title": "Design Hit Counter",
+            "titleSlug": "design-hit-counter",
+            "isPaidOnly": true
+        }
+    },
+    "2026-02-08": {
+        "date": "2026-02-08",
+        "userStatus": "NotStart",
+        "link": "/problems/4-keys-keyboard/",
+        "question": {
+            "questionFrontendId": "651",
+            "title": "4 Keys Keyboard",
+            "titleSlug": "4-keys-keyboard",
+            "isPaidOnly": true
+        }
+    },
+    "2026-02-15": {
+        "date": "2026-02-15",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-word-square/",
+        "question": {
+            "questionFrontendId": "422",
+            "title": "Valid Word Square",
+            "titleSlug": "valid-word-square",
+            "isPaidOnly": true
+        }
+    },
+    "2026-02-22": {
+        "date": "2026-02-22",
+        "userStatus": "NotStart",
+        "link": "/problems/rearrange-string-k-distance-apart/",
+        "question": {
+            "questionFrontendId": "358",
+            "title": "Rearrange String k Distance Apart",
+            "titleSlug": "rearrange-string-k-distance-apart",
+            "isPaidOnly": true
+        }
+    },
+    "2026-03-01": {
+        "date": "2026-03-01",
+        "userStatus": "NotStart",
+        "link": "/problems/design-excel-sum-formula/",
+        "question": {
+            "questionFrontendId": "631",
+            "title": "Design Excel Sum Formula",
+            "titleSlug": "design-excel-sum-formula",
+            "isPaidOnly": true
+        }
+    },
+    "2026-03-08": {
+        "date": "2026-03-08",
+        "userStatus": "NotStart",
+        "link": "/problems/design-log-storage-system/",
+        "question": {
+            "questionFrontendId": "635",
+            "title": "Design Log Storage System",
+            "titleSlug": "design-log-storage-system",
+            "isPaidOnly": true
+        }
+    },
+    "2026-03-15": {
+        "date": "2026-03-15",
+        "userStatus": "NotStart",
+        "link": "/problems/design-search-autocomplete-system/",
+        "question": {
+            "questionFrontendId": "642",
+            "title": "Design Search Autocomplete System",
+            "titleSlug": "design-search-autocomplete-system",
+            "isPaidOnly": true
+        }
+    },
+    "2026-03-22": {
+        "date": "2026-03-22",
+        "userStatus": "NotStart",
+        "link": "/problems/design-most-recently-used-queue/",
+        "question": {
+            "questionFrontendId": "1756",
+            "title": "Design Most Recently Used Queue",
+            "titleSlug": "design-most-recently-used-queue",
+            "isPaidOnly": true
+        }
+    },
+    "2026-03-29": {
+        "date": "2026-03-29",
+        "userStatus": "NotStart",
+        "link": "/problems/design-phone-directory/",
+        "question": {
+            "questionFrontendId": "379",
+            "title": "Design Phone Directory",
+            "titleSlug": "design-phone-directory",
+            "isPaidOnly": true
+        }
+    },
+    "2026-04-01": {
+        "date": "2026-04-01",
+        "userStatus": "NotStart",
+        "link": "/problems/kill-process/",
+        "question": {
+            "questionFrontendId": "582",
+            "title": "Kill Process",
+            "titleSlug": "kill-process",
+            "isPaidOnly": true
+        }
+    },
+    "2026-04-08": {
+        "date": "2026-04-08",
+        "userStatus": "NotStart",
+        "link": "/problems/pour-water/",
+        "question": {
+            "questionFrontendId": "755",
+            "title": "Pour Water",
+            "titleSlug": "pour-water",
+            "isPaidOnly": true
+        }
+    },
+    "2026-04-15": {
+        "date": "2026-04-15",
+        "userStatus": "NotStart",
+        "link": "/problems/missing-ranges/",
+        "question": {
+            "questionFrontendId": "163",
+            "title": "Missing Ranges",
+            "titleSlug": "missing-ranges",
+            "isPaidOnly": true
+        }
+    },
+    "2026-04-22": {
+        "date": "2026-04-22",
+        "userStatus": "NotStart",
+        "link": "/problems/zigzag-iterator/",
+        "question": {
+            "questionFrontendId": "281",
+            "title": "Zigzag Iterator",
+            "titleSlug": "zigzag-iterator",
+            "isPaidOnly": true
+        }
+    },
+    "2026-04-29": {
+        "date": "2026-04-29",
+        "userStatus": "NotStart",
+        "link": "/problems/all-paths-from-source-lead-to-destination/",
+        "question": {
+            "questionFrontendId": "1059",
+            "title": "All Paths from Source Lead to Destination",
+            "titleSlug": "all-paths-from-source-lead-to-destination",
+            "isPaidOnly": true
+        }
+    },
+    "2026-05-01": {
+        "date": "2026-05-01",
+        "userStatus": "NotStart",
+        "link": "/problems/employee-free-time/",
+        "question": {
+            "questionFrontendId": "759",
+            "title": "Employee Free Time",
+            "titleSlug": "employee-free-time",
+            "isPaidOnly": true
+        }
+    },
+    "2026-05-08": {
+        "date": "2026-05-08",
+        "userStatus": "NotStart",
+        "link": "/problems/robot-room-cleaner/",
+        "question": {
+            "questionFrontendId": "489",
+            "title": "Robot Room Cleaner",
+            "titleSlug": "robot-room-cleaner",
+            "isPaidOnly": true
+        }
+    },
+    "2026-05-15": {
+        "date": "2026-05-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-spaces-cleaning-robot-cleaned/",
+        "question": {
+            "questionFrontendId": "2061",
+            "title": "Number of Spaces Cleaning Robot Cleaned",
+            "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+            "isPaidOnly": true
+        }
+    },
+    "2026-05-22": {
+        "date": "2026-05-22",
+        "userStatus": "NotStart",
+        "link": "/problems/fixed-point/",
+        "question": {
+            "questionFrontendId": "1064",
+            "title": "Fixed Point",
+            "titleSlug": "fixed-point",
+            "isPaidOnly": true
+        }
+    },
+    "2026-05-29": {
+        "date": "2026-05-29",
+        "userStatus": "NotStart",
+        "link": "/problems/confusing-number/",
+        "question": {
+            "questionFrontendId": "1056",
+            "title": "Confusing Number",
+            "titleSlug": "confusing-number",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-05": {
+        "date": "2026-06-05",
+        "userStatus": "NotStart",
+        "link": "/problems/confusing-number-ii/",
+        "question": {
+            "questionFrontendId": "1088",
+            "title": "Confusing Number II",
+            "titleSlug": "confusing-number-ii",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-01": {
+        "date": "2026-06-01",
+        "userStatus": "NotStart",
+        "link": "/problems/candy-crush/",
+        "question": {
+            "questionFrontendId": "723",
+            "title": "Candy Crush",
+            "titleSlug": "candy-crush",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-08": {
+        "date": "2026-06-08",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+        "question": {
+            "questionFrontendId": "2107",
+            "title": "Number of Unique Flavors After Sharing K Candies",
+            "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-15": {
+        "date": "2026-06-15",
+        "userStatus": "NotStart",
+        "link": "/problems/handshakes-that-dont-cross/",
+        "question": {
+            "questionFrontendId": "1259",
+            "title": "Handshakes That Don't Cross",
+            "titleSlug": "handshakes-that-dont-cross",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-22": {
+        "date": "2026-06-22",
+        "userStatus": "NotStart",
+        "link": "/problems/clone-binary-tree-with-random-pointer/",
+        "question": {
+            "questionFrontendId": "1485",
+            "title": "Clone Binary Tree With Random Pointer",
+            "titleSlug": "clone-binary-tree-with-random-pointer",
+            "isPaidOnly": true
+        }
+    },
+    "2026-06-29": {
+        "date": "2026-06-29",
+        "userStatus": "NotStart",
+        "link": "/problems/clone-n-ary-tree/",
+        "question": {
+            "questionFrontendId": "1490",
+            "title": "Clone N-ary Tree",
+            "titleSlug": "clone-n-ary-tree",
+            "isPaidOnly": true
+        }
+    },
+    "2026-07-01": {
+        "date": "2026-07-01",
+        "userStatus": "NotStart",
+        "link": "/problems/unique-word-abbreviation/",
+        "question": {
+            "questionFrontendId": "288",
+            "title": "Unique Word Abbreviation",
+            "titleSlug": "unique-word-abbreviation",
+            "isPaidOnly": true
+        }
+    },
+    "2026-07-08": {
+        "date": "2026-07-08",
+        "userStatus": "NotStart",
+        "link": "/problems/word-pattern-ii/",
+        "question": {
+            "questionFrontendId": "291",
+            "title": "Word Pattern II",
+            "titleSlug": "word-pattern-ii",
+            "isPaidOnly": true
+        }
     }
 }
