@@ -111,6 +111,16 @@
                         "title": "Count the Number of Complete Components",
                         "titleSlug": "count-the-number-of-complete-components"
                     }
+                },
+                {
+                    "date": "2026-07-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rank-transform-of-an-array/",
+                    "question": {
+                        "questionFrontendId": "1331",
+                        "title": "Rank Transform of an Array",
+                        "titleSlug": "rank-transform-of-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
