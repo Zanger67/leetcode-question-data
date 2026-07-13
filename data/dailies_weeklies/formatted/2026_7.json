@@ -121,6 +121,16 @@
                         "title": "Rank Transform of an Array",
                         "titleSlug": "rank-transform-of-an-array"
                     }
+                },
+                {
+                    "date": "2026-07-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sequential-digits/",
+                    "question": {
+                        "questionFrontendId": "1291",
+                        "title": "Sequential Digits",
+                        "titleSlug": "sequential-digits"
+                    }
                 }
             ],
             "weeklyChallenges": [
