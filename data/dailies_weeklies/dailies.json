@@ -22798,5 +22798,15 @@
             "title": "Find the Number of Subsequences With Equal GCD",
             "titleSlug": "find-the-number-of-subsequences-with-equal-gcd"
         }
+    },
+    "2026-07-15": {
+        "date": "2026-07-15",
+        "userStatus": "NotStart",
+        "link": "/problems/gcd-of-odd-and-even-sums/",
+        "question": {
+            "questionFrontendId": "3658",
+            "title": "GCD of Odd and Even Sums",
+            "titleSlug": "gcd-of-odd-and-even-sums"
+        }
     }
 }

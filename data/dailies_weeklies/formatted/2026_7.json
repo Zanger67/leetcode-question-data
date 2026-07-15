@@ -141,6 +141,16 @@
                         "title": "Find the Number of Subsequences With Equal GCD",
                         "titleSlug": "find-the-number-of-subsequences-with-equal-gcd"
                     }
+                },
+                {
+                    "date": "2026-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/gcd-of-odd-and-even-sums/",
+                    "question": {
+                        "questionFrontendId": "3658",
+                        "title": "GCD of Odd and Even Sums",
+                        "titleSlug": "gcd-of-odd-and-even-sums"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -163,6 +173,17 @@
                         "questionFrontendId": "291",
                         "title": "Word Pattern II",
                         "titleSlug": "word-pattern-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-07-15",
+                    "userStatus": "NotStart",
+                    "link": "/problems/generalized-abbreviation/",
+                    "question": {
+                        "questionFrontendId": "320",
+                        "title": "Generalized Abbreviation",
+                        "titleSlug": "generalized-abbreviation",
                         "isPaidOnly": true
                     }
                 }
