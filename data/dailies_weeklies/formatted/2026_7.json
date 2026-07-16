@@ -151,6 +151,16 @@
                         "title": "GCD of Odd and Even Sums",
                         "titleSlug": "gcd-of-odd-and-even-sums"
                     }
+                },
+                {
+                    "date": "2026-07-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-gcd-of-formed-pairs/",
+                    "question": {
+                        "questionFrontendId": "3867",
+                        "title": "Sum of GCD of Formed Pairs",
+                        "titleSlug": "sum-of-gcd-of-formed-pairs"
+                    }
                 }
             ],
             "weeklyChallenges": [
