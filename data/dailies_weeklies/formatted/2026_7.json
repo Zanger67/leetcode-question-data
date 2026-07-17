@@ -161,6 +161,16 @@
                         "title": "Sum of GCD of Formed Pairs",
                         "titleSlug": "sum-of-gcd-of-formed-pairs"
                     }
+                },
+                {
+                    "date": "2026-07-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sorted-gcd-pair-queries/",
+                    "question": {
+                        "questionFrontendId": "3312",
+                        "title": "Sorted GCD Pair Queries",
+                        "titleSlug": "sorted-gcd-pair-queries"
+                    }
                 }
             ],
             "weeklyChallenges": [
