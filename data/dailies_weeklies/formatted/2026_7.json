@@ -171,6 +171,16 @@
                         "title": "Sorted GCD Pair Queries",
                         "titleSlug": "sorted-gcd-pair-queries"
                     }
+                },
+                {
+                    "date": "2026-07-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-greatest-common-divisor-of-array/",
+                    "question": {
+                        "questionFrontendId": "1979",
+                        "title": "Find Greatest Common Divisor of Array",
+                        "titleSlug": "find-greatest-common-divisor-of-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
