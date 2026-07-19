@@ -22838,5 +22838,15 @@
             "title": "Find Greatest Common Divisor of Array",
             "titleSlug": "find-greatest-common-divisor-of-array"
         }
+    },
+    "2026-07-19": {
+        "date": "2026-07-19",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-subsequence-of-distinct-characters/",
+        "question": {
+            "questionFrontendId": "1081",
+            "title": "Smallest Subsequence of Distinct Characters",
+            "titleSlug": "smallest-subsequence-of-distinct-characters"
+        }
     }
 }
