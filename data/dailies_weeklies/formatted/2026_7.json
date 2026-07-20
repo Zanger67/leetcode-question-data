@@ -191,6 +191,16 @@
                         "title": "Smallest Subsequence of Distinct Characters",
                         "titleSlug": "smallest-subsequence-of-distinct-characters"
                     }
+                },
+                {
+                    "date": "2026-07-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shift-2d-grid/",
+                    "question": {
+                        "questionFrontendId": "1260",
+                        "title": "Shift 2D Grid",
+                        "titleSlug": "shift-2d-grid"
+                    }
                 }
             ],
             "weeklyChallenges": [
