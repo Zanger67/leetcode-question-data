@@ -22868,5 +22868,15 @@
             "title": "Maximize Active Section with Trade I",
             "titleSlug": "maximize-active-section-with-trade-i"
         }
+    },
+    "2026-07-22": {
+        "date": "2026-07-22",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-active-section-with-trade-ii/",
+        "question": {
+            "questionFrontendId": "3501",
+            "title": "Maximize Active Section with Trade II",
+            "titleSlug": "maximize-active-section-with-trade-ii"
+        }
     }
 }

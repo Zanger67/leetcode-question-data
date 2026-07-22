@@ -211,6 +211,16 @@
                         "title": "Maximize Active Section with Trade I",
                         "titleSlug": "maximize-active-section-with-trade-i"
                     }
+                },
+                {
+                    "date": "2026-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximize-active-section-with-trade-ii/",
+                    "question": {
+                        "questionFrontendId": "3501",
+                        "title": "Maximize Active Section with Trade II",
+                        "titleSlug": "maximize-active-section-with-trade-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "320",
                         "title": "Generalized Abbreviation",
                         "titleSlug": "generalized-abbreviation",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-07-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/bold-words-in-string/",
+                    "question": {
+                        "questionFrontendId": "758",
+                        "title": "Bold Words in String",
+                        "titleSlug": "bold-words-in-string",
                         "isPaidOnly": true
                     }
                 }
