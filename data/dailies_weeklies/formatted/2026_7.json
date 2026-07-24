@@ -231,6 +231,16 @@
                         "title": "Number of Unique XOR Triplets I",
                         "titleSlug": "number-of-unique-xor-triplets-i"
                     }
+                },
+                {
+                    "date": "2026-07-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-unique-xor-triplets-ii/",
+                    "question": {
+                        "questionFrontendId": "3514",
+                        "title": "Number of Unique XOR Triplets II",
+                        "titleSlug": "number-of-unique-xor-triplets-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
