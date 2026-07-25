@@ -22898,5 +22898,15 @@
             "title": "Number of Unique XOR Triplets II",
             "titleSlug": "number-of-unique-xor-triplets-ii"
         }
+    },
+    "2026-07-25": {
+        "date": "2026-07-25",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-product-of-two-digits/",
+        "question": {
+            "questionFrontendId": "3536",
+            "title": "Maximum Product of Two Digits",
+            "titleSlug": "maximum-product-of-two-digits"
+        }
     }
 }
