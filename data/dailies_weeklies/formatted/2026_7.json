@@ -261,6 +261,16 @@
                         "title": "Maximum Product of Three Numbers",
                         "titleSlug": "maximum-product-of-three-numbers"
                     }
+                },
+                {
+                    "date": "2026-07-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-product-of-two-elements-in-an-array/",
+                    "question": {
+                        "questionFrontendId": "1464",
+                        "title": "Maximum Product of Two Elements in an Array",
+                        "titleSlug": "maximum-product-of-two-elements-in-an-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
