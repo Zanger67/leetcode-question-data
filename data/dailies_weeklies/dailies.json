@@ -22938,5 +22938,15 @@
             "title": "Smallest Palindromic Rearrangement I",
             "titleSlug": "smallest-palindromic-rearrangement-i"
         }
+    },
+    "2026-07-29": {
+        "date": "2026-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-palindromic-rearrangement-ii/",
+        "question": {
+            "questionFrontendId": "3518",
+            "title": "Smallest Palindromic Rearrangement II",
+            "titleSlug": "smallest-palindromic-rearrangement-ii"
+        }
     }
 }

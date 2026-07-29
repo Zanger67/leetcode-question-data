@@ -281,6 +281,16 @@
                         "title": "Smallest Palindromic Rearrangement I",
                         "titleSlug": "smallest-palindromic-rearrangement-i"
                     }
+                },
+                {
+                    "date": "2026-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-palindromic-rearrangement-ii/",
+                    "question": {
+                        "questionFrontendId": "3518",
+                        "title": "Smallest Palindromic Rearrangement II",
+                        "titleSlug": "smallest-palindromic-rearrangement-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "758",
                         "title": "Bold Words in String",
                         "titleSlug": "bold-words-in-string",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-07-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-word-with-all-prefixes/",
+                    "question": {
+                        "questionFrontendId": "1858",
+                        "title": "Longest Word With All Prefixes",
+                        "titleSlug": "longest-word-with-all-prefixes",
                         "isPaidOnly": true
                     }
                 }

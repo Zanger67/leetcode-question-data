@@ -3892,5 +3892,16 @@
             "titleSlug": "bold-words-in-string",
             "isPaidOnly": true
         }
+    },
+    "2026-07-29": {
+        "date": "2026-07-29",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-word-with-all-prefixes/",
+        "question": {
+            "questionFrontendId": "1858",
+            "title": "Longest Word With All Prefixes",
+            "titleSlug": "longest-word-with-all-prefixes",
+            "isPaidOnly": true
+        }
     }
 }
