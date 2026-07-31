@@ -22958,5 +22958,15 @@
             "title": "Minimum Number of Pushes to Type Word I",
             "titleSlug": "minimum-number-of-pushes-to-type-word-i"
         }
+    },
+    "2026-07-31": {
+        "date": "2026-07-31",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-pushes-to-type-word-ii/",
+        "question": {
+            "questionFrontendId": "3016",
+            "title": "Minimum Number of Pushes to Type Word II",
+            "titleSlug": "minimum-number-of-pushes-to-type-word-ii"
+        }
     }
 }
