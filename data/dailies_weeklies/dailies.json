@@ -22968,5 +22968,15 @@
             "title": "Minimum Number of Pushes to Type Word II",
             "titleSlug": "minimum-number-of-pushes-to-type-word-ii"
         }
+    },
+    "2026-08-01": {
+        "date": "2026-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/predict-the-winner/",
+        "question": {
+            "questionFrontendId": "486",
+            "title": "Predict the Winner",
+            "titleSlug": "predict-the-winner"
+        }
     }
 }

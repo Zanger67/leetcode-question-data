@@ -3903,5 +3903,16 @@
             "titleSlug": "longest-word-with-all-prefixes",
             "isPaidOnly": true
         }
+    },
+    "2026-08-01": {
+        "date": "2026-08-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-time-to-build-blocks/",
+        "question": {
+            "questionFrontendId": "1199",
+            "title": "Minimum Time to Build Blocks",
+            "titleSlug": "minimum-time-to-build-blocks",
+            "isPaidOnly": true
+        }
     }
 }
