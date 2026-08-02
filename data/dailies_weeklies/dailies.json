@@ -22978,5 +22978,15 @@
             "title": "Predict the Winner",
             "titleSlug": "predict-the-winner"
         }
+    },
+    "2026-08-02": {
+        "date": "2026-08-02",
+        "userStatus": "NotStart",
+        "link": "/problems/stone-game/",
+        "question": {
+            "questionFrontendId": "877",
+            "title": "Stone Game",
+            "titleSlug": "stone-game"
+        }
     }
 }
