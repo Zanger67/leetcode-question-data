@@ -22988,5 +22988,15 @@
             "title": "Stone Game",
             "titleSlug": "stone-game"
         }
+    },
+    "2026-08-03": {
+        "date": "2026-08-03",
+        "userStatus": "NotStart",
+        "link": "/problems/stone-game-iii/",
+        "question": {
+            "questionFrontendId": "1406",
+            "title": "Stone Game III",
+            "titleSlug": "stone-game-iii"
+        }
     }
 }
