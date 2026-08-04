@@ -31,6 +31,16 @@
                         "title": "Stone Game III",
                         "titleSlug": "stone-game-iii"
                     }
+                },
+                {
+                    "date": "2026-08-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-missing-elements/",
+                    "question": {
+                        "questionFrontendId": "3731",
+                        "title": "Find Missing Elements",
+                        "titleSlug": "find-missing-elements"
+                    }
                 }
             ],
             "weeklyChallenges": [
