@@ -23008,5 +23008,15 @@
             "title": "Find Missing Elements",
             "titleSlug": "find-missing-elements"
         }
+    },
+    "2026-08-05": {
+        "date": "2026-08-05",
+        "userStatus": "NotStart",
+        "link": "/problems/remove-methods-from-project/",
+        "question": {
+            "questionFrontendId": "3310",
+            "title": "Remove Methods From Project",
+            "titleSlug": "remove-methods-from-project"
+        }
     }
 }
