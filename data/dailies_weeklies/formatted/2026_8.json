@@ -61,6 +61,16 @@
                         "title": "Smallest Divisible Digit Product I",
                         "titleSlug": "smallest-divisible-digit-product-i"
                     }
+                },
+                {
+                    "date": "2026-08-07",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-divisible-digit-product-ii/",
+                    "question": {
+                        "questionFrontendId": "3348",
+                        "title": "Smallest Divisible Digit Product II",
+                        "titleSlug": "smallest-divisible-digit-product-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
