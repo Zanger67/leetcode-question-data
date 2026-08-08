@@ -23038,5 +23038,15 @@
             "title": "Smallest Divisible Digit Product II",
             "titleSlug": "smallest-divisible-digit-product-ii"
         }
+    },
+    "2026-08-08": {
+        "date": "2026-08-08",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-lexicographically-smallest-valid-sequence/",
+        "question": {
+            "questionFrontendId": "3302",
+            "title": "Find the Lexicographically Smallest Valid Sequence",
+            "titleSlug": "find-the-lexicographically-smallest-valid-sequence"
+        }
     }
 }

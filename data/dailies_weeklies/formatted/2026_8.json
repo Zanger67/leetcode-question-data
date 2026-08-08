@@ -71,6 +71,16 @@
                         "title": "Smallest Divisible Digit Product II",
                         "titleSlug": "smallest-divisible-digit-product-ii"
                     }
+                },
+                {
+                    "date": "2026-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-lexicographically-smallest-valid-sequence/",
+                    "question": {
+                        "questionFrontendId": "3302",
+                        "title": "Find the Lexicographically Smallest Valid Sequence",
+                        "titleSlug": "find-the-lexicographically-smallest-valid-sequence"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "1199",
                         "title": "Minimum Time to Build Blocks",
                         "titleSlug": "minimum-time-to-build-blocks",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-08-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-common-region/",
+                    "question": {
+                        "questionFrontendId": "1257",
+                        "title": "Smallest Common Region",
+                        "titleSlug": "smallest-common-region",
                         "isPaidOnly": true
                     }
                 }

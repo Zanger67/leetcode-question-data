@@ -3914,5 +3914,16 @@
             "titleSlug": "minimum-time-to-build-blocks",
             "isPaidOnly": true
         }
+    },
+    "2026-08-08": {
+        "date": "2026-08-08",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-common-region/",
+        "question": {
+            "questionFrontendId": "1257",
+            "title": "Smallest Common Region",
+            "titleSlug": "smallest-common-region",
+            "isPaidOnly": true
+        }
     }
 }
