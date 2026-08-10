@@ -91,6 +91,16 @@
                         "title": "Stone Game II",
                         "titleSlug": "stone-game-ii"
                     }
+                },
+                {
+                    "date": "2026-08-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-iv/",
+                    "question": {
+                        "questionFrontendId": "1510",
+                        "title": "Stone Game IV",
+                        "titleSlug": "stone-game-iv"
+                    }
                 }
             ],
             "weeklyChallenges": [
