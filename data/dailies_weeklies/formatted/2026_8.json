@@ -101,6 +101,16 @@
                         "title": "Stone Game IV",
                         "titleSlug": "stone-game-iv"
                     }
+                },
+                {
+                    "date": "2026-08-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+                    "question": {
+                        "questionFrontendId": "2996",
+                        "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+                        "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum"
+                    }
                 }
             ],
             "weeklyChallenges": [
