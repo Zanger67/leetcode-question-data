@@ -121,6 +121,16 @@
                         "title": "Length of Longest Subarray With at Most K Frequency",
                         "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency"
                     }
+                },
+                {
+                    "date": "2026-08-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-substring-of-one-repeating-character/",
+                    "question": {
+                        "questionFrontendId": "2213",
+                        "title": "Longest Substring of One Repeating Character",
+                        "titleSlug": "longest-substring-of-one-repeating-character"
+                    }
                 }
             ],
             "weeklyChallenges": [
