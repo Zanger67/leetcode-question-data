@@ -23098,5 +23098,15 @@
             "title": "Longest Substring of One Repeating Character",
             "titleSlug": "longest-substring-of-one-repeating-character"
         }
+    },
+    "2026-08-14": {
+        "date": "2026-08-14",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-length-substring-with-two-occurrences/",
+        "question": {
+            "questionFrontendId": "3090",
+            "title": "Maximum Length Substring With Two Occurrences",
+            "titleSlug": "maximum-length-substring-with-two-occurrences"
+        }
     }
 }
