@@ -3925,5 +3925,16 @@
             "titleSlug": "smallest-common-region",
             "isPaidOnly": true
         }
+    },
+    "2026-08-15": {
+        "date": "2026-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/range-sum-query-2d-mutable/",
+        "question": {
+            "questionFrontendId": "308",
+            "title": "Range Sum Query 2D - Mutable",
+            "titleSlug": "range-sum-query-2d-mutable",
+            "isPaidOnly": true
+        }
     }
 }

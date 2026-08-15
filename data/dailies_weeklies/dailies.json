@@ -23108,5 +23108,15 @@
             "title": "Maximum Length Substring With Two Occurrences",
             "titleSlug": "maximum-length-substring-with-two-occurrences"
         }
+    },
+    "2026-08-15": {
+        "date": "2026-08-15",
+        "userStatus": "NotStart",
+        "link": "/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+        "question": {
+            "questionFrontendId": "3702",
+            "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+            "titleSlug": "longest-subsequence-with-non-zero-bitwise-xor"
+        }
     }
 }
