@@ -151,6 +151,16 @@
                         "title": "Longest Subsequence With Non-Zero Bitwise XOR",
                         "titleSlug": "longest-subsequence-with-non-zero-bitwise-xor"
                     }
+                },
+                {
+                    "date": "2026-08-16",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-ix/",
+                    "question": {
+                        "questionFrontendId": "2029",
+                        "title": "Stone Game IX",
+                        "titleSlug": "stone-game-ix"
+                    }
                 }
             ],
             "weeklyChallenges": [
