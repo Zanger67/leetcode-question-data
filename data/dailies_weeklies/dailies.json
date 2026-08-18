@@ -23138,5 +23138,15 @@
             "title": "Stone Game V",
             "titleSlug": "stone-game-v"
         }
+    },
+    "2026-08-18": {
+        "date": "2026-08-18",
+        "userStatus": "NotStart",
+        "link": "/problems/find-the-largest-almost-missing-integer/",
+        "question": {
+            "questionFrontendId": "3471",
+            "title": "Find the Largest Almost Missing Integer",
+            "titleSlug": "find-the-largest-almost-missing-integer"
+        }
     }
 }
