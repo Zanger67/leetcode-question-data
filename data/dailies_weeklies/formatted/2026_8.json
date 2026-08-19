@@ -181,6 +181,16 @@
                         "title": "Find the Largest Almost Missing Integer",
                         "titleSlug": "find-the-largest-almost-missing-integer"
                     }
+                },
+                {
+                    "date": "2026-08-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/cinema-seat-allocation/",
+                    "question": {
+                        "questionFrontendId": "1386",
+                        "title": "Cinema Seat Allocation",
+                        "titleSlug": "cinema-seat-allocation"
+                    }
                 }
             ],
             "weeklyChallenges": [
