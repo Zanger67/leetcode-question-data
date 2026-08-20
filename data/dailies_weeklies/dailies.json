@@ -23158,5 +23158,15 @@
             "title": "Cinema Seat Allocation",
             "titleSlug": "cinema-seat-allocation"
         }
+    },
+    "2026-08-20": {
+        "date": "2026-08-20",
+        "userStatus": "NotStart",
+        "link": "/problems/distribute-elements-into-two-arrays-i/",
+        "question": {
+            "questionFrontendId": "3069",
+            "title": "Distribute Elements Into Two Arrays I",
+            "titleSlug": "distribute-elements-into-two-arrays-i"
+        }
     }
 }
