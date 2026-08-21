@@ -201,6 +201,16 @@
                         "title": "Distribute Elements Into Two Arrays I",
                         "titleSlug": "distribute-elements-into-two-arrays-i"
                     }
+                },
+                {
+                    "date": "2026-08-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/kth-smallest-amount-with-single-denomination-combination/",
+                    "question": {
+                        "questionFrontendId": "3116",
+                        "title": "Kth Smallest Amount With Single Denomination Combination",
+                        "titleSlug": "kth-smallest-amount-with-single-denomination-combination"
+                    }
                 }
             ],
             "weeklyChallenges": [
