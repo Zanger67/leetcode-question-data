@@ -211,6 +211,16 @@
                         "title": "Kth Smallest Amount With Single Denomination Combination",
                         "titleSlug": "kth-smallest-amount-with-single-denomination-combination"
                     }
+                },
+                {
+                    "date": "2026-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-divisibility-by-digit-sum-and-product/",
+                    "question": {
+                        "questionFrontendId": "3622",
+                        "title": "Check Divisibility by Digit Sum and Product",
+                        "titleSlug": "check-divisibility-by-digit-sum-and-product"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "308",
                         "title": "Range Sum Query 2D - Mutable",
                         "titleSlug": "range-sum-query-2d-mutable",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-08-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/android-unlock-patterns/",
+                    "question": {
+                        "questionFrontendId": "351",
+                        "title": "Android Unlock Patterns",
+                        "titleSlug": "android-unlock-patterns",
                         "isPaidOnly": true
                     }
                 }

@@ -3936,5 +3936,16 @@
             "titleSlug": "range-sum-query-2d-mutable",
             "isPaidOnly": true
         }
+    },
+    "2026-08-22": {
+        "date": "2026-08-22",
+        "userStatus": "NotStart",
+        "link": "/problems/android-unlock-patterns/",
+        "question": {
+            "questionFrontendId": "351",
+            "title": "Android Unlock Patterns",
+            "titleSlug": "android-unlock-patterns",
+            "isPaidOnly": true
+        }
     }
 }

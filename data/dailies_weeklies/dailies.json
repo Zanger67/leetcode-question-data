@@ -23178,5 +23178,15 @@
             "title": "Kth Smallest Amount With Single Denomination Combination",
             "titleSlug": "kth-smallest-amount-with-single-denomination-combination"
         }
+    },
+    "2026-08-22": {
+        "date": "2026-08-22",
+        "userStatus": "NotStart",
+        "link": "/problems/check-divisibility-by-digit-sum-and-product/",
+        "question": {
+            "questionFrontendId": "3622",
+            "title": "Check Divisibility by Digit Sum and Product",
+            "titleSlug": "check-divisibility-by-digit-sum-and-product"
+        }
     }
 }
