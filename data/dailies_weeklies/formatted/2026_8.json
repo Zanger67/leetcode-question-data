@@ -231,6 +231,16 @@
                         "title": "Sum Game",
                         "titleSlug": "sum-game"
                     }
+                },
+                {
+                    "date": "2026-08-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/stone-game-viii/",
+                    "question": {
+                        "questionFrontendId": "1872",
+                        "title": "Stone Game VIII",
+                        "titleSlug": "stone-game-viii"
+                    }
                 }
             ],
             "weeklyChallenges": [
