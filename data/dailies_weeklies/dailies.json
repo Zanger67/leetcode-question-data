@@ -23208,5 +23208,15 @@
             "title": "Stone Game VIII",
             "titleSlug": "stone-game-viii"
         }
+    },
+    "2026-08-25": {
+        "date": "2026-08-25",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-missing-multiple-of-k/",
+        "question": {
+            "questionFrontendId": "3718",
+            "title": "Smallest Missing Multiple of K",
+            "titleSlug": "smallest-missing-multiple-of-k"
+        }
     }
 }
