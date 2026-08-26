@@ -23218,5 +23218,15 @@
             "title": "Smallest Missing Multiple of K",
             "titleSlug": "smallest-missing-multiple-of-k"
         }
+    },
+    "2026-08-26": {
+        "date": "2026-08-26",
+        "userStatus": "NotStart",
+        "link": "/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+        "question": {
+            "questionFrontendId": "2904",
+            "title": "Shortest and Lexicographically Smallest Beautiful String",
+            "titleSlug": "shortest-and-lexicographically-smallest-beautiful-string"
+        }
     }
 }
