@@ -261,6 +261,16 @@
                         "title": "Shortest and Lexicographically Smallest Beautiful String",
                         "titleSlug": "shortest-and-lexicographically-smallest-beautiful-string"
                     }
+                },
+                {
+                    "date": "2026-08-27",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lexicographically-smallest-permutation-greater-than-target/",
+                    "question": {
+                        "questionFrontendId": "3720",
+                        "title": "Lexicographically Smallest Permutation Greater Than Target",
+                        "titleSlug": "lexicographically-smallest-permutation-greater-than-target"
+                    }
                 }
             ],
             "weeklyChallenges": [
