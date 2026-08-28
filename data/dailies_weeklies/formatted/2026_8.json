@@ -271,6 +271,16 @@
                         "title": "Lexicographically Smallest Permutation Greater Than Target",
                         "titleSlug": "lexicographically-smallest-permutation-greater-than-target"
                     }
+                },
+                {
+                    "date": "2026-08-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+                    "question": {
+                        "questionFrontendId": "3734",
+                        "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+                        "titleSlug": "lexicographically-smallest-palindromic-permutation-greater-than-target"
+                    }
                 }
             ],
             "weeklyChallenges": [
