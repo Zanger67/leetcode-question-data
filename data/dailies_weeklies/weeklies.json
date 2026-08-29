@@ -3947,5 +3947,16 @@
             "titleSlug": "android-unlock-patterns",
             "isPaidOnly": true
         }
+    },
+    "2026-08-29": {
+        "date": "2026-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/similar-rgb-color/",
+        "question": {
+            "questionFrontendId": "800",
+            "title": "Similar RGB Color",
+            "titleSlug": "similar-rgb-color",
+            "isPaidOnly": true
+        }
     }
 }

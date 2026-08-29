@@ -281,6 +281,16 @@
                         "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
                         "titleSlug": "lexicographically-smallest-palindromic-permutation-greater-than-target"
                     }
+                },
+                {
+                    "date": "2026-08-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+                    "question": {
+                        "questionFrontendId": "2948",
+                        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+                        "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -325,6 +335,17 @@
                         "questionFrontendId": "351",
                         "title": "Android Unlock Patterns",
                         "titleSlug": "android-unlock-patterns",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-08-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/similar-rgb-color/",
+                    "question": {
+                        "questionFrontendId": "800",
+                        "title": "Similar RGB Color",
+                        "titleSlug": "similar-rgb-color",
                         "isPaidOnly": true
                     }
                 }

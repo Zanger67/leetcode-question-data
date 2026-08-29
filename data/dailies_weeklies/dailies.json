@@ -23248,5 +23248,15 @@
             "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
             "titleSlug": "lexicographically-smallest-palindromic-permutation-greater-than-target"
         }
+    },
+    "2026-08-29": {
+        "date": "2026-08-29",
+        "userStatus": "NotStart",
+        "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+        "question": {
+            "questionFrontendId": "2948",
+            "title": "Make Lexicographically Smallest Array by Swapping Elements",
+            "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements"
+        }
     }
 }
