@@ -291,6 +291,16 @@
                         "title": "Make Lexicographically Smallest Array by Swapping Elements",
                         "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements"
                     }
+                },
+                {
+                    "date": "2026-08-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/removing-minimum-and-maximum-from-array/",
+                    "question": {
+                        "questionFrontendId": "2091",
+                        "title": "Removing Minimum and Maximum From Array",
+                        "titleSlug": "removing-minimum-and-maximum-from-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
