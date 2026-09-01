@@ -1,0 +1,31 @@
+{
+    "data": {
+        "dailyCodingChallengeV2": {
+            "challenges": [
+                {
+                    "date": "2026-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-moves-to-clean-the-classroom/",
+                    "question": {
+                        "questionFrontendId": "3568",
+                        "title": "Minimum Moves to Clean the Classroom",
+                        "titleSlug": "minimum-moves-to-clean-the-classroom"
+                    }
+                }
+            ],
+            "weeklyChallenges": [
+                {
+                    "date": "2026-09-01",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-books-you-can-take/",
+                    "question": {
+                        "questionFrontendId": "2355",
+                        "title": "Maximum Number of Books You Can Take",
+                        "titleSlug": "maximum-number-of-books-you-can-take",
+                        "isPaidOnly": true
+                    }
+                }
+            ]
+        }
+    }
+}
