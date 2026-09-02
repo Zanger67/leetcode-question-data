@@ -23288,5 +23288,15 @@
             "title": "Minimum Moves to Clean the Classroom",
             "titleSlug": "minimum-moves-to-clean-the-classroom"
         }
+    },
+    "2026-09-02": {
+        "date": "2026-09-02",
+        "userStatus": "NotStart",
+        "link": "/problems/construct-uniform-parity-array-i/",
+        "question": {
+            "questionFrontendId": "3875",
+            "title": "Construct Uniform Parity Array I",
+            "titleSlug": "construct-uniform-parity-array-i"
+        }
     }
 }
