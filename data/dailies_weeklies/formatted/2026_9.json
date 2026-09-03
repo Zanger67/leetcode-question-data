@@ -21,6 +21,16 @@
                         "title": "Construct Uniform Parity Array I",
                         "titleSlug": "construct-uniform-parity-array-i"
                     }
+                },
+                {
+                    "date": "2026-09-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/construct-uniform-parity-array-ii/",
+                    "question": {
+                        "questionFrontendId": "3876",
+                        "title": "Construct Uniform Parity Array II",
+                        "titleSlug": "construct-uniform-parity-array-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
