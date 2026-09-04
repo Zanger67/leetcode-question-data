@@ -23308,5 +23308,15 @@
             "title": "Construct Uniform Parity Array II",
             "titleSlug": "construct-uniform-parity-array-ii"
         }
+    },
+    "2026-09-04": {
+        "date": "2026-09-04",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-stable-index-i/",
+        "question": {
+            "questionFrontendId": "3903",
+            "title": "Smallest Stable Index I",
+            "titleSlug": "smallest-stable-index-i"
+        }
     }
 }
