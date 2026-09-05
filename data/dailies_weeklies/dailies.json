@@ -23318,5 +23318,15 @@
             "title": "Smallest Stable Index I",
             "titleSlug": "smallest-stable-index-i"
         }
+    },
+    "2026-09-05": {
+        "date": "2026-09-05",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-stable-index-ii/",
+        "question": {
+            "questionFrontendId": "3904",
+            "title": "Smallest Stable Index II",
+            "titleSlug": "smallest-stable-index-ii"
+        }
     }
 }
