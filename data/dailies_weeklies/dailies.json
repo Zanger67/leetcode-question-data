@@ -23338,5 +23338,15 @@
             "title": "Distinct Subsequences",
             "titleSlug": "distinct-subsequences"
         }
+    },
+    "2026-09-07": {
+        "date": "2026-09-07",
+        "userStatus": "NotStart",
+        "link": "/problems/distinct-subsequences-ii/",
+        "question": {
+            "questionFrontendId": "940",
+            "title": "Distinct Subsequences II",
+            "titleSlug": "distinct-subsequences-ii"
+        }
     }
 }
