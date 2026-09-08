@@ -3969,5 +3969,16 @@
             "titleSlug": "maximum-number-of-books-you-can-take",
             "isPaidOnly": true
         }
+    },
+    "2026-09-08": {
+        "date": "2026-09-08",
+        "userStatus": "NotStart",
+        "link": "/problems/high-five/",
+        "question": {
+            "questionFrontendId": "1086",
+            "title": "High Five",
+            "titleSlug": "high-five",
+            "isPaidOnly": true
+        }
     }
 }
