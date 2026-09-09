@@ -81,6 +81,16 @@
                         "title": "Count Commas in Range",
                         "titleSlug": "count-commas-in-range"
                     }
+                },
+                {
+                    "date": "2026-09-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-commas-in-range-ii/",
+                    "question": {
+                        "questionFrontendId": "3871",
+                        "title": "Count Commas in Range II",
+                        "titleSlug": "count-commas-in-range-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
