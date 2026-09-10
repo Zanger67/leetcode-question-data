@@ -23368,5 +23368,15 @@
             "title": "Count Commas in Range II",
             "titleSlug": "count-commas-in-range-ii"
         }
+    },
+    "2026-09-10": {
+        "date": "2026-09-10",
+        "userStatus": "NotStart",
+        "link": "/problems/count-nodes-equal-to-average-of-subtree/",
+        "question": {
+            "questionFrontendId": "2265",
+            "title": "Count Nodes Equal to Average of Subtree",
+            "titleSlug": "count-nodes-equal-to-average-of-subtree"
+        }
     }
 }
