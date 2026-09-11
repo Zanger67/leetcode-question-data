@@ -101,6 +101,16 @@
                         "title": "Count Nodes Equal to Average of Subtree",
                         "titleSlug": "count-nodes-equal-to-average-of-subtree"
                     }
+                },
+                {
+                    "date": "2026-09-11",
+                    "userStatus": "NotStart",
+                    "link": "/problems/unique-3-digit-even-numbers/",
+                    "question": {
+                        "questionFrontendId": "3483",
+                        "title": "Unique 3-Digit Even Numbers",
+                        "titleSlug": "unique-3-digit-even-numbers"
+                    }
                 }
             ],
             "weeklyChallenges": [
