@@ -23388,5 +23388,15 @@
             "title": "Unique 3-Digit Even Numbers",
             "titleSlug": "unique-3-digit-even-numbers"
         }
+    },
+    "2026-09-12": {
+        "date": "2026-09-12",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-score-of-non-overlapping-intervals/",
+        "question": {
+            "questionFrontendId": "3414",
+            "title": "Maximum Score of Non-overlapping Intervals",
+            "titleSlug": "maximum-score-of-non-overlapping-intervals"
+        }
     }
 }
