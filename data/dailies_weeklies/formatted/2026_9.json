@@ -121,6 +121,16 @@
                         "title": "Maximum Score of Non-overlapping Intervals",
                         "titleSlug": "maximum-score-of-non-overlapping-intervals"
                     }
+                },
+                {
+                    "date": "2026-09-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/image-overlap/",
+                    "question": {
+                        "questionFrontendId": "835",
+                        "title": "Image Overlap",
+                        "titleSlug": "image-overlap"
+                    }
                 }
             ],
             "weeklyChallenges": [
