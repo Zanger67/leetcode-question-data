@@ -131,6 +131,16 @@
                         "title": "Image Overlap",
                         "titleSlug": "image-overlap"
                     }
+                },
+                {
+                    "date": "2026-09-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/rectangle-overlap/",
+                    "question": {
+                        "questionFrontendId": "836",
+                        "title": "Rectangle Overlap",
+                        "titleSlug": "rectangle-overlap"
+                    }
                 }
             ],
             "weeklyChallenges": [
