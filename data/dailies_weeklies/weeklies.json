@@ -3980,5 +3980,16 @@
             "titleSlug": "high-five",
             "isPaidOnly": true
         }
+    },
+    "2026-09-15": {
+        "date": "2026-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/buildings-with-an-ocean-view/",
+        "question": {
+            "questionFrontendId": "1762",
+            "title": "Buildings With an Ocean View",
+            "titleSlug": "buildings-with-an-ocean-view",
+            "isPaidOnly": true
+        }
     }
 }

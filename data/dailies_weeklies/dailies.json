@@ -23418,5 +23418,15 @@
             "title": "Rectangle Overlap",
             "titleSlug": "rectangle-overlap"
         }
+    },
+    "2026-09-15": {
+        "date": "2026-09-15",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+        "question": {
+            "questionFrontendId": "2472",
+            "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+            "titleSlug": "maximum-number-of-non-overlapping-palindrome-substrings"
+        }
     }
 }
