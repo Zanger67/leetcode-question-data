@@ -23448,5 +23448,15 @@
             "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
             "titleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum"
         }
+    },
+    "2026-09-18": {
+        "date": "2026-09-18",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-non-overlapping-substrings/",
+        "question": {
+            "questionFrontendId": "1520",
+            "title": "Maximum Number of Non-Overlapping Substrings",
+            "titleSlug": "maximum-number-of-non-overlapping-substrings"
+        }
     }
 }
