@@ -23458,5 +23458,15 @@
             "title": "Maximum Number of Non-Overlapping Substrings",
             "titleSlug": "maximum-number-of-non-overlapping-substrings"
         }
+    },
+    "2026-09-19": {
+        "date": "2026-09-19",
+        "userStatus": "NotStart",
+        "link": "/problems/circle-and-rectangle-overlapping/",
+        "question": {
+            "questionFrontendId": "1401",
+            "title": "Circle and Rectangle Overlapping",
+            "titleSlug": "circle-and-rectangle-overlapping"
+        }
     }
 }
