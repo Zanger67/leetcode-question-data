@@ -23468,5 +23468,15 @@
             "title": "Circle and Rectangle Overlapping",
             "titleSlug": "circle-and-rectangle-overlapping"
         }
+    },
+    "2026-09-20": {
+        "date": "2026-09-20",
+        "userStatus": "NotStart",
+        "link": "/problems/reverse-degree-of-a-string/",
+        "question": {
+            "questionFrontendId": "3498",
+            "title": "Reverse Degree of a String",
+            "titleSlug": "reverse-degree-of-a-string"
+        }
     }
 }
