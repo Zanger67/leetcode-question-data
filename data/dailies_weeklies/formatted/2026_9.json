@@ -201,6 +201,16 @@
                         "title": "Reverse Degree of a String",
                         "titleSlug": "reverse-degree-of-a-string"
                     }
+                },
+                {
+                    "date": "2026-09-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-x-value-of-array-i/",
+                    "question": {
+                        "questionFrontendId": "3524",
+                        "title": "Find X Value of Array I",
+                        "titleSlug": "find-x-value-of-array-i"
+                    }
                 }
             ],
             "weeklyChallenges": [
