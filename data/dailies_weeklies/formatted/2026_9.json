@@ -211,6 +211,16 @@
                         "title": "Find X Value of Array I",
                         "titleSlug": "find-x-value-of-array-i"
                     }
+                },
+                {
+                    "date": "2026-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-x-value-of-array-ii/",
+                    "question": {
+                        "questionFrontendId": "3525",
+                        "title": "Find X Value of Array II",
+                        "titleSlug": "find-x-value-of-array-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1762",
                         "title": "Buildings With an Ocean View",
                         "titleSlug": "buildings-with-an-ocean-view",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-09-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/ip-to-cidr/",
+                    "question": {
+                        "questionFrontendId": "751",
+                        "title": "IP to CIDR",
+                        "titleSlug": "ip-to-cidr",
                         "isPaidOnly": true
                     }
                 }

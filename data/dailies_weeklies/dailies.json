@@ -23488,5 +23488,15 @@
             "title": "Find X Value of Array I",
             "titleSlug": "find-x-value-of-array-i"
         }
+    },
+    "2026-09-22": {
+        "date": "2026-09-22",
+        "userStatus": "NotStart",
+        "link": "/problems/find-x-value-of-array-ii/",
+        "question": {
+            "questionFrontendId": "3525",
+            "title": "Find X Value of Array II",
+            "titleSlug": "find-x-value-of-array-ii"
+        }
     }
 }
