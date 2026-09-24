@@ -231,6 +231,16 @@
                         "title": "Minimum Operations to Reduce X to Zero",
                         "titleSlug": "minimum-operations-to-reduce-x-to-zero"
                     }
+                },
+                {
+                    "date": "2026-09-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/smallest-index-with-digit-sum-equal-to-index/",
+                    "question": {
+                        "questionFrontendId": "3550",
+                        "title": "Smallest Index With Digit Sum Equal to Index",
+                        "titleSlug": "smallest-index-with-digit-sum-equal-to-index"
+                    }
                 }
             ],
             "weeklyChallenges": [
