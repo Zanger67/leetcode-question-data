@@ -251,6 +251,16 @@
                         "title": "Brace Expansion II",
                         "titleSlug": "brace-expansion-ii"
                     }
+                },
+                {
+                    "date": "2026-09-26",
+                    "userStatus": "NotStart",
+                    "link": "/problems/evaluate-the-bracket-pairs-of-a-string/",
+                    "question": {
+                        "questionFrontendId": "1807",
+                        "title": "Evaluate the Bracket Pairs of a String",
+                        "titleSlug": "evaluate-the-bracket-pairs-of-a-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
