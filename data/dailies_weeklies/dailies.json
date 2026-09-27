@@ -23538,5 +23538,15 @@
             "title": "Evaluate the Bracket Pairs of a String",
             "titleSlug": "evaluate-the-bracket-pairs-of-a-string"
         }
+    },
+    "2026-09-27": {
+        "date": "2026-09-27",
+        "userStatus": "NotStart",
+        "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/",
+        "question": {
+            "questionFrontendId": "1190",
+            "title": "Reverse Substrings Between Each Pair of Parentheses",
+            "titleSlug": "reverse-substrings-between-each-pair-of-parentheses"
+        }
     }
 }
