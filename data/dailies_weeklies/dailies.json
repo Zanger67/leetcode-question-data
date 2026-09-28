@@ -23548,5 +23548,15 @@
             "title": "Reverse Substrings Between Each Pair of Parentheses",
             "titleSlug": "reverse-substrings-between-each-pair-of-parentheses"
         }
+    },
+    "2026-09-28": {
+        "date": "2026-09-28",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-nesting-depth-of-the-parentheses/",
+        "question": {
+            "questionFrontendId": "1614",
+            "title": "Maximum Nesting Depth of the Parentheses",
+            "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+        }
     }
 }
