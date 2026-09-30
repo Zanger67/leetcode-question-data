@@ -291,6 +291,16 @@
                         "title": " Check if There Is a Valid Parentheses String Path",
                         "titleSlug": "check-if-there-is-a-valid-parentheses-string-path"
                     }
+                },
+                {
+                    "date": "2026-09-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+                    "question": {
+                        "questionFrontendId": "1111",
+                        "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+                        "titleSlug": "maximum-nesting-depth-of-two-valid-parentheses-strings"
+                    }
                 }
             ],
             "weeklyChallenges": [
