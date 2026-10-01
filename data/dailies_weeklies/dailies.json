@@ -23578,5 +23578,15 @@
             "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
             "titleSlug": "maximum-nesting-depth-of-two-valid-parentheses-strings"
         }
+    },
+    "2026-10-01": {
+        "date": "2026-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-parentheses/",
+        "question": {
+            "questionFrontendId": "20",
+            "title": "Valid Parentheses",
+            "titleSlug": "valid-parentheses"
+        }
     }
 }

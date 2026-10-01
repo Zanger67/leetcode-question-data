@@ -4013,5 +4013,16 @@
             "titleSlug": "web-crawler",
             "isPaidOnly": true
         }
+    },
+    "2026-10-01": {
+        "date": "2026-10-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-costs-using-the-train-line/",
+        "question": {
+            "questionFrontendId": "2361",
+            "title": "Minimum Costs Using the Train Line",
+            "titleSlug": "minimum-costs-using-the-train-line",
+            "isPaidOnly": true
+        }
     }
 }
