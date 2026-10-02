@@ -11,6 +11,16 @@
                         "title": "Valid Parentheses",
                         "titleSlug": "valid-parentheses"
                     }
+                },
+                {
+                    "date": "2026-10-02",
+                    "userStatus": "NotStart",
+                    "link": "/problems/generate-parentheses/",
+                    "question": {
+                        "questionFrontendId": "22",
+                        "title": "Generate Parentheses",
+                        "titleSlug": "generate-parentheses"
+                    }
                 }
             ],
             "weeklyChallenges": [
