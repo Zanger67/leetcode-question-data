@@ -21,6 +21,16 @@
                         "title": "Generate Parentheses",
                         "titleSlug": "generate-parentheses"
                     }
+                },
+                {
+                    "date": "2026-10-03",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-valid-parentheses/",
+                    "question": {
+                        "questionFrontendId": "32",
+                        "title": "Longest Valid Parentheses",
+                        "titleSlug": "longest-valid-parentheses"
+                    }
                 }
             ],
             "weeklyChallenges": [
