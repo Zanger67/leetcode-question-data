@@ -23608,5 +23608,15 @@
             "title": "Longest Valid Parentheses",
             "titleSlug": "longest-valid-parentheses"
         }
+    },
+    "2026-10-04": {
+        "date": "2026-10-04",
+        "userStatus": "NotStart",
+        "link": "/problems/valid-parenthesis-string/",
+        "question": {
+            "questionFrontendId": "678",
+            "title": "Valid Parenthesis String",
+            "titleSlug": "valid-parenthesis-string"
+        }
     }
 }
