@@ -41,6 +41,16 @@
                         "title": "Valid Parenthesis String",
                         "titleSlug": "valid-parenthesis-string"
                     }
+                },
+                {
+                    "date": "2026-10-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/score-of-parentheses/",
+                    "question": {
+                        "questionFrontendId": "856",
+                        "title": "Score of Parentheses",
+                        "titleSlug": "score-of-parentheses"
+                    }
                 }
             ],
             "weeklyChallenges": [
