@@ -23628,5 +23628,15 @@
             "title": "Score of Parentheses",
             "titleSlug": "score-of-parentheses"
         }
+    },
+    "2026-10-06": {
+        "date": "2026-10-06",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-add-to-make-parentheses-valid/",
+        "question": {
+            "questionFrontendId": "921",
+            "title": "Minimum Add to Make Parentheses Valid",
+            "titleSlug": "minimum-add-to-make-parentheses-valid"
+        }
     }
 }
