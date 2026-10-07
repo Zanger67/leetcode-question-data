@@ -23638,5 +23638,15 @@
             "title": "Minimum Add to Make Parentheses Valid",
             "titleSlug": "minimum-add-to-make-parentheses-valid"
         }
+    },
+    "2026-10-07": {
+        "date": "2026-10-07",
+        "userStatus": "NotStart",
+        "link": "/problems/remove-invalid-parentheses/",
+        "question": {
+            "questionFrontendId": "301",
+            "title": "Remove Invalid Parentheses",
+            "titleSlug": "remove-invalid-parentheses"
+        }
     }
 }
