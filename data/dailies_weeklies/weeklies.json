@@ -4024,5 +4024,16 @@
             "titleSlug": "minimum-costs-using-the-train-line",
             "isPaidOnly": true
         }
+    },
+    "2026-10-08": {
+        "date": "2026-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-cost-to-reach-city-with-discounts/",
+        "question": {
+            "questionFrontendId": "2093",
+            "title": "Minimum Cost to Reach City With Discounts",
+            "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+            "isPaidOnly": true
+        }
     }
 }

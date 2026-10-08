@@ -23648,5 +23648,15 @@
             "title": "Remove Invalid Parentheses",
             "titleSlug": "remove-invalid-parentheses"
         }
+    },
+    "2026-10-08": {
+        "date": "2026-10-08",
+        "userStatus": "NotStart",
+        "link": "/problems/remove-outermost-parentheses/",
+        "question": {
+            "questionFrontendId": "1021",
+            "title": "Remove Outermost Parentheses",
+            "titleSlug": "remove-outermost-parentheses"
+        }
     }
 }

@@ -71,6 +71,16 @@
                         "title": "Remove Invalid Parentheses",
                         "titleSlug": "remove-invalid-parentheses"
                     }
+                },
+                {
+                    "date": "2026-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/remove-outermost-parentheses/",
+                    "question": {
+                        "questionFrontendId": "1021",
+                        "title": "Remove Outermost Parentheses",
+                        "titleSlug": "remove-outermost-parentheses"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -82,6 +92,17 @@
                         "questionFrontendId": "2361",
                         "title": "Minimum Costs Using the Train Line",
                         "titleSlug": "minimum-costs-using-the-train-line",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-10-08",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-cost-to-reach-city-with-discounts/",
+                    "question": {
+                        "questionFrontendId": "2093",
+                        "title": "Minimum Cost to Reach City With Discounts",
+                        "titleSlug": "minimum-cost-to-reach-city-with-discounts",
                         "isPaidOnly": true
                     }
                 }
