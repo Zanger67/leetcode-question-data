@@ -81,6 +81,16 @@
                         "title": "Remove Outermost Parentheses",
                         "titleSlug": "remove-outermost-parentheses"
                     }
+                },
+                {
+                    "date": "2026-10-09",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-insertions-to-balance-a-parentheses-string/",
+                    "question": {
+                        "questionFrontendId": "1541",
+                        "title": "Minimum Insertions to Balance a Parentheses String",
+                        "titleSlug": "minimum-insertions-to-balance-a-parentheses-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
