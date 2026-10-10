@@ -91,6 +91,16 @@
                         "title": "Minimum Insertions to Balance a Parentheses String",
                         "titleSlug": "minimum-insertions-to-balance-a-parentheses-string"
                     }
+                },
+                {
+                    "date": "2026-10-10",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-sum-of-squared-difference/",
+                    "question": {
+                        "questionFrontendId": "2333",
+                        "title": "Minimum Sum of Squared Difference",
+                        "titleSlug": "minimum-sum-of-squared-difference"
+                    }
                 }
             ],
             "weeklyChallenges": [
