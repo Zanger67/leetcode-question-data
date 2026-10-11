@@ -23678,5 +23678,15 @@
             "title": "Minimum Sum of Squared Difference",
             "titleSlug": "minimum-sum-of-squared-difference"
         }
+    },
+    "2026-10-11": {
+        "date": "2026-10-11",
+        "userStatus": "NotStart",
+        "link": "/problems/sum-of-squares-of-special-elements/",
+        "question": {
+            "questionFrontendId": "2778",
+            "title": "Sum of Squares of Special Elements ",
+            "titleSlug": "sum-of-squares-of-special-elements"
+        }
     }
 }
