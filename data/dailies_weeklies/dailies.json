@@ -23688,5 +23688,15 @@
             "title": "Sum of Squares of Special Elements ",
             "titleSlug": "sum-of-squares-of-special-elements"
         }
+    },
+    "2026-10-12": {
+        "date": "2026-10-12",
+        "userStatus": "NotStart",
+        "link": "/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+        "question": {
+            "questionFrontendId": "2897",
+            "title": "Apply Operations on Array to Maximize Sum of Squares",
+            "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares"
+        }
     }
 }
