@@ -23708,5 +23708,15 @@
             "title": "Maximum Alternating Sum of Squares",
             "titleSlug": "maximum-alternating-sum-of-squares"
         }
+    },
+    "2026-10-14": {
+        "date": "2026-10-14",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-sum-of-squares-of-digits/",
+        "question": {
+            "questionFrontendId": "3723",
+            "title": "Maximize Sum of Squares of Digits",
+            "titleSlug": "maximize-sum-of-squares-of-digits"
+        }
     }
 }

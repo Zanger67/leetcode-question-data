@@ -4014,25 +4014,36 @@
             "isPaidOnly": true
         }
     },
-    "2026-10-01": {
-        "date": "2026-10-01",
+    "2026-09-27": {
+        "date": "2026-09-27",
         "userStatus": "NotStart",
-        "link": "/problems/minimum-costs-using-the-train-line/",
+        "link": "/problems/web-crawler/",
         "question": {
-            "questionFrontendId": "2361",
-            "title": "Minimum Costs Using the Train Line",
-            "titleSlug": "minimum-costs-using-the-train-line",
+            "questionFrontendId": "1236",
+            "title": "Web Crawler",
+            "titleSlug": "web-crawler",
             "isPaidOnly": true
         }
     },
-    "2026-10-08": {
-        "date": "2026-10-08",
+    "2026-10-04": {
+        "date": "2026-10-04",
         "userStatus": "NotStart",
         "link": "/problems/minimum-cost-to-reach-city-with-discounts/",
         "question": {
             "questionFrontendId": "2093",
             "title": "Minimum Cost to Reach City With Discounts",
             "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+            "isPaidOnly": true
+        }
+    },
+    "2026-10-11": {
+        "date": "2026-10-11",
+        "userStatus": "NotStart",
+        "link": "/problems/optimal-account-balancing/",
+        "question": {
+            "questionFrontendId": "465",
+            "title": "Optimal Account Balancing",
+            "titleSlug": "optimal-account-balancing",
             "isPaidOnly": true
         }
     }
