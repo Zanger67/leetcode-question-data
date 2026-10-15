@@ -23718,5 +23718,15 @@
             "title": "Maximize Sum of Squares of Digits",
             "titleSlug": "maximize-sum-of-squares-of-digits"
         }
+    },
+    "2026-10-15": {
+        "date": "2026-10-15",
+        "userStatus": "NotStart",
+        "link": "/problems/subarrays-distinct-element-sum-of-squares-i/",
+        "question": {
+            "questionFrontendId": "2913",
+            "title": "Subarrays Distinct Element Sum of Squares I",
+            "titleSlug": "subarrays-distinct-element-sum-of-squares-i"
+        }
     }
 }
