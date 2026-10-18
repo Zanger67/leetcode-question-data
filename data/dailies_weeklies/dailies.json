@@ -23748,5 +23748,15 @@
             "title": "Minimum Swaps to Sort by Digit Sum",
             "titleSlug": "minimum-swaps-to-sort-by-digit-sum"
         }
+    },
+    "2026-10-18": {
+        "date": "2026-10-18",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+        "question": {
+            "questionFrontendId": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst"
+        }
     }
 }

@@ -171,6 +171,16 @@
                         "title": "Minimum Swaps to Sort by Digit Sum",
                         "titleSlug": "minimum-swaps-to-sort-by-digit-sum"
                     }
+                },
+                {
+                    "date": "2026-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+                    "question": {
+                        "questionFrontendId": "1569",
+                        "title": "Number of Ways to Reorder Array to Get Same BST",
+                        "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -204,6 +214,17 @@
                         "questionFrontendId": "465",
                         "title": "Optimal Account Balancing",
                         "titleSlug": "optimal-account-balancing",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-10-18",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-to-get-food/",
+                    "question": {
+                        "questionFrontendId": "1730",
+                        "title": "Shortest Path to Get Food",
+                        "titleSlug": "shortest-path-to-get-food",
                         "isPaidOnly": true
                     }
                 }
