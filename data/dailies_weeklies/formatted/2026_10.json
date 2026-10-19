@@ -181,6 +181,16 @@
                         "title": "Number of Ways to Reorder Array to Get Same BST",
                         "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst"
                     }
+                },
+                {
+                    "date": "2026-10-19",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-target-indices-after-sorting-array/",
+                    "question": {
+                        "questionFrontendId": "2089",
+                        "title": "Find Target Indices After Sorting Array",
+                        "titleSlug": "find-target-indices-after-sorting-array"
+                    }
                 }
             ],
             "weeklyChallenges": [
