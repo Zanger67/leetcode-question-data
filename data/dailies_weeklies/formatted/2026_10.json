@@ -191,6 +191,16 @@
                         "title": "Find Target Indices After Sorting Array",
                         "titleSlug": "find-target-indices-after-sorting-array"
                     }
+                },
+                {
+                    "date": "2026-10-20",
+                    "userStatus": "NotStart",
+                    "link": "/problems/sum-of-sortable-integers/",
+                    "question": {
+                        "questionFrontendId": "3886",
+                        "title": "Sum of Sortable Integers",
+                        "titleSlug": "sum-of-sortable-integers"
+                    }
                 }
             ],
             "weeklyChallenges": [
