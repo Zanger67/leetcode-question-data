@@ -201,6 +201,16 @@
                         "title": "Sum of Sortable Integers",
                         "titleSlug": "sum-of-sortable-integers"
                     }
+                },
+                {
+                    "date": "2026-10-21",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-sort-a-string/",
+                    "question": {
+                        "questionFrontendId": "3863",
+                        "title": "Minimum Operations to Sort a String",
+                        "titleSlug": "minimum-operations-to-sort-a-string"
+                    }
                 }
             ],
             "weeklyChallenges": [
