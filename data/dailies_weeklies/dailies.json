@@ -23798,5 +23798,15 @@
             "title": "Minimum Operations to Sort a Permutation",
             "titleSlug": "minimum-operations-to-sort-a-permutation"
         }
+    },
+    "2026-10-23": {
+        "date": "2026-10-23",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-k-to-sort-a-permutation/",
+        "question": {
+            "questionFrontendId": "3644",
+            "title": "Maximum K to Sort a Permutation",
+            "titleSlug": "maximum-k-to-sort-a-permutation"
+        }
     }
 }
