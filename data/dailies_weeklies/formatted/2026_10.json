@@ -231,6 +231,16 @@
                         "title": "Maximum K to Sort a Permutation",
                         "titleSlug": "maximum-k-to-sort-a-permutation"
                     }
+                },
+                {
+                    "date": "2026-10-24",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-days-spent-together/",
+                    "question": {
+                        "questionFrontendId": "2409",
+                        "title": "Count Days Spent Together",
+                        "titleSlug": "count-days-spent-together"
+                    }
                 }
             ],
             "weeklyChallenges": [
