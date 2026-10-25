@@ -241,6 +241,16 @@
                         "title": "Count Days Spent Together",
                         "titleSlug": "count-days-spent-together"
                     }
+                },
+                {
+                    "date": "2026-10-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/number-of-closed-islands/",
+                    "question": {
+                        "questionFrontendId": "1254",
+                        "title": "Number of Closed Islands",
+                        "titleSlug": "number-of-closed-islands"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -285,6 +295,17 @@
                         "questionFrontendId": "1730",
                         "title": "Shortest Path to Get Food",
                         "titleSlug": "shortest-path-to-get-food",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-10-25",
+                    "userStatus": "NotStart",
+                    "link": "/problems/path-sum-iv/",
+                    "question": {
+                        "questionFrontendId": "666",
+                        "title": "Path Sum IV",
+                        "titleSlug": "path-sum-iv",
                         "isPaidOnly": true
                     }
                 }
