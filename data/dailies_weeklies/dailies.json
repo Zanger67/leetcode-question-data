@@ -23828,5 +23828,15 @@
             "title": "Number of Closed Islands",
             "titleSlug": "number-of-closed-islands"
         }
+    },
+    "2026-10-26": {
+        "date": "2026-10-26",
+        "userStatus": "NotStart",
+        "link": "/problems/count-islands-with-total-value-divisible-by-k/",
+        "question": {
+            "questionFrontendId": "3619",
+            "title": "Count Islands With Total Value Divisible by K",
+            "titleSlug": "count-islands-with-total-value-divisible-by-k"
+        }
     }
 }
