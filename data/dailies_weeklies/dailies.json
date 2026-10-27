@@ -23838,5 +23838,15 @@
             "title": "Count Islands With Total Value Divisible by K",
             "titleSlug": "count-islands-with-total-value-divisible-by-k"
         }
+    },
+    "2026-10-27": {
+        "date": "2026-10-27",
+        "userStatus": "NotStart",
+        "link": "/problems/create-grid-with-exactly-one-path/",
+        "question": {
+            "questionFrontendId": "3963",
+            "title": "Create Grid With Exactly One Path",
+            "titleSlug": "create-grid-with-exactly-one-path"
+        }
     }
 }
