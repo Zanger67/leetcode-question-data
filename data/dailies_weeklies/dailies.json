@@ -23848,5 +23848,15 @@
             "title": "Create Grid With Exactly One Path",
             "titleSlug": "create-grid-with-exactly-one-path"
         }
+    },
+    "2026-10-28": {
+        "date": "2026-10-28",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-xor-path-in-a-grid/",
+        "question": {
+            "questionFrontendId": "3882",
+            "title": "Minimum XOR Path in a Grid",
+            "titleSlug": "minimum-xor-path-in-a-grid"
+        }
     }
 }
