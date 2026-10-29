@@ -281,6 +281,16 @@
                         "title": "Minimum XOR Path in a Grid",
                         "titleSlug": "minimum-xor-path-in-a-grid"
                     }
+                },
+                {
+                    "date": "2026-10-29",
+                    "userStatus": "NotStart",
+                    "link": "/problems/palindromic-path-queries-in-a-tree/",
+                    "question": {
+                        "questionFrontendId": "3841",
+                        "title": "Palindromic Path Queries in a Tree",
+                        "titleSlug": "palindromic-path-queries-in-a-tree"
+                    }
                 }
             ],
             "weeklyChallenges": [
