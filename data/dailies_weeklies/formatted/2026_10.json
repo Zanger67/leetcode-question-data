@@ -291,6 +291,16 @@
                         "title": "Palindromic Path Queries in a Tree",
                         "titleSlug": "palindromic-path-queries-in-a-tree"
                     }
+                },
+                {
+                    "date": "2026-10-30",
+                    "userStatus": "NotStart",
+                    "link": "/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+                    "question": {
+                        "questionFrontendId": "3970",
+                        "title": "Shortest Path With At Most K Consecutive Identical Characters",
+                        "titleSlug": "shortest-path-with-at-most-k-consecutive-identical-characters"
+                    }
                 }
             ],
             "weeklyChallenges": [
