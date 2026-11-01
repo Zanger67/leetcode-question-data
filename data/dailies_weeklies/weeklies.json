@@ -4068,5 +4068,16 @@
             "titleSlug": "path-sum-iv",
             "isPaidOnly": true
         }
+    },
+    "2026-11-01": {
+        "date": "2026-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/lonely-pixel-i/",
+        "question": {
+            "questionFrontendId": "531",
+            "title": "Lonely Pixel I",
+            "titleSlug": "lonely-pixel-i",
+            "isPaidOnly": true
+        }
     }
 }

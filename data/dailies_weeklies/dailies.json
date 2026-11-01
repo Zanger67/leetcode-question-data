@@ -23888,5 +23888,15 @@
             "title": "Twisted Mirror Path Count",
             "titleSlug": "twisted-mirror-path-count"
         }
+    },
+    "2026-11-01": {
+        "date": "2026-11-01",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-moves-to-equal-array-elements/",
+        "question": {
+            "questionFrontendId": "453",
+            "title": "Minimum Moves to Equal Array Elements",
+            "titleSlug": "minimum-moves-to-equal-array-elements"
+        }
     }
 }
