@@ -23908,5 +23908,15 @@
             "title": "Minimum Moves to Equal Array Elements II",
             "titleSlug": "minimum-moves-to-equal-array-elements-ii"
         }
+    },
+    "2026-11-03": {
+        "date": "2026-11-03",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-moves-to-equal-array-elements-iii/",
+        "question": {
+            "questionFrontendId": "3736",
+            "title": "Minimum Moves to Equal Array Elements III",
+            "titleSlug": "minimum-moves-to-equal-array-elements-iii"
+        }
     }
 }
