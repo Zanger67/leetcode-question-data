@@ -31,6 +31,16 @@
                         "title": "Minimum Moves to Equal Array Elements III",
                         "titleSlug": "minimum-moves-to-equal-array-elements-iii"
                     }
+                },
+                {
+                    "date": "2026-11-04",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+                    "question": {
+                        "questionFrontendId": "3505",
+                        "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+                        "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal"
+                    }
                 }
             ],
             "weeklyChallenges": [
