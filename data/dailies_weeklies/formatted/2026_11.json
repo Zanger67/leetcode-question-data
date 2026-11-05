@@ -41,6 +41,16 @@
                         "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
                         "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal"
                     }
+                },
+                {
+                    "date": "2026-11-05",
+                    "userStatus": "NotStart",
+                    "link": "/problems/find-the-distance-value-between-two-arrays/",
+                    "question": {
+                        "questionFrontendId": "1385",
+                        "title": "Find the Distance Value Between Two Arrays",
+                        "titleSlug": "find-the-distance-value-between-two-arrays"
+                    }
                 }
             ],
             "weeklyChallenges": [
