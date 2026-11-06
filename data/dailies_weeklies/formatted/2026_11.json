@@ -51,6 +51,16 @@
                         "title": "Find the Distance Value Between Two Arrays",
                         "titleSlug": "find-the-distance-value-between-two-arrays"
                     }
+                },
+                {
+                    "date": "2026-11-06",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-zero-request-servers/",
+                    "question": {
+                        "questionFrontendId": "2747",
+                        "title": "Count Zero Request Servers",
+                        "titleSlug": "count-zero-request-servers"
+                    }
                 }
             ],
             "weeklyChallenges": [
