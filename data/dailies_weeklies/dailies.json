@@ -23948,5 +23948,15 @@
             "title": "Count Zero Request Servers",
             "titleSlug": "count-zero-request-servers"
         }
+    },
+    "2026-11-07": {
+        "date": "2026-11-07",
+        "userStatus": "NotStart",
+        "link": "/problems/process-tasks-using-servers/",
+        "question": {
+            "questionFrontendId": "1882",
+            "title": "Process Tasks Using Servers",
+            "titleSlug": "process-tasks-using-servers"
+        }
     }
 }
