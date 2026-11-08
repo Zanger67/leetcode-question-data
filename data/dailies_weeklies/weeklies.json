@@ -4079,5 +4079,16 @@
             "titleSlug": "lonely-pixel-i",
             "isPaidOnly": true
         }
+    },
+    "2026-11-08": {
+        "date": "2026-11-08",
+        "userStatus": "NotStart",
+        "link": "/problems/max-consecutive-ones-ii/",
+        "question": {
+            "questionFrontendId": "487",
+            "title": "Max Consecutive Ones II",
+            "titleSlug": "max-consecutive-ones-ii",
+            "isPaidOnly": true
+        }
     }
 }
