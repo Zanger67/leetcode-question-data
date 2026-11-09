@@ -23968,5 +23968,15 @@
             "title": "Count Servers that Communicate",
             "titleSlug": "count-servers-that-communicate"
         }
+    },
+    "2026-11-09": {
+        "date": "2026-11-09",
+        "userStatus": "NotStart",
+        "link": "/problems/find-servers-that-handled-most-number-of-requests/",
+        "question": {
+            "questionFrontendId": "1606",
+            "title": "Find Servers That Handled Most Number of Requests",
+            "titleSlug": "find-servers-that-handled-most-number-of-requests"
+        }
     }
 }
