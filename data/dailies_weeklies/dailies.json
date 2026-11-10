@@ -23978,5 +23978,15 @@
             "title": "Find Servers That Handled Most Number of Requests",
             "titleSlug": "find-servers-that-handled-most-number-of-requests"
         }
+    },
+    "2026-11-10": {
+        "date": "2026-11-10",
+        "userStatus": "NotStart",
+        "link": "/problems/climbing-stairs-ii/",
+        "question": {
+            "questionFrontendId": "3693",
+            "title": "Climbing Stairs II",
+            "titleSlug": "climbing-stairs-ii"
+        }
     }
 }
