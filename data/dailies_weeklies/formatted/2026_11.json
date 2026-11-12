@@ -111,6 +111,16 @@
                         "title": "Minimum Cost to Acquire Required Items",
                         "titleSlug": "minimum-cost-to-acquire-required-items"
                     }
+                },
+                {
+                    "date": "2026-11-12",
+                    "userStatus": "NotStart",
+                    "link": "/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+                    "question": {
+                        "questionFrontendId": "3105",
+                        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+                        "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray"
+                    }
                 }
             ],
             "weeklyChallenges": [
