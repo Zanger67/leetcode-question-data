@@ -121,6 +121,16 @@
                         "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
                         "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray"
                     }
+                },
+                {
+                    "date": "2026-11-13",
+                    "userStatus": "NotStart",
+                    "link": "/problems/count-non-decreasing-subarrays-after-k-operations/",
+                    "question": {
+                        "questionFrontendId": "3420",
+                        "title": "Count Non-Decreasing Subarrays After K Operations",
+                        "titleSlug": "count-non-decreasing-subarrays-after-k-operations"
+                    }
                 }
             ],
             "weeklyChallenges": [
