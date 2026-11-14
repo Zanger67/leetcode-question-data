@@ -131,6 +131,16 @@
                         "title": "Count Non-Decreasing Subarrays After K Operations",
                         "titleSlug": "count-non-decreasing-subarrays-after-k-operations"
                     }
+                },
+                {
+                    "date": "2026-11-14",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-positive-sum-subarray/",
+                    "question": {
+                        "questionFrontendId": "3364",
+                        "title": "Minimum Positive Sum Subarray ",
+                        "titleSlug": "minimum-positive-sum-subarray"
+                    }
                 }
             ],
             "weeklyChallenges": [
