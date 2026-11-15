@@ -24028,5 +24028,15 @@
             "title": "Minimum Positive Sum Subarray ",
             "titleSlug": "minimum-positive-sum-subarray"
         }
+    },
+    "2026-11-15": {
+        "date": "2026-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/number-of-sub-arrays-with-odd-sum/",
+        "question": {
+            "questionFrontendId": "1524",
+            "title": "Number of Sub-arrays With Odd Sum",
+            "titleSlug": "number-of-sub-arrays-with-odd-sum"
+        }
     }
 }

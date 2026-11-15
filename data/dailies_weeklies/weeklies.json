@@ -4090,5 +4090,16 @@
             "titleSlug": "max-consecutive-ones-ii",
             "isPaidOnly": true
         }
+    },
+    "2026-11-15": {
+        "date": "2026-11-15",
+        "userStatus": "NotStart",
+        "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/",
+        "question": {
+            "questionFrontendId": "1644",
+            "title": "Lowest Common Ancestor of a Binary Tree II",
+            "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+            "isPaidOnly": true
+        }
     }
 }
