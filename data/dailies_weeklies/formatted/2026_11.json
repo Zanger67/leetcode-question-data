@@ -161,6 +161,16 @@
                         "title": "Calculate Digit Sum of a String",
                         "titleSlug": "calculate-digit-sum-of-a-string"
                     }
+                },
+                {
+                    "date": "2026-11-17",
+                    "userStatus": "NotStart",
+                    "link": "/problems/minimum-changes-to-make-k-semi-palindromes/",
+                    "question": {
+                        "questionFrontendId": "2911",
+                        "title": "Minimum Changes to Make K Semi-palindromes",
+                        "titleSlug": "minimum-changes-to-make-k-semi-palindromes"
+                    }
                 }
             ],
             "weeklyChallenges": [
