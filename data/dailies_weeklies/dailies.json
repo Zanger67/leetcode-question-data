@@ -24058,5 +24058,15 @@
             "title": "Minimum Changes to Make K Semi-palindromes",
             "titleSlug": "minimum-changes-to-make-k-semi-palindromes"
         }
+    },
+    "2026-11-18": {
+        "date": "2026-11-18",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+        "question": {
+            "questionFrontendId": "2914",
+            "title": "Minimum Number of Changes to Make Binary String Beautiful",
+            "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful"
+        }
     }
 }
