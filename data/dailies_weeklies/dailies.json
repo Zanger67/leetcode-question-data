@@ -24068,5 +24068,15 @@
             "title": "Minimum Number of Changes to Make Binary String Beautiful",
             "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful"
         }
+    },
+    "2026-11-19": {
+        "date": "2026-11-19",
+        "userStatus": "NotStart",
+        "link": "/problems/minimum-score-by-changing-two-elements/",
+        "question": {
+            "questionFrontendId": "2567",
+            "title": "Minimum Score by Changing Two Elements",
+            "titleSlug": "minimum-score-by-changing-two-elements"
+        }
     }
 }
