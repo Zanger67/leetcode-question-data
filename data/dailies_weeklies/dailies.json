@@ -24078,5 +24078,15 @@
             "title": "Minimum Score by Changing Two Elements",
             "titleSlug": "minimum-score-by-changing-two-elements"
         }
+    },
+    "2026-11-20": {
+        "date": "2026-11-20",
+        "userStatus": "NotStart",
+        "link": "/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+        "question": {
+            "questionFrontendId": "3041",
+            "title": "Maximize Consecutive Elements in an Array After Modification",
+            "titleSlug": "maximize-consecutive-elements-in-an-array-after-modification"
+        }
     }
 }
