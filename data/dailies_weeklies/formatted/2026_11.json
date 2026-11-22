@@ -211,6 +211,16 @@
                         "title": "Find Subtree Sizes After Changes",
                         "titleSlug": "find-subtree-sizes-after-changes"
                     }
+                },
+                {
+                    "date": "2026-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/check-if-all-as-appears-before-all-bs/",
+                    "question": {
+                        "questionFrontendId": "2124",
+                        "title": "Check if All A's Appears Before All B's",
+                        "titleSlug": "check-if-all-as-appears-before-all-bs"
+                    }
                 }
             ],
             "weeklyChallenges": [
@@ -244,6 +254,17 @@
                         "questionFrontendId": "1644",
                         "title": "Lowest Common Ancestor of a Binary Tree II",
                         "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+                        "isPaidOnly": true
+                    }
+                },
+                {
+                    "date": "2026-11-22",
+                    "userStatus": "NotStart",
+                    "link": "/problems/correct-a-binary-tree/",
+                    "question": {
+                        "questionFrontendId": "1660",
+                        "title": "Correct a Binary Tree",
+                        "titleSlug": "correct-a-binary-tree",
                         "isPaidOnly": true
                     }
                 }

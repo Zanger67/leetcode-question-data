@@ -4101,5 +4101,16 @@
             "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
             "isPaidOnly": true
         }
+    },
+    "2026-11-22": {
+        "date": "2026-11-22",
+        "userStatus": "NotStart",
+        "link": "/problems/correct-a-binary-tree/",
+        "question": {
+            "questionFrontendId": "1660",
+            "title": "Correct a Binary Tree",
+            "titleSlug": "correct-a-binary-tree",
+            "isPaidOnly": true
+        }
     }
 }
