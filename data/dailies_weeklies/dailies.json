@@ -24128,5 +24128,15 @@
             "title": "Maximum Subarray With Equal Products",
             "titleSlug": "maximum-subarray-with-equal-products"
         }
+    },
+    "2026-11-25": {
+        "date": "2026-11-25",
+        "userStatus": "NotStart",
+        "link": "/problems/smallest-unique-subarray/",
+        "question": {
+            "questionFrontendId": "3934",
+            "title": "Smallest Unique Subarray",
+            "titleSlug": "smallest-unique-subarray"
+        }
     }
 }
