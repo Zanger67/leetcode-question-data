@@ -24138,5 +24138,15 @@
             "title": "Smallest Unique Subarray",
             "titleSlug": "smallest-unique-subarray"
         }
+    },
+    "2026-11-26": {
+        "date": "2026-11-26",
+        "userStatus": "NotStart",
+        "link": "/problems/stone-removal-game/",
+        "question": {
+            "questionFrontendId": "3360",
+            "title": "Stone Removal Game",
+            "titleSlug": "stone-removal-game"
+        }
     }
 }
