@@ -24148,5 +24148,15 @@
             "title": "Stone Removal Game",
             "titleSlug": "stone-removal-game"
         }
+    },
+    "2026-11-27": {
+        "date": "2026-11-27",
+        "userStatus": "NotStart",
+        "link": "/problems/maximum-number-of-items-from-sale-i/",
+        "question": {
+            "questionFrontendId": "3946",
+            "title": "Maximum Number of Items From Sale I",
+            "titleSlug": "maximum-number-of-items-from-sale-i"
+        }
     }
 }
