@@ -271,6 +271,16 @@
                         "title": "Maximum Number of Items From Sale I",
                         "titleSlug": "maximum-number-of-items-from-sale-i"
                     }
+                },
+                {
+                    "date": "2026-11-28",
+                    "userStatus": "NotStart",
+                    "link": "/problems/maximum-number-of-items-from-sale-ii/",
+                    "question": {
+                        "questionFrontendId": "3947",
+                        "title": "Maximum Number of Items From Sale II",
+                        "titleSlug": "maximum-number-of-items-from-sale-ii"
+                    }
                 }
             ],
             "weeklyChallenges": [
